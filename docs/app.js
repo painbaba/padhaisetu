@@ -197,12 +197,12 @@
     bubble(query, true);
     // smart filter: only constrain subject if the query clearly matches it; SST/history/civics/geo queries search across subjects
     const q = query.toLowerCase();
-    const sstHint = /(1857|revolt|constitution|democra|resource|geograph|history|civics|nation|freedom|संविधान|क्रांति|इतिहास|नागरिक|संसाधन|भूगोल|राजनीति)/i.test(query);
-    let subj = S.subject;
-    if (sstHint) subj = (/(algebra|equation|number|geometry|trigon|गणित|बीजगणित|त्रिकोण)/i.test(query)) ? subj : "social science";
-    if (/^(explain|समझाइए|kya|क्या)/i.test(q) && !subj) subj = null;
-    // try filtered first, fall back to unfiltered if weak
-    let hits = bm25(query, S.grade || null, subj);
+    const mathsHint = /(algebra|equation|number|geometry|trigon|probability|matrix|गणित|बीजगणित|त्रिकोण|प्रायिकता)/i.test(query);
+    let subj = null, cls = null;
+    if (mathsHint || !sstTest(query)) { subj = S.subject; cls = S.grade; }
+    else { subj = /science|विज्ञान|physics|chemistry|biology/i.test(query) ? "science" : null; }
+    function sstTest(str){ return /(1857|revolt|constitution|democra|resource|geograph|history|civics|nation|freedom|colonial|संविधान|क्रांति|इतिहास|नागरिक|संसाधन|भूगोल|राजनीति|उपनिवेश)/i.test(str); }
+    let hits = bm25(query, cls, subj);
     if (!hits.length) return say(T("माफ़ कीजिए, इस विषय पर सामग्री नहीं मिली।", "Sorry, no grounded content found for that."));
     hits.forEach((h) => {
       say(h.t.slice(0, 380) + "…", "", "📚 स्रोत/Source: " + h.src);
