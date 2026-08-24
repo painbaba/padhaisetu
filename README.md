@@ -1,9 +1,11 @@
 # PadhaiSetu (पढ़ाई सेतु) — Adaptive Vernacular Tutor for MP Board
 
 A WhatsApp-style adaptive practice tutor for **MP Board class 8–10 Maths & Science**, in
-**Hindi (default) and English**. A student chats: gets a short diagnostic quiz, then daily
-practice sets of 5 MCQs that target their weakest sub-skills using a knowledge-graph mastery
-model. Wrong answers trigger prerequisite remediation — the engine walks down the topic graph
+**Hindi (default) and English**, aligned with the **official MPBSE 2026 sample papers**
+(class-10 sets follow the real board shape: objective section first, then 2/3/4-mark
+questions with OR alternatives). A student chats: gets a short diagnostic quiz, then daily
+practice that targets their weakest sub-skills using a knowledge-graph mastery model.
+Wrong answers trigger prerequisite remediation — the engine walks down the topic graph
 and rebuilds fundamentals before climbing back. Parents get a weekly Hindi progress report.
 
 **No LLM in the critical path** — the adaptive engine is deterministic and fully unit-tested.
@@ -38,7 +40,7 @@ python data/seed.py
 ## Tests
 
 ```bash
-python -m pytest tests/ -q     # 45 tests: engine math, walker, flows, channels, dashboard
+python -m pytest tests/ -q     # 53 tests: engine math, walker, flows, channels, dashboard, board pattern
 ```
 
 ## Regenerate / extend the question banks
@@ -49,9 +51,14 @@ python data/gen_math.py --seed 42   # parametric generator -> data/qbank/maths_*
 
 30 templates × 12 variants across classes 8–10 (rationals ops, linear/quadratic equations,
 squares/cubes, percentages, mensuration, exponents, direct/inverse proportion, factorisation,
-polynomials, AP, trigonometry, coordinate geometry, statistics, probability). Science banks are
-curated static bilingual MCQs (`science_{8,9,10}.json`). Every question carries a hint and a
-2-line solution in **both** languages.
+polynomials, AP, trigonometry, coordinate geometry, statistics, probability), **plus class-10
+board-pattern sets shaped like the official MPBSE 2026 sample papers** (`data/pyqs/paper2026_*`):
+per set — 5 objective items (MCQ / fill-in-blank / true-false), then 12×2-mark, 3×3-mark and
+3×4-mark questions, every 3/4-mark slot carrying an अथवा/OR alternative sibling. Bilingual
+phrasing mirrors the papers (सही विकल्प चुनकर लिखिए / रिक्त स्थानों की पूर्ति कीजिए /
+मान ज्ञात कीजिए …) with fully parametric numbers. Science banks are curated static bilingual
+MCQs (`science_{8,9,10}.json`). Every question carries a hint and a 2-line solution in
+**both** languages.
 
 ## How the engine works
 
