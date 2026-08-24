@@ -126,6 +126,7 @@ window.PS_DATA={"strings":{"hi":{"greet_first":"नमस्ते! मैं �
       "भाषा चुनिए:\n1) हिंदी\n2) English");
   }
   function onb(input) {
+    if (S.grade) return chooseSubject(input);
     if (!S.lang) {
       S.lang = input.trim().startsWith("1") ? "hi" : input.trim().startsWith("2") ? "en" : null;
       if (!S.lang) return say(T("कृपया 1 या 2 भेजिए।", "Please send 1 or 2."));
