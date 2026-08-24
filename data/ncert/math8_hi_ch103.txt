@@ -1,0 +1,715 @@
+prqHkqZtksa dks le>uk   21
+3.1  Hkwfedk
+vki tkurs gSa fd dkx”k] lery dk ,d izfr:i gSA tc vki dkx”k ls isafly dks gVk,
+fcuk ¯cnqvksa dks vkil esa tksM+rs gSa (vosQys ¯cnqvksa dks NksM+dj vko`Qfr osQ fdlh Hkh Hkkx
+dks vuqjsf[kr fd, fcuk) rks vki ,d leryh; oØ izkIr djrs gaSA
+osQoy js[kk[kaMksa ls cuk ljy can oØ cgqHkqt dgykrk gSA
+3.1.1  mÙky vkSj vory cgqHkqt
+;gk¡ ij oqQN mÙky (convex) cgqHkqt vkSj oqQN vory (cocave) cgqHkqt fn, x, gaS% (vko`Qfr 3-1)
+prqHkqZtksa dks le>uk
+vè;k;
+3
+vko`Qfr 3.1
+D;k vki crk ldrs gaS fd bl izdkj osQ cgqHkqt ,d nwljs ls vyx D;ksa gSa\ tks cgqHkqt
+mÙky gksrs gSa muosQ fod.kks± dk dksbZ Hkh Hkkx cfgHkkZx esa ugha gksrk gSA ;k cgqHkqt OksQ vH;arj
+esa fdUgha nks fcanqvksa dks feykus okyk js[kk[k.M iw.kZr;k cgqHkqt OksQ vH;arj esa fLFkr gksrk gSA
+D;k ;g vory cgqHkqtksa osQ fy, Hkh lR; gksrk gS\ nh xbZ vko`Qfr;ksa dk vè;;u dhft,A
+rnqijkar vius 'kCnksa esa mÙky cgqHkqt rFkk vory cgqHkqt le>kus dk iz;kl dhft,A izR;sd
+izdkj dh nks vko`Qfr;k¡ cukb,A bl d{kk esa ge osQoy mÙky cgqHkqtksa osQ ckjs esa vè;;u
+djsaxsA
+2024-25
+
+22 
+ xf.kr
+3.1.2  le rFkk fo"ke cgqHkqt (Regular and Irregular Polygons)
+,d le cgqHkqt] leHkqt rFkk ledksf.kd gksrk gSA mnkgj.kkFkZ] ,d oxZ esa Hkqtk,¡ rFkk dks.k
+cjkcj eki osQ gksrs gSaA blfy, ;g ,d le cgqHkqt gSA ,d vk;r ledksf.kd rks gksrk gS ijarq
+leHkqt ugha gksrk gSA D;k ,d vk;r ,d le cgqHkqt gS\ D;k ,d leckgq f=kHkqt ,d le
+cgqHkqt gS\ D;ksa\
+le cgqHkqt (Regular
+polygons)
+fo"ke cgqHkqt (Irregular polygons)
+[laosQr % 
+ ;k 
+ dk mi;ksx cjkcj yackbZ okys js[kk[kaMksa dks n'kkZrk gS]
+fiNyh d{kkvksa esa] D;k vki fdlh ,sls prqHkqZt osQ ckjs esa i<+k gS tks leHkqt rks gks ijarq
+ledksf.kd u gks\ fiNyh d{kkvksa esa ns[ks x, prqHkqZtksa dh vko`Qfr;ksa dk Lej.k dhft, tSls
+vk;r] oxZ] le prqHkqZt bR;kfnA
+D;k dksbZ ,slk f=kHkqt gS tks leHkqt rks gks ijarq ledksf.kd u gks\
+iz'ukoyh 3.1
+1. ;gk¡ ij oqQN vko`Qfr;k¡ nh xbZ gSa %
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+(vii)
+(viii)
+izR;sd dk oxhZdj.k fuEufyf[kr vk/kj ij dhft, %
+(a) lk/kj.k oØ
+(b) lk/kj.k can oØ
+(c) cgqHkqt
+(d) mÙky cgqHkqt
+(e) vory cgqHkqt
+2024-25
+
+prqHkqZtksa dks le>uk   23
+iz;kl dhft,
+vko`Qfr 3.4
+vko`Qfr 3.2
+2. le cgqHkqt D;k gS\
+,d le cgqHkqt dk uke crkb, ftlesa
+(i) 3 Hkqtk,¡
+(ii) 4 Hkqtk,¡
+(iii) 6 Hkqtk,¡ gksaA
+3.2  ,d cgqHkqt osQ cká dks.kksa dh ekiksa dk ;ksx
+dbZ voljksa ij cká dks.kksa dh tkudkjh var% dks.kksa vkSj Hkqtkvksa dh izo`Qfr ij izdk'k Mkyrh gSA
+,d pkWd osQ VqdM+s ls iQ'kZ ij ,d cgqHkqt cukb,A (vko`Qfr esa] ,d
+iapHkqt ABCDE n'kkZ;k x;k gS ) (vko`Qfr 3.2)A ge lHkh dks.kksa osQ
+ekiksa dk ;ksx tkuuk pkgrs gSa] vFkkZr~ m∠1 + m∠2 + m∠3 + m∠4
++ m∠5 gSA  A ls vkjaHk dhft, vkSj AB osQ vuqfn'k pfy,A B ij
+igq¡pus osQ mijkar] vkidks dks.k m∠1 ij ?kweus dh vko';drk gS
+ftlls vki BC osQ vuqfn'k py losaQA C ij igq¡pus osQ mijkar, CD
+osQ vuqfn'k pyus osQ fy, vkidks m∠2 ij ?kweus dh vko';drk gSA
+vki blh rjhosQ ls pyuk tkjh j[kas tc rd vki A ij ugha igq¡p tkrsA okLro esa] bl
+rjg ls vkius ,d iwjk pDdj ?kwe fy;k gSA
+blfy,,  m∠1 + m∠2 + m∠3 + m∠4 + m∠5  = 360° gSA
+,d cgqHkqt dh pkgs fdruh Hkh Hkqtk,¡ gksa mu lcosQ fy, ;g lgh gSA
+vr% fdlh cgqHkqt osQ cká dks.kksa osQ ekiksa dk ;ksx 360° gksrk gSA
+mnkgj.k 1 : vko`Qfr 3-3 esa eki x Kkr dhft,A
+gy :
+x + 90° + 50° + 110° = 360°      (D;ksa ?)
+x + 250° = 360°
+x = 110°
+,d le "kM~Hkqt yhft, (vko`Qfr 3.4)A
+(i) cká dks.kksa x, y, z, p, q rFkk  r osQ ekiksa dk ;ksx D;k gS\
+(ii) D;k x = y = z = p = q = r gS? D;ksa?
+(iii) izR;sd dk eki D;k gS?
+(i) cká dks.k
+(ii) var% dks.k
+(iv) bl fØ;kdyki dks fuEufyf[kr osQ fy, nksgjk,¡
+(i) ,d le v"VHkqt
+(ii) ,d le 20 Hkqt
+bUgsa dhft,
+vko`Qfr 3.3
+2024-25
+
+24 
+ xf.kr
+mnkgj.k  2 :  ,d le cgqHkqt dh Hkqtkvksa dh la[;k Kkr dhft, ftlosQ izR;sd cká dks.k
+dk eki 45° gSA
+gy : lHkh cká dks.kksa dh oqQy eki = 360°
+izR;sd cká dks.k dk eki = 45°
+blfy,] cká dks.kksa dh la[;k = 360
+45 = 8
+vr% cgqHkqt dh 8 Hkqtk,¡ gSaA
+iz'ukoyh 3.2
+1. fuEufyf[kr vko`Qfr;ksa esa x dk eku Kkr dhft, %
+(a)
+(b)
+2. ,d le cgqHkqt osQ izR;sd cká dks.k dk eki Kkr dhft, ftldh
+(i) 9 Hkqtk,¡
+(ii) 15 Hkqtk,¡ gksaA
+3. ,d le cgqHkqt dh fdruh Hkqtk,¡ gkasxh ;fn ,d cká dks.k dk eki 24° gks?
+4. ,d le cgqHkqt dh Hkqtkvksa dh la[;k Kkr dhft, ;fn bldk izR;sd var%dks.k 165°
+dk gks?
+5. (a) D;k ,slk le cgqHkqt laHko gS ftlosQ izR;sd cká dks.k dk eki 22° gks?
+(b) D;k ;g fdlh le cgqHkqt dk var%dks.k gks ldrk gS\ D;ksa\
+6. (a) fdlh le cgqHkqt esa de ls de fdrus va'k dk var%dks.k laHko gS\ D;ksa\
+(b) fdlh le cgqHkqt esa vf/d ls vf/d fdrus va'k dk cká dks.k laHko gS\
+3.3  prqHkqZtksa osQ izdkj
+,d prqHkqZt dh Hkqtkvksa o dks.kksa dh izo`Qfr osQ vk/kj ij bls fo'ks"k uke fn, tkrs gSaA
+3.3.1  leyac
+leyac ,d ,slk prqHkqZt gksrk gS ftlesa Hkqtkvksa dk ,d ;qXe lekarj gksrk gSA
+;s leyac gSa
+;s leyac ugha gSa
+2024-25
+
+prqHkqZtksa dks le>uk   25
+bUgsa dhft,
+vko`Qfr 3.5
+mijksDr vko`Qfr;ksa dk vè;;u dhft, vkSj vius fe=kksa osQ lkFk ppkZ dhft, fd D;ksa buesa
+ls oqQN leyac gSa vkSj oqQN leyac ugha gSaA (laosQr % rhj dk fu'kku lekarj js[kkvksa dks n'kkZrk gSA)
+1. leku lok±xle f=kHkqtksa osQ dVs gq, Hkkx yhft, ftudh Hkqtk,¡ 3 cm, 4 cm, 5 cm gSaA
+bUgsa O;ofLFkr dhft, tSlk fd vko`Qfr esa n'kkZ;k x;k gS (vko`Qfr 3.5)A
+vkidks ,d leyac izkIr gksrk gSA (fujh{k.k dhft,)
+;gk¡ ij dkSu lh Hkqtk,¡ lekarj gSa\ D;k vlekarj Hkqtk,¡a cjkcj eki dh gksuh pkfg,\
+bu leku f=kHkqtksa osQ lewg dk mi;ksx dj vki nks vkSj leyac izkIr dj ldrs gSaA
+mudks <w¡f<, vkSj mudh vko`Qfr;ksa dh ppkZ dhft,A
+2. vius rFkk vius fe=kksa osQ T;kferh; ckWDl ls pkj lsVLDos;j yhft,A bUgsa
+vyx&vyx la[;kvksa esa mi;ksx dj lkFk&lkFk jf[k, vkSj vyx&vyx fdLe osQ
+leyac izkIr dhft,A
+;fn leyac dh vlekarj Hkqtk,¡ cjkcj yackbZ dh gksa rks ge bls lef}ckgq leyac dgrs gSaA
+D;k vkius Åij fd, x, vius fdlh fujh{k.k esa dksbZ lef}ckgq leyac izkIr fd;k gS\
+3.3.2  irax
+irax fof'k"V izdkj dk ,d prqHkqZt gSA izR;sd vko`Qfr esa ,d tSls fpÉ cjkcj Hkqtkvksa dks
+n'kkZrs gSaA mnkgj.kkFkZ AB = AD vkSj BC = CD
+;s irax gSa
+;s irax ugha gSa
+bu vko`Qfr;ksa dk vè;;u dhft, vkSj ;g crkus dk iz;kl dhft, fd irax D;k gSA fujh{k.k
+dhft, fd %
+(i) ,d irax esa 4 Hkqtk,¡ gksrh gSa (;g ,d prqHkqZt gS)A
+2024-25
+
+26  xf.kr
+bUgsa dhft,
+fn[kkb, fd
+∆ABC ,oa
+∆ADC
+lok±xle gSaA
+blls vki
+D;k fu"d"kZ
+fudkyrs gSa\
+vko`Qfr 3.6
+vko`Qfr 3.7
+(ii) blesa vyx&vyx vklUu Hkqtkvksa osQ nks ;qXe gksrs gSa ftudh yackbZ cjkcj gksrh gSA
+tk¡p dhft, fd D;k oxZ ,d irax gSA
+,d eksVs dkx”k dh 'khV yhft,A
+bls nksgjk eksfM+,A
+nks vyx&vyx yackbZ okys js[kk[kaMksa dks [khafp,
+tSlkfd vko`Qfr 3-6 esa n'kkZ;k x;k gSA
+bu js[kk[kaMksa osQ vuqfn'k dkVdj [kksfy,A
+vkidks ,d irax dh vko`Qfr izkIr gksrh gS
+(vko`Qfr 3-7)A
+D;k irax esa dksbZ lefer js[kk gS\
+irax dks nksuksa fod.kks± ij eksfM+,A lsV&LDos;j osQ mi;ksx ls tk¡fp,
+fd D;k os ,d nwljs dks ledks.k ij dkVrs gSaA D;k fod.kZ cjkcj
+yackbZ osQ gSa\
+tk¡fp, (isij dks eksM+us ;k ekius }kjk) fd D;k fod.kZ ,d nwljs dks
+lef}Hkkftr djrs gSa\
+irax osQ ,d dks.k dks ,d fod.kZ osQ vuqfn'k foijhr eksM+us ij]
+cjkcj eki okys dks.kksa dks tk¡fp,A
+fod.kZ ij iM+h rg dk fujh{k.k dhft,; D;k ;g n'kkZrk gS fd fod.kZ ,d dks.k
+lef}Hkktd gksrk gS\
+viuh tkudkjh dks lkfFk;ksa esa ck¡fV, vkSj mudh lwph cukb,A bu ifj.kkeksa dk
+lkjka'k vè;k; esa dgha ij vkiosQ fy, fn;k x;k gSA
+3.3.3  lekarj prqHkqZt
+lekarj prqHkqZt ,d prqHkqZt gh gSA tSlk fd uke laosQr djrk gS bldk laca/ lekarj js[kkvksa
+ls gSA
+;s lekarj prqHkqZt gaS
+;s lekarj prqHkqZt ugha gSa
+AB CD
+
+AB ED
+
+BC
+FE
+
+AB DC
+
+AD
+BC
+
+LM
+ON
+
+LO
+MN
+
+QP SR
+
+QS PR
+
+2024-25
+
+prqHkqZtksa dks le>uk   27
+bUgsa dhft,
+vko`Qfr 3.9
+vko`Qfr 3.8
+vko`Qfr 3.10
+vko`Qfr 3.11
+bu vko`Qfr;ksa dk vè;;u dhft, vkSj vius 'kCnksa esa crkus dk iz;kl dhft, fd lekarj
+prqHkqZt D;k gSA vius fu"d"kZ vius fe=kksa osQ lkFk ck¡fV,A
+tk¡p dhft, fd D;k vk;r ,d lekarj prqHkqZt gSA
+nks vyx&vyx pkSM+kbZ okyh xÙks dh vk;rkdkj ifV~V;k¡ yhft, (vko`Qfr 3-8)A
+iV~Vh 1
+iV~Vh 2
+,d xÙks dh iV~Vh dks lery ij jf[k, vkSj blosQ fdukjksa osQ vuqfn'k
+js[kk,¡ [khafp, tSlk fd vko`Qfr esa n'kkZ;k x;k gS (vko`Qfr 3.8)A
+vc nwljh iV~Vh dks [khaph xbZ js[kkvksa osQ Åij frjNh fn'kk esa jf[k,
+vkSj bldk mi;ksx djrs gq, nks vkSj js[kkvksa dks [khafp, tSlk fd vko`Qfr
+esa n'kkZ;k x;k gS (vko`Qfr 3.10)A
+bu pkj js[kkvksa ls cuh can vko`Qfr prqHkqZt gS (vko`Qfr 3.11)A
+;g lekarj js[kkvksa osQ nks ;qXeksa ls feydj cuh gSA ;g ,d lekarj prqHkqZt gSA
+lekarj prqHkqZt ,d prqHkqZt gksrk gS ftldh lEeq[k Hkqtk,¡ lekarj gksrh gaSA
+3.3.4  lekarj prqHkqZt osQ vo;o
+,d lekarj prqHkqZt esa pkj Hkqtk,¡ vkSj pkj dks.k gksrs gSaA
+buesa ls oqQN cjkcj eki osQ gksrs gSaA vkidks bu vo;oksa ls
+lacaf/r oqQN rF;ksa dks ;kn j[kus dh vko';drk gSA
+,d lekarj prqHkqZt  ABCD fn;k x;k gS  (vko`Qfr 3.12)A
+AB vkSj DC, bldh lEeq[k Hkqtk,¡ gSaA AD rFkk BC lEeq[k Hkqtkvksa dk nwljk ;qXe cukrs gSaA
+∠A vkSj ∠C lEeq[k dks.kksa dk ,d ;qXe gS vkSj blh izdkj ∠B rFkk ∠D lEeq[k dks.kksa
+dk ,d nwljk ;qXe gSA
+vko`Qfr  3.12
+2024-25
+
+28 
+ xf.kr
+iz;kl dhft,
+vko`Qfr 3.14
+bUgsa dhft,
+AB vkSj BC lekarj prqHkqZt dh vklUu Hkqtk,¡ gSaA vFkkZr~ tgk¡ ij ,d Hkqtk lekIr
+gksrh gS ogha ls nwljh Hkqtk izkjaHk gksrh gSA D;k BC vkSj CD Hkh vklUu Hkqtk,¡ gSa\ nks vkSj
+vklUu Hkqtkvksa osQ ;qXeksa dks <w¡<us dk iz;kl dhft,A
+∠A vkSj  ∠B lekarj prqHkqZt osQ vklUu dks.k gSaA nksuksa gh dks.k mHk;fu"B Hkqtk osQ var
+¯cnqvksa ij cus gaSA ∠B rFkk ∠C Hkh vklUu dks.k gSaA lekarj prqHkqZt osQ vklUu dks.kksa osQ nwljs
+;qXeksa dh igpku dhft,A
+nks leku lekarj prqHkqZtksa osQ dVs gq, Hkkx ABCD rFkk A′B′C′D′ yhft, (vko`Qfr 3.13).
+;gk¡ ij Hkqtk  AB] Hkqtk A B
+′ ′ osQ leku gS ijarq buosQ uke vyx&vyx gSaA blh izdkj]
+nwljh laxr Hkqtk,¡ Hkh leku gSaA
+A B
+′ ′ dks DC osQ Åij jf[k,A D;k os ,d nwljs dks iw.kZr;k <drh gSa\ vc vki
+AB rFkk DC dh yackbZ osQ ckjs esa D;k dg ldrs gSa?
+blh izdkj AD rFkk BC dh yackbZ dh tk¡p dhft,A vki D;k ikrs gSa\
+vki AB rFkk DC dks eki dj bl ifj.kke ij igq¡p ldrs gSaA
+xq.k % lekarj prqHkqZt dh lEeq[k Hkqtk,¡ cjkcj eki dh gksrh gSaA
+vko`Qfr 3.13
+vko`Qfr 3.15
+30° – 60° – 90° dks.kksa okys
+nks leku lsV&LDos;j yhft,A
+vc bUgsa vkil esa bl izdkj
+feykdj jf[k, ftlls ,d lekarj
+prqHkqZt cu tk, (vko`Qfr 3.14)A
+D;k ;g Åij crk, x, xq.k dh
+iqf"V djus esa vkidh lgk;rk
+djrk gS\
+vki roZQ&foroZQ osQ }kjk bl vo/kj.kk dks izHkkoh cuk ldrs gSaA ,d lekarj prqHkqZt
+ABCD ij fopkj dhft, (vko`Qfr 3-15)A ,d fod.kZ] AC [khafp,A
+ge ns[krs gaS fd
+∠1 = ∠2
+vkSj
+∠3 = ∠4   (D;ksa?)
+2024-25
+
+prqHkqZtksa dks le>uk   29
+iz;kl dhft,
+bUgsa dhft,
+vko`Qfr 3.16
+vko`Qfr 3.17
+D;ksafd f=kHkqt  ABC vkSj ADC esa  ∠1 = ∠2,  ∠3 = ∠4 vkSj AC mHk;fu"B gS blfy,]
+ASA lok±xlerk dlkSVh }kjk
+∆ ABC ≅ ∆ CDA (;gk¡ ASA dlkSVh oSQls iz;ksx gqbZ?)
+vr%
+AB = DC
+vkSj
+BC = AD.
+mnkgj.k 3 : lekarj prqHkqZt PQRS dk ifjeki Kkr dhft, (vko`Qfr 3-16)
+gy : lekarj prqHkqZt esa] lEeq[k Hkqtk,¡ cjkcj yackbZ dh gksrh gaSA
+blfy,]
+PQ = SR = 12 cm
+vkSj
+QR = PS = 7 cm
+vr%
+ifjeki = PQ + QR + RS + SP
+= 12 cm + 7 cm + 12 cm + 7 cm = 38 cm
+3.3.5  lekarj prqHkqZt osQ dks.k
+geus lekarj prqHkqZt dh lEeq[k Hkqtkvksa ls lacaf/r ,d xq.k dk vè;;u
+fd;kA ge dks.kksa osQ ckjs esa D;k dg ldrs gSa\
+ekuk ABCD ,d lekarj prqHkqZt gS (vko`Qfr 3-17)A Vsª¯lx 'khV ij bldh
+izfrfyfi cukb,A bl izfrfyfi dks A′B′C′D′ ls izn£'kr dhft,A A′B′C′D′
+dks ABCD ij vkPNkfnr dhft,A nksuksa prqHkqZtksa dks vkil esa feykdj ml
+¯cnq ij fiu yxkb, tgk¡ ij muosQ fod.kZ izfrPNsn djrs gkas] Vsª¯lx 'khV dks
+180° ?kqekb,A lekarj prqHkqZt vHkh Hkh ,d nwljs dks iw.kZr;k <d ysrs gSa_ ijarq
+vc vki ns[krs gSa fd A′ iw.kZ :i ls  C ij vkSj C iw.kZ :i ls  B′  ij vk
+tkrk gSA blh izdkj B′  ¯cnq D ij tkrk gS vkSj foykse :i ls Hkh lR; gSA
+D;k ;g dks.k  A rFkk dks.k C osQ ekiksa osQ ckjs esa vkidks oqQN crkrk gS\ dks.k B rFkk D osQ
+ekiksa osQ fy, tk¡p dhft,A vius fu"d"kZ dh ppkZ dhft,A
+xq.k : lekarj prqHkqZt osQ lEeq[k dks.k cjkcj eki osQ gksrs gSaA
+30° – 60° – 90° dks.kksa okys nks leku lsV&LDos;j ysdj igys dh rjg gh ,d lekarj prqHkqZt
+cukb,A D;k izkIr vko`Qfr Åij crk, x, xq.k dh iqf"V djus esa vkidh lgk;rk djrh gS\
+vki bl vo/kj.kk dh roZQ&foroZQ osQ }kjk iqf"V dj ldrs gSaA
+;fn  AC vkSj BD lekarj prqHkqZt osQ fod.kZ gkas (vko`Qfr 3.18) rks
+vki ns[ksaxs fd
+∠1 =∠2
+vkSj
+∠3 = ∠4 (D;ksa?)
+vko`Qfr 3.18
+2024-25
+
+30  xf.kr
+∆ ABC rFkk ∆ ADC dk vyx&vyx vè;;u djus ij vki ns[ksaxs fd (vko`Qfr 3.19) ASA
+lok±xle dlkSVh osQ }kjk
+∆ ABC        ≅
+∆ CDA
+(oSQls?)
+;g n'kkZrk gS fd ∠B vkSj ∠D leku eki osQ gSaA bl izdkj vki izkIr djrs gSa
+m∠A = m∠C
+mnkgj.k 4 : vko`Qfr 3.20 esa BEST ,d lekarj prqHkqZt gSA
+x, y rFkk z osQ eku Kkr dhft,A
+gy : ¯cnq S, ¯cnq B osQ foijhr gSA
+vr%
+x = 100° (lEeq[k dks.k xq.k)
+y = 100° (∠x osQ laxr dks.k dk eki)
+z = 80°
+(D;ksafd ∠y vkSj ∠z jSf[kd ;qXe cukrs gSa)
+vc ge viuk è;ku ,d lekarj prqHkqZt osQ vklUu dks.kksa ij osaQfnzr djrs gSaA
+lekarj prqHkqZt ABCD esa (vko`Qfr 3.21) ∠A vkSj ∠D
+laiwjd dks.k gSa]
+D;ksafd DC
+AB
+
+vkSj DA , ,d fr;Zd js[kk gSA vr%
+nksukas dks.k var% lEeq[k dks.k gSaA
+∠A vkSj ∠B Hkh laiwjd dks.k gSaA D;k vki crk ldrs
+gSa ^D;kas*\
+AD
+BC
+
+ vkSj BA ,d fr;Zd js[kk gS tks ∠A rFkk ∠B dks var% lEeq[k dks.k cukrh gSA
+vko`Qfr ls nks vkSj laiwjd dks.kksa osQ ;qXeksa dh igpku dhft,A
+xq.k % lekarj prqHkqZt osQ vklUu dks.k laiwjd gksrs gaSA
+mnkgj.k 5 : lekarj prqHkqZt RING esa ( vko`Qfr 3.22) ;fn m∠R = 70° gks rks nwljs lHkh dks.k
+Kkr dhft,A
+gy : fn;k gS
+m∠R = 70°
+rc
+m∠N = 70°
+D;ksafd ∠R rFkk  ∠I laiwjd dks.k gSa
+m∠I = 180° – 70° = 110°
+vkSj
+m∠G = 110° D;ksafd ∠G, ∠I  dk lEeq[k dks.k gSA
+vr%
+m∠R = m∠N = 70° vkSj m∠I = m∠G = 110°
+vko`Qfr 3.19
+vko`Qfr 3.20
+vko`Qfr 3.21
+vko`Qfr 3.22
+2024-25
+
+prqHkqZtksa dks le>uk   31
+bUgsa dhft,
+vko`Qfr 3.23
+lksfp,] ppkZ dhft, vkSj fyf[k,
+ m∠R = m∠N = 70°, n'kkZus osQ mijkar D;k vki fdlh vU; fof/ ls m∠I vkSj m∠G
+dks Kkr dj ldrs gSa\
+3.3.6  lekarj prqHkqZt osQ fod.kZ
+lk/kj.kr;k lekarj prqHkqZt osQ fod.kZ cjkcj eki osQ ugha gksrsA
+(D;k vkius vius iwoZ fØ;kdyki esa bls tk¡pk\)
+;|fi lekarj prqHkqZt osQ fod.kks± esa ,d jkspd xq.k gksrk gSA
+lekarj prqHkqZt] (eku yhft, ABCD,)  dk ,d dVk gqvk Hkkx yhft,
+(vko`Qfr 3.23)A ekuk blosQ fod.kZ AC rFkk  DB ,d nwljs dks 'O' ij
+izfrPNsn djrs gSaA
+C dks A ij j[kdj ,d rg (Fold) osQ }kjk AC dk eè; ¯cnq Kkr dhft,A D;k eè;
+¯cnq O gh gS\ D;k ;g n'kkZrk gS fd fod.kZ DB , fod.kZ AC dks ¯cnq 'O' ij lef}Hkkftr
+djrk gS\ vius fe=kksa osQ lkFk bldh ppkZ dhft,A bl fØ;kdyki dks ;g Kkr djus osQ
+fy, nksgjk,¡ fd DB dk eè; ¯cnq dgk¡ ij fLFkr gksxkA
+xq.k % lekarj prqHkqZt osQ fod.kZ ,d nwljs dks lef}Hkkftr djrs gaSA (vo'; gh muosQ
+izfrPNsnh ¯cnq ijA)
+bl xq.k dk roZQ&foroZQ rFkk iqf"V djuk eqf'dy ugha gSA vko`Qfr 3-24
+ls] ASA lok±xlerk izfrca/ }kjk cM+h vklkuh ls ns[kk tk ldrk gS fd
+∆ AOB ≅∆ COD    (;gk¡ ij  ASA izfrca/ dk oSQls iz;ksx gqvk ?)
+vr%
+AO = CO
+rFkk
+BO = DO
+mnkgj.k 6 : vko`Qfr 3.25 esa] HELP ,d lekarj prqHkqZt gSA fn;k gS
+(yackbZ cm  esa gS)% OE = 4 vkSj HL, PE ls 5 vf/d gSA OH Kkr dhft,A
+gy : ;fn
+OE = 4 rc OP = 4
+(D;ksa?)
+vr%
+PE = 8,
+(D;ksa?)
+blfy,
+HL = 8 + 5 = 13
+vr%
+OH = 1
+13
+2 ×
+ = 6.5 cm
+vko`Qfr 3.24
+vko`Qfr 3.25
+2024-25
+
+32 
+ xf.kr
+iz'ukoyh 3.3
+1. ABCD ,d lekarj prqHkqZt gSA izR;sd dFku dks
+ifjHkk"kk ;k iz;ksx fd, x, xq.k }kjk iwjk dhft, %
+(i) AD = ......
+(ii) ∠ DCB = ......
+(iii) OC = ......
+(iv) m ∠DAB + m ∠CDA = ......
+2. fuEu lekarj prqHkqZtksa esa vKkr x, y, z osQ ekuksa dks Kkr dhft, %
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+3. D;k ,d prqHkqZt ABCD lekarj prqHkqZt gks ldrk gS ;fn
+(i) ∠D + ∠B = 180°?
+(ii) AB = DC = 8 cm, AD = 4 cm vkSj BC = 4.4 cm?
+(iii) ∠A = 70° vkSj ∠C = 65°?
+4. ,d prqHkqZt dh dPph (Rough) vko`Qfr [khafp, tks
+lekarj prqHkqZt u gks ijarq ftlosQ nks lEeq[k dks.kksa osQ
+eki cjkcj gksaA
+5. fdlh lekarj prqHkqZt osQ nks vklUu dks.kksa dk vuqikr
+3 % 2 gSA lekarj prqHkqZt osQ lHkh dks.kksa dh eki Kkr
+dhft,A
+6. fdlh lekarj prqHkqZt osQ nks vklUu dks.kksa osQ eki cjkcj gaSA lekarj prqHkqZt osQ lHkh
+dks.kksa dh eki Kkr dhft,A
+7. layXu vko`Qfr HOPE ,d lekarj prqHkqZt gSA x, y vkSj z dks.kksa dh eki Kkr dhft,A
+Kkr djus esa iz;ksx fd, x, xq.kksa dks crkb,A
+8. fuEu vko`Qfr;k¡ GUNS vkSj RUNS lekarj prqHkqZt gSaA x rFkk  y Kkr dhft, (yackbZ cm
+esa gS)%
+2024-25
+
+prqHkqZtksa dks le>uk   33
+bUgsa dhft,
+(i)
+(ii)
+9. nh xbZ vko`Qfr esa  RISK rFkk CLUE  nksuksa
+lekarj prqHkqZt gaS] x dk eku Kkr dhft,A
+10. crkb, oSQls ;g vko`Qfr ,d leyac gSA bldh dkSu lh nks Hkqtk,¡ lekarj gSa?
+(vko`Qfr 3-26)
+11. vko`Qfr 3-27 esa
+m∠C Kkr dhft,
+;fn AB DC
+
+ gSA
+12. vko`Qfr 3-28 esa  ∠P rFkk ∠S  dh eki Kkr dhft, ;fn
+SP
+RQ
+
+ gSA (;fn vki m∠R, Kkr djrs gSa] rks D;k m∠P dks
+Kkr djus dh ,d ls vf/d fof/ gS?)
+3.4  oqQN fof'k"V lekarj prqHkqZt
+3.4.1  leprqHkqZt
+irax (tks fd ,d lekarj prqHkqZt ugha gS) dh fo'ks"k fLFkfr osQ :i esa gesa ,d
+leprqHkqZt (Rhombus) tks ,d lekarj prqHkqZt Hkh gS] izkIr gksrk gSA
+vkiosQ }kjk dkx”k ls dkVdj igys cukbZ xbZ irax dk Lej.k djasA
+irax&dkV (Kite-cut)
+leprqHkqZt&dkV (Rhombus-cut)
+vko`Qfr 3.26
+vko`Qfr 3.27
+vko`Qfr 3.28
+2024-25
+
+34 
+ xf.kr
+vko`Qfr 3.30
+bUgsa dhft,
+è;ku nhft, fd leprqHkqZt dh lHkh Hkqtk,¡ cjkcj yackbZ dh gksrh
+gaS ijarq irax dh fLFkfr esa ,slk ugha gSA
+leprqHkqZt ,d prqHkqZt gS ftldh lHkh Hkqtk,¡ cjkcj yackbZ dh gksrh gSaA
+D;ksafd leprqHkqZt dh lEeq[k Hkqtk,¡ cjkcj yackbZ dh gksrh gSa] blfy, ;g
+,d lekarj prqHkqZt Hkh gSA vr% ,d le prqHkqZt esa ,d lekarj prqHkqZt vkSj
+,d irax osQ Hkh lHkh xq.k fo|eku gSaA mudh lwph rS;kj djus dk iz;kl
+dhft,A rc vki viuh lwph iqLrd esa nh xbZ tk¡p lwph osQ lkFk feykdj iqf"V
+dj ldrs gSaA ,d leprqHkqZt dk lcls mi;ksxh xq.k mlosQ fod.kks± dk gSA
+xq.k : ,d leprqHkqZt osQ fod.kZ ijLij yac lef}Hkktd gksrs gSaA
+le prqHkqZt dh ,d izfrfyfi yhft,A isij dks eksM+dj tk¡p dhft, fd D;k izfrPNsnh
+¯cnq izR;sd fod.kZ dk eè;¯cnq gSA vki ,d lsV&LDos;j osQ fdukjs dk mi;ksx djosQ
+tk¡p ldrs gSa fd os ,d nwljs dks ledks.k ij izfrPNsn djrs gaSA
+roZQ&iw.kZ pj.kksa dk mi;ksx dj ;gk¡ ,d [kkdk fn;k x;k gS tks bl xq.k dh iqf"V
+djrk gSA
+ABCD ,d leprqHkqZt gS (vko`Qfr 3-29)A vr% ;g ,d lekarj prqHkqZt Hkh gSA
+pw¡fd fod.kZ ,d nwljs dks lef}Hkkftr djrs gSa]
+vr%     OA = OC  vkSj  OB = OD
+gesa ;g n'kkZuk gS fd m∠AOD = m∠COD = 90° gSA
+SSS lok±xlerk izfrca/ ls ;g ns[kk tk ldrk gS fd
+∆ AOD ≅∆ COD
+vr%
+m ∠AOD = m ∠COD
+D;ksafd  ∠AOD vkSj ∠COD jSf[kd ;qXe cukrs gSa]
+m ∠AOD = m ∠COD = 90°
+mnkgj.k 7 :
+RICE ,d leprqHkqZt gS (vko`Qfr 3-30)A x, y, rFkk  z dk
+eku Kkr dhft, vkSj vius mÙkj dh iqf"V dhft,A
+gy :
+x = OE
+y = OR
+z = leprqHkqZt dh Hkqtk
+= OI  (fod.kZ
+= OC (fod.kZ
+= 13 (leprqHkqZt dh lHkh
+lef}Hkkftr djrs gSa)
+lef}Hkkftr djrs gSa)    Hkqtk,¡ cjkcj eki dh gksrh gSa)
+= 5
+= 12
+irax
+le prqHkqZt
+pw¡fd
+AO = CO
+(D;ksa?)
+AD = CD
+(D;ksa?)
+OD = OD
+vko`Qfr 3.29
+tc vki ABC osQ vuqfn'k dkVdj [kksyrs gSa rks vki ,d irax izkIr djrs gaSA ;gk¡ ij yackbZ AB vkSj
+BC vyx&vyx FkhaA ;fn vki AB = BC [khaprs gSa rks izkIr dh xbZ irax ,d leprqHkqZt dgykrk gSA
+2024-25
+
+prqHkqZtksa dks le>uk   35
+3.4.2  ,d vk;r
+vk;r ,d lekarj prqHkqZt gS ftlosQ lHkh dks.k leku eki
+osQ gksrs gSa (vko`Qfr 3-31)A
+bl ifjHkk"kk dk iw.kZ vFkZ D;k gS\ bldh ppkZ vius fe=kksa
+osQ lkFk dhft,A ;fn vk;r ledksf.kd gks rks izR;sd dks.k
+dh eki D;k gksxh\ ekuk izR;sd dks.k dk eki x° gksxhA
+rc
+4x° = 360°
+ (D;ksa )?
+blfy,,
+x° = 90°
+vr% vk;r dk izR;sd dks.k ledks.k gksrk gSA
+vr% ,d vk;r lekarj prqHkqZt gksrk gS ftlesa izR;sd dks.k ledks.k gksrk gSA
+,d lekarj prqHkqZt gksus osQ dkj.k vk;r dh lEeq[k Hkqtk,¡ cjkcj yackbZ dh gksrh gSa vkSj fod.kZ
+,d nwljs dks lef}Hkkftr djrs gSaA lekarj prqHkqZt esa fod.kZ vyx&vyx yackbZ osQ gks ldrs gSa
+(tk¡p dhft,) % ijarq vk;r (fo'ks"k fLFkfr esa) osQ fod.kZ cjkcj eki (yackbZ) osQ gksrs gSaA
+xq.k : vk;r osQ fod.kZ cjkcj yackbZ osQ gksrs gSaA
+bldh iqf"V vklkuh ls gks ldrh gSA ;fn ABCD ,d vk;r gS (vko`Qfr 3-32) rks
+f=kHkqt ABC rFkk ABD dks vyx&vyx (vko`Qfr 3-33 vkSj vko`Qfr 3-34) ns[kus ij] gesa
+izkIr gksrk gS]
+∆ ABC ≅∆ ABD
+D;ksafd
+AB = AB
+(mHk;fu"B)
+BC = AD
+(D;ksa?)
+m ∠A = m ∠B = 90°
+(D;ksa?)
+SAS izfrca/ ls lok±xlerk gksrh gSA
+vr%
+AC = BD
+vkSj ,d vk;r esa fod.kZ cjkcj yackbZ osQ gksus osQ vfrfjDr ,d nwljs dks lef}Hkkftr djrs
+gaSA (D;ksa\)
+mnkgj.k  8 : RENT ,d vk;r gS (vko`Qfr 3-35)A blosQ fod.kZ ,d nwljs dks 'O' ij
+izfrPNsn djrs gSaA x, dk eku Kkr dhft, ;fn OR = 2x + 4 vkSj  OT = 3x + 1 gSaA
+vko`Qfr 3.31
+vko`Qfr 3.34
+vko`Qfr 3.33
+vko`Qfr 3.32
+2024-25
+
+36 
+ xf.kr
+vko`Qfr 3.36
+vko`Qfr 3.35
+gy : OT ,  fod.kZ TE dk vk/k gSA OR ,  fod.kZ RN  dk vk/k gSA
+;gk¡ ij fod.kZ cjkcj yackbZ osQ gaSA (D;ksa\) vr% muosQ vk/s Hkh vkil
+esa cjkcj gSaA
+blfy,
+3x + 1 = 2x + 4
+vFkkZr~
+x = 3
+3.4.3  oxZ
+oxZ ,d vk;r gksrk gS ftldh Hkqtk,¡ cjkcj gksrh gaSA
+bldk eryc ;g gS fd ,d oxZ esa ,d vk;r osQ lHkh xq.k gksus
+osQ lkFk&lkFk ,d vfrfjDr xq.k Hkh gksrk gS fd bldh Hkqtk,¡
+cjkcj yackbZ dh gksrh gaSA
+oxZ osQ fod.kZ] vk;r osQ fod.kks± dh rjg gh] cjkcj yackbZ osQ
+gksrs gSaA
+,d vk;r esa fod.kks± dk ,d nwljs ij yac gksuk vko';d ugha gksrk
+gS (tk¡fp,)A fdlh oxZ esa fod.kZ
+(i) ,d nwljs dks lef}Hkkftr djrs gSa (oxZ ,d
+lekarj prqHkqZt gS)A
+(ii) cjkcj yackbZ osQ gksrs gSaA (oxZ ,d vk;r gSA) vkSj
+(iii) ,d nwljs dks ledks.k ij lef}Hkkftr djrs gSaA
+bl izdkj] gesa fuEufyf[kr xq.k/eZ izkIr gksrk gSA
+xq.k : oxZ osQ fod.kZ ,d nwljs dks ledks.k ij lef}Hkkftr djrs gSaA
+,d oxkZdkj 'khV] ekuk PQRS yhft, (vko`Qfr 3-36)A
+nksuksa fod.kks± osQ vuqfn'k rg (fold) yxkb,A D;k muosQ eè;
+¯cnq leku gh gSaA
+lsV&LDos;j dk mi;ksx djosQ tk¡p dhft,] D;k 'O' ij cuk dks.k
+90° dk gSA ;g Åij crk, x, xq.k/eZ dks fl¼ djrk gSA
+roZQ&foroZQ dh lgk;rk ls ge bldh iqf"V dj ldrs gSaA
+ABCD ,d oxZ gS ftlosQ fod.kZ ,d nwljs dks 'O' ij izfrPNsn
+djrs gSa (vko`Qfr 3-37)A
+OA = OC        (D;ksafd oxZ ,d lekarj prqHkqZt gS )
+SSS lok±xlerk izfrca/ osQ vuqlkj
+∆ AOD ≅∆ COD    (oSQls?)
+vr%
+m∠AOD = m∠COD
+;s dks.k jSf[kd ;qXe cukrs gaSA vr% izR;sd dks.k ledks.k gSA
+BELT ,d oxZ gS ftlesa,
+BE = EL = LT = TB
+∠B, ∠E, ∠L rFkk ∠T ledks.k gSaA
+BL = ET vkSj BL
+ET
+⊥
+OB = OL vkSj OE = OT
+bUgsa dhft,
+vko`Qfr 3.37
+2024-25
+
+prqHkqZtksa dks le>uk   37
+iz'ukoyh 3.4
+1. crkb,] dFku lR; gS ;k vlR; :
+(a) lHkh vk;r oxZ gksrs gSa
+(e) lHkh iraxas le prqHkqZt gksrh gSa
+(b) lHkh le prqHkqZt lekarj prqHkqZt gksrs gaS
+(f) lHkh le prqHkqZt irax gksrs gaS
+(c) lHkh oxZ le prqHkqZt vkSj vk;r Hkh gksrs gSa
+(g) lHkh lekarj prqHkqZt leyac
+gksrs gSa
+(d) lHkh oxZ lekarj prqHkqZt ugha gksrsA
+(h) lHkh oxZ leyac gksrs gaSA
+2. mu lHkh prqHkqZtksa dh igpku dhft, ftuesa
+(a) pkjksa Hkqtk,¡ cjkcj yackbZ dh gksa
+(b) pkj ledks.k gksa
+3. crkb, oSQls ,d oxZ
+(i) ,d prqHkqZt
+(ii) ,d lekarj prqHkqZt (iii)
+,d leprqHkqZt
+(iv) ,d vk;r gSA
+4. ,d prqHkqZt dk uke crkb, ftlosQ fod.kZ
+(i) ,d nwljs dks lef}Hkkftr djrs gaS
+(ii) ,d nwljs ij yac lef}Hkktd gks
+(iii) cjkcj gksaA
+5. crkb, ,d vk;r mÙky prqHkqZt oSQls gSA
+6. ABC ,d ledks.k f=kHkqt gS vkSj 'O' ledks.k dh
+lEeq[k Hkqtk dk eè;&¯cnq gSA crkb, oSQls 'O' ¯cnq  A,
+B rFkk  C ls leku nwjh ij fLFkr gSA (¯cnqvksa ls fpfÉr
+vfrfjDr Hkqtk,¡ vkidh lgk;rk osQ fy, [khaph xbZ gSa)
+lksfp,] ppkZ dhft, vkSj fyf[k,
+1. ,d jktfeL=kh ,d iRFkj dh iV~Vh cukrk gSA og bls vk;rkdkj cukuk pkgrk gSA
+fdrus vyx&vyx rjhdksa ls mls ;g fo'okl gks ldrk gS fd ;g vk;rkdkj gSA
+2. oxZ dks vk;r osQ :i esa ifjHkkf"kr fd;k x;k Fkk ftldh lHkh Hkqtk,¡ cjkcj gksrh
+gSaA D;k ge bls leprqHkqZt osQ :i esa ifjHkkf"kr dj ldrs gSa ftlosQ dks.k cjkcj
+eki osQ gkas\ bl fopkj dks Li"V dhft,A
+3. D;k ,d leyac osQ lHkh dks.k cjkcj eki osQ gks ldrs gaS\ D;k bldh lHkh Hkqtk,¡
+cjkcj gks ldrh gSa\ o.kZu dhft,A
+geus D;k ppkZ dh\
+lekarj prqHkqZt : ,d
+prqHkqZt ftlesa lEeq[k
+Hkqtkvksa dk izR;sd ;qXe
+lekarj gksrk gSA
+prqHkqZt
+xq.k
+(1) lEeq[k Hkqtk,¡ cjkcj gksrh gSaA
+(2) lEeq[k dks.k cjkcj gksrs gSaA
+(3) fod.kZ ,d nwljs dks lef}Hkkftr djrs gSaSA
+2024-25
+
+38 
+ xf.kr
+leprqHkqZt :
+,d prqHkqZt ftldh lHkh Hkqtk,¡
+cjkcj eki dh gksrh gSaA
+vk;r :
+,d lekarj prqHkqZt
+ftlesa ,d dks.k
+ledks.k gksrk gSA
+oxZ :
+,d vk;r ftldh lHkh
+Hkqtk,¡ cjkcj gksrh gSaA
+irax :
+,d prqHkqZt ftlesa nks
+vklUu Hkqtkvksa osQ ;qXe
+cjkcj gksrs gSaA
+(1) lekarj prqHkqZt osQ lHkh xq.k gksrs gSaA
+(2) fod.kZ ijLij yac gksrs gSaA
+(1) lekarj prqHkqZt osQ lHkh xq.k gksrs gSaA
+(2) izR;sd dks.k ledks.k gksrk gSaA
+(3) fod.kZ cjkcj eki osQ gksrs gSaA
+lekarj prqHkqZt] leprqHkqZt rFkk vk;r lHkh
+osQ xq.k gksrs gSaA
+(1) fod.kZ ,d nwljs ij yac gksrs gSaA
+(2) ,d fod.kZ nwljs fod.kZ dks lef}Hkkftr
+djrk gSA
+(3) vko`Qfr esa] m∠B = m∠D  ijarq
+m∠A ≠ m∠C
+2024-25

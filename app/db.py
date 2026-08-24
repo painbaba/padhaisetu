@@ -96,6 +96,7 @@ CREATE TABLE IF NOT EXISTS reports(
   sent INT DEFAULT 0
 );
 CREATE UNIQUE INDEX IF NOT EXISTS ux_questions ON questions(subject, grade, skill_id, text_en);
+CREATE UNIQUE INDEX IF NOT EXISTS ux_sessions_user ON chat_sessions(user_id);
 """
 
 

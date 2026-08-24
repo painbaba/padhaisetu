@@ -1,0 +1,1638 @@
+{
+ "subject": "science",
+ "grade": 8,
+ "items": [
+  {
+   "skill_id": "s8c1s1",
+   "difficulty": 1,
+   "text_hi": "खेत से खरपतवार हटाने के लिए किस औज़ार का उपयोग होता है?",
+   "text_en": "Which tool is used to remove weeds from a field?",
+   "options": [
+    "खुरपी",
+    "बीज ड्रिल",
+    "हँसिया",
+    "सिंचाई पाइप"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "खुरपी और निराई-गुड़ाई का संबंध याद कीजिए।",
+   "hint_en": "Think of the tool linked with weeding.",
+   "solution_hi": "खरपतवार हटाने की क्रिया निराई कहलाती है;\nइसके लिए खुरपी का उपयोग होता है।",
+   "solution_en": "Removing weeds is called weeding;\na khurpi (hand hoe) is used for it."
+  },
+  {
+   "skill_id": "s8c1s1",
+   "difficulty": 1,
+   "text_hi": "भूमि को ढीला करने वाला मुख्य औज़ार कौन-सा है?",
+   "text_en": "Which is the main implement used to loosen the soil?",
+   "options": [
+    "हल",
+    "खुरपी",
+    "हँसिया",
+    "बीज ड्रिल"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "जुताई से भूमि ढीली होती है।",
+   "hint_en": "Ploughing loosens the soil.",
+   "solution_hi": "हल द्वारा जुताई करने से मृदा ढीली हो जाती है;\nइससे जड़ों की सांस लेने में आसानी होती है।",
+   "solution_en": "The plough tills and loosens soil;\nthis helps roots breathe easily."
+  },
+  {
+   "skill_id": "s8c1s1",
+   "difficulty": 2,
+   "text_hi": "एक ही खेत में बार-बार वही फसल उगाने से क्या हानि होती है?",
+   "text_en": "What is the harm in growing the same crop repeatedly in the same field?",
+   "options": [
+    "मृदा के पोषक तत्व कम हो जाते हैं",
+    "फसल के बीज बड़े हो जाते हैं",
+    "मृदा की गहराई बढ़ जाती है",
+    "खरपतवार समाप्त हो जाते हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हर फसल मिट्टी से वही तत्व लेती है।",
+   "hint_en": "Every crop draws the same nutrients.",
+   "solution_hi": "एक ही फसल से विशेष पोषक तत्व बार-बार निकलते हैं;\nइसलिए फसल-चक्रण अपनाया जाता है।",
+   "solution_en": "Repeated cropping drains particular nutrients;\nso crop rotation is practised."
+  },
+  {
+   "skill_id": "s8c1s1",
+   "difficulty": 2,
+   "text_hi": "रबी की फसल का उदाहरण है —",
+   "text_en": "An example of a rabi crop is -",
+   "options": [
+    "गेहूँ",
+    "धान",
+    "मक्का",
+    "कपास"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "रबी फसल शीतकालीन होती है।",
+   "hint_en": "Rabi crops grow in winter.",
+   "solution_hi": "रबी फसलें अक्टूबर-नवंबर में बोई जाती हैं;\nगेहूँ, सरसों, चना इनके उदाहरण हैं।",
+   "solution_en": "Rabi crops are sown around Oct-Nov;\nwheat, mustard and gram are examples."
+  },
+  {
+   "skill_id": "s8c1s2",
+   "difficulty": 1,
+   "text_hi": "बुवाई से पहले बीजों को पानी में डालने पर तैरने वाले बीज होते हैं —",
+   "text_en": "Seeds that float when put in water before sowing are -",
+   "options": [
+    "क्षतिग्रस्त",
+    "स्वस्थ",
+    "सबसे बड़े",
+    "रोग-रहित"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "भारी, स्वस्थ बीज डूब जाते हैं।",
+   "hint_en": "Healthy heavy seeds sink.",
+   "solution_hi": "तैरने वाले बीज क्षतिग्रस्त/खोखले होते हैं;\nइन्हें अलग कर दिया जाता है।",
+   "solution_en": "Floating seeds are damaged or hollow;\nthey are separated out."
+  },
+  {
+   "skill_id": "s8c1s2",
+   "difficulty": 1,
+   "text_hi": "धान की रोपाई में क्या किया जाता है?",
+   "text_en": "What happens in transplantation of paddy?",
+   "options": [
+    "नर्सरी से पौधे खेत में लगाए जाते हैं",
+    "बीज सीधे बाज़ार से आते हैं",
+    "फसल को काटा जाता है",
+    "खेत में खाद डाली जाती है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पहले छोटी क्यारी में पौधे तैयार होते हैं।",
+   "hint_en": "Seedlings are first raised in a nursery.",
+   "solution_hi": "धान के पौधे नर्सरी में तैयार करके\nबाद में तैयार खेत में रोपे जाते हैं।",
+   "solution_en": "Paddy seedlings are raised in a nursery\nand then planted in the prepared field."
+  },
+  {
+   "skill_id": "s8c1s2",
+   "difficulty": 2,
+   "text_hi": "अच्छी बुवाई के लिए बीज किस गहराई पर रखे जाने चाहिए?",
+   "text_en": "At what depth should seeds be placed for proper sowing?",
+   "options": [
+    "उचित, समान गहराई पर",
+    "बहुत गहराई पर",
+    "मिट्टी के ऊपर खुले",
+    "कोई भी गहराई"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बीज ड्रिल समान गहराई देता है।",
+   "hint_en": "A seed drill keeps depth uniform.",
+   "solution_hi": "बीज उचित गहराई और समान दूरी पर बोए जाते हैं;\nइससे अंकुरण अच्छा होता है।",
+   "solution_en": "Seeds are sown at proper depth and spacing;\nthis ensures good germination."
+  },
+  {
+   "skill_id": "s8c1s2",
+   "difficulty": 2,
+   "text_hi": "बुवाई से पहले जुताई का एक लाभ है —",
+   "text_en": "A benefit of ploughing before sowing is -",
+   "options": [
+    "मृदा में वायु-संचार बढ़ता है",
+    "खरपतवार बढ़ जाते हैं",
+    "पानी की आवश्यकता बढ़ जाती है",
+    "बीज बड़े हो जाते हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ढीली मिट्टी में हवा भरती है।",
+   "hint_en": "Loose soil holds more air.",
+   "solution_hi": "जुताई से मृदा ढीली और हवादार बनती है;\nजड़ें आसानी से फैलती हैं।",
+   "solution_en": "Ploughing makes soil loose and aerated;\nroots spread easily."
+  },
+  {
+   "skill_id": "s8c1s3",
+   "difficulty": 1,
+   "text_hi": "फसल को समय-समय पर पानी देना कहलाता है —",
+   "text_en": "Supplying water to crops at intervals is called -",
+   "options": [
+    "सिंचाई",
+    "निराई",
+    "कटाई",
+    "बुवाई"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'सिंच' शब्द से पहचानिए।",
+   "hint_en": "It literally means watering.",
+   "solution_hi": "फसलों को जल देना सिंचाई कहलाता है;\nयह उपज के लिए आवश्यक है।",
+   "solution_en": "Providing water to crops is irrigation;\nit is essential for yield."
+  },
+  {
+   "skill_id": "s8c1s3",
+   "difficulty": 2,
+   "text_hi": "सबसे कम पानी की बर्बादी वाली सिंचाई विधि है —",
+   "text_en": "The irrigation method that wastes the least water is -",
+   "options": [
+    "बूँद-बूँद सिंचाई",
+    "नहर से बाढ़ सिंचाई",
+    "कुएँ से छिड़काव",
+    "खेत भरकर सिंचाई"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'बूँद' शब्द पर ध्यान दीजिए।",
+   "hint_en": "Focus on the word 'drop'.",
+   "solution_hi": "बूँद सिंचाई में पानी जड़ों के पास बूँद-बूँद गिरता है;\nवाष्पीकरण की हानि नगण्य होती है।",
+   "solution_en": "Drip irrigation delivers water drop by drop near roots;\nevaporation losses are negligible."
+  },
+  {
+   "skill_id": "s8c1s3",
+   "difficulty": 2,
+   "text_hi": "छिड़काव सिंचाई (स्प्रिंकलर) किसके लिए उपयुक्त है?",
+   "text_en": "Sprinkler irrigation is suitable for which type of crop?",
+   "options": [
+    "घास-चारा जैसी फसलें",
+    "धान जैसी जलमग्न फसलें",
+    "ऊनी फसलें",
+    "कोई नहीं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बरसात जैसी बूँदें घास पर अच्छी लगती हैं।",
+   "hint_en": "Rain-like drops suit grassy crops.",
+   "solution_hi": "स्प्रिंकलर से बारिश जैसी फुहार पड़ती है;\nघास, चारा व सब्ज़ी फसलों हेतु उपयुक्त है।",
+   "solution_en": "Sprinklers spray like rain;\nsuitable for grass, fodder and vegetable crops."
+  },
+  {
+   "skill_id": "s8c1s3",
+   "difficulty": 3,
+   "text_hi": "पारंपरिक सिंचाई में 'रहट' का उपयोग किस कार्य के लिए होता है?",
+   "text_en": "In traditional irrigation, the 'rahat' (Persian wheel) is used to -",
+   "options": [
+    "कुएँ से पानी ऊपर उठाने",
+    "बीज बोने",
+    "खरपतवार हटाने",
+    "मिट्टी परखने"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बैलों से घूमता पहिया पानी उठाता है।",
+   "hint_en": "A bullock-driven wheel lifts water.",
+   "solution_hi": "रहट कुएँ/नदी से पानी ऊपर उठाता है;\nयह पारंपरिक उत्तोलन विधि है।",
+   "solution_en": "The Persian wheel lifts water from wells/rivers;\nit is a traditional lift method."
+  },
+  {
+   "skill_id": "s8c1s4",
+   "difficulty": 1,
+   "text_hi": "खेत से खरपतवार हटाने की प्रक्रिया कहलाती है —",
+   "text_en": "Removal of weeds from the field is called -",
+   "options": [
+    "निराई",
+    "बुवाई",
+    "सिंचाई",
+    "मड़ाई"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'निर' यानी हटाना।",
+   "hint_en": "'Nirai' means removing.",
+   "solution_hi": "खरपतवार फसलों के पोषक तत्व छीन लेते हैं;\nइन्हें हटाना निराई कहलाता है।",
+   "solution_en": "Weeds rob crops of nutrients;\nremoving them is called weeding."
+  },
+  {
+   "skill_id": "s8c1s4",
+   "difficulty": 2,
+   "text_hi": "बड़े स्तर पर अनाज के भंडारण हेतु प्रयुक्त होते हैं —",
+   "text_en": "For large-scale grain storage, we use -",
+   "options": [
+    "साइलो",
+    "कठिया",
+    "चटाई",
+    "थैले ही"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "भंडार गृह के बड़े ढाँचे।",
+   "hint_en": "Big warehouse structures.",
+   "solution_hi": "साइलो बड़े भंडारण के ढाँचे हैं;\nकठिया घरेलू भंडारण के लिए होता है।",
+   "solution_en": "Silos are large-scale storage structures;\nbins are used at home level."
+  },
+  {
+   "skill_id": "s8c1s4",
+   "difficulty": 2,
+   "text_hi": "अनाज को कीड़े से बचाने के लिए उपयोग आता है —",
+   "text_en": "Grains are protected from pests using -",
+   "options": [
+    "उचित रासायनिक उपचार/नीम पत्तियाँ",
+    "अधिक पानी",
+    "धूप में भिगोना",
+    "बर्फ़"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "घर में दादी नीम की पत्तियाँ डालती थीं।",
+   "hint_en": "Grandmothers added neem leaves.",
+   "solution_hi": "भंडारण में नीम पत्तियाँ या उपयुक्त रासायनिक उपचार कीट रोकते हैं;\nनमी और हवा से बचाया जाता है।",
+   "solution_en": "Neem leaves or approved chemicals deter pests;\ngrains are kept dry and airtight."
+  },
+  {
+   "skill_id": "s8c1s4",
+   "difficulty": 3,
+   "text_hi": "फसल-चक्रण अपनाने का मुख्य कारण है —",
+   "text_en": "The main reason for adopting crop rotation is -",
+   "options": [
+    "मृदा उर्वरता बनी रहती है",
+    "कटाई जल्दी होती है",
+    "बीज सस्ते मिलते हैं",
+    "सिंचाई नहीं करनी पड़ती"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दलहन और अनाज बारी-बारी से।",
+   "hint_en": "Alternate legumes and cereals.",
+   "solution_hi": "भिन्न फसलें मिट्टी से भिन्न तत्व लेती हैं;\nचक्रण से उर्वरता बनी रहती है और कीट घटते हैं।",
+   "solution_en": "Different crops take different nutrients;\nrotation maintains fertility and cuts pests."
+  },
+  {
+   "skill_id": "s8c2s1",
+   "difficulty": 1,
+   "text_hi": "दही जमाने में सहायक सूक्ष्मजीव है —",
+   "text_en": "The microorganism that helps set curd is -",
+   "options": [
+    "लैक्टोबैसिलस (जीवाणु)",
+    "यीस्ट (कवक)",
+    "अमीबा",
+    "वायरस"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दूध का लैक्टोज देखिए।",
+   "hint_en": "Think lacto- as in lactose.",
+   "solution_hi": "लैक्टोबैसिलस दूध का लैक्टोज दही में बदलता है;\nयह जीवाणु है।",
+   "solution_en": "Lactobacillus converts milk sugar into curd;\nit is a bacterium."
+  },
+  {
+   "skill_id": "s8c2s1",
+   "difficulty": 1,
+   "text_hi": "सबसे छोटा सूक्ष्मजीव है —",
+   "text_en": "The smallest microorganism is -",
+   "options": [
+    "वायरस",
+    "जीवाणु",
+    "प्रोटोजोआ",
+    "कवक"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "जीवित कोशिका के बाहर निष्क्रिय रहता है।",
+   "hint_en": "Inactive outside a living cell.",
+   "solution_hi": "वायरस सबसे छोटे सूक्ष्मजीव हैं;\nये केवल जीवित कोशिका में गुणन करते हैं।",
+   "solution_en": "Viruses are the smallest microbes;\nthey reproduce only inside living cells."
+  },
+  {
+   "skill_id": "s8c2s1",
+   "difficulty": 2,
+   "text_hi": "रोटी पर पीले-काले धब्बे किस सूक्ष्मजीव के कारण होते हैं?",
+   "text_en": "Yellow-black patches on bread are caused by which microorganism?",
+   "options": [
+    "फफूंद (कवक)",
+    "जीवाणु",
+    "प्रोटोजोआ",
+    "शैवाल"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "रोटी पर फफूंद उगती है।",
+   "hint_en": "Bread grows mould.",
+   "solution_hi": "रोटी पर उगने वाली फफूंद एक कवक है;\nयह बीजाणुओं से फैलती है।",
+   "solution_en": "The patch on bread is a mould fungus;\nit spreads via spores."
+  },
+  {
+   "skill_id": "s8c2s1",
+   "difficulty": 2,
+   "text_hi": "अमीबा किस वर्ग का सूक्ष्मजीव है?",
+   "text_en": "Amoeba belongs to which group of microorganisms?",
+   "options": [
+    "प्रोटोजोआ",
+    "जीवाणु",
+    "वायरस",
+    "कवक"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "यह कूट-पाद से चलता है।",
+   "hint_en": "It moves with false feet.",
+   "solution_hi": "अमीबा एककोशिकीय प्रोटोजोआ है;\nकूटपाद बनाकर चलता व भोजन लेता है।",
+   "solution_en": "Amoeba is a single-celled protozoan;\nit moves and feeds using pseudopodia."
+  },
+  {
+   "skill_id": "s8c2s2",
+   "difficulty": 2,
+   "text_hi": "मवेशियों का एंथ्रैक्स रोग किसके कारण होता है?",
+   "text_en": "Anthrax disease in cattle is caused by -",
+   "options": [
+    "जीवाणु",
+    "वायरस",
+    "प्रोटोजोआ",
+    "कवक"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बैसिलस नाम का जीवाणु।",
+   "hint_en": "A rod-shaped bacterium.",
+   "solution_hi": "एंथ्रैक्स बैसिलस जीवाणु से होता है;\nयह मनुष्यों में भी हो सकता है।",
+   "solution_en": "Anthrax is caused by Bacillus bacteria;\nhumans can also catch it."
+  },
+  {
+   "skill_id": "s8c2s2",
+   "difficulty": 1,
+   "text_hi": "डेंगू रोग किस कीट द्वारा फैलता है?",
+   "text_en": "Which insect spreads dengue?",
+   "options": [
+    "एडीस मादा मच्छर",
+    "घरेलू मक्खी",
+    "कॉकरोच",
+    "मकड़ी"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सफेद-काली धारीदार मच्छर।",
+   "hint_en": "Black mosquito with white stripes.",
+   "solution_hi": "डेंगू एडीस मादा मच्छर के काटने से फैलता है;\nसाफ-सफाई से रोका जा सकता है।",
+   "solution_en": "Dengue spreads by bites of female Aedes mosquito;\nclean surroundings prevent it."
+  },
+  {
+   "skill_id": "s8c2s2",
+   "difficulty": 2,
+   "text_hi": "मलेरिया रोग का कारक है —",
+   "text_en": "Malaria is caused by -",
+   "options": [
+    "प्लाज्मोडियम (प्रोटोजोआ)",
+    "जीवाणु",
+    "कवक",
+    "वायरस"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अनोफिलीज मच्छर इसे फैलाता है।",
+   "hint_en": "Female Anopheles transmits it.",
+   "solution_hi": "मलेरिया प्लाज्मोडियम नामक प्रोटोजोआ से होता है;\nइसे मादा एनाफिलीज मच्छर फैलाता है।",
+   "solution_en": "Malaria is caused by Plasmodium, a protozoan;\nfemale Anopheles spreads it."
+  },
+  {
+   "skill_id": "s8c2s2",
+   "difficulty": 3,
+   "text_hi": "क्षय (TB) रोग का कारक सूक्ष्मजीव है —",
+   "text_en": "The causative microorganism of tuberculosis (TB) is -",
+   "options": [
+    "जीवाणु",
+    "वायरस",
+    "कवक",
+    "शैवाल"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "BCG टीका इससे बचाव करता है।",
+   "hint_en": "BCG vaccine protects against it.",
+   "solution_hi": "क्षय माइकोबैक्टीरियम जीवाणु से होता है;\nBCG टीके से बचाव संभव है।",
+   "solution_en": "TB is caused by Mycobacterium bacteria;\nBCG vaccination offers protection."
+  },
+  {
+   "skill_id": "s8c2s3",
+   "difficulty": 1,
+   "text_hi": "दूध को कई दिनों तक रखने के लिए की जाने वाली प्रक्रिया है —",
+   "text_en": "The heat-treatment of milk to preserve it is -",
+   "options": [
+    "पाश्चरायज़ेशन",
+    "उत्प्रेरण",
+    "आसवन",
+    "क्रिस्टलन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "लुई पाश्चर का नाम जुड़ा है।",
+   "hint_en": "Named after Louis Pasteur.",
+   "solution_hi": "पाश्चरायज़ेशन में दूध गर्म कर तुरंत ठंडा किया जाता है;\nहानिकारक सूक्ष्मजीव नष्ट हो जाते हैं।",
+   "solution_en": "In pasteurisation milk is heated briefly then chilled;\nharmful microbes are killed."
+  },
+  {
+   "skill_id": "s8c2s3",
+   "difficulty": 2,
+   "text_hi": "अचार लंबे समय तक खराब नहीं होता क्योंकि —",
+   "text_en": "Pickles last long because -",
+   "options": [
+    "नमक व तेल सूक्ष्मजीवों की वृद्धि रोकते हैं",
+    "अचार में हवा नहीं होती",
+    "सूरज की रोशनी रोगाणु मारती है",
+    "मिर्च सब मार देती है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "नमक पानी खींचता है।",
+   "hint_en": "Salt pulls water out of microbes.",
+   "solution_hi": "अधिक नमक व तेल की परत सूक्ष्मजीवों की वृद्धि रोकती है;\nइसलिए अचार महीनों चलता है।",
+   "solution_en": "High salt and an oil layer stop microbial growth;\nso pickles stay good for months."
+  },
+  {
+   "skill_id": "s8c2s3",
+   "difficulty": 2,
+   "text_hi": "फ्रिज में भोजन अधिक दिन चलता है क्योंकि —",
+   "text_en": "Food lasts longer in a refrigerator because -",
+   "options": [
+    "कम ताप पर सूक्ष्मजीवों की क्रिया धीमी हो जाती है",
+    "ठंड से सूक्ष्मजीव बढ़ते हैं",
+    "प्रकाश नहीं पड़ता",
+    "पानी जम जाता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ठंडा ताप = धीमी जीवन क्रियाएँ।",
+   "hint_en": "Cold slows life processes.",
+   "solution_hi": "कम तापमान पर सूक्ष्मजीवों की वृद्धि धीमी होती है;\nइसलिए भोजन अधिक दिन अच्छा रहता है।",
+   "solution_en": "Low temperature slows microbial growth;\nhence food stays fresh longer."
+  },
+  {
+   "skill_id": "s8c2s3",
+   "difficulty": 3,
+   "text_hi": "धूप में सुखाकर मिर्च रखने की विधि आधारित है —",
+   "text_en": "Sun-drying of chillies is a preservation method based on -",
+   "options": [
+    "निर्जलीकरण (सूखना)",
+    "ठंडा करना",
+    "मीठा करना",
+    "वायुरोधी पैकिंग ही"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "नमी हटाना = सूक्ष्मजीवों को रोकना।",
+   "hint_en": "Removing moisture stops microbes.",
+   "solution_hi": "सूखने से नमी नष्ट होती है;\nबिना नमी सूक्ष्मजीव नहीं पनपते।",
+   "solution_en": "Drying removes moisture;\nwithout moisture microbes cannot grow."
+  },
+  {
+   "skill_id": "s8c2s4",
+   "difficulty": 2,
+   "text_hi": "दलहनी फसलों की जड़-गाँठों में पाया जाने वाला जीवाणु है —",
+   "text_en": "The bacterium found in root nodules of leguminous plants is -",
+   "options": [
+    "राइजोबियम",
+    "लैक्टोबैसिलस",
+    "स्टेफायलोकोकस",
+    "यीस्ट"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "यह वायुमंडलीय नाइट्रोजन ठीक करता है।",
+   "hint_en": "It fixes atmospheric nitrogen.",
+   "solution_hi": "राइजोबियम वायुमंडलीय नाइट्रोजन को उपयोगी यौगिकों में बदलता है;\nदलहनों के साथ सहजीवी जीवन जीता है।",
+   "solution_en": "Rhizobium converts atmospheric nitrogen into usable forms;\nliving symbiotically with legumes."
+  },
+  {
+   "skill_id": "s8c2s4",
+   "difficulty": 2,
+   "text_hi": "वायुमंडल में नाइट्रोजन की मात्रा लगभग है —",
+   "text_en": "Nitrogen makes up about what share of the atmosphere?",
+   "options": [
+    "78%",
+    "21%",
+    "45%",
+    "95%"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ऑक्सीजन 21% है, बाकी सबसे बड़ा हिस्सा नाइट्रोजन।",
+   "hint_en": "Oxygen is 21%; nitrogen dominates the rest.",
+   "solution_hi": "वायुमंडल का लगभग 78% नाइट्रोजन है;\nपौधे इसे सीधे उपयोग नहीं कर सकते।",
+   "solution_en": "About 78% of air is nitrogen;\nplants cannot use it directly."
+  },
+  {
+   "skill_id": "s8c2s4",
+   "difficulty": 3,
+   "text_hi": "किसान दलहन को फसल-चक्र में रखता है क्योंकि —",
+   "text_en": "Farmers include legumes in crop rotation because -",
+   "options": [
+    "मिट्टी में नाइट्रोजन बढ़ती है",
+    "पानी की मांग घटती है",
+    "फसल जल्दी कटती है",
+    "बीज बड़े मिलते हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "राइजोबियम से जुड़ा लाभ सोचिए।",
+   "hint_en": "Link this with Rhizobium's gift.",
+   "solution_hi": "दलहनों की जड़ों में राइजोबियम नाइट्रोजन स्थिर करता है;\nमिट्टी उर्वर बनी रहती है।",
+   "solution_en": "Rhizobium fixes nitrogen in legume roots;\nsoil stays fertile."
+  },
+  {
+   "skill_id": "s8c2s4",
+   "difficulty": 3,
+   "text_hi": "नाइट्रोजन स्थिरीकरण में वायुमंडलीय N2 बदलता है —",
+   "text_en": "During nitrogen fixation, atmospheric N2 is converted into -",
+   "options": [
+    "पौधों के उपयोग योग्य नाइट्रोजन यौगिक",
+    "शुद्ध नाइट्रोजन गैस",
+    "ऑक्सीजन",
+    "कार्बन डाइऑक्साइड"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पौधे नाइट्रेट/अमोनियम ले सकते हैं।",
+   "hint_en": "Plants absorb nitrates/ammonium.",
+   "solution_hi": "स्थिरीकरण में N2 उपयोगी यौगिकों (नाइट्रेट/अमोनिया) में बदलता है;\nये प्रोटीन निर्माण में काम आते हैं।",
+   "solution_en": "Fixation turns N2 into plant-usable compounds (nitrates/ammonia);\nused to build proteins."
+  },
+  {
+   "skill_id": "s8c3s1",
+   "difficulty": 1,
+   "text_hi": "विद्युत की सर्वोत्तम चालक धातु है —",
+   "text_en": "The best conductor of electricity among metals is -",
+   "options": [
+    "चाँदी",
+    "तांबा",
+    "लोहा",
+    "एल्युमिनियम"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "महंगी धातु जीत जाती है।",
+   "hint_en": "The costliest metal wins.",
+   "solution_hi": "चाँदी विद्युत की सर्वोत्तम चालक है;\nमहंगी होने से तारों में तांबा उपयोग होता है।",
+   "solution_en": "Silver conducts electricity best;\ndue to cost, copper wires are used."
+  },
+  {
+   "skill_id": "s8c3s1",
+   "difficulty": 1,
+   "text_hi": "धातुओं का वह गुण जिससे वे पीटकर पतली चादर बन जाती हैं —",
+   "text_en": "The property by which metals can be beaten into thin sheets is -",
+   "options": [
+    "आघातवर्ध्यता",
+    "तन्यता",
+    "ध्वनि उत्पादकता",
+    "चमक"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'पीटना' = आघात।",
+   "hint_en": "Beating = hammering.",
+   "solution_hi": "आघातवर्ध्यता के कारण धातुएँ चादर बनती हैं;\nएल्युमिनियम फॉयल इसका उदाहरण है।",
+   "solution_en": "Malleability lets metals form sheets;\naluminium foil is an example."
+  },
+  {
+   "skill_id": "s8c3s1",
+   "difficulty": 2,
+   "text_hi": "कमरे के ताप पर द्रव अवस्था में पाई जाने वाली धातु है —",
+   "text_en": "The metal that is liquid at room temperature is -",
+   "options": [
+    "पारा",
+    "सोडियम",
+    "गैलियम",
+    "जस्ता"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "थर्मामीटर में उपयोग होती है।",
+   "hint_en": "Used in thermometers.",
+   "solution_hi": "पारा कमरे के ताप पर द्रव धातु है;\nथर्मामीटर में काम आती है।",
+   "solution_en": "Mercury is liquid at room temperature;\nused in thermometers."
+  },
+  {
+   "skill_id": "s8c3s1",
+   "difficulty": 2,
+   "text_hi": "वह अधातु जो विद्युत का सुचालक है —",
+   "text_en": "The non-metal that conducts electricity is -",
+   "options": [
+    "ग्रेफाइट",
+    "सल्फर",
+    "ऑक्सीजन",
+    "फॉस्फोरस"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पेंसिल की लीड में मौजूद।",
+   "hint_en": "Present in pencil lead.",
+   "solution_hi": "ग्रेफाइट (कार्बन का रूप) विद्युत सुचालक है;\nइसमें मुक्त इलेक्ट्रॉन होते हैं।",
+   "solution_en": "Graphite (a carbon form) conducts electricity;\nit has free electrons."
+  },
+  {
+   "skill_id": "s8c3s2",
+   "difficulty": 1,
+   "text_hi": "धातु + ऑक्सीजन से बनता है —",
+   "text_en": "Metal + oxygen forms -",
+   "options": [
+    "क्षारीय धातु ऑक्साइड",
+    "अम्ल",
+    "गैस ही",
+    "कोई अभिक्रिया नहीं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "Mg जलता है तो सफेद चूर्ण बनता है।",
+   "hint_en": "Burning Mg gives white powder.",
+   "solution_hi": "धातुएँ ऑक्सीजन से क्षारीय ऑक्साइड बनाती हैं;\nजैसे 2Mg + O2 = 2MgO।",
+   "solution_en": "Metals form basic oxides with oxygen;\ne.g., 2Mg + O2 -> 2MgO."
+  },
+  {
+   "skill_id": "s8c3s2",
+   "difficulty": 1,
+   "text_hi": "लोहे पर जंग लगने के लिए आवश्यक हैं —",
+   "text_en": "Rusting of iron requires -",
+   "options": [
+    "ऑक्सीजन व नमी",
+    "केवल ऑक्सीजन",
+    "केवल नमी",
+    "सूर्य का प्रकाश"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "शुष्क रेगिस्तान में जंग कम लगती है।",
+   "hint_en": "Dry deserts see little rust.",
+   "solution_hi": "जंग के लिए ऑक्सीजन और नमी दोनों चाहिए;\nलाल भूरा जंग लोहे का ऑक्साइड है।",
+   "solution_en": "Both oxygen and moisture are needed for rust;\nrust is reddish-brown iron oxide."
+  },
+  {
+   "skill_id": "s8c3s2",
+   "difficulty": 2,
+   "text_hi": "अधातुओं के ऑक्साइडों का स्वभाव होता है —",
+   "text_en": "Non-metal oxides are generally -",
+   "options": [
+    "अम्लीय",
+    "क्षारीय",
+    "उदासीन",
+    "धात्विक"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "CO2 पानी में घुले तो?",
+   "hint_en": "What if CO2 dissolves in water?",
+   "solution_hi": "अधातु ऑक्साइड अम्लीय होते हैं;\nCO2 जल से कार्बोनिक अम्ल बनाता है।",
+   "solution_en": "Non-metal oxides are acidic;\nCO2 with water forms carbonic acid."
+  },
+  {
+   "skill_id": "s8c3s2",
+   "difficulty": 3,
+   "text_hi": "सोडियम को पानी में फेंकने पर —",
+   "text_en": "When sodium is dropped in water, it -",
+   "options": [
+    "तेज़ अभिक्रिया करता है, आग भी लग सकती है",
+    "धीरे-धीरे घुलता है",
+    "कुछ नहीं होता",
+    "बर्फ बन जाता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सोडियम केरोसिन में क्यों रखते हैं?",
+   "hint_en": "Why is sodium stored in kerosene?",
+   "solution_hi": "सोडियम पानी से तेज़ अभिक्रिया कर H2 छोड़ता है;\nगर्मी से गैस आग पकड़ सकती है।",
+   "solution_en": "Sodium reacts violently releasing hydrogen;\nheat may ignite the gas."
+  },
+  {
+   "skill_id": "s8c3s3",
+   "difficulty": 1,
+   "text_hi": "विद्युत के तार अधिकतर बनाए जाते हैं —",
+   "text_en": "Electric wires are mostly made of -",
+   "options": [
+    "तांबा",
+    "लोहा",
+    "सीसा",
+    "जस्ता"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अच्छा चालक, सस्ता, तन्य।",
+   "hint_en": "Good conductor, cheap, ductile.",
+   "solution_hi": "तांबा उत्तम चालक व तन्य है;\nइसलिए तारों में उपयोग होता है।",
+   "solution_en": "Copper is an excellent conductor and ductile;\nhence used in wiring."
+  },
+  {
+   "skill_id": "s8c3s3",
+   "difficulty": 3,
+   "text_hi": "लोहे की कील को कॉपर सल्फेट विलयन में रखने पर —",
+   "text_en": "An iron nail dipped in copper sulphate solution -",
+   "options": [
+    "विलयन हल्का पड़ता है और तांबा जमा होता है",
+    "विलयन गहरा नीला हो जाता है",
+    "कुछ नहीं होता",
+    "लोहा पूरा घुल जाता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अधिक सक्रिय धातु कम सक्रिय को विस्थापित करती है।",
+   "hint_en": "More reactive metal displaces less reactive.",
+   "solution_hi": "Fe, Cu से अधिक सक्रिय है;\nFeSO4 बनता है और Cu निकल आता है।",
+   "solution_en": "Iron is more reactive than copper;\niron sulphate forms and copper is displaced out."
+  },
+  {
+   "skill_id": "s8c3s3",
+   "difficulty": 2,
+   "text_hi": "लोहे के बर्तनों पर जस्ते की परत चढ़ाना कहलाता है —",
+   "text_en": "Coating iron utensils with zinc is called -",
+   "options": [
+    "गैल्वनीकरण",
+    "विद्युत अपघटन",
+    "आसवन",
+    "क्रिस्टलन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "जंग से बचाव की तकनीक।",
+   "hint_en": "A rust-protection technique.",
+   "solution_hi": "गैल्वनीकरण में लोहे पर Zn की परत लगती है;\nZn जंग से बचाता है।",
+   "solution_en": "Galvanisation puts a zinc layer on iron;\nzinc protects against rust."
+  },
+  {
+   "skill_id": "s8c3s3",
+   "difficulty": 2,
+   "text_hi": "रसोई के बर्तन धातु के बनाए जाते हैं क्योंकि धातुएँ —",
+   "text_en": "Cooking vessels are made of metal because metals -",
+   "options": [
+    "ऊष्मा के अच्छे चालक हैं",
+    "ऊष्मा के कुचालक हैं",
+    "हल्की होती हैं",
+    "सदा सस्ती होती हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बर्तन की तली जल्दी गर्म क्यों होती है?",
+   "hint_en": "Why does the pan base heat fast?",
+   "solution_hi": "धातुएँ ऊष्मा की अच्छी चालक हैं;\nइसलिए भोजन समान रूप से पकता है।",
+   "solution_en": "Metals conduct heat well;\nfood cooks evenly."
+  },
+  {
+   "skill_id": "s8c3s4",
+   "difficulty": 1,
+   "text_hi": "पीतल बना होता है —",
+   "text_en": "Brass is made of -",
+   "options": [
+    "तांबा व जस्ता",
+    "तांबा व टिन",
+    "लोहा व कार्बन",
+    "एल्युमिनियम व मैग्नीशियम"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दो धातुएँ: लाल और नीली-सफेद।",
+   "hint_en": "Two metals: reddish and bluish-white.",
+   "solution_hi": "पीतल = तांबा + जस्ता;\nकांसा = तांबा + टिन।",
+   "solution_en": "Brass = copper + zinc;\nbronze = copper + tin."
+  },
+  {
+   "skill_id": "s8c3s4",
+   "difficulty": 1,
+   "text_hi": "कांसा (ब्रॉन्ज़) किन धातुओं का मिश्रण है?",
+   "text_en": "Bronze is an alloy of -",
+   "options": [
+    "तांबा व टिन",
+    "तांबा व जस्ता",
+    "लोहा व निकिल",
+    "सोना व चाँदी"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "प्राचीन मूर्तियाँ इसी से ढली हैं।",
+   "hint_en": "Ancient statues were cast in it.",
+   "solution_hi": "कांसा तांबा व टिन की मिश्रधातु है;\nयह कठोर व टिकाऊ होता है।",
+   "solution_en": "Bronze is copper+tin alloy;\nhard and durable."
+  },
+  {
+   "skill_id": "s8c3s4",
+   "difficulty": 2,
+   "text_hi": "स्टेनलेस स्टील में लोहे के साथ मुख्यतः मिलाई जाती है —",
+   "text_en": "Stainless steel mainly contains iron mixed with -",
+   "options": [
+    "क्रोमियम व निकिल",
+    "सोना व चाँदी",
+    "टिन व सीसा",
+    "पारा व सोडियम"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'स्टेनलेस' यानी दाग-जंग रहित।",
+   "hint_en": "'Stainless' = stain-proof.",
+   "solution_hi": "स्टेनलेस स्टील = लोहा + क्रोमियम + निकिल;\nयह जंग नहीं खाता।",
+   "solution_en": "Stainless steel = iron + chromium + nickel;\nit resists rusting."
+  },
+  {
+   "skill_id": "s8c3s4",
+   "difficulty": 2,
+   "text_hi": "मिश्रधातुएँ बनाई जाती हैं क्योंकि ये —",
+   "text_en": "Alloys are made because they -",
+   "options": [
+    "शुद्ध धातुओं से बेहतर गुण देती हैं",
+    "सदा सस्ती होती हैं",
+    "हमेशा हल्की होती हैं",
+    "जंग हमेशा लगाती हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कठोरता, चमक, जंग-प्रतिरोध सोचिए।",
+   "hint_en": "Think hardness, shine, rust-resistance.",
+   "solution_hi": "मिश्रधातुएँ कठोरता, चमक व जंग-प्रतिरोध बढ़ाती हैं;\nगुण आवश्यकता अनुसार बनाए जाते हैं।",
+   "solution_en": "Alloys improve hardness, lustre and rust resistance;\nproperties are tuned to need."
+  },
+  {
+   "skill_id": "s8c4s1",
+   "difficulty": 1,
+   "text_hi": "कोयला व पेट्रोलियम जीवाश्म ईंधन कहलाते हैं क्योंकि —",
+   "text_en": "Coal and petroleum are called fossil fuels because -",
+   "options": [
+    "ये प्राचीन जीवों के अवशेषों से बने हैं",
+    "ये पत्थरों से बनते हैं",
+    "ये जंगलों में मिलते हैं",
+    "ये रंग में भूरे होते हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'जीवाश्म' = प्राचीन जीवों के चिन्ह।",
+   "hint_en": "Fossil = remains of ancient life.",
+   "solution_hi": "दबे प्राचीन जीव-वनस्पति अवशेष दाब-ऊष्मा से ईंधन बने;\nइसलिए जीवाश्म ईंधन कहलाते हैं।",
+   "solution_en": "Buried ancient biomass changed under heat and pressure over ages;\nhence fossil fuels."
+  },
+  {
+   "skill_id": "s8c4s1",
+   "difficulty": 2,
+   "text_hi": "कोयला बनने की प्रक्रिया कहलाती है —",
+   "text_en": "The process of coal formation is called -",
+   "options": [
+    "कार्बनीकरण",
+    "आसवन",
+    "दहन",
+    "संघनन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कार्बन का बढ़ता प्रतिशत सोचिए।",
+   "hint_en": "Carbon content keeps rising.",
+   "solution_hi": "दबे पेड़-पौधों में कार्बन प्रतिशत बढ़ता जाता है;\nइस प्रक्रिया को कार्बनीकरण कहते हैं।",
+   "solution_en": "Carbon percentage rises in buried vegetation;\nthe process is carbonisation."
+  },
+  {
+   "skill_id": "s8c4s1",
+   "difficulty": 2,
+   "text_hi": "कोयला बनने का प्रथम (सबसे कम कार्बन वाला) चरण है —",
+   "text_en": "The first stage of coal (lowest carbon content) is -",
+   "options": [
+    "पीट",
+    "बिटुमिनस",
+    "एंथ्रेसाइट",
+    "लिग्नाइट"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "क्रम: पीट, लिग्नाइट, बिटुमिनस, एंथ्रेसाइट।",
+   "hint_en": "Order: peat, lignite, bituminous, anthracite.",
+   "solution_hi": "पीट प्रथम चरण है (कम कार्बन);\nएंथ्रेसाइट में सर्वाधिक कार्बन होता है।",
+   "solution_en": "Peat is the first stage with least carbon;\nanthracite has the most."
+  },
+  {
+   "skill_id": "s8c4s1",
+   "difficulty": 3,
+   "text_hi": "पेट्रोलियम माना जाता है कि बना है —",
+   "text_en": "Petroleum is believed to have formed from -",
+   "options": [
+    "समुद्री सूक्ष्मजीव व पादप अवशेष",
+    "हिमनदी",
+    "ज्वालामुखी लावा",
+    "मिट्टी के कण"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "समुद्र तल के नीचे दबी परतें।",
+   "hint_en": "Layers buried under sea beds.",
+   "solution_hi": "समुद्री जीव-वनस्पति तलछट में दबकर दाब-ऊष्मा से पेट्रोलियम बना;\nयह अनवीकरणीय स्रोत है।",
+   "solution_en": "Marine organisms buried in sediment became petroleum under heat-pressure;\nit is non-renewable."
+  },
+  {
+   "skill_id": "s8c4s2",
+   "difficulty": 1,
+   "text_hi": "कच्चे तेल से भिन्न-भिन्न उत्पाद अलग करना कहलाता है —",
+   "text_en": "Separating different products from crude oil is called -",
+   "options": [
+    "परिष्करण (आसवन)",
+    "दहन",
+    "कार्बनीकरण",
+    "संघनन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "भिन्न क्वथनांक पर भिन्न भाग निकलते हैं।",
+   "hint_en": "Different boiling points separate fractions.",
+   "solution_hi": "परिष्करण मीनार में क्वथनांक के अनुसार भाग अलग होते हैं;\nहल्की गैसें ऊपर, भारी अवशेष नीचे।",
+   "solution_en": "Fractional distillation separates fractions by boiling point;\nlight gases rise, heavy residue stays down."
+  },
+  {
+   "skill_id": "s8c4s2",
+   "difficulty": 2,
+   "text_hi": "पेट्रोलियम परिष्करण में सबसे ऊपर कौन-सा उत्पाद निकलता है?",
+   "text_en": "Which petroleum product collects at the top of the distillation column?",
+   "options": [
+    "पेट्रोलियम गैस (LPG)",
+    "डीज़ल",
+    "पैराफिन मोम",
+    "आसफाल्ट"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सबसे हल्का, सबसे कम क्वथनांक।",
+   "hint_en": "Lightest, lowest boiling point.",
+   "solution_hi": "कम क्वथनांक वाली पेट्रोलियम गैस शीर्ष पर मिलती है;\nनीचे डीज़ल, तेल व मोम आते हैं।",
+   "solution_en": "Petroleum gas (lowest bp) comes off the top;\ndiesel, oil and wax come lower."
+  },
+  {
+   "skill_id": "s8c4s2",
+   "difficulty": 2,
+   "text_hi": "कोयले के शुष्क आसवन से प्राप्त लगभग शुद्ध कार्बन है —",
+   "text_en": "The almost pure carbon obtained from destructive distillation of coal is -",
+   "options": [
+    "कोक",
+    "कोल टार",
+    "कोयला गैस",
+    "पीट"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "इससे इस्पात बनाया जाता है।",
+   "hint_en": "Used in steel making.",
+   "solution_hi": "कोक लगभग शुद्ध कार्बन है;\nधातुकर्म व इस्पात उद्योग में काम आता है।",
+   "solution_en": "Coke is nearly pure carbon;\nused in metallurgy and steel making."
+  },
+  {
+   "skill_id": "s8c4s2",
+   "difficulty": 3,
+   "text_hi": "पेट्रोल इंजन वाले वाहन हैं —",
+   "text_en": "Vehicles with petrol engines include -",
+   "options": [
+    "दोपहिया व हल्के वाहन",
+    "भारी ट्रक",
+    "बड़े जहाज",
+    "रेल इंजन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हल्के वाहन पेट्रोल पर चलते हैं।",
+   "hint_en": "Light vehicles run on petrol.",
+   "solution_hi": "स्कूटर, मोटरसाइकिल जैसे हल्के वाहन पेट्रोल पर चलते हैं;\nभारी वाहनों में प्रायः डीज़ल होता है।",
+   "solution_en": "Scooters and motorcycles run on petrol;\nheavy vehicles mostly use diesel."
+  },
+  {
+   "skill_id": "s8c4s3",
+   "difficulty": 1,
+   "text_hi": "CNG का प्रमुख घटक है —",
+   "text_en": "The major component of CNG is -",
+   "options": [
+    "मीथेन",
+    "एथेन",
+    "प्रोपेन",
+    "ब्यूटेन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सबसे सरल हाइड्रोकार्बन CH4।",
+   "hint_en": "Simplest hydrocarbon, CH4.",
+   "solution_hi": "CNG में मुख्यतः मीथेन (CH4) होती है;\nयह स्वच्छ ईंधन मानी जाती है।",
+   "solution_en": "CNG is chiefly methane (CH4);\nit is considered a clean fuel."
+  },
+  {
+   "skill_id": "s8c4s3",
+   "difficulty": 2,
+   "text_hi": "दिल्ली के वाहनों में CNG के उपयोग से —",
+   "text_en": "Using CNG in Delhi vehicles led to -",
+   "options": [
+    "वायु प्रदूषण में कमी",
+    "प्रदूषण में वृद्धि",
+    "पेट्रोल की मांग बढ़ी",
+    "यातायात घटा"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "स्वच्छ दहन सोचिए।",
+   "hint_en": "Cleaner combustion.",
+   "solution_hi": "CNG के दहन से कम धुआँ व कार्बन कण निकलते हैं;\nइससे वायु गुणवत्ता सुधरी।",
+   "solution_en": "CNG burns cleaner with less soot;\nair quality improved."
+  },
+  {
+   "skill_id": "s8c4s3",
+   "difficulty": 2,
+   "text_hi": "भारत में प्राकृतिक गैस के प्रमुख क्षेत्रों में है —",
+   "text_en": "A major natural gas region of India is -",
+   "options": [
+    "कृष्णा-गोदावरी घाटी",
+    "थार का दक्षिणी भाग",
+    "हिमालय की चोटियाँ",
+    "सुंदरवन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "आंध्र प्रदेश की नदी घाटी।",
+   "hint_en": "A river basin in Andhra Pradesh.",
+   "solution_hi": "कृष्णा-गोदावरी घाटी व मुंबई हाई प्रमुख गैस क्षेत्र हैं;\nइनसे उर्वरक उद्योग चलते हैं।",
+   "solution_en": "Krishna-Godavari basin and Mumbai High supply natural gas;\nfeedstock for fertiliser plants."
+  },
+  {
+   "skill_id": "s8c4s3",
+   "difficulty": 3,
+   "text_hi": "प्राकृतिक गैस का उपयोग नहीं होता —",
+   "text_en": "Natural gas is NOT used for -",
+   "options": [
+    "पेंट की बाल्टी ठंडी रखने",
+    "बिजली उत्पादन",
+    "उर्वरक निर्माण",
+    "वाहन ईंधन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बाकी तीन वास्तविक उपयोग हैं।",
+   "hint_en": "The other three are real uses.",
+   "solution_hi": "प्राकृतिक गैस ईंधन, उर्वरक व रसायन उद्योग में लगती है;\nपेंट ठंडा करने का उपयोग नहीं है।",
+   "solution_en": "Gas is used as fuel and in fertiliser/chemical industry;\ncooling paint buckets is not a use."
+  },
+  {
+   "skill_id": "s8c4s4",
+   "difficulty": 1,
+   "text_hi": "ईंधन बचाने के लिए चाहिए —",
+   "text_en": "To save fuel, we should -",
+   "options": [
+    "लाल बत्ती पर इंजन बंद करना",
+    "AC हमेशा चालू रखना",
+    "अकेले भी कार चलाना",
+    "ढीले टायर रखना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बेकार का दहन रोकिए।",
+   "hint_en": "Stop needless burning.",
+   "solution_hi": "लाल बत्ती पर इंजन बंद करने से ईंधन बचता है;\nसाझा वाहन भी उपयोगी है।",
+   "solution_en": "Switching off engines at signals saves fuel;\ncarpooling helps too."
+  },
+  {
+   "skill_id": "s8c4s4",
+   "difficulty": 2,
+   "text_hi": "जीवाश्म ईंधन संरक्षण का उदाहरण है —",
+   "text_en": "An example of conserving fossil fuels is -",
+   "options": [
+    "सौर कुकर का उपयोग",
+    "अधिक डीज़ल खरीदना",
+    "चूल्हे में नमी रखना",
+    "खुले ताप में भोजन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सूरज की ऊर्जा मुफ्त है।",
+   "hint_en": "Sunlight is free.",
+   "solution_hi": "सौर कुकर से खाना पकाने पर LPG/कोयला बचता है;\nनवीकरणीय स्रोत का उपयोग संरक्षण है।",
+   "solution_en": "Solar cookers cut LPG/coal use;\nusing renewables is conservation."
+  },
+  {
+   "skill_id": "s8c4s4",
+   "difficulty": 2,
+   "text_hi": "जीवाश्म ईंधन की सबसे बड़ी समस्या है —",
+   "text_en": "The biggest problem with fossil fuels is -",
+   "options": [
+    "अनवीकरणीय होना व प्रदूषण",
+    "असीमित भंडार",
+    "सस्ता परिवहन",
+    "स्वच्छ दहन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "एक बार खत्म, तो सदा के लिए।",
+   "hint_en": "Once gone, gone forever.",
+   "solution_hi": "जीवाश्म ईंधन अनवीकरणीय हैं और दहन पर प्रदूषण फैलाते हैं;\nविवेकपूर्ण उपयोग आवश्यक है।",
+   "solution_en": "Fossil fuels are non-renewable and polluting;\njudicious use is essential."
+  },
+  {
+   "skill_id": "s8c4s4",
+   "difficulty": 3,
+   "text_hi": "ईंधन के संदर्भ में 'Reduce' का अर्थ है —",
+   "text_en": "In the context of fuel, 'Reduce' means -",
+   "options": [
+    "उपयोग घटाना",
+    "पुनः भरना",
+    "पुनः बनाना",
+    "दूर फेंकना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "3R: Reduce, Reuse, Recycle।",
+   "hint_en": "3Rs: Reduce, Reuse, Recycle.",
+   "solution_hi": "Reduce अर्थ उपयोग घटाना;\nReuse दोबारा उपयोग और Recycle नई वस्तु बनाना है।",
+   "solution_en": "Reduce means using less;\nReuse is repeat use, Recycle is remaking."
+  },
+  {
+   "skill_id": "s8c5s1",
+   "difficulty": 1,
+   "text_hi": "कोशिका की खोज किसने की थी?",
+   "text_en": "Who discovered the cell?",
+   "options": [
+    "रॉबर्ट हुक",
+    "रॉबर्ट ब्राउन",
+    "ल्यूवेनहॉक",
+    "श्लाइडेन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "1665 में कॉर्क की पतली काट देखी।",
+   "hint_en": "He saw cork slices in 1665.",
+   "solution_hi": "रॉबर्ट हुक ने 1665 में कॉर्क की काट में कोशिकाएँ देखीं;\nउन्होंने 'cell' शब्द दिया।",
+   "solution_en": "Robert Hooke saw cells in cork in 1665;\nhe coined the word 'cell'."
+  },
+  {
+   "skill_id": "s8c5s1",
+   "difficulty": 1,
+   "text_hi": "कोशिका कहलाती है —",
+   "text_en": "The cell is known as -",
+   "options": [
+    "जीवन की संरचनात्मक व क्रियात्मक इकाई",
+    "जीवन की सबसे बड़ी इकाई",
+    "केवल ऊतक का भाग",
+    "मृत इकाई"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सभी जीव इसी से बने हैं।",
+   "hint_en": "All organisms are built from them.",
+   "solution_hi": "कोशिका सबसे छोटी जीवित इकाई है;\nसंरचना व कार्य दोनों इसी पर निर्भर हैं।",
+   "solution_en": "Cells are the smallest living units;\nboth structure and function depend on them."
+  },
+  {
+   "skill_id": "s8c5s1",
+   "difficulty": 2,
+   "text_hi": "मानव शरीर की सबसे बड़ी कोशिका है —",
+   "text_en": "The largest cell in the human body is -",
+   "options": [
+    "अंडाणु कोशिका",
+    "तंत्रिका कोशिका",
+    "RBC",
+    "WBC"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "नाखून के सिरे जितनी दिखाई देती है।",
+   "hint_en": "Visible to the naked eye.",
+   "solution_hi": "मानव अंडाणु सबसे बड़ी कोशिका है;\nतंत्रिका कोशिका सबसे लंबी होती है।",
+   "solution_en": "The human egg cell is the largest;\nnerve cells are the longest."
+  },
+  {
+   "skill_id": "s8c5s1",
+   "difficulty": 2,
+   "text_hi": "कोशिका सिद्धांत दिया —",
+   "text_en": "Cell theory was proposed by -",
+   "options": [
+    "श्लाइडेन व श्वान",
+    "रॉबर्ट हुक",
+    "पाश्चर",
+    "डार्विन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दो वैज्ञानिक, नाम S और S से।",
+   "hint_en": "Two scientists, initials S and S.",
+   "solution_hi": "श्लाइडेन (1838) व श्वान (1839) ने कोशिका सिद्धांत दिया;\nसभी जीव कोशिकाओं से बने हैं।",
+   "solution_en": "Schleiden (1838) and Schwann (1839) proposed cell theory;\nall organisms are made of cells."
+  },
+  {
+   "skill_id": "s8c5s2",
+   "difficulty": 1,
+   "text_hi": "कोशिका का 'ऊर्जा गृह' है —",
+   "text_en": "The powerhouse of the cell is -",
+   "options": [
+    "माइटोकॉन्ड्रिया",
+    "राइबोसोम",
+    "रिक्तिका",
+    "केंद्रक"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "श्वसन से ऊर्जा (ATP) बनती है।",
+   "hint_en": "Respiration here releases ATP.",
+   "solution_hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन होता है;\nATP ऊर्जा यहीं बनती है।",
+   "solution_en": "Mitochondria carry out cellular respiration;\nATP energy is produced here."
+  },
+  {
+   "skill_id": "s8c5s2",
+   "difficulty": 2,
+   "text_hi": "प्रोटीन का निर्माण करता है —",
+   "text_en": "Protein synthesis is carried out by -",
+   "options": [
+    "राइबोसोम",
+    "रिक्तिका",
+    "केंद्रक द्रव्य",
+    "प्लास्टिड"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कोशिका की 'प्रोटीन फैक्ट्री'।",
+   "hint_en": "The cell's protein factory.",
+   "solution_hi": "राइबोसोम प्रोटीन बनाते हैं;\nये कोशिकाद्रव्य व रफ ER पर पाए जाते हैं।",
+   "solution_en": "Ribosomes build proteins;\nfound free in cytoplasm and on rough ER."
+  },
+  {
+   "skill_id": "s8c5s2",
+   "difficulty": 2,
+   "text_hi": "प्रकाश-संश्लेषण करने वाला कोशिकांग है —",
+   "text_en": "The organelle responsible for photosynthesis is -",
+   "options": [
+    "क्लोरोप्लास्ट",
+    "माइटोकॉन्ड्रिया",
+    "गॉल्जी बॉडी",
+    "लाइसोसोम"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "इसमें हरा रंगद्रव्य होता है।",
+   "hint_en": "Contains the green pigment.",
+   "solution_hi": "क्लोरोप्लास्ट में क्लोरोफिल होता है;\nसूर्य प्रकाश पकड़कर भोजन बनाता है।",
+   "solution_en": "Chloroplast contains chlorophyll;\ntraps sunlight to make food."
+  },
+  {
+   "skill_id": "s8c5s2",
+   "difficulty": 3,
+   "text_hi": "कोशिका का 'नियंत्रण कक्ष' है —",
+   "text_en": "The control room of the cell is -",
+   "options": [
+    "केंद्रक",
+    "राइबोसोम",
+    "लाइसोसोम",
+    "रिक्तिका"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "DNA यहीं रहता है।",
+   "hint_en": "DNA resides here.",
+   "solution_hi": "केंद्रक में DNA होता है जो कोशिका के कार्य निर्देशित करता है;\nइसे नियंत्रण कक्ष कहते हैं।",
+   "solution_en": "The nucleus holds DNA directing cell activities;\nhence the control centre."
+  },
+  {
+   "skill_id": "s8c5s3",
+   "difficulty": 1,
+   "text_hi": "पादप कोशिका में जंतु कोशिका से अतिरिक्त होती है —",
+   "text_en": "Plant cells have an extra layer absent in animal cells -",
+   "options": [
+    "कोशिका भित्ति",
+    "केंद्रक",
+    "कोशिका झिल्ली",
+    "कोशिकाद्रव्य"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सेल्युलोज की बाहरी दीवार।",
+   "hint_en": "Outer wall of cellulose.",
+   "solution_hi": "पादप कोशिका में सेल्युलोज की कोशिका भित्ति होती है;\nयह सुरक्षा व निश्चित आकार देती है।",
+   "solution_en": "Plant cells have a cellulose cell wall;\nit gives shape and protection."
+  },
+  {
+   "skill_id": "s8c5s3",
+   "difficulty": 2,
+   "text_hi": "केवल पादप कोशिका में पाए जाते हैं —",
+   "text_en": "Found only in plant cells -",
+   "options": [
+    "प्लास्टिड",
+    "माइटोकॉन्ड्रिया",
+    "राइबोसोम",
+    "केंद्रक"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "रंग देने वाले कोशिकांग।",
+   "hint_en": "Pigment-holding organelles.",
+   "solution_hi": "प्लास्टिड (जैसे क्लोरोप्लास्ट) केवल पादप कोशिकाओं में होते हैं;\nरंग व भोजन निर्माण से जुड़े हैं।",
+   "solution_en": "Plastids (like chloroplasts) occur only in plant cells;\nlinked to colour and food-making."
+  },
+  {
+   "skill_id": "s8c5s3",
+   "difficulty": 2,
+   "text_hi": "पादप कोशिका की रिक्तिका जंतु कोशिका की अपेक्षा —",
+   "text_en": "Compared to animal cells, plant cell vacuoles are -",
+   "options": [
+    "बड़ी व स्थायी",
+    "छोटी",
+    "अनुपस्थित",
+    "गोलाकार नहीं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पके आम की रसीली कोशिकाएँ सोचिए।",
+   "hint_en": "Think juicy cells of a ripe mango.",
+   "solution_hi": "पादप कोशिका में बड़ी केंद्रीय रिक्तिका होती है;\nजल, भोजन व अपशिष्ट संग्रहित रहते हैं।",
+   "solution_en": "Plant cells have a large central vacuole;\nstoring water, food and waste."
+  },
+  {
+   "skill_id": "s8c5s3",
+   "difficulty": 3,
+   "text_hi": "जंतु कोशिका का आकार प्रायः कैसा होता है?",
+   "text_en": "Animal cells generally have what kind of shape?",
+   "options": [
+    "अनियमित (बदलता)",
+    "निश्चित षट्कोणीय",
+    "हमेशा वर्गाकार",
+    "केवल गोलाकार"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "भित्ति न होने से आकार बदलता है।",
+   "hint_en": "No wall, flexible shape.",
+   "solution_hi": "कोशिका भित्ति न होने से जंतु कोशिकाएँ अनियमित होती हैं;\nलचीली झिल्ली आकार बदलने देती है।",
+   "solution_en": "Without a wall, animal cells are irregular;\nflexible membranes allow shape change."
+  },
+  {
+   "skill_id": "s8c5s4",
+   "difficulty": 1,
+   "text_hi": "वृद्धि व मरम्मत के लिए कोशिका विभाजन है —",
+   "text_en": "Cell division for growth and repair is -",
+   "options": [
+    "माइटोसिस",
+    "मियोसिस",
+    "कोई नहीं",
+    "दोनों"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "समान संख्या वाली बेटी कोशिकाएँ।",
+   "hint_en": "Daughter cells get equal chromosome numbers.",
+   "solution_hi": "माइटोसिस में गुणसूत्र संख्या समान रहती है;\nवृद्धि व क्षत-रोपण में काम आता है।",
+   "solution_en": "Mitosis keeps chromosome number constant;\nit drives growth and healing."
+  },
+  {
+   "skill_id": "s8c5s4",
+   "difficulty": 2,
+   "text_hi": "लैंगिक (जनन) कोशिकाएँ बनती हैं —",
+   "text_en": "Gametes are formed by -",
+   "options": [
+    "मियोसिस",
+    "माइटोसिस",
+    "वृद्धि से",
+    "कोई विभाजन नहीं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "गुणसूत्र संख्या आधी हो जाती है।",
+   "hint_en": "Chromosome number becomes half.",
+   "solution_hi": "मियोसिस से जनन कोशिकाएँ बनती हैं;\nगुणसूत्र संख्या आधी रह जाती है।",
+   "solution_en": "Meiosis produces gametes;\nhalving chromosome number."
+  },
+  {
+   "skill_id": "s8c5s4",
+   "difficulty": 2,
+   "text_hi": "माइटोसिस में बेटी कोशिकाओं की संख्या होती है —",
+   "text_en": "How many daughter cells does mitosis produce?",
+   "options": [
+    "2",
+    "4",
+    "6",
+    "8"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "एक बनता है दो।",
+   "hint_en": "One becomes two.",
+   "solution_hi": "माइटोसिस में 2 समान बेटी कोशिकाएँ बनती हैं;\nमियोसिस में 4 बनती हैं।",
+   "solution_en": "Mitosis yields 2 identical daughters;\nmeiosis yields 4."
+  },
+  {
+   "skill_id": "s8c5s4",
+   "difficulty": 3,
+   "text_hi": "मियोसिस के बाद बनी कोशिकाओं में गुणसूत्र —",
+   "text_en": "After meiosis, the daughter cells have chromosomes that are -",
+   "options": [
+    "मातृ कोशिका की आधी संख्या में",
+    "दुगुनी संख्या में",
+    "समान संख्या में",
+    "शून्य"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "निषेचन पर संख्या पुनः पूर्ण।",
+   "hint_en": "Fertilisation restores the number.",
+   "solution_hi": "मियोसिस में गुणसूत्र आधे हो जाते हैं;\nनिषेचन पर पुनः पूर्ण संख्या बनती है।",
+   "solution_en": "Meiosis halves chromosomes;\nfertilisation restores the full set."
+  },
+  {
+   "skill_id": "s8c6s1",
+   "difficulty": 1,
+   "text_hi": "बल का SI मात्रक है —",
+   "text_en": "The SI unit of force is -",
+   "options": [
+    "न्यूटन",
+    "जूल",
+    "पास्कल",
+    "वाट"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सेब गिराने वाले वैज्ञानिक का नाम।",
+   "hint_en": "Named after the apple-falling scientist.",
+   "solution_hi": "बल का SI मात्रक न्यूटन (N) है;\n1N = 1 kg.m/s^2।",
+   "solution_en": "Force is measured in newtons;\n1N = 1 kg.m/s^2."
+  },
+  {
+   "skill_id": "s8c6s1",
+   "difficulty": 1,
+   "text_hi": "दबाव डालकर गत्ती का आकार बदलना दर्शाता है कि बल —",
+   "text_en": "Pressing cardboard to change its shape shows force can -",
+   "options": [
+    "आकार बदल सकता है",
+    "रंग बदल सकता है",
+    "स्वाद बदल सकता है",
+    "ध्वनि बदल सकता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "गति भी, आकार भी।",
+   "hint_en": "Motion and shape both.",
+   "solution_hi": "बल वस्तु की गति अवस्था या आकार बदल सकता है;\nगत्ती मुड़ना आकार परिवर्तन है।",
+   "solution_en": "Force can change state of motion or shape;\nbending cardboard is shape change."
+  },
+  {
+   "skill_id": "s8c6s1",
+   "difficulty": 2,
+   "text_hi": "चुंबकीय बल है —",
+   "text_en": "Magnetic force is a -",
+   "options": [
+    "असंपर्क बल",
+    "संपर्क बल",
+    "घर्षण बल",
+    "तनाव बल"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "छुए बिना लोहा खींचता है।",
+   "hint_en": "Pulls iron without touching.",
+   "solution_hi": "चुंबक बिना संपर्क लोहे पर बल लगाता है;\nयह असंपर्क बल है।",
+   "solution_en": "Magnets attract iron without touching;\nso it is a non-contact force."
+  },
+  {
+   "skill_id": "s8c6s1",
+   "difficulty": 2,
+   "text_hi": "घर्षण बल हमेशा लगता है —",
+   "text_en": "Friction always acts -",
+   "options": [
+    "गति के विपरीत",
+    "गति की दिशा में",
+    "ऊपर की ओर",
+    "बिना दिशा"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "साइकिल रुकने में यही मदद करता है।",
+   "hint_en": "It helps bicycles stop.",
+   "solution_hi": "घर्षण गति का विरोध करता है;\nइसलिए दिशा गति के विपरीत होती है।",
+   "solution_en": "Friction opposes relative motion;\nits direction opposes movement."
+  },
+  {
+   "skill_id": "s8c6s2",
+   "difficulty": 1,
+   "text_hi": "दाब का सूत्र है —",
+   "text_en": "Pressure equals -",
+   "options": [
+    "बल ÷ क्षेत्रफल",
+    "बल × क्षेत्रफल",
+    "क्षेत्रफल ÷ बल",
+    "द्रव्यमान × वेग"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कम जगह, अधिक असर।",
+   "hint_en": "Less area, more effect.",
+   "solution_hi": "दाब = बल/क्षेत्रफल;\nSI मात्रक पास्कल है।",
+   "solution_en": "Pressure = force/area;\nSI unit is pascal."
+  },
+  {
+   "skill_id": "s8c6s2",
+   "difficulty": 2,
+   "text_hi": "चाकू की धार तीक्ष्ण रखते हैं क्योंकि —",
+   "text_en": "Knife edges are kept sharp because -",
+   "options": [
+    "कम क्षेत्रफल पर अधिक दाब पड़ता है",
+    "धार सुंदर दिखती है",
+    "भार घटता है",
+    "रंग बदलता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "क्षेत्रफल घटे, दाब बढ़े।",
+   "hint_en": "Smaller area raises pressure.",
+   "solution_hi": "तीक्ष्ण धार पर क्षेत्रफल घटता है;\nउसी बल पर दाब बढ़कर कटाई आसान होती है।",
+   "solution_en": "A sharp edge reduces area;\nsame force gives higher pressure for cutting."
+  },
+  {
+   "skill_id": "s8c6s2",
+   "difficulty": 1,
+   "text_hi": "दाब का SI मात्रक है —",
+   "text_en": "The SI unit of pressure is -",
+   "options": [
+    "पास्कल",
+    "न्यूटन",
+    "जूल",
+    "वाट"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "N/m^2 का नाम।",
+   "hint_en": "Name for N/m^2.",
+   "solution_hi": "दाब का SI मात्रक पास्कल (Pa) है;\n1 Pa = 1 N/m^2।",
+   "solution_en": "Pressure's SI unit is pascal;\n1 Pa = 1 N/m^2."
+  },
+  {
+   "skill_id": "s8c6s2",
+   "difficulty": 2,
+   "text_hi": "ऊँट के पैर चौड़े होते हैं क्योंकि —",
+   "text_en": "Camels have broad feet because -",
+   "options": [
+    "क्षेत्रफल बढ़ने से दाब घटता है",
+    "दाब बढ़ता है",
+    "वजन घटता है",
+    "रेत ठंडी रहती है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "रेत में न धँसने का राज़।",
+   "hint_en": "Secret of not sinking in sand.",
+   "solution_hi": "चौड़े पैरों से क्षेत्रफल बढ़ता है;\nकम दाब के कारण ऊँट रेत में नहीं धँसता।",
+   "solution_en": "Broad feet increase area;\nlower pressure keeps camels from sinking."
+  },
+  {
+   "skill_id": "s8c6s3",
+   "difficulty": 1,
+   "text_hi": "द्रवों में दाब गहराई बढ़ने पर —",
+   "text_en": "As depth increases in a liquid, pressure -",
+   "options": [
+    "बढ़ता है",
+    "घटता है",
+    "स्थिर रहता है",
+    "शून्य हो जाता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बांध की दीवार नीचे मोटी क्यों?",
+   "hint_en": "Why are dam walls thicker at bottom?",
+   "solution_hi": "द्रव दाब गहराई के साथ बढ़ता है;\nइसलिए बांध की दीवार नीचे मोटी बनाई जाती है।",
+   "solution_en": "Liquid pressure grows with depth;\ndams are thicker at the base."
+  },
+  {
+   "skill_id": "s8c6s3",
+   "difficulty": 2,
+   "text_hi": "बंद ठोस पर दाब सभी दिशाओं में —",
+   "text_en": "Pressure applied to an enclosed fluid is transmitted -",
+   "options": [
+    "सभी दिशाओं में समान रूप से",
+    "केवल नीचे",
+    "केवल ऊपर",
+    "कहीं नहीं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पास्कल का नियम याद कीजिए।",
+   "hint_en": "Recall Pascal's law.",
+   "solution_hi": "बंद द्रव पर लगाया दाब सभी दिशाओं में समान संचरित होता है;\nहाइड्रोलिक लिफ्ट इसी पर काम करती है।",
+   "solution_en": "Enclosed fluids transmit pressure equally in all directions;\nhydraulic lifts use this."
+  },
+  {
+   "skill_id": "s8c6s3",
+   "difficulty": 2,
+   "text_hi": "स्ट्रॉ (पीने की नली) से पेय ऊपर आता है क्योंकि —",
+   "text_en": "A drink rises through a straw because -",
+   "options": [
+    "वायुमंडलीय दाब पेय को धकेलता है",
+    "स्ट्रॉ चूसता है",
+    "पेय हल्का होता है",
+    "गुरुत्व उल्टा हो जाता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "मुँह से हवा निकाली तो अंदर का दाब घटा।",
+   "hint_en": "Sucking lowers pressure inside.",
+   "solution_hi": "मुँह से हवा निकालने पर स्ट्रॉ में दाब घटता है;\nबाहर का वायुदाब पेय को ऊपर धकेल देता है।",
+   "solution_en": "Sucking lowers pressure inside the straw;\natmospheric pressure pushes the drink up."
+  },
+  {
+   "skill_id": "s8c6s3",
+   "difficulty": 3,
+   "text_hi": "बांध की दीवार नीचे की ओर अधिक मोटी बनाई जाती है क्योंकि —",
+   "text_en": "Dam walls are made thicker at the bottom because -",
+   "options": [
+    "गहराई पर पानी का दाब अधिक होता है",
+    "नीचे पानी ठंडा होता है",
+    "ऊपर दीवार कमजोर होती है",
+    "मछलियों के लिए जगह"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "गहराई और दाब का संबंध सोचिए।",
+   "hint_en": "Link depth with pressure.",
+   "solution_hi": "द्रव दाब गहराई के साथ बढ़ता है;\nइसलिए तली के पास दीवार मोटी रखी जाती है।",
+   "solution_en": "Liquid pressure increases with depth;\nso walls are thicker near the base."
+  },
+  {
+   "skill_id": "s8c6s4",
+   "difficulty": 1,
+   "text_hi": "गुरुत्वाकर्षण बल का उदाहरण है —",
+   "text_en": "An example of gravitational force is -",
+   "options": [
+    "पेड़ से सेब गिरना",
+    "मेज पर किताब रहना",
+    "हथौड़ा चलना",
+    "रस्सी खिंचना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बिना छुए नीचे खींचने वाला बल।",
+   "hint_en": "An unseen pull downward.",
+   "solution_hi": "पृथ्वी वस्तुओं को बिना संपर्क नीचे खींचती है;\nगिरता सेब इसका उदाहरण है।",
+   "solution_en": "Earth pulls objects down without contact;\na falling apple shows it."
+  },
+  {
+   "skill_id": "s8c6s4",
+   "difficulty": 1,
+   "text_hi": "संपर्क बल का उदाहरण है —",
+   "text_en": "An example of contact force is -",
+   "options": [
+    "घर्षण",
+    "चुंबकीय बल",
+    "गुरुत्वाकर्षण",
+    "स्थिरवैद्युत बल"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सतहें छूती हैं तभी लगता है।",
+   "hint_en": "Acts only when surfaces touch.",
+   "solution_hi": "घर्षण तभी लगता है जब सतहें संपर्क में हों;\nयह संपर्क बल है।",
+   "solution_en": "Friction acts only when surfaces touch;\nit is a contact force."
+  },
+  {
+   "skill_id": "s8c6s4",
+   "difficulty": 2,
+   "text_hi": "चुंबक दूर रखे लोहे की कील को —",
+   "text_en": "A magnet can move an iron nail placed nearby -",
+   "options": [
+    "बिना छुए खींच सकता है",
+    "केवल छूकर खींच सकता है",
+    "कभी नहीं खींच सकता",
+    "पानी में ही खींचता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "असंपर्क बल की परिभाषा सोचिए।",
+   "hint_en": "Definition of non-contact force.",
+   "solution_hi": "चुंबकीय बल असंपर्क बल है;\nबिना छुए कील को खींच सकता है।",
+   "solution_en": "Magnetic force is non-contact;\nit can pull the nail without touching."
+  },
+  {
+   "skill_id": "s8c6s4",
+   "difficulty": 2,
+   "text_hi": "स्थिरवैद्युत बल (कंघी कागज़ की बिटियाँ उठाना) है —",
+   "text_en": "Electrostatic force (comb lifting paper bits) is a -",
+   "options": [
+    "असंपर्क बल",
+    "संपर्क बल",
+    "घर्षण बल ही",
+    "संतुलित बल"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कंघी बालों में मलने पर आवेशित होती है।",
+   "hint_en": "Rubbing charges the comb.",
+   "solution_hi": "आवेशित कंघी बिना छुए कागज़ की बिटियाँ उठा लेती है;\nयह असंपर्क बल है।",
+   "solution_en": "A charged comb lifts paper bits without touching;\nso it is a non-contact force."
+  }
+ ]
+}

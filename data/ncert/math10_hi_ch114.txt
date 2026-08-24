@@ -1,0 +1,764 @@
+izkf;drk
+223
+14
+The theory of probabilities and the theory of errors now constitute
+a formidable body of great mathematical interest and of great
+practical importance
+(izkf;drkvksa osQ fl¼kar vkSj =kqfV;ksa osQ fl¼kar vc vfr xf.krh; #fp dk rFkk
+vfr O;kogkfjd egRo dk ,d fo'kky lewg LFkkfir djrs gSaA)
+– R.S. Woodward
+14.1 izkf;drk µµ ,d lS¼kafrd n`f"Vdks.k
+vkb, fuEufyf[kr fLFkfr ij fopkj djsa%
+eku yhft, ,d flDosQ dks ;kn`PN;k mNkyk tkrk gSA
+tc ge ,d flDosQ dh ckr djrs gSa] rc ge ;g dYiuk djrs gSa fd og U;k;laxr
+(fair) gSA vFkkZr~ og lefer (symmetrical) gS] rkfd dksbZ dkj.k u gks fd og ,d
+gh vksj] nwljh vksj dh vis{kk] vf/d fxjsA ge flDosQ osQ bl xq.k dks mldk
+vi{kikriw.kZ (unbiased) gksuk dgrs gSaA ^;kn`PN;k mNky* (random toss) ls gekjk
+rkRi;Z gS fd flDosQ dks fcuk fdlh i{kikr (bias) ;k #dkoV osQ Lora=krkiwoZd fxjus
+fn;k tkrk gSA
+ge igys ls tkurs gSa fd flDdk nks laHko fof/;ksa esa ls osQoy ,d gh fof/ ls
+fxj ldrk gS µ ;k rks fpr Åij gksxk ;k fiQj iV Åij gksxk ¹ge flDosQ osQ] mlosQ
+fdukjs (edge) osQ vuqfn'k fxjus dh laHkkouk dks vLohdkj djrs gSa] tks mnkgj.kkFkZ] rc
+laHko gS tc flDdk jsr ij fxjsºA ge ;g roZQlaxr:i ls eku ldrs gSa fd izR;sd
+izkf;drk
+Reprint 2026-27
+
+224
+xf.kr
+ifj.kke] fpr ;k iV] dk izdV gksuk mruh gh ckj gks ldrk gS ftruk fd vU; ifj.kke
+dkA nwljs 'kCnksa esa ge dgrs gSa fd ifj.kke fpr vkSj iV leizkf;d (equally likely)
+gSaA leizkf;d ifj.kkeksa osQ ,d vU; mnkgj.k osQ fy, eku yhft, fd ge ,d ikls dks
+isaQdrs gSaA gekjs fy,] ,d ikls dk vFkZ lnSo ,d U;k;laxr ikls ls gksxkA laHko ifj.kke
+D;k gS\ ;s 1, 2, 3, 4, 5, 6 gSaA izR;sd la[;k osQ Åij vkus dh leku laHkkouk gSA vr%]
+ikls dks isaQdus ls izkIr gksus okys leizkf;d ifj.kke 1, 2, 3, 4, 5 vkSj 6 gSaA
+D;k izR;sd iz;ksx osQ ifj.kke leizkf;d gksrs gSa\ vkb, ns[ksaA
+eku yhft, ,d FkSys esa 4 yky xsansa vkSj 1 uhyh xasn gS rFkk vki bl FkSys esa ls]
+fcuk FkSys osQ vanj oqQN ns[ksa] ,d xsan fudkyrs gSaA blosQ D;k ifj.kke gSa\ D;k ,d yky
+xsan vkSj ,d uhyh xsan osQ ifj.kke leizkf;d gSa\ pw¡fd ;gk¡ 4 yky xsansa gSa vkSj uhyh
+xsan osQoy ,d gh] vr% vki ;g vo'; Lohdkj djsaxs fd vkiosQ }kjk ,d uhyh xsan
+dh vis{kk ,d yky xsan fudkyus dh laHkkouk vf/d gSA vr% ;s ifj.kke (,d yky
+xsan vkSj ,d uhyh xsan) leizkf;d ugha gSaA ijarq FkSys esa ls fdlh Hkh jax dh xsan fudkyus
+osQ ifj.kke leizkf;d gSaA
+vr%] lHkh iz;ksxksa osQ ifj.kkeksa dk leizkf;d gksuk vko';d ugha gSA ijarq] bl
+vè;k; esa] ge vkxs ;g ekudj pysaxs fd lHkh iz;ksxksa osQ ifj.kke leizkf;d gSaA
+d{kk IX esa] geus ,d ?kVuk E dh iz;ksxkRed ;k vkuqHkfod izkf;drk P(E) dks
+fuEufyf[kr :i esa ifjHkkf"kr fd;k Fkk %
+P(E) = vfHki;z ksxkas dh la[;k ftueas ?kVuk ?kfVr gqbZ gS
+vfHki;z ksxkas dh oqQy l[a ;k
+izkf;drk dh vkuqHkfod O;k[;k dk cM+h la[;k esa nksgjk, tk ldus okys fdlh Hkh
+iz;ksx ls tqM+s izR;sd ?kVuk osQ fy, vuqiz;ksx fd;k tk ldrk gSA fdlh iz;ksx dks nksgjkus
+dh vko';drk ,d xaHkhj ifjlhek gS] D;ksafd vusd fLFkfr;ksa esa ;g vf/d O;; okyk gks
+ldrk gS ;k ;g Hkh gks ldrk gS fd ,slk djuk laHko gh u gksA fuLlansg] flDdk mNkyus
+;k iklk isaQdus osQ iz;ksxksa esa] blesa dksbZ dfBukbZ ugha gqbZA ijarq ,d mixzg (satellite) NksM+us
+osQ iz;ksx dks ;g ifjdfyr djus osQ fy, ckj&ckj nksgjkus dh NksM+rs le; mldh
+vliQyrk dh vkuqHkfor izkf;drk D;k gS] osQ ckjs esa vki D;k lksprs gSa vFkok ;g fd ,d
+HkwoaQi osQ dkj.k dksbZ cgqeaftyh bekjr u"V gksxh ;k ugha] dh vkuqHkfod izkf;drk
+ifjdfyr djus osQ fy, HkwoaQi dh ifj?kVuk osQ nksckjk ?kfVr gksus osQ ckjs esa vki D;k dg
+ldrs gSa\
+Reprint 2026-27
+
+izkf;drk
+225
+,sls iz;ksxksa esa] tgk¡ ge oqQN dYiukvksa dks lgh ekuus dks rS;kj gks tk,¡] ge ,d iz;ksx
+osQ nksgjkus ls cp ldrs gSa] D;ksafd os dYiuk,¡ lh/s lgh (lS¼kafrd) izkf;drk ifjdfyr
+djus esa gekjh lgk;rk djrh gSaA ifj.kkeksa osQ leizkf;d gksus dh dYiuk (tks vusd iz;ksxksa
+esa ekU; gksrh gS] tSls fd Åij flDdk mNkyus vkSj iklk isaQdus osQ nksuksa mnkgj.kksa esa gS)
+bu dYiukvksa esa ls ,d gS tks gesa fdlh ?kVuk dh izkf;drk dh fuEufyf[kr ifjHkk"kk dh
+vksj vxzlj djrh gSA
+fdlh ?kVuk E dh lS¼kafrd izkf;drk (theoretical probability) ¹ftls ijaijkxr
+izkf;drk (classical probability) Hkh dgk tkrk gSAº P(E) fuEufyf[kr :i esa ifjHkkf"kr
+dh tkrh gS
+P(E) = 
+E osQ vuqoQw y ifj.kkeksa dh l[a ;k
+i;z ksx oQs lHkh lHa ko ifj.kkekas dh l[a ;k
+;gk¡ ge ;g dYiuk djrs gSa fd iz;ksx osQ ifj.kke leizkf;d gSaA
+ge laf{kIr :i esa] lS¼kafrd izkf;drk dks osQoy izkf;drk gh dgsaxsA
+izkf;drk dh mijksDr ifjHkk"kk 1795 esa fi;js&lkbeu ykIykl (Pierre- Simon Laplace)
+us nh FkhA
+izkf;drk fl¼kar dk lw=kikr 16oha 'krkCnh esa gqvk] tc ,d
+brkyoh HkkSfrd'kkL=kh ,oa xf.krK ts- dkMZu us bl fo"k; ij
+igyh iqLrd fy[kh] ftldk uke Fkk % The Book on Games
+of Chance vius izknqHkkZo ls gh] izkf;drk osQ vè;;u dks
+egku xf.krKksa dk è;ku viuh vksj vkd£"kr fd;kA bu
+xf.krKksa esa tsEl cuwZyh (1654&1705)] ,-M+h eksbojs
+(1667&1754) vkSj fi;js&lkbeu ykIykl ,sls yksx gSa ftUgksaus
+bl {ks=k esa ,d lkFkZd ;ksxnku fn;kA ykIykl }kjk 1812 esa
+fy[kh xbZ o`Qfr (Theorie Analytiquedes Probabilities) dks
+,d vosQys O;fDr }kjk izkf;drk osQ fl¼kar osQ fy, fd;k x;k
+lcls cM+k ;ksxnku ekuk tkrk gSA gky gh osQ oqQN o"kks± esa] izkf;drk dk vusd {ks=kksa]
+tSls fd tSfodh] vFkZ'kkL=k] oa'k lacaèkh 'kkL=k (genetics), HkkSfrdh] lekt'kkL=k bR;kfn
+{ks=kksa esa izpqj ek=kk esa mi;ksx fd;k tk jgk gSA
+fi;js&lkbeu ykIykl
+(1749 – 1827)
+Reprint 2026-27
+
+226
+xf.kr
+vkb, ,sls iz;ksxksa ls lacaf/r oqQN ?kVukvksa dh izkf;drk Kkr djsa] ftuesa leizkf;d
+gksus dh dYiuk ekU; gSA
+mnkgj.k 1 : ,d fpr izkIr djus dh izkf;drk Kkr dhft,] tc ,d flDosQ dks ,d ckj
+mNkyk tkrk gSA lkFk gh] ,d iV izkIr djus dh Hkh izkf;drk Kkr dhft,A
+gy : ,d flDosQ dks ,d ckj mNkyus osQ iz;ksx esa] laHko ifj.kkeksa dh la[;k 2 gS –
+fpr (H) vkSj iV (T) A eku yhft, ?kVuk E ^fpr izkIr djuk* gSA rc] E  osQ vuqowQy
+(vFkkZr~ fpr izkIr djus osQ vuqowQy) ifj.kke 1 gSA vr%]
+P(E) = P (fpr) = E oQs vuoq Qw y ifj.kkeksa dh l[a ;k
+lHkh laHko ifj.kkekas dh l[a ;k
+ = 1
+2
+blh izdkj] ;fn ?kVuk F iV izkIr djuk gS] rks
+P(F) = P (iV) = 1
+2
+(D;ksa\)
+mnkgj.k 2 : ,d FkSys esa ,d yky xsan] ,d uhyh xsan vkSj ,d ihyh xsan gS rFkk lHkh
+xsans ,d gh lkbt dh gSaA o`Qfrdk fcuk FkSys osQ vanj >k¡osQ] blesa ls ,d xsan fudkyrh
+gSA bldh D;k izkf;drk gS fd og xsan
+(i) ihyh gksxh\
+(ii) yky gksxh\
+(iii) uhyh gksxh\
+gy : o`Qfrdk FkSys esa ls] mlesa fcuk >k¡osQ] xsan fudkyrh gSA vr%] mlosQ }kjk dksbZ Hkh
+xsan fudkyuk leizkf;d gSA
+ekuk ^ihyh xsan fudkyuk* ?kVuk  Y  gS] ^yky xsan fudkyuk* ?kVuk  R  gS rFkk ^uhyh
+xsan fudkyuk* ?kVuk B gSA
+vc] lHkh laHko ifj.kkeksa dh la[;k = 3 gSA
+(i) ?kVuk Y osQ vuqowQy ifj.kkeksa dh la[;k = 1
+vr%
+P(Y) = 1
+3
+blh izdkj] P(R) = 1
+3 vkSj P(B) = 1
+3
+fVIi.kh :
+(1) fdlh iz;ksx dh og ?kVuk ftldk osQoy ,d gh ifj.kke gks izkjafHkd ?kVuk
+(elementary event) dgykrh gSA mnkgj.k 1 esa nksuksa ?kVuk,¡  E vkSj F izkjafHkd ?kVuk,¡ gSaA
+Reprint 2026-27
+
+izkf;drk
+227
+blh izdkj] mnkgj.k 2 esa] ?kVuk Y, R vkSj B esa izR;sd ,d izkjafHkd ?kVuk gSA
+(2) mnkgj.k 1 esa] ge ns[krs gSa fd P(E) + P(F) = 1
+mnkgj.k 2 esa] ge ns[krs gSa fd P(Y) + P(B) + P(R) = 1
+è;ku nhft, fd fdlh iz;ksx dh lHkh izkjafHkd ?kVukvksa dh izkf;drkvksa dk ;ksx
+1 gSA ;g O;kid :i esa Hkh lR; gSA
+mnkgj.k 3 : eku yhft, ge ,d ikls dks ,d ckj isaQdrs gSaA (i) 4 ls cM+h la[;k izkIr gksus
+dh izkf;drk D;k gS\ (ii) 4 ls NksVh ;k mlosQ cjkcj la[;k izkIr gksus dh izkf;drk D;k gS\
+gy : (i) ;gk¡ eku yhft, fd ^4 ls cM+h la[;k izkIr djuk* ?kVuk E gSA lHkh laHko
+ifj.kke N% gSa] ;s 1, 2, 3, 4, 5 vkSj 6 gSa A Li"Vr%] ?kVuk E osQ vuqowQy ifj.kke 5 vkSj 6
+gaSA vr% E osQ vuqowQy ifj.kkeksa dh la[;k 2 gSA blfy,
+P(E) = P(4 ls cM+h la[;k) = 2
+6 = 1
+3
+(ii) eku yhft, ^4 ls NksVh ;k mlosQ cjkcj la[;k izkIr djuk* ?kVuk F gSA
+lHkh laHko ifj.kke = 6 gSaA
+?kVuk F osQ vuqowQy ifj.kke 1, 2, 3 vkSj 4  gSaA
+vr% F  osQ vuqowQy ifj.kkeksa dh la[;k 4 gSA
+blfy,
+P(F) = 4
+6 = 2
+3
+D;k mijksDr mnkgj.k esa nh gqbZ ?kVuk E vkSj F izkjafHkd ?kVuk,¡ gSa\ ugha] ;s izkjafHkd
+?kVuk,¡ ugha gSa] D;ksafd ?kVuk  E  osQ 2 ifj.kke gSa rFkk ?kVuk F osQ 4 ifj.kke gSaA
+fVIi.kh : mnkgj.k 1 ls] ge ns[krs gSa fd
+P(E) + P(F) = 1
+1
+1
+2
+2
+
+
+(1)
+tgk¡ ?kVuk E ^,d fpr izkIr djuk* gS rFkk ?kVuk F  ^,d iV izkIr djuk* gSA
+mnkgj.k 3 osQ (i) vkSj (ii) ls Hkh ge ns[krs gSa fd
+P(E) + P(F) = 1
+2
+1
+3
+3
++
+=
+(2)
+Reprint 2026-27
+
+228
+xf.kr
+tgk¡ ?kVuk E ^4 ls cM+h la[;k izkIr djuk* rFkk ?kVuk F ^4 osQ cjkcj ;k de la[;k izkIr
+djuk* gSA
+è;ku nhft, fd 4 ls cM+h la[;k ugha izkIr djus dk vFkZ ogh gS tks 4 ls NksVh ;k mlosQ
+cjkcj la[;k izkIr djus dk gS vkSj blh izdkj bldk foykse Hkh ;gh izdV djrk gSA
+mijksDr (1) vkSj (2) esa] D;k ?kVuk ‘F’, ‘E ugha’ (not E) osQ leku ugha gSA gk¡] ,slk
+gh gSA ge ?kVuk ‘E ugha ’ dks E ls O;Dr djrs gSaA
+vr%]
+P(E) + P(E ugha) = 1
+vFkkZr~
+P(E) + P( E ) = 1 gS] ftlls
+P( E ) = 1 – P(E) izkIr gksrk gSA
+O;kid :i esa] fdlh ?kVuk E osQ fy, ;g lR; gS fd
+P( E ) = 1 – P(E)
+?kVuk ^E ugha* dks fu:fir djus okyh ?kVuk E ?kVuk E dh iwjd (complement)
+?kVuk dgykrh gSA ge ;g Hkh dgrs gSa fd E vkSj E ijLij iwjd ?kVuk,¡ gSaA
+vkxs c<+us ls igys] vkb, fuEufyf[kr iz'uksa osQ mÙkj Kkr djus dk iz;Ru djsa%
+(i) ikls dks ,d ckj isaQdus ij la[;k 8 izkIr djus dh D;k izkf;drk gS\
+(ii) ikls dks ,d ckj isaQdus ij 7 ls NksVh la[;k izkIr djus dh D;k izkf;drk gS\
+vkb, (i) dk mÙkj nsa%
+ge tkurs gSa fd ikls dks ,d ckj isaQdus ij osQoy N% gh laHkkfor ifj.kke gSaA ;s ifj.kke
+1] 2] 3] 4] 5 vkSj 6 gSaA pw¡fd ikls osQ fdlh Hkh iQyd ij 8 vafdr ugha gS] blfy,
+8 osQ vuqowQy dksbZ Hkh ifj.kke ugha gS] vFkkZr~ ,sls ifj.kkeksa dh la[;k 'kwU; (0) gSA nwljs
+'kCnksa esa] ikls dks ,d ckj isaQdus ij] la[;k 8 izkIr djuk vlaHko (impossible) gSA
+vr%
+P(8 izkIr djuk) = 0
+6 = 0
+vFkkZr~ ml ?kVuk] ftldk ?kfVr gksuk vlaHko gS] dh izkf;drk 0 gksrh gSA ,slh ?kVuk
+dks ,d vlaHko ?kVuk (impossible event) dgrs gSaA
+vkb, (ii) dk mÙkj nsa %
+pw¡fd ikls osQ izR;sd iQyd ij ,slh la[;k fy[kh gS tks 7 ls NksVh gS] blfy, ikls
+dks ,d ckj isaQdus ij ;g fuf'pr gS fd izkIr la[;k lnSo 7 ls NksVh gksxhA vr%] ?kVuk
+osQ vuqowQy ifj.kkeksa dh la[;k lHkh laHkkfor ifj.kkeksa dh la[;k osQ cjkcj gksxh] tks 6 gSA
+Reprint 2026-27
+
+izkf;drk
+229
+blfy,
+P(E) = P(7 ls NksVh la[;k izkIr djuk) = 6
+6 = 1
+vr% ml ?kVuk] ftldk ?kfVr gksuk fuf'pr (sure) gS] dh izkf;drk 1 gksrh gSA ,slh
+?kVuk dks ,d fuf'pr (sure) ;k fu/kZfjr (certain) ?kVuk dgrs gSaA
+fVIi.kh : izkf;drk  P(E) dh ifjHkk"kk ls] ge ns[krs gSa fd va'k (?kVuk E osQ vuqowQy
+ifj.kkeksa dh la[;k) lnSo gj (lHkh laHko ifj.kkeksa dh la[;k) ls NksVk gksrk gS ;k mlosQ
+cjkcj gksrk gSA vr%]
+0 £ P(E) £ 1
+vkb, vc ,d mnkgj.k] rk'kksa (playing cards) ls lacaf/r ysaA D;k vkius rk'kksa dh
+,d xîóh ns[kh gS\ blesa 52 iÙks (cards) gksrs gSa] tks 4 lewgksa esa c¡Vs gksrs gSaA izR;sd lewg
+esa 13 iÙks gksrs gSaA ;s 4 lewg gqoqQe (spades) (♠), iku (hearts) (♥), b±V (diamonds)
+(♦) vkSj fpM+h (clubs) (♣) gSaA fpM+h vkSj gqoqQe dkys jax osQ gksrs gSa rFkk iku vkSj b±V yky
+jax osQ gksrs gSaA izR;sd lewg osQ iÙks % bDdk (ace), ckn'kkg (king), csxe (queen), xqyke
+(jack), 10, 9, 8, 7, 6, 5, 4, 3 vkSj 2 gksrs gSaA ckn'kkg] csxe vkSj xqyke okys iÙks isQl dkMZ
+( face cards) dgykrs gSaA
+mnkgj.k 4 : vPNh izdkj ls isQVh xbZ 52 iÙkksa dh ,d xîóh esa ls ,d iÙkk fudkyk tkrk
+gSA bldh izkf;drk ifjdfyr dhft, fd ;g iÙkk %
+(i) ,d bDdk gksxkA
+(ii) ,d bDdk ugha gksxkA
+gy : xîóh dks vPNh izdkj ls isQVus ls ifj.kkeksa dk leizkf;d gksuk lqfuf'pr gks tkrk gSA
+(i) ,d xîóh esa 4 bDosQ gksrs gSaA eku yhft, ?kVuk  E ^,d bDdk gksuk* gSA
+E  osQ vuqowQy ifj.kkeksa dh la[;k = 4
+lHkh laHko ifj.kkeksa dh la[;k = 52 (D;ksa\)
+vr%
+P(E) = 4
+1
+52
+13
+
+(ii) eku yhft, ?kVuk F ^,d bDdk ugha* gSA
+ekuk F osQ vuqowQy ifj.kkeksa dh la[;k = 52 – 4 = 48 (D;ksa\)
+lHkh laHko ifj.kkeksa dh la[;k = 52
+vr%
+    P(F) = 48
+12
+52
+13
+
+Reprint 2026-27
+
+230
+xf.kr
+fVIi.kh : è;ku nhft, fd F vkSj oqQN ugha cfYd E gh gSA vr%] ge  P(F) dks bl izdkj
+Hkh ifjdfyr dj ldrs gSa % P(F) = P( E ) = 1 – P(E) = 
+1
+12
+1
+13
+13
+
+
+
+mnkgj.k 5 : nks f[kykM+h laxhrk vkSj js'kek Vsful dk ,d eSp [ksyrs gSaA ;g Kkr gS fd
+laxhrk }kjk eSp thrus dh izkf;drk 0-62 gSA js'kek osQ thrus dh D;k izkf;drk gS\
+gy : eku yhft,  S vkSj R Øe'k% laxhrk osQ thrus vkSj js'kek osQ thrus dh ?kVuk,¡
+O;Dr djrs gSaA
+laxhrk osQ thrus dh izkf;drk = P(S) = 0.62 (fn;k gS)
+js'kek osQ thrus dh izkf;drk = P(R) = 1 – P(S)
+¹pw¡fd ?kVuk,¡ R vkSj S iwjd gSaº
+= 1 – 0.62 = 0.38
+mnkgj.k 6 : lfork vkSj gehnk nks fe=k gSaA bldh D;k izkf;drk gS fd nksuksa  (i) osQ
+tUe&fnu fHkUu&fHkUu gksa\ (ii) dk tUefnu ,d gh gks\ ¹yhi dk o"kZ (Leap year)dks
+NksM+rs gq,º
+gy : nksuksa fe=kksa esa ls fdlh ,d yM+dh] eku yhft,] lfork dk tUefnu o"kZ dk dksbZ
+Hkh fnu gks ldrk gSA blh izdkj] nwljh yM+dh gehnk dk tUefnu Hkh o"kZ osQ 365 fnuksa
+esa ls dksbZ ,d fnu gks ldrk gSA
+(i) ;fn gehnk dk tUefnu lfork osQ tUefnu ls fHkUu gS] rks mlosQ tUefnu osQ
+vuqowQy ifj.kkeksa dh la[;k 365 – 1 = 364 gksxhA
+vr% P (gehnk dk tUefnu lfork osQ tUefnu ls fHkUu gS) = 364
+365
+(ii) P(lfork vkSj gehnk dk tUefnu ,d gh gks)
+= 1 – P (nksuksa dk tUefnu fHkUu gS)
+=
+364
+1
+365
+
+[P( E ) = 1 – P(E) osQ iz;ksx ls]
+=
+1
+365
+mnkgj.k 7 : fdlh LowQy dh d{kk  X esa 40 fo|kFkhZ gSa ftuesa ls 25 yM+fd;k¡ gSa vkSj
+15 yM+osQ gSaA d{kk vè;kfidk dks ,d fo|kFkhZ d{kk&izfrfuf/ osQ :i esa pquuk gSA og
+izR;sd fo|kFkhZ dk uke ,d vyx dkMZ ij fy[krh gS] tcfd dkMZ ,d tSls gSaA fiQj
+og bu dkMks± dks ,d FkSys esa Mkydj vPNh rjg ls fgyk nsrh gSA blosQ ckn og FkSys
+Reprint 2026-27
+
+izkf;drk
+231
+esa ls ,d dkMZ fudkyrh gSA bldh D;k izkf;drk gS fd dkMZ ij fy[kk gqvk uke ,d
+(i) yM+dh dk gS\ (ii) yM+osQ dk gS\
+gy : oqQy 40 fo|kFkhZ gSa vkSj buesa ls osQoy ,d uke dk dkMZ pquuk gSA
+(i) lHkh laHko ifj.kkeksa dh la[;k = 40
+dkMZ ij yM+dh dk uke gksus osQ vuqowQy ifj.kkeksa dh la[;k = 25 (D;ksa\)
+vc] P (dkMZ ij yM+dh dk uke gS) = P(yM+dh) = 25
+5
+40
+8
+
+(ii) dkMZ ij yM+osQ dk uke gksus osQ vuqowQy ifj.kkeksa dh la[;k = 15 (D;ksa\)
+vr%] P(dkMZ ij yM+osQ dk uke gS) = P(yM+dk) = 15
+3
+40
+8
+
+fVIi.kh : ge P(yM+dk) dks bl izdkj Hkh fu/kZfjr dj ldrs gSa %
+P(yM+dk) = 1 – P(yM+dk ugha) = 1 – P(yM+dh) = 
+5
+3
+1
+8
+8
+
+
+mnkgj.k 8 : ,d cDls esa 3 uhys] 2 lisQn vkSj 4 yky oaQps (marbles) gSaA ;fn bl cDls
+esa ls ,d oaQpk ;kn`PN;k fudkyk tkrk gS rks bldh D;k izkf;drk gS fd ;g oaQpk
+(i) lisQn gS\
+(ii) uhyk gS\
+(iii) yky gS\
+gy : ;g dguk fd oaQpk ;kn`PN;k :i ls fudkyk x;k gS] laf{kIr esa ;g dgus osQ cjkcj
+gS fd lHkh ifj.kke leizkf;d gSaA vr%]
+lHkh laHko ifj.kkeksa dh la[;k = 3 +2 + 4 = 9 
+(D;ksa\)
+eku yhft, ?kVuk W ^oaQpk lisQn gS* dks]  ?kVuk B ^oaQpk uhyk gS* dks rFkk ?kVuk R ^oaQpk
+yky gS* dks O;Dr djrk gSA
+(i) ?kVuk W osQ vuqowQy ifj.kkeksa dh la[;k = 2
+vr%
+P(W) = 2
+9
+blh izdkj] (ii) P(B) =
+3
+9 = 1
+3
+vkSj (iii)
+P(R) = 4
+9
+è;ku nhft, fd P(W) + P(B) + P(R) = 1 gSA
+Reprint 2026-27
+
+232
+xf.kr
+mnkgj.k 9 : gjizhr nks fHkUu&fHkUu flDdksa dks ,d lkFk mNkyrh gS (eku yhft, ,d
+flDdk ` 1 dk gS vkSj nwljk flDdk ` 2 dk gS)A bldh D;k izkf;drk gS fd og de
+ls de ,d fpr izkIr djsxh\
+gy : ge ^fpr* osQ fy,  H  vkSj ^iV* osQ fy,  T  fy[krs gSaA tc nks flDdksa dks ,d
+lkFk mNkyk tkrk gS] rks laHkkfor ifj.kke (H, H), (H, T), (T, H), (T, T) gSa rFkk ;s lHkh
+leizkf;d gSaA ;gk¡ (H, H) dk vFkZ gS fd igys flDosQ (eku yhft, ` 1 osQ flDosQ) ij
+^fpr* vk,xk vkSj nwljs flDosQ (` 2 osQ flDosQ) ij ^fpr* vk,xkA blh izdkj]
+(H, T) dk vFkZ gS fd igys flDosQ ij ^fpr* vk,xk vkSj nwljs flDosQ ij ^iV* vk,xk]
+bR;kfnA
+?kVuk E  ^de ls de ,d fpr vkuk* osQ vuqowQy ifj.kke (H, H), (H, T) vkSj
+(T, H) gSaA (D;ksa\)
+vr% E osQ vuqowQy ifj.kkeksa dh la[;k = 3
+blfy,
+P(E) = 3
+4
+vFkkZr~ gjizhr }kjk de ls de ,d fpr izkIr djus dh izkf;drk 3
+4 gSA
+fVIi.kh % vki P(E) bl izdkj Hkh Kkr dj ldrs gSa%
+P (E) = 
+1
+3
+1 – P(E) = 1 – 4
+4
+
+    pw¡fd
+(dksbZ fpr ugha)
+P(E) = P
+= 1
+4
+
+
+
+
+D;k vkius ;g ns[kk fd vc rd osQ lHkh mnkgj.kksa esa] izR;sd iz;ksx osQ lHkh laHko
+ifj.kkeksa dh la[;k ifjfer Fkh\ ;fn ugha] rks vc bldh tk¡p dj yhft,A
+vusd iz;ksx ,sls gSa] tgk¡ ifj.kke nks la[;kvksa osQ chp esa dksbZ Hkh la[;k gks ldrh
+gS ;k ftuesa ifj.kke ,d o`Ùk ;k vk;r osQ vanj dk izR;sd ¯cnq gksrk gS] bR;kfnA D;k
+vc vki lHkh laHko ifj.kkeksa dks fxu ldrs gSa\ tSlkfd vki tkurs gSa] ;g laHko ugha
+gS] D;ksafd nks la[;kvksa osQ chp esa vifjfer :i ls vusd la[;k,¡ gksrh gSa] ;k ;g fd
+,d o`Ùk osQ vanj vifjfer :i ls vusd ¯cnq gksrs gSaA vr%] vkiosQ }kjk vè;;u dh
+Reprint 2026-27
+
+izkf;drk
+233
+xbZ (lS¼kafrd) izkf;drk dh ifjHkk"kk dks orZeku :i esa ;gk¡ iz;ksx ugha fd;k tk ldrkA
+bl leL;k dk fiQj gy D;k gS\ blosQ mÙkj osQ fy,] vkb, fuEufyf[kr mnkgj.k ij
+fopkj djsaA
+mnkgj.k 10* : ,d E;wft+dy ps;j (musical chair) [ksy esa] tks efgyk laxhr ctk jgh
+Fkh mls lykg nh xbZ fd og laxhr izkjaHk djus osQ ckn 2 feuV osQ vanj dHkh Hkh laxhr
+can dj nsA bldh D;k izkf;drk gS fd laxhr izkjaHk gksus osQ igys vk/s feuV osQ vanj
+can gks tk,xk\
+gy : ;gk¡ laHko ifj.kke 0 vkSj 2 osQ chp dh lHkh la[;k,¡ gSaA ;g la[;k js[kk dk 0 ls 2
+rd dk Hkkx gS (nsf[k, vko`Qfr 14-1)A
+vko`Qfr 14.1
+eku yhft, ?kVuk E ^laxhr izkjaHk gksus osQ igys vk/s feuV esa can gks tkrk gS*A
+E osQ vuqowQy ifj.kke la[;k js[kk ij 0 ls 1
+2
+ osQ chp osQ lHkh ¯cnq gSaA
+pw¡fd lHkh ifj.kke leizkf;d gSa] blfy, ge ;g roZQ ns ldrs gSa fd oqQy nwjh 2 esa ls
+nwjh 1
+2 ?kVuk E osQ vuqowQy gSA
+vr%
+P(E) =
+E 
+?kVuk
+osQ vuoq wQy njw h
+iwjh njw h ftleas ifj.kke fLFkr gk s ldr s gaS = 
+1
+1
+2
+2
+4
+
+D;k ge mnkgj.k 10 dh vo/kj.kk dks fdlh ?kVuk dh izkf;drk mlosQ vuqowQy
+{ks=kiQy vkSj laiw.kZ {ks=kiQy osQ vuqikr osQ :i esa foLr`r dj ldrs gSaA
+mnkgj.k 11* : ,d ykirk gsyhdkWIVj osQ ckjs esa lwpuk feyrh gS fd og vko`Qfr 14.2
+esa n'kkZ, vk;rkdkj {ks=k esa dgha fxj x;k gSA bldh D;k izkf;drk gS fd og vko`Qfr esa
+n'kkZbZ xbZ >hy esa fxjk gS\
+* ;g ijh{kk dh n`f"V ls ugha gSA
+Reprint 2026-27
+
+234
+xf.kr
+vko`Qfr 14.2
+gy : gsyhdkWIVj dk vk;rkdkj {ks=k esa dgha Hkh fxjuk leizkf;d gSA
+laiw.kZ {ks=k dk {ks=kiQy] tgk¡ gsyhdkWIVj fxj ldrk gS
+= (4.5 × 9) km2 = 40.5 km2
+>hy dk okLrfod {ks=kiQy  = (2.5 × 3) km2 = 7.5 km2
+vr%] P (gsyhdkWIVj >hy esa fxjk gS) = 7.5
+5
+40.5
+405
+27
+
+
+
+
+ gSA
+mngkj.k 12 : ,d fMCcs esa 100 dehtsa gSa] ftlesa ls 88 vPNh gSa rFkk 8 esa FkksM+h lh [kjkch
+gS vkSj 4 esa vf/d [kjkch gSA ,d O;kikjh ftEeh os gh dehtsa Lohdkj djrk gS tks vPNh
+gSa] tcfd ,d vU; O;kikjh lqtkrk mUgha dehtksa dks vLohdkj djrh gS ftuesa [kjkch
+vf/d gSA bl fMCcs esa ls ,d deht dks ;kn`PN;k :i ls fudkyk tkrk gSA bldh D;k
+izkf;drk gS fd og deht
+(i) ftEeh dks Lohdkj gks\
+(ii) lqtkrk dks Lohdkj gks\
+gy : 100 dehtksa osQ fMCcs esa ls ,d deht ;kn`PN;k :i ls fudkyh tkrh gSA vr% ;gk¡
+100 leizkf;d ifj.kke gSaA
+(i) ftEeh osQ vuqowQy (dks Lohdkj) ifj.kkeksa dh la[;k = 88 (D;ksa\)
+vr%] P (deht ftEeh dks Lohdkj gS) = 88
+0.88
+100 
+* ;g ijh{kk dh n`f"V ls ugha gSA
+Reprint 2026-27
+
+izkf;drk
+235
+(ii) lqtkrk osQ vuqowQy ifj.kkeksa dh la[;k = 88 + 8 = 96 (D;ksa\)
+vr%] P (deht lqtkrk dks Lohdkj gS) = 96
+0.96
+100 
+mnkgj.k 13 : ,d lysVh ikls vkSj ,d uhys ikls dks ,d lkFk isaQdk tkrk gSA lHkh
+laHkkfor ifj.kkeksa dks fyf[k,A bldh D;k izkf;drk gS fd nksuksa iklksa dh la[;kvksa dk ;ksx
+(i) 8 gSA
+(ii) 13 gSA
+(iii) 12 ls NksVh ;k mlosQ cjkcj gSA
+gy : tc uhyk iklk ‘1’ n'kkZrk gS] rks lysVh ikls ij la[;kvksa 1, 2, 3, 4, 5, 6 esa ls dksbZ
+Hkh la[;k gks ldrh gSA ;gh rc Hkh gksxk] tc uhys ikls ij ‘2’, ‘3’, ‘4’, ‘5’ ;k ‘6’ gksxkA
+bl iz;ksx osQ laHkkfor ifj.kkeksa dks uhps lkj.kh esa fn;k x;k gSA izR;sd Øfer ;qXe dh
+igyh la[;k uhys ikls ij vkus okyh la[;k gS rFkk nwljh la[;k lysVh ikls ij vkus okyh
+la[;k gSA
+1
+2
+3
+4
+5
+6
+1
+(1, 1)
+(1, 2)
+(1, 3)
+(1, 4)
+(1, 5)
+(1, 6)
+2
+(2, 1)
+(2, 2)
+(2, 3)
+(2, 4)
+(2, 5)
+(2, 6)
+3
+(3, 1)
+(3, 2)
+(3, 3)
+(3, 4)
+(3, 5)
+(3, 6)
+4
+(4, 1)
+(4, 2)
+(4, 3)
+(4, 4)
+(4, 5)
+(4, 6)
+5
+(5, 1)
+(5, 2)
+(5, 3)
+(5, 4)
+(5, 5)
+(5, 6)
+6
+(6, 1)
+(6, 2)
+(6, 3)
+(6, 4)
+(6, 5)
+(6, 6)
+vko`Qfr 14.3
+è;ku nhft, fd ;qXe (1, 4) ;qXe (4, 1) ls fHkUu gS (D;ksa\)
+vr%] laHkkfor ifj.kkeksa dh la[;k = 6 × 6 = 36 gSA
+(i) E }kjk O;Dr ?kVuk ^la[;kvksa dk ;ksx 8 gS* osQ vuqowQy ifj.kke (2, 6), (3, 5),
+(4, 4), (5, 3) vkSj (6, 2) gSa  (nsf[k, vko`Qfr 14.3)A
+vFkkZr~ E osQ vuqowQy ifj.kke = 5
+lysVh
+uhyk
+Reprint 2026-27
+
+236
+xf.kr
+blfy,
+P(E) = 5
+36
+(ii) tSlk fd vki vko`Qfr 14.3 ls ns[k ldrs gSa] ?kVuk F, ^la[;kvksa dk ;ksx 13 gS* osQ
+vuqowQy dksbZ Hkh ifj.kke ugha gSA
+vr%
+P(F) =
+0
+0
+36 
+(iii) tSlk fd vki vko`Qfr 14.3 ls ns[k ldrs gSa] ?kVuk G ^la[;kvksa dk ;ksx 12 ls
+NksVk ;k mlosQ cjkcj gS* osQ vuqowQy lHkh ifj.kke gSaA
+vr%
+P(G) = 36
+1
+36 
+iz'ukoyh 14.1
+1. fuEufyf[kr dFkuksa dks iwjk dhft, %
+(i) ?kVuk  E dh izkf;drk  +  ?kVuk ^E ugha* dh izkf;drk = 
+ gSA
+(ii) ml ?kVuk dh izkf;drk tks ?kfVr ugha gks ldrh 
+  gSA ,slh ?kVuk 
+dgykrh gSA
+(iii) ml ?kVuk dh izkf;drk ftldk ?kfVr gksuk fuf'pr gS 
+  gSA ,slh ?kVuk
+ dgykrh gSA
+(iv) fdlh iz;ksx dh lHkh izkjafHkd ?kVukvksas dh izkf;drkvksa dk ;ksx 
+gSA
+(v) fdlh ?kVuk dh izkf;drk 
+ ls cM+h ;k mlosQ cjkcj gksrh gS rFkk 
+ls NksVh ;k mlosQ cjkcj gksrh gSA
+2. fuEufyf[kr iz;ksxksa esa ls fdu&fdu iz;ksxksa osQ ifj.kke leizkf;d gSa\ Li"V dhft,A
+(i) ,d Mªkboj dkj pykus dk iz;Ru djrk gSA dkj pyuk izkjaHk gks tkrh gS ;k dkj pyuk
+izkjaHk ugha gksrh gSA
+(ii) ,d f[kykM+h ckLosQVckWy dks ckLosQV esa Mkyus dk iz;Ru djrh gSA og ckLosQV esa ckWy
+Mky ikrh gS ;k ugha Mky ikrh gSA
+(iii) ,d lR;&vlR; iz'u dk vuqeku yxk;k tkrk gSA mÙkj lgh gS ;k xyr gksxkA
+(iv) ,d cPps dk tUe gksrk gSA og ,d yM+dk gS ;k ,d yM+dh gSA
+3. iqQVckWy osQ [ksy dks izkjaHk djrs le; ;g fu.kZ; ysus osQ fy, fd dkSu&lh Vhe igys ckWy
+ysxh] blosQ fy, flDdk mNkyuk ,d U;k;laxr fof/ D;ksa ekuk tkrk gS\
+Reprint 2026-27
+
+izkf;drk
+237
+4. fuEufyf[kr esa ls dkSu lh la[;k fdlh ?kVuk dh izkf;drk ugha gks ldrh\
+(A) 2
+3
+(B) –1.5
+(C) 15%
+(D) 0.7
+5. ;fn  P(E) = 0.05 gS] rks  ^E ugha* dh izkf;drk D;k gS\
+6. ,d FkSys esa osQoy uhcw dh egd okyh ehBh xksfy;k¡ gSaA ekfyuh fcuk FkSys esa >k¡osQ mlesa
+ls ,d xksyh fudkyrh gSA bldh D;k izkf;drk gS fd og fudkyh xbZ xksyh
+(i) larjs dh egd okyh gS\
+(ii) uhcw dh egd okyh gS\
+7. ;g fn;k gqvk gS fd  3 fo|k£Fk;ksa osQ ,d lewg esa ls 2 fo|k£Fk;ksa osQ tUefnu ,d gh fnu
+u gksus dh izkf;drk 0.992 gSA bldh D;k izkf;drk gS fd bu 2 fo|k£Fk;ksa dk tUefnu ,d
+gh fnu gks\
+8. ,d FkSys esa 3 yky vkSj 5 dkyh xsans gSaA bl FkSys esa ls ,d xsan ;kn`PN;k fudkyh tkrh gSA
+bldh izkf;drk D;k gS fd xsan (i) yky gks\
+(ii) yky ugha gks\
+9. ,d fMCcs esa 5 yky oaQps] 8 lisQn oaQps vkSj 4 gjs oaQps gSaA bl fMCcs esa ls ,d oaQpk
+;kn`PN;k fudkyk tkrk gSA bldh D;k izkf;drk gS fd fudkyk x;k oaQpk
+(i) yky gS\
+(ii) lisQn gS\
+(iii) gjk ugha gS\
+10. ,d fiXxh cSad (piggy bank) esa] 50 iSls osQ lkS flDosQ gSa] ` 1 osQ ipkl flDosQ gSa] ` 2
+osQ chl flDosQ vkSj ` 5 osQ nl flDosQ gSaA ;fn fiXxh cSad dks fgykdj mYVk djus ij dksbZ
+,d flDdk fxjus osQ ifj.kke leizkf;d gSa] rks bldh D;k izkf;drk gS fd og fxjk gqvk
+flDdk (i) 50 iSls dk gksxk\ (ii)  ` 5 dk ugha gksxk\
+11. xksih vius ty&tho oaqQM (aquarium) osQ fy, ,d
+nqdku ls eNyh [kjhnrh gSA nqdkunkj ,d Vadh]
+ftlesa 5 uj eNyh vkSj 8 eknk eNyh gSa] esa ls ,d
+eNyh ;kn`PN;k mls nsus osQ fy, fudkyrh gS (nsf[k,
+vko`Qfr 14-4)A bldh D;k izkf;drk gS fd fudkyh
+xbZ eNyh uj eNyh gS\
+12. la;ksx (chance) osQ ,d [ksy esa] ,d rhj dks ?kqek;k tkrk gS] tks
+foJke esa vkus osQ ckn la[;kvksa 1, 2, 3, 4, 5, 6, 7 vkSj 8 esa ls fdlh
+,d la[;k dks bafxr djrk gS (nsf[k, vko`Qfr 14.5)A ;fn ;s lHkh
+ifj.kke leizkf;d gksa rks bldh D;k izkf;drk gS fd ;g rhj bafxr
+(i) 8 dks djsxk\
+(ii) ,d fo"ke la[;k dks djsxk\
+(iii) 2 ls cM+h la[;k dks djsxk\
+(iv) 9 ls NksVh la[;k dks djsxk\
+vko`Qfr 14.4
+vko`Qfr 14.5
+Reprint 2026-27
+
+238
+xf.kr
+* ;g ijh{kk dh n`f"V ls ugha gSA
+13. ,d ikls dks ,d ckj isaQdk tkrk gSA fuEufyf[kr dks izkIr djus dh izkf;drk Kkr dhft,%
+(i) ,d vHkkT; la[;k
+(ii) 2 vkSj 6 osQ chp fLFkr dksbZ la[;k
+(iii) ,d fo"ke la[;k
+14. 52 iÙkksa dh vPNh izdkj ls isQVh xbZ ,d xîóh esa ls ,d iÙkk fudkyk tkrk gSA fuEufyf[kr
+dks izkIr djus dh izkf;drk Kkr dhft, %
+(i) yky jax dk ckn'kkg
+(ii) ,d isQl dkMZ vFkkZr~ rLohj okyk iÙkk
+(iii) yky jax dk rLohj okyk iÙkk
+(iv) iku dk xqyke
+(v) gqoqQe dk iÙkk
+(vi) ,d bZaV dh csxe
+15. rk'k osQ ik¡p iÙkksaµb±V dk ngyk] xqyke] csxe] ckn'kkg vkSj bDdkµdks iyV djosQ vPNh
+izdkj isQVk tkrk gSA fiQj buesa ls ;kn`PN;k ,d iÙkk fudkyk tkrk gSA
+(i) bldh D;k izkf;drk gS fd ;g iÙkk ,d csxe gS\
+(ii) ;fn csxe fudy vkrh gS] rks mls vyx j[k fn;k tkrk gS vkSj ,d vU; iÙkk fudkyk tkrk
+gSA bldh D;k izkf;drk gS fd nwljk fudkyk x;k iÙkk (a) ,d bDdk gS\ (b) ,d csxe gS\
+16. fdlh dkj.k 12 [kjkc isu 132 vPNs isuksa esa fey x, gSaA osQoy ns[kdj ;g ugha crk;k
+tk ldrk gS fd dksbZ isu [kjkc gS ;k vPNk gSA bl feJ.k esa ls] ,d isu ;kn`PN;k fudkyk
+tkrk gSA fudkys x, isu dh vPNk gksus dh izkf;drk Kkr dhft,A
+17. (i) 20 cYcksa osQ ,d lewg esa 4 cYc [kjkc gSaA bl lewg esa ls ,d cYc ;kn`PN;k fudkyk
+tkrk gSA bldh D;k izkf;drk gS fd ;g cYc [kjkc gksxk\
+(ii) eku yhft, (i) esa fudkyk x;k cYc [kjkc ugha gS vkSj u gh bls nqckjk cYcksa osQ lkFk
+feyk;k tkrk gSA vc 'ks"k cYcksa esa ls ,d cYc ;kn`PN;k fudkyk tkrk gSA bldh D;k
+izkf;drk gS fd ;g cYc [kjkc ugha gksxk\
+18. ,d isVh esa 90 fMLd (discs) gSa] ftu ij 1 ls 90 rd la[;k,¡ vafdr gSaA ;fn bl isVh
+esa ls ,d fMLd ;kn`PN;k fudkyh tkrh gS rks bldh izkf;drk Kkr dhft, fd bl fMLd ij
+vafdr gksxh % (i) nks vadksa dh ,d la[;k
+(ii) ,d iw.kZ oxZ la[;k
+(iii) 5 ls foHkkT; ,d la[;kA
+19. ,d cPps osQ ikl ,slk iklk gS ftlosQ iQydksa ij fuEufyf[kr v{kj vafdr gSa %
+     A    
+B
+C
+D
+E
+A
+bl ikls dks ,d ckj isaQdk tkrk gSA bldh D;k izkf;drk gS fd
+(i) A izkIr gks\
+(ii) D izkIr gks\
+20.* eku yhft, vki ,d ikls dks vko`Qfr 14.6 esa n'kkZ, vk;rkdkj {ks=k esa ;kn`PN;k :i ls fxjkrs
+gSaA bldh D;k izkf;drk gS fd og iklk 1m O;kl okys o`Ùk osQ vanj fxjsxk\
+Reprint 2026-27
+
+izkf;drk
+239
+vko`Qfr 14.6
+21. 144 ckWy isuksa osQ ,d lewg esa 20 ckWy isu [kjkc gSa vkSj 'ks"k vPNs gSaA vki ogh isu [kjhnuk
+pkgsaxs tks vPNk gks] ijarq [kjkc isu vki [kjhnuk ugha pkgsaxsA nqdkunkj bu isuksa esa ls] ;kn`PN;k
+,d isu fudkydj vkidks nsrk gSA bldh D;k izkf;drk gS fd
+(i) vki og isu [kjhnsaxs\
+(ii) vki og isu ugha [kjhnsaxs\
+22. mnkgj.k 13 dks nsf[k,A (i) fuEufyf[kr lkj.kh dks iwjk dhft, %
+?kVuk
+nksuksa iklksa dh
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+la[;kvksa dk ;ksx
+izkf;drk
+1
+36
+5
+36
+1
+36
+(ii) ,d fo|kFkhZ ;g roZQ nsrk gS fd ^;gk¡ oqQy 11 ifj.kke  2, 3, 4, 5, 6, 7, 8, 9, 10, 11 vkSj
+12 gSaA vr%] izR;sd dh izkf;drk 1
+11 gSA* D;k vki bl roZQ ls lger gSa\ ldkj.k mÙkj
+nhft,A
+23. ,d [ksy esa ,d #i, osQ flDosQ dks rhu ckj mNkyk tkrk gS vkSj izR;sd ckj dk ifj.kke
+fy[k fy;k tkrk gSA rhuksa ifj.kke leku gksus ij] vFkkZr~ rhu fpr ;k rhu iV izkIr gksus ij]
+guhiQ [ksy esa thr tk,xk] vU;Fkk og gkj tk,xkA guhiQ osQ [ksy esa gkj tkus dh izkf;drk
+ifjdfyr dhft,A
+24. ,d ikls dks nks ckj isaQdk tkrk gSA bldh D;k izkf;drk gS fd
+(i) 5 fdlh Hkh ckj esa ugha vk,xk\
+(ii) 5 de ls de ,d ckj vk,xk\
+¹laosQr % ,d ikls dks nks ckj isaQduk vkSj nks iklksa dks ,d lkFk isaQduk ,d gh iz;ksx ekuk
+tkrk gSAº
+ 3 m
+ 2 m
+Reprint 2026-27
+
+240
+xf.kr
+25. fuEufyf[kr esa ls dkSu ls roZQ lR; gSa vkSj dkSu ls roZQ vlR; gSa\ ldkj.k mÙkj nhft,A
+(i) ;fn nks flDdksa dks ,d lkFk mNkyk tkrk gS] rks blosQ rhu laHkkfor ifj.kke& nks fpr]
+nks iV ;k izR;sd ,d ckj gSaA vr%] buesa ls izR;sd ifj.kke dh izkf;drk 1
+3 gSA
+(ii) ;fn ,d ikls dks isaQdk tkrk gS] rks blosQ nks laHkkfor ifj.kkeµ,d fo"ke la[;k ;k
+,d le la[;k gSaA vr% ,d fo"ke la[;k Kkr djus dh izkf;drk 1
+2 gSA
+14.2 lkjka'k
+bl vè;k; esa] vkius fuEufyf[kr rF;ksa dk vè;;u fd;k gS%
+1. ?kVuk E dh lS¼kafrd (;k ijaijkxr) izkf;drk P(E) dks fuEufyf[kr :i esa ifjHkkf"kr
+fd;k tkrk gS%
+P (E) = 
+E osQ vuqoQw y ifj.kkekas dh la[;k
+i;z ksx oQs lHkh lHa kkfor ifj.kkekas dh l[a ;k
+tgk¡ ge dYiuk djrs gSa fd iz;ksx osQ lHkh ifj.kke leizkf;d gSaA
+2. ,d fuf'pr (;k fu/kZfjr) ?kVuk dh izkf;drk 1 gksrh gSA
+3. ,d vlaHko ?kVuk dh izkf;drk 0 gksrh gSA
+4. ?kVuk E dh izkf;drk ,d ,slh la[;k P(E) gS fd
+0 £ P (E) £ 1
+5. og ?kVuk ftldk osQoy ,d gh ifj.kke gks ,d izkjafHkd ?kVuk dgykrh gSA fdlh iz;ksx
+dh lHkh izkjafHkd ?kVukvksa dh izkf;drk dk ;ksx 1 gksrk gSA
+6. fdlh Hkh ?kVuk E osQ fy, P (E) + P ( E ) = 1 gksrk gS] tgk¡ E ?kVuk ^ E ugha* dks O;Dr djrk
+gSA  E vkSj  E iwjd ?kVuk,¡ dgykrh gSaA
+ikBdksa osQ fy, fo'ks"k
+,d ?kVuk dh izk;ksfxd ;k vkuqHkfod izkf;drk okLrfod :i ls ?kVuk osQ ?kfVr
+gksus ij vk/kfjr gksrh gS] tcfd ml ?kVuk dh lS¼kafrd izkf;drk esa oqQN
+dYiukvksa osQ vk/kj ij ;g izkxqfDr dh tkrh gS fd D;k ?kVuk ?kVsxhA tSls&tSls
+,d iz;ksx esa vfHkiz;ksxksa dh la[;k c<+rh tkrh gS] oSls&oSls izk;ksfxd vkSj
+lS¼kafrd izkf;drkvksa dh yxHkx cjkcj gksus dh izR;k'kk dh tk ldrh gSA
+Reprint 2026-27

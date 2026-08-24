@@ -1,0 +1,1207 @@
+?kkrkad vkSj ?kkr  129
+?kkrkad vkSj ?kkr
+vè;k;10
+10.1  Hkwfedk
+D;k vki tkurs gSa?
+i`Foh dk nzO;eku 5,970,000,000,000, 000, 000, 000, 000 kg gSA ge
+fiNyh d{kk esa igys gh i<+ pqosQ gSa fd bl izdkj dh cM+h la[;kvksa dks
+(T;knk lqfo/ktud) ?kkrkadksa dks mi;ksx djrs gq, oSQls fy[k ldrs gSa tSls
+5.97 × 1024 kg A
+ge 1024 dks 10 dh ?kkr 24 i<+rs gSaA
+ge tkurs gSa
+25 = 2 × 2 × 2 × 2 × 2
+rFkk
+2m = 2 × 2 × 2 × 2 × ... × 2 × 2  (m ckj)
+2– 2  fdlosQ cjkcj gS vc gesa Kkr djuk pkfg,?
+10.2  Í.kkRed ?kkrkadksa dh ?kkr
+vki tkurs gSa fd
+102 = 10 × 10 = 100
+101 = 10 = 100
+10
+100 = 1 = 10
+10
+10– 1 = ?
+Åij osQ izfr:i dks vkxs c<+krs gq,
+ge ikrs gSa   10– 1 = 1
+10
+blh izdkj
+10– 2 =
+2
+1
+1
+1
+1
+1
+10
+10
+10
+10
+100
+10
+÷
+=
+×
+=
+=
+10– 3 =
+3
+1
+1
+1
+1
+1
+10
+100
+100
+10
+1000
+10
+÷
+=
+×
+=
+=
+A   10– 10 fdlosQ cjkcj gS\
+;gk¡ ?kkrkad Í.kkRed
+ifjes; la[;k gSA
+tc ?kkrkad 1 ls de gksrk gsS rc
+eku iwoZ eku dk 
+1
+10 ok¡ Hkkx
+gks tkrk gS
+2024-25
+
+130  xf.kr
+fuEufyf[kr dks tkfu,A
+33 = 3 × 3 × 3 =  27
+32 = 3 × 3 = 9 = 
+27
+3
+31 = 3 = 9
+3
+3° = 1 = 3
+3
+bl izdkj mijksDr izfr:i dks ns[kus ij ge dgrs gSa
+3– 1 = 1 ÷ 3 = 
+1
+3
+3– 2 =
+1
+3
+3 ÷
+ = 
+1
+3
+3
+×
+ = 
+2
+1
+3
+3– 3 =
+2
+1
+3
+3
+÷
+ = 
+2
+1
+3 × 
+1
+3 = 
+3
+1
+3
+blh izdkj 10– 2 ls iqu% vki izkIr dj ldrs gSa]
+10– 2 =
+2
+1
+10
+;k
+102 =
+2
+1
+10−
+10– 3 =
+3
+1
+10
+;k
+103 =
+3
+1
+10−
+3– 2 =
+2
+1
+3
+;k
+32 =
+2
+1
+3−   bR;kfnA
+lk/kj.kr;k ge dg ldrs gSa fd fdlh 'kwU;srj ifjes; la[;k a, osQ fy,   a– m = 
+1
+m
+a
+,
+tgk¡ m ,d /ukRed ifjes; la[;k gSA  a–m ] am dk xq.kkRed izfrykse gSA
+xq.kkRed izfrykse fyf[k, %
+(i) 2– 4
+(ii) 10– 5
+(iii) 7– 2
+(iv) 5– 3
+(v) 10– 100
+geus lh[kk fd la[;kvksa dks foLrkfjr ?kkrkad :i esa oSQls fy[k ldrs gSa] tSls
+1425 = 1 × 103 + 4 × 102 + 2 × 101 + 5 × 10°
+vc gesa ns[kuk pkfg, fd 1425.36 dks foLrkfjr :i esa oSQls O;Dr dj ldrs gSaA
+ge tkurs gSa 1425.36 = 1 × 1000 + 4 × 100 + 2 × 10 + 5 × 1 + 3
+6
+10
+100
++
+               = 1 × 103 + 4 × 102 + 2 × 10 + 5 × 1 + 3 × 10– 1 + 6 × 10– 2
+la[;k dks vk/kj 3 ls
+foHkkftr fd;k gSA
+iz;kl dhft,
+iz;kl dhft,
+?kkrkadksa dk mi;ksx djrs gq, fuEu dks foLrkfjr :i esa fyf[k,A
+(i) 1025.63
+(ii) 1256.249
+10– 1  =
+1
+10 ,
+10– 2  =
+2
+1
+10
+1
+100
+=
+2024-25
+
+?kkrkad vkSj ?kkr  131
+iz;kl dhft,
+10.3  ?kkrkad osQ fu;e
+ge lh[k pqosQ gSa fd dksbZ Hkh 'kwU;srj ifjes; la[;k a osQ fy, am × an = am + n, tgk¡ m vkSj n
+izko`Qr la[;k,¡ gSaA ;fn ?kkrkad Í.kkRed gS rks Hkh D;k ;g fu;e lR; gS\ gesa [kkstuk pkfg,A
+(i) ge tkurs gSa fd 2 – 3 = 
+3
+1
+2 vkSj 2 – 2 = 
+2
+1
+2
+vr%, 
+3
+2
+2
+2
+−
+−
+×
+ = 
+3
+2
+3
+2
+3
+2
+1
+1
+1
+1
+2
+2
+2
+2
+2 +
+×
+=
+=
+=
+×
+2 – 5
+(ii) (–3)– 4 × (–3)–3 ysus ij
+(–3)– 4 ×(–3)–3 =
+4
+3
+1
+1
+( 3)
+( 3)
+×
+−
+−
+=
+4
+3
+4
+3
+1
+1
+( 3)
+( 3)
+( 3) +
+=
+−
+× −
+−
+ = (–3)–7
+(iii) vc 5–2 × 54  dks fyf[k,A
+5–2 × 54 = 
+4
+4
+4
+2
+2
+2
+1
+5
+5
+5
+5
+5
+−
+×
+=
+=
+ = 5(2)
+(iv) vc (–5)– 4 × (–5)2 dks fyf[k,A
+(–5)– 4 × (–5)2 =
+2
+2
+4
+4
+4
+2
+1
+( 5)
+1
+( 5)
+( 5)
+( 5)
+( 5)
+( 5)−
+−
+× −
+=
+=
+−
+−
+−
+× −
+= 
+4 2
+1
+( 5) −
+−
+ = (–5)– (2)
+lk/kj.kr;k ge dg ldrs gSa fd fdlh 'kwU;srj ifjes; la[;k a osQ fy,
+am × an = am + n, tgk¡ m vkSj n ifjes; la[;k,¡ gSaA
+?kkrkad :i dks ljy dhft, vkSj fyf[k, %
+(i) (–2)–3 × (–2)– 4
+(ii)      p3 × p–10
+(iii)    32 × 3–5 × 36
+blh izdkj vki fuEu ?kkrkadksa osQ fu;eksa dks lR;kfir dj ldrs gSa tgk¡ a vkSj b 'kwU;srj
+ifjes; la[;k,¡ vkSj m, n dksbZ iw.kk±d gSaA
+(i)
+m
+m n
+n
+a
+a
+a
+−
+=
+(ii) (am)n = amn
+(iii) am × bm = (ab)m
+(iv)
+a
+b
+a
+b
+m
+m
+m
+= 
+
+
+
+(v) a0 = 1
+vkb,] mijksDr ?kkrkadksa osQ fu;eksa dk mi;ksx djrs gq, oqQN mnkgj.kksa dks gy djrs gSaA
+(–2) + 4 = 2
+(– 4) + 2 = –2
+1
+m
+m
+a
+a
+−
+=
+ dksbZ 'kwU;srj ifjes; la[;k a osQ fy,
+–5  nks ?kkrkadksa  – 3 vkSj – 2 dk ;ksx gSA
+(– 4) + (–3) = – 7
+d{kk VII esa vki lh[k pqosQ gSa fd dksbZ Hkh
+'kwU;srj ifjes; la[;k a osQ fy, 
+m
+m
+n
+n
+a
+a
+a
+−
+=
+,
+tgk¡ m vkSj n izko`Qr la[;k,¡ gSa vkSj m > n.
+bu fu;eksa dks vki d{kk VII
+esa /ukRed ?kkrkad esa Hkh lh[k
+pqosQ gSaA
+2024-25
+
+132  xf.kr
+mnkgj.k 1 : eku Kkr dhft, %
+(i) 2–3
+(ii)
+2
+1
+3−
+gy :
+(i)
+3
+3
+1
+1
+2
+8
+2
+−=
+=
+(ii)
+2
+2
+1
+3
+3
+3
+9
+3−=
+=
+×
+=
+mnkgj.k 2 : ljy dhft, %
+(i) (– 4)5 × (– 4)–10 (ii) 25 ÷ 2– 6
+gy :
+(i) (– 4)5 × (– 4)–10 = (– 4) (5 – 10)  = (– 4)–5 = 
+5
+1
+(
+4)
+−
+   (am × an = am + n rFkk 
+1
+m
+m
+a
+a
+−
+=
+)
+(ii) 25 ÷ 2– 6 = 25 – (– 6) = 211
+(am ÷ an = am – n)
+mnkgj.k 3 :  4– 3 dks ?kkr vkSj mlosQ vk/kj 2 osQ :i esa fyf[k,A
+gy : gesa izkIr gS]  4 = 2 × 2 = 22
+vr%    (4)– 3 = (2 × 2)– 3 = (22)– 3 = 22 × (– 3) = 2– 6
+[(am)n = amn]
+mnkgj.k 4 : ljy dhft, vkSj mÙkj ?kkrkad osQ :i esa fyf[k,A
+(i) (25 ÷ 28)5 × 2– 5
+(ii) (– 4)– 3 × (5)– 3 × (–5)– 3
+(iii)
+3
+1
+(3)
+8
+−
+×
+(iv)
+(
+)
+−
+× 
+
+
+3
+5
+3
+4
+4
+gy :
+(i) (25 ÷ 28)5 × 2– 5 = (25 – 8)5 × 2– 5 = (2– 3)5 × 2– 5 = 2– 15 –  5 = 2–20 = 
+20
+1
+2
+(ii) (– 4)– 3 × (5)– 3 × (–5)–3 = [(– 4) × 5 × (–5)]– 3 = [100]– 3 = 
+3
+1
+100
+[fu;e ls am × bm = (ab)m,  a–m= 1
+m
+a
+]
+(iii)
+3
+3
+3
+3
+3
+3
+3
+3
+1
+1
+1
+(3)
+(3)
+2
+3
+(2
+3)
+6
+8
+2
+6
+−
+−
+−
+−
+−
+−
+×
+=
+×
+=
+×
+=
+×
+=
+=
+(iv)
+(
+)
+−
+× 
+
+
+3
+5
+3
+4
+4
+=
+4
+4
+4
+5
+( 1
+3)
+3
+−×
+×
+ = (–1)4 × 34 × 
+4
+4
+5
+3
+ = (–1)4 × 54  = 54 [(–1)4 = 1]
+mnkgj.k 5 :  m dk eku Kkr dhft, rkfd (–3)m + 1 × (–3)5 = (–3)7
+gy :
+ (–3)m + 1 × (–3)5 = (–3)7
+(–3)m + 1+ 5 = (–3)7
+(–3)m + 6 = (–3)7
+nksuksa vksj dh ?kkrksa osQ vk/kj leku gSa tks 1 rFkk &1
+ls fHkUu gSa] vr% muosQ ?kkrkad leku gksus pkfg,A
+vr%
+m + 6 = 7 ;k
+m =  7 – 6  = 1
+an = 1 ;fn n = 0 gSA a = 1 ;k a = –1
+osQ vfrfjDr fdlh Hkh a osQ fy, ;g
+gksxkA a = 1 osQ fy, 11 = 12 = 13 =
+1– 2 = ... = 1 ;k (1)n = 1 vlhfer n
+osQ fy,A a = –1 osQ fy, , (–1)0 =
+(–1)2 = (–1)4 = (–1)–2 = ... = 1 ;k
+(–1) p = 1,  p dksbZ le iw.kk±dA
+2024-25
+
+?kkrkad vkSj ?kkr  133
+mnkgj.k 6 : 2
+3
+2
+
+
+
+−
+dk eku izkIr dhft,A
+gy :  2
+3
+2
+3
+3
+2
+9
+4
+2
+2
+2
+2
+2
+
+
+
+=
+=
+=
+−
+−
+−
+mnkgj.k 7 : ljy dhft,
+ (i)  
+1
+3
+1
+2
+1
+4
+2
+3
+2
+
+
+
+−
+
+
+
+
+
+
+
+
+÷ 
+
+
+−
+−
+−
+(ii)
+5
+8
+8
+5
+7
+5
+
+
+
+
+×
+
+
+
+
+
+gy :
+ (i)
+1
+3
+1
+2
+1
+4
+2
+3
+2
+
+
+
+−
+
+
+
+
+
+
+
+
+÷ 
+
+
+−
+−
+−
+ = 
+1
+3
+1
+2
+1
+4
+2
+2
+3
+3
+2
+2
+−
+−
+−
+−
+−
+−
+−
+
+
+
+
+
+
+÷
+=
+3
+1
+2
+1
+4
+1
+9
+8
+16
+1
+16
+2
+2
+3
+3
+2
+2
+−
+
+
+
+
+
+
+÷
+=
+−
+÷
+=
+{
+}
+(ii)
+5
+8
+8
+5
+7
+5
+
+
+
+× 
+
+
+−
+−
+= 5
+8
+8
+5
+5
+5
+8
+8
+5
+8
+7
+7
+5
+5
+7
+5
+5
+7
+7
+5
+5
+7
+−
+−
+−
+−
+−
+−
+−
+−
+−
+(
+)−−
+(
+)
+−
+(
+)−−
+(
+)
+×
+=
+×
+=
+×
+=
+2
+2
+2
+2
+8
+64
+5
+8
+25
+5
+−×
+=
+=
+iz'ukoyh 10.1
+1. eku Kkr dhft, %
+(i) 3–2
+(ii) (– 4)– 2
+(iii)
+1
+2
+5
+
+
+
+−
+2. ljy dhft, vkSj mÙkj dks èkukRed ?kkrkad osQ :i esa O;Dr dhft,A
+(i) (– 4)5 ÷ (– 4)8
+(ii)
+1
+23
+2
+
+
+
+
+(iii)
+(
+)
+−
+× 
+
+
+3
+5
+3
+4
+4
+(iv) (3– 7 ÷ 3– 10) × 3– 5     (v) 2– 3 × (–7)– 3
+3. eku Kkr dhft, %
+(i) (3° + 4– 1) × 22
+(ii) (2– 1 × 4– 1) ÷ 2– 2
+(iii)
+1
+2
+1
+3
+1
+4
+2
+2
+2
+
+
+
++ 
+
+
++ 
+
+
+−
+−
+−
+(iv) (3– 1 + 4– 1 + 5– 1)0
+(v)
+−
+
+
+
+
+
+
+
+
+
+
+−
+2
+3
+2
+2
+4. eku Kkr dhft, % (i)   
+1
+3
+4
+8
+5
+2
+−
+−
+×
+          (ii)   (5–1 × 2–1) × 6–1
+   
+2
+3
+2
+3
+3
+2
+3
+2
+2
+2
+2
+2
+2
+2
+
+
+
+
+=
+=
+= 
+
+
+
+−
+−
+−
+vr% lk/kj.kr% , a
+b
+b
+a
+m
+m
+
+
+
+
+= 
+
+
+
+−
+2024-25
+
+134  xf.kr
+5. m dk eku Kkr dhft, ftlosQ fy,  5m ÷ 5– 3 = 55
+6. eku Kkr dhft, %  (i)  
+1
+3
+1
+4
+1
+1
+1
+
+
+
+−
+
+
+
+
+
+
+
+
+−
+−
+−
+(ii) 
+7. ljy dhft,A
+(i)
+4
+3
+8
+25
+(
+0)
+5
+10
+t
+t
+t
+−
+−
+−
+×
+≠
+×
+×
+(ii)
+5
+5
+7
+5
+3
+10
+125
+5
+6
+−
+−
+−
+−
+×
+×
+×
+10.4 NksVh la[;kvksa dks ?kkrkadksa dk iz;ksx dj ekud :i esa O;Dr djuk
+fuEu rF;ksa dk voyksdu dhft, %
+1. i`Foh ls lw;Z dh nwjh 149,600,000,000 m gSA
+2. izdk'k dk osx 300,000,000 m/s gSA
+3. d{kk VII dh xf.kr dh iqLrd dh eksVkbZ 20 mm gSA
+4. yky jDr dksf'kdkvksa dk vkSlr O;kl 0.000007 mm
+5. euq"; osQ cky dh eksVkbZ dh ijkl 0.005 cm ls 0.01 cm gksrh gSA
+6. i`Foh ls panzek dh nwjh yxHkx 384,467,000 m gksrh gSA
+7. ikS/ksa dh dksf'kdkvksa dk vkdkj 0.00001275 m gSA
+8. lw;Z dh vkSlr f=kT;k 695000 km gSA
+9. varfj{k 'kVy esa Bksl jkosQV cwLVj dks izsfjr djus osQ fy, 'kVy dk nzO;eku
+503600 kg gSA
+10. ,d dkx”k dh eksVkbZ 0.0016 cm gSA
+11. oaQI;wVj fpi osQ ,d rkj dk O;kl  0.000003 m gSA
+12. ekmaV ,ojsLV dh Å¡pkbZ 8848 m gSA
+;gk¡ oqQN la[;kvksa dk voyksdu
+dhft, tks ge i<+ ldrs gSa tSls] 2 cm]
+8848 m 6,95,000 km A ;gk¡ oqQN cM+h
+la[;k,¡ Hkh gSa tSls 150,000,000,000 m
+vkSj oqQN cgqr NksVh la[;k,¡ gSa tSls
+0.000007 m A
+mijksDr rF;ksa osQ vk/kj ij cgqr
+cM+h vkSj cgqr NksVh la[;kvksa dh igpku
+dhft, vkSj laxr lkj.kh esa fyf[k,A
+fiNyh d{kk esa geus lh[kk fd fdlh cgqr cM+h la[;k dks ekud :i esa oSQls O;Dr dj
+ldrs gSaA mnkgj.k osQ fy, 150,000,000,000 = 1.5 × 1011 A vc gesa 0.000007 dks ekud
+:i esa O;Dr djuk pkfg,A
+0.000007 =
+7
+1000000 = 
+6
+7
+10 = 7 × 10– 6
+0.000007 m = 7 × 10– 6 m
+cgqr cM+h la[;k,¡
+cgqr NksVh la[;k,¡
+150,000,000,000 m
+0.000007 m
+---------------
+---------------
+---------------
+---------------
+---------------
+---------------
+---------------
+---------------
+2024-25
+
+?kkrkad vkSj ?kkr  135
+tc ge ekud :i esa fy[kh
+la[;kvksa dks tksM+rs gSa rc ge bUgsa
+10 dh leku ?kkr esa cnyrs gSaA
+iz;kl dhft,
+blh rjg ,d dkx”k dh eksVkbZ tks fd 0.0016 cm gS]
+fyf[k,A
+0.0016 =
+4
+4
+16
+1.6
+10
+1.6
+10
+10
+10000
+10
+−
+×
+=
+=
+×
+×
+= 1.6 × 10– 3 cm
+vr% ge dg ldrs gSa fd dkx”k dh eksVkbZ 1.6 × 10– 3 cm gSA
+1. fuEu la[;kvksa dks ekud :i esa fyf[k,A
+(i) 0.000000564
+(ii)
+0.0000021
+(iii) 21600000
+(iv) 15240000
+2. fn, x, rF;ksa dks ekud :i esa fyf[k,A
+10.4.1  cgqr cM+h la[;kvksa vkSj cgqr NksVh la[;kvksa dh rqyuk
+lw;Z dk O;kl 1.4 × 109 m vkSj i`Foh dk O;kl 1.2756 × 107 m gSA ge buosQ O;klksa dh
+rqyuk djuk pkgrs gSaA lw;Z dk O;kl = 1.4 × 109 m;  i`Foh dk O;kl = 1.2756 × 107 m
+vr%  
+9
+7
+1.4 10
+1.2756 10
+×
+×
+ =
+9–7
+1.4 10
+1.2756
+×
+=1.4
+100
+1.2756
+×
+ tks fd yxHkx 100 xquk gSA
+vr% lw;Z dk O;kl] i`Foh osQ O;kl dk yxHkx 100 xquk gSA yky jDr dksf'kdk,¡ tks fd
+0.000007 m eki dh gS vkSj ikS/ksa dh dksf'kdk,¡ tks fd  0.00001275 m eki dh gS buosQ
+ekiksa dh rqyuk dhft,A
+yky jDr dksf'kdkvksa dk vkdkj = 0.000007 m = 7 × 10– 6 m
+ikS/ksa dh dksf'kdkvksa dk vkdkj = 0.00001275 m = 1.275 × 10– 5 m
+vr%,   
+6
+5
+7
+10
+1.275
+10
+−
+−
+×
+×
+ =
+6
+(–5)
+–1
+7 10
+7 10
+1.275
+1.275
+−−
+×
+×
+=
+= 0.7
+0.7
+1
+1.275
+1.3
+2
+=
+=
+ (yxHkx)
+vr% yky jDr dksf'kdk,¡ vkdkj esa] ikS/ksa dh dksf'kdkvksa dh yxHkx vk/h gSaA
+i`Foh dk nzO;eku 5.97 × 1024 kg vkSj panzek dk nzO;eku 7.35 × 1022 kg gSA nksuksa dk
+oqQy nzO;eku D;k gksxk\
+oqQy nzO;eku = 5.97 × 1024 kg + 7.35 × 1022 kg
+= 5.97 × 100 × 1022 + 7.35 × 1022
+= 597 × 1022 + 7.35 × 1022
+= (597 + 7.35) × 1022 = 604.35 × 1022  kg
+lw;Z vkSj i`Foh osQ chp dh nwjh 1.496 × 1011 m vkSj i`Foh vkSj panzek osQ chp dh nwjh
+3.84 × 108 m gSA lw;Z xzg.k osQ nkSjku panzek i`Foh vkSj lw;Z osQ chp vk tkrk gSA
+bl le; panzek vkSj lw;Z osQ chp dh nwjh fdruh gksrh gS\
+lw;Z vkSj i`Foh osQ chp dh nwjh = 1.496 × 1011 m
+i`Foh vkSj panzek osQ chp dh nwjh = 3.84 × 108 m
+lw;Z vkSj panzek osQ chp dh nwjh = 1.496 × 1011 – 3.84 × 108
+2024-25
+
+136  xf.kr
+= 1.496 × 1000 × 108  – 3.84 × 108
+= (1496 – 3.84) × 108 m = 1492.16 × 108 m
+mnkgj.k 8 :  fuEu la[;kvksa dks ekud :i esa O;Dr dhft, %
+(i) 0.000035
+(ii) 4050000
+gy : (i)
+0.000035 = 3.5 × 10– 5
+(ii)
+4050000 = 4.05 × 106
+mnkgj.k 9 :  fuEu la[;kvksa dks lkekU; :i esa O;Dr dhft, %
+(i) 3.52 × 105
+(ii) 7.54 × 10– 4
+(iii) 3 × 10– 5
+gy :
+(i) 3.52 × 105 = 3.52 × 100000 = 352000
+(ii) 7.54 × 10– 4 = 
+4
+7.54
+7.54
+10000
+10
+=
+ = 0.000754
+(iii) 3 × 10– 5 = 
+5
+3
+3
+100000
+10
+=
+ = 0.00003
+iz'ukoyh 10.2
+1. fuEu la[;kvksa dks ekud :i esa O;Dr dhft, %
+(i) 0.0000000000085
+(ii) 0.00000000000942
+(iii) 6020000000000000
+(iv) 0.00000000837
+(v) 31860000000
+2. fuEu la[;kvksa dks lkekU; :i esa O;Dr dhft, %
+(i) 3.02 × 10– 6
+(ii) 4.5 × 104
+(iii) 3 × 10– 8
+(iv) 1.0001 × 109
+(v) 5.8 × 1012
+(vi) 3.61492 × 106
+3. fuEufyf[kr dFkuksa esa tks la[;k izdV gks jgh gS mUgsa ekud :i esa O;Dr dhft, %
+(i) 1 ekbZØkWu 
+1
+1000000 m osQ cjkcj gksrk gSA
+(ii) ,d bysDVªkWu dk vkos'k 0.000,000,000,000,000,000,16 oqQyac gksrk gSA
+(iii) thok.kq dh eki 0.0000005 m gSA
+(iv) ikS/ksa dh dksf'kdkvksa dh eki 0.00001275 m gSA
+(v) eksVs dkx”k dh eksVkbZ 0.07 mm gSA
+4. ,d <sj esa ik¡p fdrkcsa gSa ftuesa izR;sd dh eksVkbZ 20 mm rFkk ik¡p dkx”k dh 'khVsa gSa
+ftuesa izR;sd dh eksVkbZ 0.016 mm gSA bl <sj dh oqQy eksVkbZ Kkr dhft,A
+geus D;k ppkZ dh \
+1. Í.kkRed ?kkrkadksa okyh la[;k,¡ fuEu fu;eksa dk ikyu djrh gSaA
+(a) am × an = am+n
+(b) am ÷ an = am–n
+(c) (am)n = amn
+(d) am × bm = (ab)m
+(e) a0 = 1
+(f)
+m
+m
+m
+a
+a
+b
+b
+
+
+=
+
+
+
+2. Í.kkRed ?kkrkadksa dk mi;ksx djrs gq, cgqr NksVh la[;kvksa dks ekud :i esa O;Dr dj ldrs gSaA
+,d ckj iqu% gesa ekud :i esa
+nh xbZ la[;kvksa dks leku ?kkrkad
+okyh la[;kvksa esa cnyuk gSA
+2024-25

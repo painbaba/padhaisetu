@@ -1,0 +1,449 @@
+?ku vkSj ?kuewy  77
+?ku vkSj ?kuewy
+vè;k;6
+6.1 Hkwfedk
+;g dgkuh Hkkjr dh egku xf.krh; izfrHkkoku foHkwfr;ksa esa ls ,d ,l- jkekuqtu osQ ckjs eas gSA
+,d ckj ,d vU; izfl¼ xf.krK izksi+sQlj th- ,p- gkMhZ muls feyus ,d VSDlh esa vk, ftldk
+uacj 1729 FkkA jkekuqtu ls ckr djrs le;] gkMhZ us bl la[;k dks ^,d
+uhjl* (dull) la[;k crk;kA jkekuqtu us rqjar crk;k fd 1729 okLro esa ,d
+jkspd la[;k FkhA mUgksaus dgk fd ;g ,slh lcls NksVh la[;k gS ftls nks  ?kuksa
+(cubes) osQ ;ksx osQ :i esa nks fHkUu izdkjksa ls O;Dr fd;k tk ldrk gS%
+1729 = 1728 + 1 = 123 + 13
+1729 = 1000 + 729 = 103 + 93
+rc ls bl la[;k 1729 dks gkMhZ&jkekuqtu la[;k (Hardy - Ramanujan
+Number) dgk tkus yxk] ;|fi 1729 dh ;g fo'ks"krk jkekuqtu ls
+yxHkx 300 o"kZ iwoZ Hkh Kkr FkhA
+jkekuqtu dks bldh tkudkjh oSQls Fkh\ og la[;kvksa ls I;kj
+djrs FksA vius laiw.kZ thou esa] os la[;kvksa osQ lkFk iz;ksx djrs
+jgsA laHkor% mUgksaus os la[;k,¡ Kkr dh gksaxh ftUgsa nks oxks± osQ
+;ksx vkSj lkFk gh nks ?kuksa osQ ;ksx osQ :i esa O;Dr fd;k tk
+ldrk FkkA
+?kuksa osQ vusd nwljs jkspd izfr:i (patterns) gSaA vkb,] ge
+?kuksa] ?kuewyksa (cube roots) rFkk buls lacaf/r vusd jkspd
+rF;ksa osQ ckjs esa lh[ksaA
+6.2 ?ku
+vki tkurs gSa fd 'kCn ^?ku* dk iz;ksx T;kfefr esa fd;k tkrk gSA
+?ku ,d ,slh Bksl vkÑfr gS] ftldh lHkh Hkqtk,¡ cjkcj gksrh gSaA
+1 cm Hkqtk okys fdrus ?kuksa ls 2 cm Hkqtk okyk ,d ?ku cusxk\
+1 cm Hkqtk okys fdrus ?kuksa ls 3 cm Hkqtk okyk ,d ?ku cusxk\
+gkMhZ&jkekuqtu la[;k
+1729 lcls NksVh gkMhZ&jkekuqtu
+la[;k gSA bl izdkj dh vusd
+la[;k,¡ gSa % muesa ls oqQN gSa 4104
+(2, 16; 9, 15), 13832 (18, 20;
+2, 024)A dks"Bdksa esa nh gqbZ
+la[;k,¡ ysdj bldh tk¡p dhft,A
+os vkÑfr;k¡ ftudh 3 foek,¡
+(dimensions) gksrh gSa] Bksl vkÑfr;k¡
+dgykrh gSaA
+2024-25
+
+78  xf.kr
+la[;kvksa 1] 8] 27] --- ij fopkj dhft,] ;s iw.kZ ?ku (perfect cubes) ;k ?ku la[;k,¡
+(cube numbers) dgykrh gSaA D;k vki crk ldrs gSa fd budks ;s uke D;ksa fn, x, gSa\ buesa
+ls izR;sd la[;k rc izkIr gksrh gS] tc ,d la[;k dks rhu ckj ysdj xq.kk fd;k tkrk gSA
+ge ns[krs gSa fd 1 = 1×1×1 = 13, 8 = 2×2×2 = 23, 27 = 3×3×3 = 33  gSA
+D;ksafd 53 = 5×5×5 = 125 gS] blfy, 125 ,d ?ku la[;k gSA D;k 9 ,d ?ku la[;k gS\
+ugha] D;ksafd 9 = 3 × 3 gS vkSj ,slh dksbZ izkÑr la[;k ugha gS ftls rhu ckj ysdj xq.kk djus
+ij 9 izkIr gksA ge tkurs gSa fd 2×2×2 = 8 vkSj 3×3×3 = 27 gSA blls ;g izn£'kr gksrk
+gS fd 9 ,d iw.kZ ?ku ugha gSA uhps 1 ls 10 rd dh la[;kvksa osQ ?ku fn, x, gSa%
+lkj.kh 1
+la[;k
+?ku
+1
+13 = 1
+2
+23 = 8
+3
+33 = 27
+4
+43 = 64
+ 5
+53 = ____
+6
+63 = ____
+7
+73 = ____
+8
+83 = ____
+9
+93 = ____
+10
+103 = ____
+;gk¡ vki ns[k ldrs gSa fd 1 ls 1000 rd osQoy nl iw.kZ ?ku gSaA (bldh tk¡p dhft,) 1 ls 100
+rd fdrus iw.kZ ?ku gSa\ le la[;kvksa osQ ?kuksa dks nsf[k,A D;k ;s lHkh le gSa\ vki fo"ke la[;kvksa
+osQ ?kuksa osQ ckjs esa D;k dg ldrs gSa\ vc 11 ls 20 rd dh la[;kvksa osQ ?ku uhps fn, tk jgs gSa%
+lkj.kh 2
+la[;k
+?ku
+11
+1331
+12
+1728
+13
+2197
+14
+2744
+15
+3375
+16
+4096
+17
+4913
+18
+5832
+19
+6859
+20
+8000
+la[;k,¡ 729, 1000, 1728 Hkh
+iw.kZ ?ku gSaA
+iw.kZ dhft,A
+ge le gSa vkSj gekjs
+?ku Hkh le gSaA
+ge fo"ke gSa vkSj
+gekjs ?ku Hkh
+fo"ke gSaA
+2024-25
+
+?ku vkSj ?kuewy  79
+iz;kl dhft,
+,slh oqQN la[;kvksa ij fopkj dhft, ftudh bdkbZ dk vad 1 gSA buesa ls izR;sd la[;k dk
+?ku Kkr dhft,A ml la[;k osQ ?ku osQ bdkbZ osQ vad osQ ckjs esa vki D;k dg ldrs gSa]
+ftldh bdkbZ dk vad 1 gS\
+blh izdkj] mu la[;kvksa osQ ?kuksa dh
+bdkbZ osQ vadksa osQ ckjs esa irk dhft,]
+ftudh bdkbZ osQ vad 2, 3, 4 bR;kfn gSaA
+6.2.1  oqQN jkspd izfr:i
+1. Øekxr fo"ke la[;kvksa dks tksM+uk
+fo"ke la[;kvksa osQ ;ksxksa osQ fuEufyf[kr izfr:i dks nsf[k, %
+1
+=
+1
+=
+13
+3
++
+5
+=
+8
+=
+23
+7
++
+9
++
+11
+=
+27
+=
+33
+13
++
+15
++
+17
++
+19
+=
+64
+=
+43
+21
++
+23
++
+25
++
+27
++
+29
+=
+125
+=
+53
+D;k ;g jkspd ugha  gS\ ;ksx 103 izkIr djus osQ fy, fdruh Øekxr fo"ke la[;kvksa
+dh vko';drk gksxh\
+mijksDr izfr:i dk iz;ksx djrs gq,] fuEufyf[kr la[;kvksa dks fo"ke la[;kvksa osQ ;ksx
+osQ :i esa O;Dr dhft, %
+(a) 63
+(b) 83
+(c) 73
+fuEufyf[kr izfr:i dks nsf[k, %
+23 – 13 = 1 + 2 × 1 × 3
+33 – 23 = 1 + 3 × 2 × 3
+43 – 33 = 1 + 4 × 3 × 3
+mijksDr izfr:i dk iz;ksx djrs gq,] fuEufyf[kr osQ eku Kkr dhft, %
+(i) 73 – 63
+(ii) 123 – 113
+(iii) 203 – 193
+(iv) 513 – 503
+2. ?ku vkSj muosQ vHkkT; xq.ku[kaM
+oqQN la[;kvksa vkSj muosQ ?kuksa osQ fuEufyf[kr vHkkT; xq.ku[kaMuksa ij fopkj dhft, %
+,d la[;k dk vHkkT;
+mlosQ ?ku dk vHkkT;
+xq.ku[kaMu
+xq.ku[kaMu
+4 = 2 × 2
+43 = 64 = 2 × 2 × 2 × 2 × 2 × 2 = 23 × 23
+6 = 2 × 3
+63 = 216 = 2 × 2 × 2 × 3 × 3 × 3 = 23 × 33
+15 = 3 × 5
+153 = 3375 = 3 × 3 × 3 × 5 × 5 × 5 = 33 × 53
+12 = 2 × 2 × 3
+123 = 1728 = 2 × 2 × 2 × 2 × 2 × 2 × 3 × 3 × 3
+= 23 × 23 × 33
+iz;kl dhft,
+fuEufyf[kr la[;kvksa esa ls izR;sd osQ ?ku osQ bdkbZ dk vad
+Kkr dhft, %
+(i) 3331
+(ii)
+8888
+(iii)
+149
+(iv) 1005
+(v) 1024
+(vi)
+77
+(vii)
+5022
+(viii) 53
+Lo;a osQ ?ku esa
+izR;sd vHkkT;
+xq.ku[kaM
+rhu ckj vkrk gSA
+2024-25
+
+80  xf.kr
+è;ku nhft, fd ,d la[;k dk izR;sd vHkkT; xq.ku[kaM
+ml la[;k osQ ?ku osQ vHkkT; xq.ku[kaMu~ esa rhu ckj vkrk gSA
+;fn fdlh la[;k osQ vHkkT; xq.ku[kaMu esa izR;sd xq.ku[kaM
+rhu ckj vkrk gS] rks D;k og la[;k ,d iw.kZ ?ku gksrh gS\
+blosQ ckjs esa lksfp,! D;k 216 ,d iw.kZ ?ku gS\
+vHkkT; xq.ku[kaM }kjk] 216 = 2 × 2 × 2 × 3 × 3 × 3
+izR;sd xq.ku[kaM rhu ckj vkrk gSA 216 = 23 × 33  = (2 × 3)3 = 63 tks ,d iw.kZ ?ku gSA
+D;k 729 ,d iw.kZ ?ku gS\ 729 = 3 × 3 × 3 × 3 × 3 × 3
+gk¡] 729 ,d iw.kZ ?ku gSA
+vkb,] vc 500 osQ fy, bldh tk¡p djsaA
+500 dk vHkkT; xq.ku[kaMu gS % 2 × 2 × 5 × 5 × 5
+blfy, 500 ,d iw.kZ ?ku ugha gSA
+mnkgj.k 1 : D;k 243 ,d iw.kZ ?ku gS\
+gy : 243 = 3 × 3 × 3 × 3 × 3
+;gk¡ 3 dk ,d f=kd cukus osQ ckn 3 × 3 'ks"k jgrk gSA vr%] 243 ,d iw.kZ ?ku ugha gSA
+6.2.2  lcls NksVk xq.kt tks iw.kZ ?ku gS
+jkt us IykfLVflu (plasticine) dk ,d ?kukHk (cuboid) cuk;kA
+bl ?kukHk dh yackbZ] pkSM+kbZ vkSj Å¡pkbZ Øe'k% 15 cm, 30 cm
+vkSj 15 cm gSA
+vuq mlls iwNrh gS fd ,d (iw.kZ) ?ku cukus osQ fy, mls ,sls
+fdrus ?kukHkksa dh vko';drk gksxh\ D;k vki crk ldrs gSa\
+jkt dgrk gS]
+?kukHk dk vk;ru = 15 × 30 × 15
+= 3 × 5 × 2 × 3 ×  5 × 3 × 5 × 3 × 5
+= 2 × 3 ×  3 × 3 × 5 × 5 × 5
+D;ksafd mijksDr vHkkT; xq.ku[kaMu esa osQoy ,d ckj 2 gS] blfy, gesa bls iw.kZ ?ku cukus
+osQ fy, 2 × 2 = 4 dh vko';drk gksxhA vr% gesa ,d ?ku cukus osQ fy, ,sls pkj ?kukHkksa
+dh vko';drk gksxhA
+mnkgj.k 2 : D;k 392 ,d iw.kZ ?ku gS\ ;fn ugha] rks ,slh lcls NksVh izkÑr la[;k Kkr
+dhft, ftlls 392 dks xq.kk djus ij xq.kuiQy ,d iw.kZ ?ku izkIr gks tk,A
+gy : 392 = 2 × 2 × 2 × 7 × 7
+vHkkT; xq.ku[kaM 7 rhu osQ lewg esa ugha vk jgk gSA vr% 392 ,d iw.kZ ?ku ugha gSA bls iw.kZ
+?ku cukus osQ fy,] ,d vkSj 7 dh vko';drk gSA bl fLFkfr esa]
+392 × 7 = 2 × 2 × 2 × 7 × 7 × 7 = 2744, tks ,d iw.kZ ?ku gSA
+2
+216
+2
+108
+2
+54
+3
+27
+3
+9
+3
+3
+1
+D;k vkidks ;kn gS fd
+am × bm = (a × b)m
+gksrk gS\
+bl xq.kuiQy esa rhu
+ckj 5 gS] ijarq osQoy
+ nks 2 ckj gSA
+xq.ku[kaMksa osQ rhu&rhu
+osQ lewg cuk, tk
+ldrs gSaA
+iz;kl dhft,
+fuEufyf[kr esa ls dkSu lh la[;k,¡
+iw.kZ ?ku gSa\
+(i) 400
+(ii)
+3375
+(iii) 8000
+(iv)
+15625
+(v) 9000
+(vi)
+6859
+(vii) 2025
+(viii)
+10648
+2024-25
+
+?ku vkSj ?kuewy  81
+vr% og lcls NksVh izkÑr la[;k 7 gS] ftls 392 ls xq.kk djus ij ,d iw.kZ ?ku izkIr
+gks tk,xkA
+mnkgj.k 3 : D;k  53240 ,d iw.kZ ?ku gS\ ;fn ugha] rks 53240 dks fdl lcls NksVh izkÑr
+la[;k ls Hkkx fn;k tk, fd HkkxiQy ,d iw.kZ ?ku izkIr gks\
+gy : 53240 = 2 × 2 × 2 × 11 × 11 × 11 × 5
+;gk¡ vHkkT; xq.ku[kaM esa 5 rhu osQ lewg esa ugha vk jgk gSA vr% 53240 ,d iw.kZ ?ku ugha gSA
+mijksDr xq.ku[kaMu esa 5 osQoy ,d ckj vk;k gSA ;fn ge nh gqbZ la[;k dks 5 ls Hkkx
+nsa] rks HkkxiQy osQ vHkkT; xq.ku[kaMu esa 5 ugha vk,xkA
+bl izdkj] 53240 ÷ 5 = 2 × 2 × 2 × 11 × 11 × 11
+vr% og lcls NksVh izkÑr la[;k 5 gS ftlls 53240 dks Hkkx nsus ij HkkxiQy ,d iw.kZ
+?ku izkIr gksxkA
+ml fLFkfr esa] iw.kZ ?ku 10648 gksxkA
+mnkgj.k 4 : D;k 1188 ,d iw.kZ ?ku gS\ ;fn ugha] rks fdl lcls NksVh izkÑr la[;k ls
+1188 dks Hkkx fn;k tk, fd HkkxiQy ,d iw.kZ ?ku izkIr gks tk,\
+gy : 1188 = 2 × 2 × 3 × 3 × 3 × 11
+vHkkT; xq.ku[kaM 2 vkSj 11 rhu&rhu osQ lewgksa esa ugha vk jgs gSaA vr% 1188 ,d iw.kZ ?ku
+ugha gSA 1188 osQ mijksDr xq.ku[kaMu esa] vHkkT; 2 osQoy nks ckj vk jgk gS vkSj vHkkT;
+11 ,d ckjA vr% ;fn ge 1188 dks 2 × 2 × 11 = 44 ls Hkkx nsa] rks HkkxiQy osQ vHkkT;
+xq.ku[kaMu esa 2 vkSj 11 ugha vk,¡xsA
+vr% og lcls NksVh izkÑr la[;k 44 gS] ftlls 1188 dks Hkkx nsus ij HkkxiQy ,d iw.kZ
+?ku izkIr gksxkA lkFk gh] ifj.kkeh iw.kZ ?ku = 1188 ÷ 44 = 27 (=33)
+mnkgj.k 5 : D;k 68600 ,d iw.kZ ?ku gS\ ;fn ugha] rks og lcls NksVh izkÑr la[;k Kkr
+dhft, ftlls 68,600 dks xq.kk djus ij ,d iw.kZ ?ku izkIr gks tk,\
+gy : gesa izkIr gS% 68,600 = 2 × 2 × 2 × 5 × 5 × 7 × 7 × 7
+bl xq.ku[kaMu esa] 5 dh dksbZ f=kd (triplet) ugha gSA vr% 68,600 ,d iw.kZ ?ku ugha gSA bls
+iw.kZ ?ku cukus osQ fy,] ge bls 5 ls xq.kk djrs gSaA
+bl izdkj]
+68,600 × 5 = 2 × 2 × 2 × 5 × 5 × 5 × 7 × 7 × 7
+= 3,43,000 tks ,d iw.kZ ?ku gSA
+è;ku nhft, fd 343 ,d iw.kZ ?ku gSA mnkgj.k 5 ls] ge tkurs gSa fd 3,43,000 Hkh ,d
+iw.kZ ?ku gSA
+tk¡p dhft, fd fuEufyf[kr esa ls dkSu lh la[;k,¡ iw.kZ ?ku gSa % (i) 2700 (ii) 16000
+(iii) 64000 (iv) 900 (v) 125000 (vi) 36000 (vii) 21600 (viii) 10,000 (ix) 27000000
+(x) 1000 bu iw.kZ ?kuksa esa vki D;k izfr:i ns[krs gSa\
+lksfp,] ppkZ dhft, vkSj fyf[k,
+2024-25
+
+82  xf.kr
+iz'ukoyh 6.1
+1. fuEufyf[kr esa ls dkSu&lh la[;k,¡ iw.kZ ?ku ugha gSa\
+(i) 216
+(ii) 128
+(iii) 1000
+(iv) 100
+(v) 46656
+2. og lcls NksVh la[;k Kkr dhft, ftlls fuEufyf[kr la[;kvksa dks xq.kk djus ij iw.kZ
+?ku izkIr gks tk, %
+(i) 243
+(ii) 256
+(iii) 72
+(iv) 675
+(v) 100
+3. og lcls NksVh la[;k Kkr dhft, ftlls fuEufyf[kr la[;kvksa dks Hkkx nsus ij HkkxiQy
+,d iw.kZ ?ku izkIr gks tk, %
+(i) 81
+(ii) 128
+(iii) 135
+(iv) 192
+(v) 704
+4. ijhf{kr IykfLVflu dk ,d ?kukHk cukrk gS] ftldh Hkqtk,¡ 5 cm, 2 cm vkSj 5 cm gSaA
+,d ?ku cukus osQ fy, ,sls fdrus ?kukHkksa dh vko';drk gksxh\
+6.3 ?kuewy
+;fn fdlh ?ku dk vk;ru 125 cm3 gS] rks mldh Hkqtk dh yackbZ D;k gksxh\ bl ?ku
+dh Hkqtk dh yackbZ Kkr djus osQ fy, gesa ,d ,slh la[;k Kkr djuh gksxh] ftldk ?ku
+125 gksA
+tSlk fd vki tkurs gSa fd ^oxZewy* Kkr djuk ^oxZ djus dh lafØ;k dh izfrykse lafØ;k
+gSA* blh izdkj ^?kuewy* (cuberoot) Kkr djus dh lafØ;k ?ku (Kkr) djus dh lafØ;k dh
+izfrykse lafØ;k gSA
+ge tkurs gSa fd 23 = 8 gSA blfy, ge dgrs gSa fd 8 dk ?kuewy (cuberoot) 2 gSA
+ge bls 3 8 = 2 fy[krs gSaA laosQr ^ 3
+* ?kuewy dks O;Dr djrk gSA
+fuEufyf[kr ij fopkj dhft, %
+dFku
+fu"d"kZ
+dFku
+fu"d"kZ
+13 = 1
+3 1 = 1
+63 = 216
+3 216 = 6
+23 = 8
+3 8 = 3
+3
+2 = 2
+73 = 343
+3 343 = 7
+33 = 27
+3 27 = 3
+33 = 3
+83 = 512
+3 512 = 8
+43 = 64
+3 64 = 4
+93 = 729
+3 729 = 9
+53 = 125
+3 125 = 5
+103 = 1000
+3 1000 = 10
+6.3.1  vHkkT; xq.ku[kaMu fof/ }kjk ?kuewy
+la[;k 3375 ij fopkj dhft,A ge bldk ?kuewy vHkkT; xq.ku[kaMu }kjk Kkr djsaxs %
+3375 = 3 × 3 × 3 × 5 × 5 × 5 = 33 × 53 = (3 × 5)3
+vr%
+3375 dk ?kuewy = 3 3375 = 3 × 5 = 15
+2024-25
+
+?ku vkSj ?kuewy  83
+blh izdkj]
+3 74088 Kkr djus osQ fy,] gesa izkIr gS %
+74088 = 2 × 2 × 2 × 3 × 3 × 3 × 7 × 7 × 7 = 23 × 33 × 73 = (2 × 3 × 7)3
+vr%
+3 74088 = 2 × 3 × 7 = 42
+mnkgj.k 6 : 8,000 dk ?kuewy Kkr dhft,A
+gy : 8,000 dk vHkkT; xq.ku[kaM 2 × 2 × 2 × 2 × 2 × 2 × 5 × 5 × 5 gSA
+vr%
+3 8000 = 2 × 2 × 5 = 20
+mnkgj.k 7 : vHkkT; xq.ku[kaM fof/ }kjk 13824 dk ?kuewy Kkr dhft,A
+gy : 13824 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 3 × 3 × 3 = 23 × 23 × 23 × 33
+vr%
+3 13824 = 2 × 2 × 2 × 3 = 24
+crkb, fd lR; gS ;k vlR; % fdlh iw.kkZad m osQ fy,] m2 < m3 gksrk gSA D;ksa\
+iz'ukoyh 6.2
+1. vHkkT; xq.ku[kaMu fof/ }kjk fuEufyf[kr esa ls izR;sd la[;k dk ?kuewy Kkr dhft, %
+(i) 64
+(ii) 512
+(iii) 10648
+(iv) 27000
+(v) 15625
+(vi) 13824
+(vii) 110592
+(viii) 46656
+(ix) 175616
+(x) 91125
+2. crkb, lR; gS ;k vlR; %
+(i) fdlh Hkh fo"ke la[;k dk ?ku le gksrk gSA
+(ii) ,d iw.kZ ?ku nks 'kwU;ksa ij lekIr ugha gksrk gSA
+(iii) ;fn fdlh la[;k dk oxZ 5 ij lekIr gksrk gS] rks mldk ?ku 25 ij lekIr gksrk gSA
+(iv) ,slk dksbZ iw.kZ ?ku ugha gS tks  8 ij lekIr gksrk gSA
+(v) nks vadksa dh la[;k dk ?ku rhu vadksa okyh la[;k gks ldrh gSA
+(vi) nks vadksa dh la[;k osQ ?ku esa lkr ;k vf/d vad gks ldrs gSaA
+(vii) ,d vad okyh la[;k dk ?ku ,d vad okyh la[;k gks ldrh gSA
+lksfp,] ppkZ dhft, vkSj fyf[k,
+geus D;k ppkZ dh\
+1. la[;k,¡] tSls fd 1729, 4104, 13832 gkMhZ&jkekuqtu la[;k,¡ dgykrh gSaA bUgsa nks ?kuksa osQ ;ksx osQ :i
+esa nks fHkUu izdkjksa ls O;Dr fd;k tk ldrk gSA
+2. ,d la[;k dks Lo;a ls gh rhu ckj xq.kk djus ij izkIr la[;k ?ku la[;k dgykrh gSA
+mnkgj.kkFkZ 1, 8, 27 bR;kfnA
+3. ;fn fdlh la[;k osQ vHkkT; xq.ku[kaMu esa izR;sd vHkkT; xq.ku[kaM rhu ckj vkrk gS] rks og la[;k ,d
+iw.kZ ?ku gksrh gSA
+4. laosQr ^ 3
+* ?kuewy dks O;Dr djrk gSA mnkgj.kkFkZ] 3 27
+3
+= gSA
+2024-25
+
+84  xf.kr
+uksV
+2024-25

@@ -1,0 +1,478 @@
+o`Ùkksa ls lacaf/r {ks=kiQy
+171
+11
+11.1 f=kT;[kaM vkSj o`Ùk[kaM osQ {ks=kiQy
+f=kT;[kaM vkSj o`Ùk[kaM osQ {ks=kiQy
+f=kT;[kaM vkSj o`Ùk[kaM osQ {ks=kiQy
+f=kT;[kaM vkSj o`Ùk[kaM osQ {ks=kiQy
+f=kT;[kaM vkSj o`Ùk[kaM osQ {ks=kiQy
+vki fiNyh d{kkvksa esa 'kCnksa f=kT;[kaM (sector) vkSj
+o`Ùk[kaM (segment of a circle) ls iwoZ ifjfpr gSaA vkidks
+;kn gksxk fd ,d o`Ùkh; {ks=k dk og Hkkx tks nks f=kT;kvksa
+vkSj laxr pki ls f?kjk (ifjc¼) gks] ml o`Ùk dk ,d
+f=kT;[kaM dgykrk gS rFkk o`Ùkh; {ks=k dk og Hkkx tks ,d
+thok vkSj laxr pki osQ chp esa ifjc¼ gks ,d o`Ùk[kaM
+dgykrk gSA bl izdkj] vko`Qfr 11-1 esa] Nk;kafdr Hkkx
+OAPB osaQnz O okys o`Ùk dk ,d f=kT;[kaM gSA ∠ AOB bl
+f=kT;[kaM dk dks.k dgykrk gSA è;ku nhft, fd blh
+vko`Qfr esa vNk;kafdr Hkkx OAQB Hkh o`Ùk dk f=kT;[kaM
+gSA Li"V dkj.kksa ls OAPB ,d y?kq f=kT;[kaM (minor
+sector) dgykrk gS rFkk OAQB ,d nh?kZ f=kT;[kaM
+(major sector) dgykrk gSA vki ;g Hkh ns[k ldrs gSa fd
+bl nh?kZ f=kT;[kaM dk dks.k 360° – ∠ AOB gSA
+vc vko`Qfr 11-2 dks nsf[k,] ftleas AB osaQnz O
+okys o`Ùk dh ,d thok gSA vr% Nk;kafdr Hkkx APB ,d
+o`Ùk[kaM gSA vki ;g Hkh ns[k ldrs gSa fd vNk;kafdr
+Hkkx AQB Hkh thok AB }kjk fu£er ,d vU; o`Ùk[kaM gSA
+Li"V dkj.kksa ls]  APB y?kq o`Ùk[kaM dgykrk gS rFkk AQB
+nh?kZ o`Ùk[kaM dgykrk gSA
+o`Ùkksa ls lacaf/r {ks=kiQy
+Ùkksa ls lacaf/r {ks=kiQy
+Ùkksa ls lacaf/r {ks=kiQy
+Ùkksa ls lacaf/r {ks=kiQy
+Ùkksa ls lacaf/r {ks=kiQy
+vko`Qfr 
+vko`Qfr 
+vko`Qfr 
+vko`Qfr 
+vko`Qfr 11.2
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr 11.1
+nh?kZ
+f=kT;[kaM
+y?kq
+f=kT;[kaM
+Reprint 2026-27
+
+172
+xf.kr
+fVIi.kh
+fVIi.kh
+fVIi.kh
+fVIi.kh
+fVIi.kh : tc rd vU;Fkk u dgk tk,] ^o`Ùk[kaM*
+vkSj ^f=kT;[kaM* fy[kus ls gekjk rkRi;Z Øe'k% y?kq
+o`Ùk[kaM vkSj y?kq f=kT;[kaM ls gksxkA
+vkb, mijksDr Kku osQ vk/kj ij] buosQ {ks=kiQyksa
+osQ ifjdfyr djus osQ oqQN laca/ (;k lw=k) Kkr
+djus dk iz;Ru djsaA
+eku yhft, OAPB osaQnz O vkSj f=kT;k r okys
+o`Ùk dk ,d f=kT;[kaM gS (nsf[k, vko`Qfr 11-3)A
+eku yhft, ∠ AOB dk va'kh; (degree) eki θ gSA
+vki tkurs gSa fd ,d o`Ùk ¹oLrqr% ,d o`Ùkh; {ks=k ;k pdrh (disc)º dk {ks=kiQy
+πr2 gksrk gSA
+,d rjhosQ ls] ge bl o`Ùkh; {ks=k dks osaQnz O ij 360° dk dks.k cukus okyk (va'kh;
+eki 360) ,d f=kT;[kaM eku ldrs gSaA fiQj ,sfdd fof/ (Unitary Method) dk iz;ksx
+djosQ] ge f=kT;[kaM OAPB dk {ks=kiQy uhps n'kkZ, vuqlkj Kkr dj ldrs gSa%
+tc osaQnz ij cus dks.k dk va'kh; eki 360 gS] rks f=kT;[kaM dk {ks=kiQy = πr2
+vr%] tc osaQnz ij cus dks.k dk va'kh; eki 1 gS] rks f=kT;[kaM dk {ks=kiQy = 
+2
+360
+r
+π
+blfy, tc osaQnz ij cus dks.k dk va'kh; eki θ gS] rks f=kT;[kaM dk {ks=kiQy
+= 
+2
+360
+r
+π
+× θ = 
+2
+360
+r
+θ × π
+bl izdkj] ge o`Ùk osQ ,d f=kT;[kaM osQ {ks=kiQy osQ
+fy,] fuEufyf[kr laca/ (;k lw=k) izkIr djrs gSa%
+dks.k
+dks.k
+dks.k
+dks.k
+dks.k θ 
+θ θ 
+θ θ okys f=kT;[kaM dk {ks=kiQy
+okys f=kT;[kaM dk {ks=kiQy
+okys f=kT;[kaM dk {ks=kiQy
+okys f=kT;[kaM dk {ks=kiQy
+okys f=kT;[kaM dk {ks=kiQy =
+×
+2
+360
+θ
+πr ,
+tgk¡ r o`Ùk dh f=kT;k gS vkSj θ f=kT;[kaM dk va'kksa esa dks.k gSA
+vc ,d LokHkkfod iz'u mBrk gS% D;k ge bl f=kT;[kaM dh
+laxr pki APB dh yackbZ Kkr dj ldrs gSaA gk¡] ge ,slk dj
+ldrs gSaA iqu%] ,sfdd fof/ dk iz;ksx djus rFkk laiw.kZ o`Ùk
+(360° dks.k okys) dh yackbZ 2πr ysus ij] ge pki  APB dh
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr 11.3
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr 11.4
+Reprint 2026-27
+
+o`Ùkksa ls lacaf/r {ks=kiQy
+173
+okafNr yackbZ 
+2
+360
+r
+θ × π izkIr djrs gSaA
+vr% dks.k
+dks.k
+dks.k
+dks.k
+dks.k θ 
+θ θ 
+θ θ okys f=kT;[kaM osQ laxr pki dh yackbZ
+okys f=kT;[kaM osQ laxr pki dh yackbZ
+okys f=kT;[kaM osQ laxr pki dh yackbZ
+okys f=kT;[kaM osQ laxr pki dh yackbZ
+okys f=kT;[kaM osQ laxr pki dh yackbZ = 
+×2
+360
+θ
+πr
+vkb, vc osaQnz O vkSj f=kT;k r okys o`Ùk[kaM  APB osQ {ks=kiQy ij fopkj djsa
+(nsf[k, vko`Qfr 11-4)A vki ns[k ldrs gSa fd
+o`Ùk[kaM APB dk {ks=kiQy = f=kT;[kaM OAPB dk {ks=kiQy – ∆ OAB dk {ks=kiQy
+                                       = 
+2 –
+OAB
+360
+θ
+× π
+∆
+r
+dk {ks=kiQy
+fVIi.kh
+fVIi.kh
+fVIi.kh
+fVIi.kh
+fVIi.kh : Øe'k% vko`Qfr 11-3 vkSj vko`Qfr 11-4 ls] vki ns[k ldrs gSa fd
+nh?kZ f=kT;[kaM OAQB dk {ks=kiQy = πr2 – y?kq f=kT;[kaM OAPB dk {ks=kiQy
+rFkk            nh?kZ o`Ùk[kaM AQB dk {ks=kiQy = πr2 – y?kq o`Ùk[kaM APB dk {ks=kiQy
+vc vkb, bu vo/kj.kkvksa (;k ifj.kkeksa) dks le>us osQ fy, oqQN mnkgj.k ysaA
+mnkgj.k
+mnkgj.k
+mnkgj.k
+mnkgj.k
+mnkgj.k 1 : f=kT;k 4 cm okys ,d o`Ùk osQ f=kT;[kaM dk
+{ks=kiQy Kkr dhft,] ftldk dks.k 30º gSA lkFk gh] laxr
+nh?kZ f=kT;[kaM dk {ks=kiQy Hkh Kkr dhft,A
+(π = 3.14 dk iz;ksx dhft,)A
+gy
+gy
+gy
+gy
+gy : fn;k gqvk f=kT;[kaM OAPB gS (nsf[k, vko`Qfr 11-5)A
+f=kT;[kaM dk {ks=kiQy =
+2
+360
+r
+θ × π
+=
+2
+30
+3.14
+4
+4 cm
+360 ×
+×
+×
+=
+2
+2
+12.56 cm
+4.19cm
+3
+=
+ (yxHkx)
+laxr nh?kZ f=kT;[kaM dk {ks=kiQy
+= πr2 – f=kT;[kaM OAPB dk {ks=kiQy
+= (3.14 × 16 – 4.19) cm2
+= 46.05 cm2 = 46.1 cm2 (yxHkx)
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr 11.5
+Reprint 2026-27
+
+174
+xf.kr
+oSdfYid :i ls]
+nh?kZ f=kT;[kaM dk {ks=kiQy =
+2
+(360 –
+)
+360
+r
+
+=
+2
+360
+30
+3.14
+16 cm
+360
+
+
+
+
+
+
+
+
+=
+2
+2
+330
+3.14
+16cm
+46.05 cm
+360 
+
+
+= 46.1 cm2 (yxHkx)
+mnkgj.k 2 : vko`Qfr 11-6 esa n'kkZ, x, o`Ùk[kaM dk
+{ks=kiQy Kkr dhft,] ;fn o`Ùk dh f=kT;k 21 cm gS
+vkSj Ð AOB = 120° gSA [p = 22
+7 yhft, ]
+gy : o`Ùk[kaM AYB dk {ks=kiQy
+= f=kT;[kaM OAYB dk {ks=kiQy – D OAB dk {ks=kiQy
+(1)
+vc] f=kT;[kaM OAYB dk {ks=kiQy = 120
+22
+21
+21
+360
+7
+
+
+
+cm2 = 462 cm2
+(2)
+D OAB dk {ks=kiQy Kkr djus osQ fy, OM ^ AB [khafp,] tSlkfd vko`Qfr 11-7 esa
+fn[kk;k x;k gSA
+è;ku nhft, fd OA = OB gSA vr%] RHS lok±xlerk ls] D AMO @ D BMO gSA
+blfy, M thok AB dk eè;&¯cnq gS rFkk Ð AOM = Ð BOM = 1
+120
+60
+2 
+
+gSA
+eku yhft,
+OM = x cm  gSA
+blfy, D OMA ls]
+OM
+OA = cos 60°
+;k
+21
+x =
+1
+1
+cos 60° =
+2
+2
+
+
+
+
+
+
+;k
+x = 21
+2
+vko`Qfr 11.6
+vko`Qfr 11.7
+Reprint 2026-27
+
+o`Ùkksa ls lacaf/r {ks=kiQy
+175
+vr%
+OM = 21
+2 cm
+lkFk gh
+AM
+OA = sin 60° = 
+3
+2
+vr%
+AM = 21 3
+2
+ cm
+blfy,
+AB = 2 AM = 2
+21 3 cm = 21 3cm
+2
+×
+vr%
+∆ OAB dk {ks=kiQy = 1 AB × OM
+2
+ = 
+2
+1
+21
+21 3
+cm
+2
+2
+×
+×
+=
+2
+441 3cm
+4
+(3)
+blfy, o`Ùk[kaM AYB dk {ks=kiQy = 
+2
+441
+462
+3
+cm
+4
+
+
+−
+
+
+
+
+[(1), (2) vkSj (3) ls]
+=
+2
+21 (88 – 21 3)cm
+4
+vH;kl
+vH;kl
+vH;kl
+vH;kl
+vH;kl 11.1
+(tc rd vU;Fkk u dgk tk,] π = 22
+7 dk iz;ksx dhft,A)
+1. 6 cm f=kT;k okys ,d o`Ùk osQ ,d f=kT;[kaM dk {ks=kiQy Kkr dhft,] ftldk dks.k 60° gSA
+2. ,d o`Ùk osQ prqFkk±'k (quadrant) dk {ks=kiQy Kkr dhft,] ftldh ifjf/ 22 cm gSA
+3. ,d ?kM+h dh feuV dh lqbZ ftldh yackbZ 14 cm gSA bl lqbZ }kjk 5 feuV esa jfpr {ks=kiQy
+Kkr dhft,A
+4. 10 lseh f=kT;k okys ,d o`Ùk dh dksbZ thok osaQnz ij ,d ledks.k varfjr djrh gSA
+fuEufyf[kr osQ {ks=kiQy Kkr dhft,%
+(i) laxr y?kq o`Ùk[kaM
+(ii) laxr nh?kZ f=kT;[kaM  (π = 3.14 dk iz;ksx dhft,)A
+5. f=kT;k 21 cm okys o`Ùk dk ,d pki osaQnz ij 60° dk dks.k varfjr djrk gSA Kkr dhft,%
+(i) pki dh yackbZ
+(ii) pki }kjk cuk, x, f=kT;[kaM dk {ks=kiQy
+(iii) laxr thok }kjk cuk, x, o`Ùk[kaM dk {ks=kiQy
+6. 15 cm f=kT;k okys ,d o`Ùk dh dksbZ thok osaQnz ij 60° dk dks.k varfjr djrh gSA laxr y?kq
+vkSj nh?kZ o`Ùk[kaMksa osQ {ks=kiQy Kkr dhft,A (π = 3.14 vkSj 3 = 1.73 dk iz;ksx dhft,A)
+Reprint 2026-27
+
+176
+xf.kr
+7. f=kT;k 12 cm okys ,d o`Ùk dh dksbZ thok osaQnz ij 120°
+dk dks.k varfjr djrh gSA laxr o`Ùk[kaM dk {ks=kiQy Kkr
+dhft,A
+(π = 3.14 vkSj 3 = 1.73 dk iz;ksx dhft,A)
+8. 15 m Hkqtk okys ,d oxkZdkj ?kkl osQ eSnku osQ ,d dksus
+ij yxs [kw¡Vs ls ,d ?kksM+s dks 5 m yach jLlh ls ck¡/
+fn;k x;k gS (nsf[k, vko`Qfr 11-8)A Kkr dhft,%
+(i) eSnku osQ ml Hkkx dk {ks=kiQy tgk¡ ?kksM+k ?kkl pj
+ldrk gSA
+(ii) pjs tk ldus okys {ks=kiQy esa o`f¼] ;fn ?kksM+s dks
+5 m yach jLlh osQ LFkku ij 10 m yach jLlh ls
+ck¡/ fn;k tk,A (π = 3.14 dk iz;ksx dhft,A)
+9. ,d o`Ùkkdkj czwp (brooch) dks pk¡nh osQ rkj ls cuk;k
+tkuk gS ftldk O;kl 35 mm gSA rkj dks o`r osQ 5 O;klksa
+dks cukus esa Hkh iz;qDr fd;k x;k gS tks mls 10 cjkcj
+f=kT;[kaMksa esa foHkkftr djrk gS tSlk fd vkÑfr 11-9
+esa n'kkZ;k x;k gSA rks Kkr dhft,%
+(i) oqQy okafNr pk¡nh osQ rkj dh yackbZ
+(ii) czwp osQ izR;sd f=kT;[kaM dk {ks=kiQy
+10. ,d Nrjh esa vkB rkus gSa] tks cjkcj nwjh ij yxs gq, gSa
+(nsf[k, vko`Qfr 11-10)A Nrjh dks 45 cm f=kT;k okyk
+,d likV o`Ùk ekurs gq,] bldh nks Øekxr rkuksa osQ chp
+dk {ks=kiQy Kkr dhft,A
+11. fdlh dkj osQ nks okbij (Wipers) gSa] ijLij dHkh
+vkPNkfnr ugha gksrs gSaA izR;sd okbij dh iÙkh dh yackbZ
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr 11.10
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr 11.9
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr
+vko`Qfr 11.8
+25 cm gS vkSj 115° osQ dks.k rd ?kwe dj liQkbZ dj ldrk gSA ifÙk;ksa dh izR;sd cqgkj osQ
+lkFk ftruk {ks=kiQy lkiQ gks tkrk gS] og Kkr dhft,A
+12. tgkt+ksa dks leqnz esa tyLrj osQ uhps fLFkr pêðkuksa dh psrkouh nsus osQ fy,] ,d ykbV gkml
+(light house)  80°  dks.k okys ,d f=kT;[kaM esa 16.5 km dh nwjh rd yky jax dk izdk'k
+iSQykrk gSA leqnz osQ ml Hkkx dk {ks=kiQy Kkr dhft, ftlesa tgkt+ksa dks psrkouh nh tk losQA
+(π = 3.14 dk iz;ksx dhft,A)
+Reprint 2026-27
+
+o`Ùkksa ls lacaf/r {ks=kiQy
+177
+13. ,d xksy est+iks'k ij N% leku fMt+kbu cus gq, gSa tSlkfd
+vko`Qfr 11-11 esa n'kkZ;k x;k gSA ;fn est+iks'k dh f=kT;k
+28 cm gS] rks ` 0-35 izfr oxZ lsaVhehVj dh nj ls bu fMt+kbuksa
+dks cukus dh ykxr Kkr dhft,A (
+3 = 1.7 dk iz;ksx dhft,)
+14. fuEufyf[kr esa lgh mÙkj pqfu,%
+f=kT;k R okys o`Ùk osQ ml f=kT;[kaM dk {ks=kiQy ftldk dks.k
+p° gS] fuEufyf[kr gS%
+vko`Qfr 11.11
+(A)
+                 (B)
+                        (C)
+                  (D)
+2
+R
+180
+p 
+
+2
+R
+180
+p 
+2
+R
+360
+p 
+
+2
+2
+R
+720
+p 
+
+11.2 lkjka'k
+bl vè;k; esa] vkius fuEufyf[kr ¯cnqvksa dk vè;;u fd;k gS%
+1. f=kT;k r okys o`Ùk osQ ,d f=kT;[kaM] ftldk dks.k va'kksa esa q gS] osQ laxr pki dh yackbZ
+2
+360
+θ
+×
+π r gksrh gSA
+2. f=kT;k r okys o`Ùk osQ ,d f=kT;[kaM] ftldk dks.k va'kksa eas q gS] dk {ks=kiQy 
+2
+360
+θ
+× πr
+gksrk gSA
+3. ,d o`Ùk[kaM dk {ks=kiQy = laxr f=kT;[kaM dk {ks=kiQy – laxr f=kHkqt dk {ks=kiQy
+Reprint 2026-27

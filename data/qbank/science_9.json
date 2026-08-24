@@ -1,0 +1,1638 @@
+{
+ "subject": "science",
+ "grade": 9,
+ "items": [
+  {
+   "skill_id": "s9c1s1",
+   "difficulty": 1,
+   "text_hi": "निश्चित आकार और आयतन वाली पदार्थ अवस्था है —",
+   "text_en": "The state of matter with fixed shape and volume is -",
+   "options": [
+    "ठोस",
+    "द्रव",
+    "गैस",
+    "प्लाज़्मा"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पत्थर की आकृति बदलती नहीं।",
+   "hint_en": "A stone keeps its shape.",
+   "solution_hi": "ठोसों में कण बहुत पास-पास होते हैं;\nइसलिए आकार व आयतन निश्चित रहते हैं।",
+   "solution_en": "Particles in solids are packed tightly;\nhence fixed shape and volume."
+  },
+  {
+   "skill_id": "s9c1s1",
+   "difficulty": 1,
+   "text_hi": "कमरे के ताप पर अपना आकार बनाए रखने वाली अवस्था —",
+   "text_en": "Which state keeps its own shape at room temperature?",
+   "options": [
+    "ठोस",
+    "द्रव",
+    "गैस",
+    "सभी"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बर्फ का टुकड़ा सोचिए।",
+   "hint_en": "Think of an ice cube.",
+   "solution_hi": "ठोस अपनी आकृति स्वयं रखता है;\nद्रव पात्र की आकृति लेता है।",
+   "solution_en": "Solids hold their shape;\nliquids take the container's shape."
+  },
+  {
+   "skill_id": "s9c1s1",
+   "difficulty": 2,
+   "text_hi": "गैसें सरलता से संपीडित होती हैं क्योंकि —",
+   "text_en": "Gases are highly compressible because -",
+   "options": [
+    "अणुओं के बीच बड़ा रिक्त स्थान होता है",
+    "अणु भारी होते हैं",
+    "अणु चौकोर होते हैं",
+    "गैस ठंडी होती है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "LPG सिलेंडर में बहुत गैस भरती है।",
+   "hint_en": "Lots of gas fits in one cylinder.",
+   "solution_hi": "गैस अणुओं के बीच अधिक अंतराणिक स्थान होता है;\nदाब देने पर यह स्थान घटता है।",
+   "solution_en": "Gas molecules have large intermolecular spaces;\npressure squeezes these spaces."
+  },
+  {
+   "skill_id": "s9c1s1",
+   "difficulty": 2,
+   "text_hi": "अणुओं में गति सर्वाधिक होती है —",
+   "text_en": "Molecular motion is maximum in -",
+   "options": [
+    "गैसें",
+    "ठोस",
+    "द्रव",
+    "सभी में समान"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "खुशबू दूर तक क्यों पहुँचती है?",
+   "hint_en": "Why does perfume reach far corners?",
+   "solution_hi": "गैस अणुओं की गतिज ऊर्जा सर्वाधिक होती है;\nइसलिए खुशबू पूरे कमरे में फैलती है।",
+   "solution_en": "Gas molecules have highest kinetic energy;\nso fragrance spreads through the room."
+  },
+  {
+   "skill_id": "s9c1s2",
+   "difficulty": 1,
+   "text_hi": "0°C पर बर्फ का पिघलना कहलाता है —",
+   "text_en": "Ice melting at 0°C is called -",
+   "options": [
+    "गलन",
+    "वाष्पन",
+    "संघनन",
+    "ऊर्ध्वपातन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ठोस से द्रव।",
+   "hint_en": "Solid to liquid.",
+   "solution_hi": "ठोस का द्रव में बदलना गलन है;\nबर्फ का गलनांक 0°C है।",
+   "solution_en": "Solid changing to liquid is melting;\nice melts at 0°C."
+  },
+  {
+   "skill_id": "s9c1s2",
+   "difficulty": 2,
+   "text_hi": "पिघलती बर्फ का ताप स्थिर रहता है क्योंकि —",
+   "text_en": "Temperature stays constant while ice melts because -",
+   "options": [
+    "ऊष्मा गुप्त गलन ऊष्मा के रूप में लगती है",
+    "थर्मामीटर खराब होता है",
+    "बर्फ ऊष्मा छोड़ती है",
+    "पानी ठंडा होता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ऊष्मा अवस्था बदलने में खर्च होती है।",
+   "hint_en": "Heat is spent on changing state.",
+   "solution_hi": "आई गर्मी गुप्त गलन ऊष्मा बनकर अवस्था बदलने में लगती है;\nइसलिए ताप बढ़ता नहीं।",
+   "solution_en": "Supplied heat becomes latent heat of fusion;\nso temperature does not rise."
+  },
+  {
+   "skill_id": "s9c1s2",
+   "difficulty": 2,
+   "text_hi": "नफ़्थलीन गेंद छोटी होती जाती है क्योंकि —",
+   "text_en": "Naphthalene balls disappear over time because they undergo -",
+   "options": [
+    "ऊर्ध्वपातन",
+    "गलन",
+    "संघनन",
+    "जमना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ठोस सीधे वाष्प बनता है।",
+   "hint_en": "Solid turns straight into vapour.",
+   "solution_hi": "नफ़्थलीन बिना पिघले वाष्प बन जाती है;\nइसे ऊर्ध्वपातन कहते हैं।",
+   "solution_en": "Naphthalene turns to vapour without melting;\nthis is sublimation."
+  },
+  {
+   "skill_id": "s9c1s2",
+   "difficulty": 3,
+   "text_hi": "100°C पर पानी के उबलने के दौरान ताप स्थिर क्यों रहता है?",
+   "text_en": "Why does temperature stay at 100°C while water boils?",
+   "options": [
+    "ऊष्मा गुप्त वाष्पन ऊष्मा में लगती है",
+    "चूल्हा कमजोर हो जाता है",
+    "पानी घट जाता है",
+    "बर्तन ऊष्मा सोख लेता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "भाप बनना ऊर्जा माँगता है।",
+   "hint_en": "Steam formation demands energy.",
+   "solution_hi": "दी गई ऊष्मा गुप्त वाष्पन ऊष्मा बनती है;\nअवस्था परिवर्तन पूरा होने तक ताप स्थिर रहता है।",
+   "solution_en": "Heat supplied becomes latent heat of vaporisation;\ntemperature holds until all water boils off."
+  },
+  {
+   "skill_id": "s9c1s3",
+   "difficulty": 2,
+   "text_hi": "घड़े (मटके) का पानी ठंडा रहता है क्योंकि —",
+   "text_en": "Water in an earthen pot (matka) stays cool because -",
+   "options": [
+    "मिट्टी के छिद्रों से वाष्पन होता है",
+    "मिट्टी ठंडी होती है",
+    "पानी मीठा होता है",
+    "अंधेरा रहता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "छिद्रों से पानी रिस-रिसकर उड़ता है।",
+   "hint_en": "Water seeps out and evaporates.",
+   "solution_hi": "मटके के सूक्ष्म छिद्रों से पानी वाष्पित होता है;\nवाष्पन के लिए आवश्यक ऊष्मा जल से ली जाती है।",
+   "solution_en": "Water seeps through pores and evaporates;\nheat needed for evaporation comes from the water itself."
+  },
+  {
+   "skill_id": "s9c1s3",
+   "difficulty": 2,
+   "text_hi": "वाष्पन दर बढ़ती है जब —",
+   "text_en": "Rate of evaporation increases when -",
+   "options": [
+    "पवन चलती है",
+    "आर्द्रता बढ़ती है",
+    "पृष्ठ घटता है",
+    "ताप घटता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "धूप, हवा — दोनों सहायक।",
+   "hint_en": "Sun and wind both help.",
+   "solution_hi": "पवन, उच्च ताप व बड़ा पृष्ठ वाष्पन बढ़ाते हैं;\nअधिक आर्द्रता इसे घटाती है।",
+   "solution_en": "Wind, high temperature and large surface speed up evaporation;\nhigh humidity slows it."
+  },
+  {
+   "skill_id": "s9c1s3",
+   "difficulty": 1,
+   "text_hi": "वाष्पन से शीतलता इसलिए मिलती है क्योंकि —",
+   "text_en": "Evaporation causes cooling because -",
+   "options": [
+    "सतह से ऊष्मा अवशोषित होती है",
+    "सतह ऊष्मा छोड़ती है",
+    "हवा ठंडी होती है",
+    "पानी मीठा हो जाता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पसीना सूखने पर ठंडक क्यों?",
+   "hint_en": "Why do we feel cool after sweat dries?",
+   "solution_hi": "वाष्पन के लिए ऊष्मा शरीर/सतह से ली जाती है;\nइसी से शीतलता महसूस होती है।",
+   "solution_en": "Heat for evaporation is taken from the surface;\nthat loss feels like cooling."
+  },
+  {
+   "skill_id": "s9c1s3",
+   "difficulty": 3,
+   "text_hi": "उमस भरी हवा में पसीना जल्दी नहीं सूखता क्योंकि —",
+   "text_en": "Sweat does not dry fast on humid days because -",
+   "options": [
+    "हवा में जलवाष्प पहले से अधिक होती है",
+    "शरीर कम पसीना छोड़ता है",
+    "ताप कम होता है",
+    "वायु शुद्ध होती है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "आर्द्रता = हवा में जल की मात्रा।",
+   "hint_en": "Humidity = water already in air.",
+   "solution_hi": "अधिक आर्द्रता में हवा और जलवाष्प ले सकती नहीं;\nइसलिए वाष्पन धीमा और पसीना चिपका रहता है।",
+   "solution_en": "Humid air cannot take much more vapour;\nevaporation slows and sweat lingers."
+  },
+  {
+   "skill_id": "s9c1s4",
+   "difficulty": 1,
+   "text_hi": "ठंदे गिलास के बाहर पानी की बूँदें इससे बनती हैं —",
+   "text_en": "Water droplets form outside a cold glass due to -",
+   "options": [
+    "संघनन",
+    "गलन",
+    "वाष्पन ही",
+    "जमना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हवा का जलवाष्प ठंडी सतह पर टकराता है।",
+   "hint_en": "Air's vapour meets a cold surface.",
+   "solution_hi": "हवा का जलवाष्प ठंडी सतह पर द्रव बूँदों में बदलता है;\nइसे संघनन कहते हैं।",
+   "solution_en": "Vapour in air condenses on the cold surface;\nthis is condensation."
+  },
+  {
+   "skill_id": "s9c1s4",
+   "difficulty": 2,
+   "text_hi": "ऊर्ध्वपातन का उदाहरण है —",
+   "text_en": "An example of sublimation is -",
+   "options": [
+    "कपूर का उड़ना",
+    "बर्फ पिघलना",
+    "पानी उबलना",
+    "दूध फटना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पूजा घर की सुगंध।",
+   "hint_en": "The temple-fresh fragrance.",
+   "solution_hi": "कपूर और अमोनियम क्लोराइड ठोस से सीधे वाष्प बनते हैं;\nयह ऊर्ध्वपातन है।",
+   "solution_en": "Camphor and ammonium chloride turn solid-to-vapour directly;\nthat is sublimation."
+  },
+  {
+   "skill_id": "s9c1s4",
+   "difficulty": 2,
+   "text_hi": "आयोडीन क्रिस्टल गर्म करने पर —",
+   "text_en": "On heating, iodine crystals -",
+   "options": [
+    "बैंगनी वाष्प बनकर उड़ते हैं",
+    "पिघलकर बहते हैं",
+    "जल जाते हैं",
+    "काले हो जाते हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "रंगदार धुएँ जैसा दिखता है।",
+   "hint_en": "Looks like coloured smoke.",
+   "solution_hi": "आयोडीन ऊर्ध्वपातन कर बैंगनी वाष्प बनती है;\nठंडा करने पर पुनः क्रिस्टल बनते हैं।",
+   "solution_en": "Iodine sublimes into violet vapour;\non cooling, crystals reform."
+  },
+  {
+   "skill_id": "s9c1s4",
+   "difficulty": 3,
+   "text_hi": "बादल बनने में प्रमुख प्रक्रिया है —",
+   "text_en": "Cloud formation mainly involves -",
+   "options": [
+    "संघनन",
+    "गलन",
+    "उदासीनीकरण",
+    "क्रिस्टलन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ऊँचाई पर जलवाष्प ठंडा होता है।",
+   "hint_en": "Vapour cools as it rises.",
+   "solution_hi": "ऊपर उठने पर जलवाष्प ठंडा होकर सूक्ष्म बूँदों में संघनित होता है;\nयही बादल बनाते हैं।",
+   "solution_en": "Rising vapour cools and condenses into tiny droplets;\nthese make clouds."
+  },
+  {
+   "skill_id": "s9c2s1",
+   "difficulty": 2,
+   "text_hi": "द्रव्यमान संरक्षण नियम किसने दिया?",
+   "text_en": "Who gave the law of conservation of mass?",
+   "options": [
+    "लावाज़े",
+    "डाल्टन",
+    "रदरफोर्ड",
+    "बोर"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "आधुनिक रसायन के जनक।",
+   "hint_en": "Father of modern chemistry.",
+   "solution_hi": "लावाज़े ने दिखाया कि अभिक्रिया में कुल द्रव्यमान अपरिवर्तित रहता है;\nअभिकारकों का योग = उत्पादों का योग।",
+   "solution_en": "Lavoisier showed total mass stays constant in reactions;\nmass of reactants equals mass of products."
+  },
+  {
+   "skill_id": "s9c2s1",
+   "difficulty": 2,
+   "text_hi": "शुद्ध पानी में हाइड्रोजन व ऑक्सीजन का द्रव्यमान अनुपात सदा होता है —",
+   "text_en": "In pure water, the mass ratio of hydrogen to oxygen is always -",
+   "options": [
+    "1:8",
+    "8:1",
+    "1:2",
+    "2:1"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "H2O: H=2u, O=16u।",
+   "hint_en": "H2O: H=2u, O=16u.",
+   "solution_hi": "पानी में H:O = 2:16 = 1:8;\nयह निश्चित अनुपात का नियम है।",
+   "solution_en": "In water H:O = 2:16 = 1:8;\nthis is the law of constant proportions."
+  },
+  {
+   "skill_id": "s9c2s1",
+   "difficulty": 3,
+   "text_hi": "12g कार्बन का पूर्ण दहन 32g ऑक्सीजन में होता है तो CO2 का द्रव्यमान —",
+   "text_en": "If 12 g carbon burns completely in 32 g oxygen, mass of CO2 formed is -",
+   "options": [
+    "44g",
+    "32g",
+    "12g",
+    "20g"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "द्रव्यमान कहीं नहीं जाता।",
+   "hint_en": "Mass is conserved.",
+   "solution_hi": "द्रव्यमान संरक्षण से CO2 = 12+32 = 44g;\nकोई द्रव्यमान नष्ट नहीं होता।",
+   "solution_en": "By conservation of mass, CO2 = 12+32 = 44 g;\nno mass is lost."
+  },
+  {
+   "skill_id": "s9c2s1",
+   "difficulty": 1,
+   "text_hi": "'पदार्थ छोटे-छोटे कणों से बना है' — यह कथन दिया —",
+   "text_en": "'Matter consists of tiny particles' was proposed by -",
+   "options": [
+    "डाल्टन",
+    "लावाज़े",
+    "पादुआ के गैलिलियो",
+    "फैराडे"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "परमाणु सिद्धांत के जनक।",
+   "hint_en": "Father of atomic theory.",
+   "solution_hi": "डाल्टन के परमाणु सिद्धांत के अनुसार पदार्थ परमाणुओं से बना है;\nपरमाणु अभिक्रिया में अविभाजित रहते हैं।",
+   "solution_en": "Dalton's atomic theory says matter is made of atoms;\natoms are indivisible in chemical reactions."
+  },
+  {
+   "skill_id": "s9c2s2",
+   "difficulty": 1,
+   "text_hi": "परमाणु द्रव्यमान की वर्तमान इकाई है —",
+   "text_en": "The current unit of atomic mass is -",
+   "options": [
+    "u (एकीकृत द्रव्यमान मात्रक)",
+    "ग्राम",
+    "किलोग्राम",
+    "लीटर"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "C-12 आधारित मात्रक।",
+   "hint_en": "Based on carbon-12.",
+   "solution_hi": "परमाणु द्रव्यमान C-12 के 1/12 पर आधारित u में लिखा जाता है;\nH = 1u, O = 16u।",
+   "solution_en": "Atomic masses use 'u', 1/12 of carbon-12;\nH = 1u, O = 16u."
+  },
+  {
+   "skill_id": "s9c2s2",
+   "difficulty": 2,
+   "text_hi": "पानी (H2O) का आण्विक द्रव्यमान है —",
+   "text_en": "Molecular mass of water (H2O) is -",
+   "options": [
+    "18u",
+    "16u",
+    "20u",
+    "10u"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "2×1 + 16 जोड़िए।",
+   "hint_en": "Add 2x1 + 16.",
+   "solution_hi": "H2O = 2(1) + 16 = 18u;\nयह आण्विक द्रव्यमान है।",
+   "solution_en": "H2O = 2x1 + 16 = 18 u;\nthis is its molecular mass."
+  },
+  {
+   "skill_id": "s9c2s2",
+   "difficulty": 2,
+   "text_hi": "ऑक्सीजन अणु (O2) का आण्विक द्रव्यमान है —",
+   "text_en": "Molecular mass of oxygen molecule (O2) is -",
+   "options": [
+    "32u",
+    "16u",
+    "8u",
+    "64u"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दो ऑक्सीजन परमाणु।",
+   "hint_en": "Two oxygen atoms.",
+   "solution_hi": "O2 = 2 × 16 = 32u;\nध्यान रहे, अणु में दो परमाणु होते हैं।",
+   "solution_en": "O2 = 2 x 16 = 32 u;\nthe molecule has two atoms."
+  },
+  {
+   "skill_id": "s9c2s2",
+   "difficulty": 3,
+   "text_hi": "CO2 का आण्विक द्रव्यमान है —",
+   "text_en": "Molecular mass of CO2 is -",
+   "options": [
+    "44u",
+    "28u",
+    "32u",
+    "22u"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "C=12, O=16।",
+   "hint_en": "C=12, O=16.",
+   "solution_hi": "CO2 = 12 + 2(16) = 44u;\nकार्बन एक, ऑक्सीजन दो परमाणु।",
+   "solution_en": "CO2 = 12 + 2x16 = 44 u;\none carbon, two oxygen atoms."
+  },
+  {
+   "skill_id": "s9c2s3",
+   "difficulty": 2,
+   "text_hi": "एल्युमिनियम (संयोजकता 3) और ऑक्सीजन (संयोजकता 2) का ऑक्साइड है —",
+   "text_en": "The oxide formed by aluminium (valency 3) and oxygen (valency 2) is -",
+   "options": [
+    "Al2O3",
+    "AlO",
+    "AlO2",
+    "Al3O2"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "संयोजकताएँ आपस में क्रॉस करती हैं।",
+   "hint_en": "Cross the valencies.",
+   "solution_hi": "क्रॉस विधि से Al की 3, O की 2;\nसूत्र Al2O3 बनता है।",
+   "solution_en": "Criss-cross valencies 3 and 2;\nformula is Al2O3."
+  },
+  {
+   "skill_id": "s9c2s3",
+   "difficulty": 1,
+   "text_hi": "NaCl में सोडियम की संयोजकता है —",
+   "text_en": "Valency of sodium in NaCl is -",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "0"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "Na+ बनता है।",
+   "hint_en": "Na+ is formed.",
+   "solution_hi": "Na एक इलेक्ट्रॉन त्यागकर Na+ बनता है;\nअतः संयोजकता 1 है।",
+   "solution_en": "Sodium loses one electron to become Na+;\nso its valency is 1."
+  },
+  {
+   "skill_id": "s9c2s3",
+   "difficulty": 2,
+   "text_hi": "कैल्शियम (Ca2+) और क्लोराइड (Cl-) से बना यौगिक —",
+   "text_en": "Compound of calcium (Ca2+) and chloride (Cl-) is -",
+   "options": [
+    "CaCl2",
+    "CaCl",
+    "Ca2Cl",
+    "CaCl3"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "आवेश संतुलित कीजिए।",
+   "hint_en": "Balance the charges.",
+   "solution_hi": "+2 व −1 आवेश संतुलित करने हेतु दो Cl चाहिए;\nसूत्र CaCl2 है।",
+   "solution_en": "+2 needs two Cl- ions;\nformula is CaCl2."
+  },
+  {
+   "skill_id": "s9c2s3",
+   "difficulty": 1,
+   "text_hi": "H2SO4 में हाइड्रोजन परमाणुओं की संख्या है —",
+   "text_en": "Number of hydrogen atoms in H2SO4 is -",
+   "options": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सूत्र पढ़िए: H2...",
+   "hint_en": "Read the formula: H2...",
+   "solution_hi": "H2SO4 में H के 2 परमाणु हैं;\nइसे सल्फ्यूरिक अम्ल कहते हैं।",
+   "solution_en": "H2SO4 has 2 hydrogen atoms;\nit is sulphuric acid."
+  },
+  {
+   "skill_id": "s9c2s4",
+   "difficulty": 1,
+   "text_hi": "1 मोल में कणों की संख्या होती है —",
+   "text_en": "One mole contains how many particles?",
+   "options": [
+    "6.022 × 10^23",
+    "6.022 × 10^20",
+    "3.0 × 10^8",
+    "1.6 × 10^-19"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "एवोगाद्रो संख्या।",
+   "hint_en": "Avogadro's number.",
+   "solution_hi": "1 मोल = 6.022×10^23 कण;\nयह एवोगाद्रो संख्या कहलाती है।",
+   "solution_en": "1 mole = 6.022x10^23 particles;\ncalled Avogadro's number."
+  },
+  {
+   "skill_id": "s9c2s4",
+   "difficulty": 2,
+   "text_hi": "1 मोल पानी का द्रव्यमान है —",
+   "text_en": "Mass of 1 mole of water is -",
+   "options": [
+    "18g",
+    "1g",
+    "22g",
+    "36g"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "आण्विक द्रव्यमान 18u था।",
+   "hint_en": "Molecular mass was 18u.",
+   "solution_hi": "H2O का मोलर द्रव्यमान 18 g/mol;\nइसलिए 1 मोल = 18g।",
+   "solution_en": "Molar mass of water is 18 g/mol;\nso one mole weighs 18 g."
+  },
+  {
+   "skill_id": "s9c2s4",
+   "difficulty": 2,
+   "text_hi": "STP पर 1 मोल गैस का आयतन होता है —",
+   "text_en": "Volume occupied by 1 mole of any gas at STP is -",
+   "options": [
+    "22.4 L",
+    "44.8 L",
+    "11.2 L",
+    "2.24 L"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "मानक ताप-दाब पर मोलर आयतन।",
+   "hint_en": "Molar volume at STP.",
+   "solution_hi": "STP (273K, 1 bar/1atm परंपरा अनुसार) पर मोलर आयतन 22.4L;\nसभी गैसों के लिए समान।",
+   "solution_en": "At STP the molar volume of a gas is 22.4 L;\nsame for all gases."
+  },
+  {
+   "skill_id": "s9c2s4",
+   "difficulty": 3,
+   "text_hi": "44g CO2 में CO2 के मोल हैं —",
+   "text_en": "Number of moles in 44 g of CO2 is -",
+   "options": [
+    "1",
+    "2",
+    "0.5",
+    "44"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "मोलर द्रव्यमान 44 g/mol।",
+   "hint_en": "Molar mass is 44 g/mol.",
+   "solution_hi": "मोल = द्रव्यमान/मोलर द्रव्यमान = 44/44 = 1;\nअतः 1 मोल।",
+   "solution_en": "moles = mass/molar mass = 44/44 = 1;\none mole."
+  },
+  {
+   "skill_id": "s9c3s1",
+   "difficulty": 1,
+   "text_hi": "इलेक्ट्रॉन की खोज की —",
+   "text_en": "The electron was discovered by -",
+   "options": [
+    "J.J. थॉमसन",
+    "रदरफोर्ड",
+    "चैडविक",
+    "बोर"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कैथोड किरण प्रयोग।",
+   "hint_en": "Cathode ray experiments.",
+   "solution_hi": "J.J. थॉमसन ने कैथोड किरण प्रयोगों से इलेक्ट्रॉन खोजे;\nयह ऋण आवेशित है।",
+   "solution_en": "J.J. Thomson found electrons via cathode rays;\nthey carry negative charge."
+  },
+  {
+   "skill_id": "s9c3s1",
+   "difficulty": 1,
+   "text_hi": "प्रोटॉन का आवेश है —",
+   "text_en": "Charge on a proton is -",
+   "options": [
+    "धन (+1)",
+    "ऋण (−1)",
+    "उदासीन",
+    "+2"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पी-पॉज़िटिव सोचिए।",
+   "hint_en": "p for positive.",
+   "solution_hi": "प्रोटॉन धन आवेशित है (+1);\nइलेक्ट्रॉन ऋण, न्यूट्रॉन उदासीन है।",
+   "solution_en": "Protons are positively charged (+1);\nelectrons negative, neutrons neutral."
+  },
+  {
+   "skill_id": "s9c3s1",
+   "difficulty": 2,
+   "text_hi": "न्यूट्रॉन की खोज की —",
+   "text_en": "The neutron was discovered by -",
+   "options": [
+    "चैडविक",
+    "थॉमसन",
+    "मिलिकन",
+    "फैराडे"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'च' से चैडविक, 'शून्य' से न्यूट्रॉन।",
+   "hint_en": "'N' for neutral, 'C' for Chadwick.",
+   "solution_hi": "जेम्स चैडविक (1932) ने न्यूट्रॉन खोजा;\nयह उदासीन कण है।",
+   "solution_en": "James Chadwick discovered the neutron in 1932;\nit is electrically neutral."
+  },
+  {
+   "skill_id": "s9c3s1",
+   "difficulty": 2,
+   "text_hi": "परमाणु का नाभिक बना होता है —",
+   "text_en": "The nucleus of an atom consists of -",
+   "options": [
+    "प्रोटॉन व न्यूट्रॉन",
+    "केवल इलेक्ट्रॉन",
+    "इलेक्ट्रॉन व प्रोटॉन",
+    "केवल इलेक्ट्रॉन व न्यूट्रॉन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "भारी कण केंद्र में।",
+   "hint_en": "Heavy particles sit in the centre.",
+   "solution_hi": "नाभिक में प्रोटॉन व न्यूट्रॉन होते हैं;\nपरमाणु का लगभग सारा द्रव्यमान यहीं है।",
+   "solution_en": "Protons and neutrons form the nucleus;\nalmost all atomic mass sits here."
+  },
+  {
+   "skill_id": "s9c3s2",
+   "difficulty": 1,
+   "text_hi": "K कोश (n=1) में अधिकतम इलेक्ट्रॉन —",
+   "text_en": "Maximum electrons in K shell (n=1) are -",
+   "options": [
+    "2",
+    "8",
+    "18",
+    "32"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "2n² सूत्र लगाइए।",
+   "hint_en": "Use the 2n^2 rule.",
+   "solution_hi": "K कोश में 2n²=2(1)²=2 इलेक्ट्रॉन;\nसबसे निकट कोश सबसे छोटा।",
+   "solution_en": "For K shell, 2n^2 = 2;\nit holds just two electrons."
+  },
+  {
+   "skill_id": "s9c3s2",
+   "difficulty": 2,
+   "text_hi": "M कोश (n=3) में अधिकतम इलेक्ट्रॉन —",
+   "text_en": "Maximum electrons in M shell (n=3) are -",
+   "options": [
+    "18",
+    "8",
+    "2",
+    "32"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "2n², n=3।",
+   "hint_en": "2n^2 with n=3.",
+   "solution_hi": "M कोश में 2(3)²=18 इलेक्ट्रॉन;\nपरंतु बाह्य कोश 8 से अधिक नहीं भरता।",
+   "solution_en": "M shell can hold 2x3^2 = 18 electrons;\noutermost shells fill up to 8 first."
+  },
+  {
+   "skill_id": "s9c3s2",
+   "difficulty": 2,
+   "text_hi": "सोडियम (Z=11) का इलेक्ट्रॉन विन्यास है —",
+   "text_en": "Electronic configuration of sodium (Z=11) is -",
+   "options": [
+    "2,8,1",
+    "2,9",
+    "8,2,1",
+    "2,8,2"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कोश क्रम से भरते हैं: K,L,M।",
+   "hint_en": "Fill shells K, L, M in order.",
+   "solution_hi": "11 = K2, L8, M1;\nअंतिम कोश में 1 इलेक्ट्रॉन → संयोजकता 1।",
+   "solution_en": "11 electrons: 2,8,1;\none outer electron means valency 1."
+  },
+  {
+   "skill_id": "s9c3s2",
+   "difficulty": 3,
+   "text_hi": "तत्व के रासायनिक गुण मुख्यतः तय करते हैं —",
+   "text_en": "Chemical properties of an element are mainly decided by -",
+   "options": [
+    "संयोजकता कोश के इलेक्ट्रॉन",
+    "नाभिक के न्यूट्रॉन",
+    "केवल द्रव्यमान",
+    "रंग"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बाहरी इलेक्ट्रॉन ही सौदा करते हैं।",
+   "hint_en": "Outer electrons do all the dealing.",
+   "solution_hi": "रासायनिक अभिक्रियाओं में संयोजकता (बाह्यतम) इलेक्ट्रॉन भाग लेते हैं;\nइसी से गुण तय होते हैं।",
+   "solution_en": "Valence electrons take part in reactions;\nthey decide chemical behaviour."
+  },
+  {
+   "skill_id": "s9c3s3",
+   "difficulty": 2,
+   "text_hi": "Mg (12) का विन्यास 2,8,2 है; संयोजकता —",
+   "text_en": "Magnesium has configuration 2,8,2; its valency is -",
+   "options": [
+    "2",
+    "8",
+    "6",
+    "0"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दोनों ओर से देखिए — खोना या पाना।",
+   "hint_en": "Lose or gain — pick the easier path.",
+   "solution_hi": "Mg 2 इलेक्ट्रॉन त्यागकर अष्टक पूरा करता है;\nअतः संयोजकता 2।",
+   "solution_en": "Mg gives away 2 electrons for an octet;\nvalency 2."
+  },
+  {
+   "skill_id": "s9c3s3",
+   "difficulty": 1,
+   "text_hi": "नियॉन (2,8) की संयोजकता है —",
+   "text_en": "Valency of neon (2,8) is -",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "8"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अष्टक पहले से पूर्ण।",
+   "hint_en": "Octet already complete.",
+   "solution_hi": "नियॉन का अष्टक पूर्ण है;\nइसलिए संयोजकता शून्य (निष्क्रिय गैस)।",
+   "solution_en": "Neon already has a full octet;\nvalency 0 (noble gas)."
+  },
+  {
+   "skill_id": "s9c3s3",
+   "difficulty": 2,
+   "text_hi": "क्लोरीन (2,8,7) इलेक्ट्रॉन — कर अष्टक पूरा करती है।",
+   "text_en": "Chlorine (2,8,7) completes its octet by -",
+   "options": [
+    "एक इलेक्ट्रॉन ग्रहण कर",
+    "एक इलेक्ट्रॉन त्याग कर",
+    "सात इलेक्ट्रॉन ग्रहण कर",
+    "इलेक्ट्रॉन साझा किए बिना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "7 से 8 तक जाना आसान है।",
+   "hint_en": "From 7 to 8 is easy.",
+   "solution_hi": "Cl एक इलेक्ट्रॉन लेकर Cl− बनाती है;\nसंयोजकता 1 रहती है।",
+   "solution_en": "Chlorine gains one electron forming Cl-;\nvalency 1."
+  },
+  {
+   "skill_id": "s9c3s3",
+   "difficulty": 3,
+   "text_hi": "ऑक्सीजन (2,6) की संयोजकता है —",
+   "text_en": "Valency of oxygen (configuration 2,6) is -",
+   "options": [
+    "2",
+    "6",
+    "8",
+    "0"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दो की कमी, या छह का त्याग — आसान क्या?",
+   "hint_en": "Gain 2 or lose 6 — which is easier?",
+   "solution_hi": "O दो इलेक्ट्रॉन ग्रहण कर O2− बनती है;\nअतः संयोजकता 2।",
+   "solution_en": "Oxygen gains two electrons forming oxide;\nvalency 2."
+  },
+  {
+   "skill_id": "s9c3s4",
+   "difficulty": 2,
+   "text_hi": "समस्थानिकों (isotopes) में होता है —",
+   "text_en": "Isotopes have -",
+   "options": [
+    "समान प्रोटॉन, भिन्न न्यूट्रॉन",
+    "समान न्यूट्रॉन, भिन्न प्रोटॉन",
+    "समान द्रव्यमान, भिन्न प्रोटॉन",
+    "कोई समानता नहीं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "एक ही तत्व के भाई।",
+   "hint_en": "Same element, different build.",
+   "solution_hi": "समस्थानिकों में परमाणु क्रमांक समान, द्रव्यमानांक भिन्न;\nन्यूट्रॉन संख्या अलग होती है।",
+   "solution_en": "Isotopes share atomic number but differ in mass number;\nneutron count differs."
+  },
+  {
+   "skill_id": "s9c3s4",
+   "difficulty": 2,
+   "text_hi": "C-12 और C-14 में भिन्न है —",
+   "text_en": "Carbon-12 and carbon-14 differ in their -",
+   "options": [
+    "न्यूट्रॉन संख्या",
+    "प्रोटॉन संख्या",
+    "इलेक्ट्रॉन संख्या",
+    "रासायनिक प्रकृति"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "द्रव्यमानांक बदला तो?",
+   "hint_en": "Mass number changed — what changed?",
+   "solution_hi": "दोनों में 6 प्रोटॉन हैं;\nन्यूट्रॉन 6 और 8 हैं।",
+   "solution_en": "Both have 6 protons;\nneutrons differ: 6 vs 8."
+  },
+  {
+   "skill_id": "s9c3s4",
+   "difficulty": 2,
+   "text_hi": "U-235 का प्रमुख उपयोग है —",
+   "text_en": "A major use of uranium-235 is -",
+   "options": [
+    "परमाणु ऊर्जा उत्पादन",
+    "खाद्य संरक्षण",
+    "कृत्रिम गुर्दा",
+    "जीवाणु नाश"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "रिएक्टर सोचिए।",
+   "hint_en": "Think nuclear reactors.",
+   "solution_hi": "U-235 नाभिकीय रिएक्टरों में ईंधन है;\nविखंडन से ऊर्जा निकलती है।",
+   "solution_en": "U-235 fuels nuclear reactors;\nfission releases energy."
+  },
+  {
+   "skill_id": "s9c3s4",
+   "difficulty": 3,
+   "text_hi": "Co-60 का चिकित्सा उपयोग है —",
+   "text_en": "Cobalt-60 is used in medicine for -",
+   "options": [
+    "कैंसर के उपचार में",
+    "हड्डी जोड़ने",
+    "रक्त जाँच",
+    "पाचन सुधार"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "गामा किरणें।",
+   "hint_en": "Gamma rays.",
+   "solution_hi": "Co-60 से निकलती गामा किरणें कैंसर कोशिकाओं पर प्रयोग होती हैं;\nइसे विकिरण चिकित्सा कहते हैं।",
+   "solution_en": "Gamma rays from Co-60 target cancer cells;\nthis is radiotherapy."
+  },
+  {
+   "skill_id": "s9c4s1",
+   "difficulty": 1,
+   "text_hi": "विस्थापन है —",
+   "text_en": "Displacement is the -",
+   "options": [
+    "प्रारंभ से अंत तक की न्यूनतम (सीधी) दूरी",
+    "चली गई कुल दूरी",
+    "केवल समय",
+    "गति का मात्रक"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सबसे छोटा रास्ता।",
+   "hint_en": "The shortest path.",
+   "solution_hi": "प्रारंभिक स्थिति से अंतिम स्थिति की सीधी दूरी विस्थापन है;\nइसकी दिशा होती है (सदिश)।",
+   "solution_en": "Straight-line separation between start and end points;\nit has direction (a vector)."
+  },
+  {
+   "skill_id": "s9c4s1",
+   "difficulty": 2,
+   "text_hi": "एक पूरा चक्कर काटने पर विस्थापन होता है —",
+   "text_en": "After one complete round on a circular track, displacement is -",
+   "options": [
+    "शून्य",
+    "परिधि के बराबर",
+    "व्यास के बराबर",
+    "अनंत"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "घर लौट आए।",
+   "hint_en": "You ended where you began.",
+   "solution_hi": "आरंभ-बिंदु पर लौटने पर प्रारंभ-अंत एक ही स्थान;\nविस्थापन शून्य, दूरी = परिधि।",
+   "solution_en": "Start and end coincide;\ndisplacement zero, distance equals circumference."
+  },
+  {
+   "skill_id": "s9c4s1",
+   "difficulty": 1,
+   "text_hi": "दूरी है —",
+   "text_en": "Distance is a -",
+   "options": [
+    "अदिश राशि",
+    "सदिश राशि",
+    "बल",
+    "दाब"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "केवल मान, दिशा नहीं।",
+   "hint_en": "Magnitude only, no direction.",
+   "solution_hi": "दूरी के साथ दिशा नहीं होती;\nइसलिए यह अदिश राशि है।",
+   "solution_en": "Distance has no direction;\nso it is a scalar quantity."
+  },
+  {
+   "skill_id": "s9c4s1",
+   "difficulty": 3,
+   "text_hi": "हमेशा सत्य है —",
+   "text_en": "Which statement is always true?",
+   "options": [
+    "दूरी ≥ |विस्थापन|",
+    "विस्थापन > दूरी",
+    "दूरी = समय × दाब",
+    "विस्थापन सदा ऋणात्मक"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सीधा रास्ता सबसे छोटा।",
+   "hint_en": "A straight line is shortest.",
+   "solution_hi": "दूरी कभी विस्थापन से कम नहीं;\nसरल रेखीय गति में दोनों बराबर होते हैं।",
+   "solution_en": "Distance never falls below displacement magnitude;\nthey are equal only in straight-line motion."
+  },
+  {
+   "skill_id": "s9c4s2",
+   "difficulty": 1,
+   "text_hi": "चाल का सूत्र है —",
+   "text_en": "Speed equals -",
+   "options": [
+    "दूरी ÷ समय",
+    "समय ÷ दूरी",
+    "द्रव्यमान × त्वरण",
+    "बल × दूरी"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कितनी दूर, कितने समय में।",
+   "hint_en": "How far in how long.",
+   "solution_hi": "चाल = चली गई दूरी/लगा समय;\nSI मात्रक m/s।",
+   "solution_en": "Speed = distance/time;\nSI unit m/s."
+  },
+  {
+   "skill_id": "s9c4s2",
+   "difficulty": 1,
+   "text_hi": "वेग और चाल में भिन्नता —",
+   "text_en": "Velocity differs from speed because velocity -",
+   "options": [
+    "में दिशा होती है",
+    "केवल अदिश है",
+    "कभी शून्य नहीं होती",
+    "का मात्रक km/h ही है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "वेग सदिश है।",
+   "hint_en": "Velocity is a vector.",
+   "solution_hi": "वेग = विस्थापन/समय, दिशा सहित;\nचाल केवल मान बताती है।",
+   "solution_en": "Velocity = displacement/time with direction;\nspeed gives magnitude only."
+  },
+  {
+   "skill_id": "s9c4s2",
+   "difficulty": 2,
+   "text_hi": "36 km/h को m/s में बदलें —",
+   "text_en": "Convert 36 km/h into m/s:",
+   "options": [
+    "10 m/s",
+    "36 m/s",
+    "3.6 m/s",
+    "100 m/s"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "5/18 से गुणा कीजिए।",
+   "hint_en": "Multiply by 5/18.",
+   "solution_hi": "km/h → m/s के लिए ×5/18;\n36×5/18 = 10 m/s।",
+   "solution_en": "Use x5/18 for km/h to m/s;\n36x5/18 = 10 m/s."
+  },
+  {
+   "skill_id": "s9c4s2",
+   "difficulty": 2,
+   "text_hi": "एकसमान गति में —",
+   "text_en": "In uniform motion along a straight line -",
+   "options": [
+    "समान समय अंतराल में समान दूरी तय होती है",
+    "दूरी घटती है",
+    "वेग बढ़ता रहता है",
+    "त्वरण बढ़ता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "मील के पत्थर समान अंतराल पर।",
+   "hint_en": "Milestones appear evenly.",
+   "solution_hi": "एकसमान गति में वेग स्थिर रहता है;\nसमान समय में समान दूरी तय होती है।",
+   "solution_en": "Uniform motion keeps velocity constant;\nequal distances in equal times."
+  },
+  {
+   "skill_id": "s9c4s3",
+   "difficulty": 1,
+   "text_hi": "त्वरण का SI मात्रक —",
+   "text_en": "SI unit of acceleration is -",
+   "options": [
+    "m/s²",
+    "m/s",
+    "kg·m/s",
+    "N"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "वेग की दर में परिवर्तन।",
+   "hint_en": "Change of velocity per time.",
+   "solution_hi": "त्वरण a = Δv/t;\nइकाई (m/s)/s = m/s²।",
+   "solution_en": "a = change in velocity / time;\nunit (m/s)/s = m/s^2."
+  },
+  {
+   "skill_id": "s9c4s3",
+   "difficulty": 2,
+   "text_hi": "u=0, a=2 m/s², t=5s पर v = ?",
+   "text_en": "If u=0, a=2 m/s^2 and t=5 s, then v = ?",
+   "options": [
+    "10 m/s",
+    "2.5 m/s",
+    "7 m/s",
+    "0.4 m/s"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "v = u + at।",
+   "hint_en": "Use v = u + at.",
+   "solution_hi": "v = u+at = 0 + 2×5 = 10 m/s;\nगति आरंभ से समान त्वरित।",
+   "solution_en": "v = u + at = 0 + 2x5 = 10 m/s;\nuniformly accelerated from rest."
+  },
+  {
+   "skill_id": "s9c4s3",
+   "difficulty": 2,
+   "text_hi": "वृत्तीय पथ पर एकसमान चाल से चलती वस्तु —",
+   "text_en": "An object moving with uniform speed on a circular path -",
+   "options": [
+    "त्वरित होती है (दिशा बदलती है)",
+    "त्वरित नहीं होती",
+    "ठहर जाती है",
+    "सरल रेखा में जाती है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दिशा लगातार बदल रही है।",
+   "hint_en": "Direction keeps changing.",
+   "solution_hi": "वेग सदिश है; दिशा बदलने पर वेग बदलता है;\nअतः वस्तु त्वरित (केंद्राभ) होती है।",
+   "solution_en": "Velocity changes as direction changes;\nso the object accelerates (centripetally)."
+  },
+  {
+   "skill_id": "s9c4s3",
+   "difficulty": 3,
+   "text_hi": "ब्रेक लगाने पर गाड़ी का त्वरण —",
+   "text_en": "When brakes are applied, the car's acceleration is -",
+   "options": [
+    "ऋणात्मक (मंदन)",
+    "धनात्मक",
+    "शून्य",
+    "अनंत"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "वेग घट रहा है।",
+   "hint_en": "Velocity decreases.",
+   "solution_hi": "वेग घटने पर त्वरण गति के विपरीत होता है;\nइसे ऋणात्मक त्वरण/मंदन कहते हैं।",
+   "solution_en": "Falling speed means acceleration opposes motion;\ncalled negative acceleration or retardation."
+  },
+  {
+   "skill_id": "s9c4s4",
+   "difficulty": 1,
+   "text_hi": "d-t ग्राफ की ढाल (slope) दर्शाती है —",
+   "text_en": "The slope of a distance-time graph gives -",
+   "options": [
+    "चाल",
+    "त्वरण",
+    "बल",
+    "संवेग"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कितनी तेज़ दूरी बढ़ रही है?",
+   "hint_en": "How fast distance grows.",
+   "solution_hi": "d-t ग्राफ की ढाल = d/t = चाल;\nढाल जितनी खड़ी, चाल उतनी अधिक।",
+   "solution_en": "Slope = distance/time = speed;\nsteeper slope means faster motion."
+  },
+  {
+   "skill_id": "s9c4s4",
+   "difficulty": 2,
+   "text_hi": "d-t ग्राफ में समांतर (क्षैतिज) रेखा दर्शाती है —",
+   "text_en": "A horizontal line on a distance-time graph shows -",
+   "options": [
+    "वस्तु विरामावस्था में है",
+    "एकसमान चाल",
+    "त्वरित गति",
+    "उलटी गति"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दूरी नहीं बदल रही।",
+   "hint_en": "Distance not changing.",
+   "solution_hi": "समय बढ़ते दूरी स्थिर → वस्तु ठहरी है;\nढाल शून्य = चाल शून्य।",
+   "solution_en": "Time passes but distance stays fixed -> at rest;\nzero slope means zero speed."
+  },
+  {
+   "skill_id": "s9c4s4",
+   "difficulty": 2,
+   "text_hi": "v-t ग्राफ के अंतर्गत क्षेत्रफल देता है —",
+   "text_en": "Area under a velocity-time graph gives -",
+   "options": [
+    "विस्थापन (दूरी)",
+    "त्वरण",
+    "बल",
+    "जड़त्व"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "वेग × समय = ?",
+   "hint_en": "velocity × time = ?",
+   "solution_hi": "v-t ग्राफ का क्षेत्रफल = v×t = विस्थापन;\nयह दूरी भी बता देता है।",
+   "solution_en": "Area under v-t = v x t = displacement;\nit also gives distance covered."
+  },
+  {
+   "skill_id": "s9c4s4",
+   "difficulty": 3,
+   "text_hi": "v-t ग्राफ की सीधी तिरछी रेखा दर्शाती है —",
+   "text_en": "A straight slanted line on a v-t graph indicates -",
+   "options": [
+    "एकसमान त्वरण",
+    "एकसमान चाल",
+    "विराम",
+    "मंदन ही"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ढाल स्थिर है।",
+   "hint_en": "Slope stays constant.",
+   "solution_hi": "v-t रेखा की स्थिर ढाल = स्थिर त्वरण;\nवेग समान दर से बदल रहा है।",
+   "solution_en": "Constant slope of v-t line = constant acceleration;\nvelocity changes uniformly."
+  },
+  {
+   "skill_id": "s9c5s1",
+   "difficulty": 2,
+   "text_hi": "जड़त्व है —",
+   "text_en": "Inertia is the tendency to -",
+   "options": [
+    "अपनी गति अवस्था बनाए रखने",
+    "हमेशा तेज़ होने",
+    "रंग बदलने",
+    "ऊपर उठने"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'जैसा हूँ वैसा रहूँगा'।",
+   "hint_en": "'I will keep doing what I am doing.'",
+   "solution_hi": "जड़त्व वस्तु की वह प्रवृत्ति है जिससे वह अवस्था परिवर्तन का विरोध करती है;\nन्यूटन का पहला नियम इसी पर आधारित है।",
+   "solution_en": "Inertia resists any change of state of motion;\nit underlies Newton's first law."
+  },
+  {
+   "skill_id": "s9c5s1",
+   "difficulty": 2,
+   "text_hi": "चलती बस अचानक रुकने पर यात्री आगे झुकता है क्योंकि —",
+   "text_en": "Passengers jerk forward when a bus stops suddenly because of -",
+   "options": [
+    "गति का जड़त्व",
+    "विराम का जड़त्व",
+    "घर्षण",
+    "गुरुत्व"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "शरीर चलता रहना चाहता है।",
+   "hint_en": "The body wants to keep moving.",
+   "solution_hi": "पैदल (बस से संपर्क) रुक जाते हैं पर ऊपरी शरीर गति बनाए रखता है;\nयह गति का जड़त्व है।",
+   "solution_en": "Feet stop with the bus but the torso continues forward;\nthat is inertia of motion."
+  },
+  {
+   "skill_id": "s9c5s1",
+   "difficulty": 2,
+   "text_hi": "जड़त्व की माप है —",
+   "text_en": "Measure of inertia is -",
+   "options": [
+    "द्रव्यमान",
+    "वेग",
+    "दाब",
+    "आयतन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "भारी चीज़ धक्के में कठिन।",
+   "hint_en": "Heavy things resist pushes more.",
+   "solution_hi": "द्रव्यमान जितना अधिक, अवस्था बदलना उतना कठिन;\nअतः द्रव्यमान जड़त्व की माप है।",
+   "solution_en": "More mass means harder to change motion;\nmass measures inertia."
+  },
+  {
+   "skill_id": "s9c5s1",
+   "difficulty": 3,
+   "text_hi": "झटका देकर कंबल की धूल उड़ाना जड़त्व के किस रूप पर आधारित है?",
+   "text_en": "Jerking a blanket to remove dust uses which form of inertia?",
+   "options": [
+    "विराम का जड़त्व",
+    "गति का जड़त्व",
+    "दाब का जड़त्व",
+    "ताप का जड़त्व"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कंबल चला, धूल रुकी।",
+   "hint_en": "Blanket moved, dust stayed.",
+   "solution_hi": "कंबल झटके से खिसकता है; धूल विराम के जड़त्व से वहीं टिकती है;\nफिर गुरुत्व से गिरती है।",
+   "solution_en": "The blanket shifts quickly while dust stays put due to inertia of rest;\nthen it falls under gravity."
+  },
+  {
+   "skill_id": "s9c5s2",
+   "difficulty": 1,
+   "text_hi": "बल का सूत्र है —",
+   "text_en": "Force equals -",
+   "options": [
+    "m × a",
+    "m ÷ a",
+    "m × v",
+    "a ÷ m"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "न्यूटन का दूसरा नियम।",
+   "hint_en": "Newton's second law.",
+   "solution_hi": "F = ma;\nबल = द्रव्यमान × त्वरण, मात्रक न्यूटन।",
+   "solution_en": "F = ma;\nforce = mass x acceleration, unit newton."
+  },
+  {
+   "skill_id": "s9c5s2",
+   "difficulty": 2,
+   "text_hi": "5 kg वस्तु पर 2 m/s² त्वरण के लिए बल —",
+   "text_en": "Force needed for 5 kg object at 2 m/s^2 is -",
+   "options": [
+    "10 N",
+    "2.5 N",
+    "7 N",
+    "20 N"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "F = ma रखिए।",
+   "hint_en": "Substitute F = ma.",
+   "solution_hi": "F = ma = 5×2 = 10 न्यूटन;\nSI मात्रक N है।",
+   "solution_en": "F = ma = 5x2 = 10 N;\nthe SI unit is newton."
+  },
+  {
+   "skill_id": "s9c5s2",
+   "difficulty": 3,
+   "text_hi": "समान बल पर द्रव्यमान दुगुना कर देने से त्वरण —",
+   "text_en": "With the same force, doubling the mass makes acceleration -",
+   "options": [
+    "आधी",
+    "दुगुनी",
+    "शून्य",
+    "चौगुनी"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "a = F/m।",
+   "hint_en": "a = F/m.",
+   "solution_hi": "a = F/m; m दुगुना होने पर a आधी;\nबल और त्वरण अनुपात में, द्रव्यमान व्युत्क्रमानुपात में।",
+   "solution_en": "With F fixed, doubling m halves a;\na is proportional to F and inversely to m."
+  },
+  {
+   "skill_id": "s9c5s2",
+   "difficulty": 2,
+   "text_hi": "20 N बल से 4 kg वस्तु का त्वरण —",
+   "text_en": "Acceleration of a 4 kg body under 20 N force is -",
+   "options": [
+    "5 m/s²",
+    "80 m/s²",
+    "16 m/s²",
+    "24 m/s²"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "a = F/m।",
+   "hint_en": "a = F/m.",
+   "solution_hi": "a = F/m = 20/4 = 5 m/s²;\nसीधा दूसरा नियम।",
+   "solution_en": "a = F/m = 20/4 = 5 m/s^2;\ndirect application of the second law."
+  },
+  {
+   "skill_id": "s9c5s3",
+   "difficulty": 2,
+   "text_hi": "रॉकेट की गति किस नियम पर आधारित है?",
+   "text_en": "Rocket propulsion works on -",
+   "options": [
+    "न्यूटन का तृतीय नियम",
+    "न्यूटन का प्रथम नियम",
+    "ओम का नियम",
+    "आर्किमिडीज नियम"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "क्रिया-प्रतिक्रिया।",
+   "hint_en": "Action and reaction.",
+   "solution_hi": "रॉकेट गैस नीचे छोड़ता है (क्रिया);\nगैस रॉकेट को ऊपर धकेलती है (प्रतिक्रिया)।",
+   "solution_en": "Rocket expels gas downward (action);\ngas pushes rocket upward (reaction)."
+  },
+  {
+   "skill_id": "s9c5s3",
+   "difficulty": 2,
+   "text_hi": "हम चलने में सफल होते हैं क्योंकि —",
+   "text_en": "We can walk because -",
+   "options": [
+    "भूमि हमें आगे प्रतिक्रिया बल देती है",
+    "घर्षण नहीं होता",
+    "हवा धकेलती है",
+    "जड़त्व नहीं होता"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पैर पीछे धकेलते हैं।",
+   "hint_en": "Feet push backward.",
+   "solution_hi": "पैर भूमि को पीछे धकेलते हैं (क्रिया);\nभूमि आगे की प्रतिक्रिया देकर चलने में सहायता करती है।",
+   "solution_en": "Feet push the ground back (action);\nthe ground's forward reaction moves us ahead."
+  },
+  {
+   "skill_id": "s9c5s3",
+   "difficulty": 1,
+   "text_hi": "क्रिया और प्रतिक्रिया बल —",
+   "text_en": "Action and reaction forces -",
+   "options": [
+    "परिमाण में बराबर, दिशा में विपरीत",
+    "परिमाण में असमान होते हैं",
+    "एक ही वस्तु पर लगते हैं",
+    "सदा शून्य होते हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "तीसरे नियम का कथन।",
+   "hint_en": "Statement of the third law.",
+   "solution_hi": "क्रिया-प्रतिक्रिया बराबर और विपरीत होते हैं;\nपर दो भिन्न वस्तुओं पर लगते हैं, इसलिए निरस्त नहीं होते।",
+   "solution_en": "They are equal and opposite;\nbut act on different bodies, so they do not cancel."
+  },
+  {
+   "skill_id": "s9c5s3",
+   "difficulty": 2,
+   "text_hi": "बंदूक का पिछड़ना (recoil) है —",
+   "text_en": "Recoil of a gun is an example of -",
+   "options": [
+    "तृतीय नियम (क्रिया-प्रतिक्रिया)",
+    "प्रथम नियम",
+    "गुरुत्वाकर्षण",
+    "दाब संरक्षण"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "गोली आगे, बंदूक पीछे।",
+   "hint_en": "Bullet forward, gun backward.",
+   "solution_hi": "गोली पर आगे बल (क्रिया) के जवाब में बंदूक पर पीछे बल (प्रतिक्रिया);\nइसी से पिछड़ती है।",
+   "solution_en": "Forward force on bullet gets an equal backward response on gun;\nhence recoil."
+  },
+  {
+   "skill_id": "s9c5s4",
+   "difficulty": 1,
+   "text_hi": "संवेग p का सूत्र —",
+   "text_en": "Momentum p equals -",
+   "options": [
+    "m × v",
+    "m ÷ v",
+    "m × a",
+    "v ÷ t"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "द्रव्यमान में गति।",
+   "hint_en": "Mass in motion.",
+   "solution_hi": "p = mv;\nSI मात्रक kg·m/s।",
+   "solution_en": "p = mv;\nSI unit kg.m/s."
+  },
+  {
+   "skill_id": "s9c5s4",
+   "difficulty": 2,
+   "text_hi": "2 kg वस्तु 3 m/s से; संवेग —",
+   "text_en": "A 2 kg object moving at 3 m/s has momentum -",
+   "options": [
+    "6 kg·m/s",
+    "5 kg·m/s",
+    "1.5 kg·m/s",
+    "12 kg·m/s"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "p = mv।",
+   "hint_en": "p = mv.",
+   "solution_hi": "p = mv = 2×3 = 6 kg·m/s;\nसंवेग सदिश राशि है।",
+   "solution_en": "p = mv = 2x3 = 6 kg.m/s;\nmomentum is a vector."
+  },
+  {
+   "skill_id": "s9c5s4",
+   "difficulty": 2,
+   "text_hi": "संवेग संरक्षण लागू होता है —",
+   "text_en": "Conservation of momentum applies when -",
+   "options": [
+    "बाह्य बल शून्य/संतुलित हो",
+    "घर्षण अधिक हो",
+    "वस्तु ठहरी हो",
+    "ताप स्थिर हो"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बंद तंत्र सोचिए।",
+   "hint_en": "Think isolated system.",
+   "solution_hi": "बाह्य असंतुलित बल न होने पर तंत्र का कुल संवेग अपरिवर्तित रहता है;\nटक्करों में यह बहुत उपयोगी है।",
+   "solution_en": "With no net external force, total momentum stays constant;\nespecially useful in collisions."
+  },
+  {
+   "skill_id": "s9c5s4",
+   "difficulty": 3,
+   "text_hi": "टक्कर में कुल संवेग —",
+   "text_en": "During a collision (isolated system), total momentum -",
+   "options": [
+    "संरक्षित रहता है",
+    "सदा बढ़ता है",
+    "सदा घटता है",
+    "शून्य हो जाता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पहले और बाद का योग।",
+   "hint_en": "Sum before = sum after.",
+   "solution_hi": "टक्कर के पहले व बाद कुल संवेग बराबर;\nयह संवेग संरक्षण का आधार है।",
+   "solution_en": "Total momentum before and after collision is equal;\nthis is momentum conservation."
+  },
+  {
+   "skill_id": "s9c6s1",
+   "difficulty": 2,
+   "text_hi": "प्लाज़्मा झिल्ली है —",
+   "text_en": "The plasma membrane is -",
+   "options": [
+    "चयनात्मक पारगम्य",
+    "पूर्ण पारगम्य",
+    "पूर्ण अपारगम्य",
+    "कठोर संरचना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सब कुछ नहीं, चुन-चुनकर।",
+   "hint_en": "Selective about what passes.",
+   "solution_hi": "कोशिका झिल्ली चुनकर पदार्थ अंदर-बाहर जाने देती है;\nइसे चयनात्मक पारगम्यता कहते हैं।",
+   "solution_en": "The membrane lets selected substances pass;\nthis property is selective permeability."
+  },
+  {
+   "skill_id": "s9c6s1",
+   "difficulty": 2,
+   "text_hi": "परासरण है —",
+   "text_en": "Osmosis is the movement of water -",
+   "options": [
+    "अर्धपारगम्य झिल्ली से अधिक सांद्रता की ओर",
+    "केवल ठोस पदार्थों का",
+    "ऊष्मा का",
+    "केवल गैसों का बिना झिल्ली"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "जल अपने आप घोल की ओर जाता है।",
+   "hint_en": "Water moves toward concentrated solution.",
+   "solution_hi": "परासरण में जल अर्धपारगम्य झिल्ली पार कर अधिक सांद्र घोल की ओर जाता है;\nयह अभिसरण का विशेष रूप है।",
+   "solution_en": "Water crosses a semipermeable membrane toward higher solute concentration;\nspecial case of diffusion."
+  },
+  {
+   "skill_id": "s9c6s1",
+   "difficulty": 2,
+   "text_hi": "सूखी किशमिश पानी में रखने पर फूल जाती है क्योंकि —",
+   "text_en": "Raisins swell in plain water because of -",
+   "options": [
+    "परासरण",
+    "वाष्पन",
+    "संघनन",
+    "दहन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "जल अंदर जा रहा है।",
+   "hint_en": "Water enters the cells.",
+   "solution_hi": "जल कोशिकाओं में परासरण से प्रवेश करता है;\nकिशमिश फूलकर मुलायम हो जाती है।",
+   "solution_en": "Water enters by osmosis;\nraisins become swollen and soft."
+  },
+  {
+   "skill_id": "s9c6s1",
+   "difficulty": 3,
+   "text_hi": "फेफड़ों में O2-CO2 विनिमय होता है —",
+   "text_en": "Gas exchange in lungs happens by -",
+   "options": [
+    "विसरण",
+    "परासरण",
+    "सक्रिय अवशोषण ही",
+    "दहन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "उच्च सांद्रता से निम्न की ओर।",
+   "hint_en": "High to low concentration.",
+   "solution_hi": "गैसें सांद्रता प्रवणता के अनुसार विसरित होती हैं;\nO2 रक्त में, CO2 बाहर।",
+   "solution_en": "Gases diffuse down their concentration gradients;\noxygen in, carbon dioxide out."
+  },
+  {
+   "skill_id": "s9c6s2",
+   "difficulty": 2,
+   "text_hi": "'आत्मघाती थैली' कहे जाते हैं —",
+   "text_en": "'Suicide bags' of the cell are -",
+   "options": [
+    "लाइसोसोम",
+    "राइबोसोम",
+    "प्लास्टिड",
+    "रिक्तिका"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पाचन एंजाइम भरे होते हैं।",
+   "hint_en": "Packed with digestive enzymes.",
+   "solution_hi": "लाइसोसोम टूटने पर एंजाइम कोशिका को पचा देते हैं;\nइसलिए यह नाम मिला।",
+   "solution_en": "If lysosomes burst, enzymes digest the cell itself;\nhence the nickname."
+  },
+  {
+   "skill_id": "s9c6s2",
+   "difficulty": 2,
+   "text_hi": "पदार्थों का पैकेजिंग व वितरण करता है —",
+   "text_en": "Packaging and dispatch of cell products is done by -",
+   "options": [
+    "गॉल्जी उपकरण",
+    "लाइसोसोम",
+    "केंद्रक",
+    "रिक्तिका"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कोशिका की डाक सेवा।",
+   "hint_en": "The cell's courier service.",
+   "solution_hi": "गॉल्जी उपकरण संश्लेषित पदार्थों को पैक कर लक्ष्य तक भेजता है;\nलाइसोसोम भी इसी से बनते हैं।",
+   "solution_en": "The Golgi apparatus packs and routes materials;\nlysosomes also bud from it."
+  },
+  {
+   "skill_id": "s9c6s2",
+   "difficulty": 1,
+   "text_hi": "पादप कोशिका में बड़ी केंद्रीय रिक्तिका का कार्य है —",
+   "text_en": "The large central vacuole in plant cells mainly -",
+   "options": [
+    "जल व पदार्थ संग्रहित करती है",
+    "प्रोटीन बनाती है",
+    "श्वसन करती है",
+    "DNA सुरक्षित रखती है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कोशिका का गोदाम।",
+   "hint_en": "The cell warehouse.",
+   "solution_hi": "रिक्तिका जल, पोषक व अपशिष्ट रखती है;\nकोशिका को दबाव (turgor) भी देती है।",
+   "solution_en": "Vacuoles store water, nutrients and waste;\nalso give turgor pressure."
+  },
+  {
+   "skill_id": "s9c6s2",
+   "difficulty": 3,
+   "text_hi": "श्वसन कर ऊर्जा मुक्त करने वाला कोशिकांग —",
+   "text_en": "Organelle releasing energy through respiration is -",
+   "options": [
+    "माइटोकॉन्ड्रिया",
+    "गॉल्जी उपकरण",
+    "लाइसोसोम",
+    "राइबोसोम"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ATP की फैक्ट्री।",
+   "hint_en": "ATP factory.",
+   "solution_hi": "माइटोकॉन्ड्रिया कोशिकीय श्वसन कर ATP बनाते हैं;\nइन्हें ऊर्जा गृह कहते हैं।",
+   "solution_en": "Mitochondria run cellular respiration making ATP;\ncalled the powerhouse."
+  },
+  {
+   "skill_id": "s9c6s3",
+   "difficulty": 2,
+   "text_hi": "वृद्धि के लिए कोशिका विभाजन है —",
+   "text_en": "Cell division responsible for growth is -",
+   "options": [
+    "माइटोसिस",
+    "मियोसिस",
+    "अपोप्टोसिस",
+    "कोई नहीं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "समान गुणसूत्र संख्या।",
+   "hint_en": "Same chromosome number.",
+   "solution_hi": "माइटोसिस से समान बेटी कोशिकाएँ बनती हैं;\nवृद्धि व मरम्मत में यही चलता है।",
+   "solution_en": "Mitosis yields identical daughter cells;\nused in growth and repair."
+  },
+  {
+   "skill_id": "s9c6s3",
+   "difficulty": 2,
+   "text_hi": "जनन कोशिकाओं में गुणसूत्र संख्या —",
+   "text_en": "Gametes have chromosome number that is -",
+   "options": [
+    "मूल कोशिका की आधी",
+    "दुगुनी",
+    "समान",
+    "तीन गुनी"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "मियोसिस का परिणाम।",
+   "hint_en": "Result of meiosis.",
+   "solution_hi": "मियोसिस से गुणसूत्र आधे (अगुणित) होते हैं;\nनिषेचन पर द्विगुणित जायगोट बनता है।",
+   "solution_en": "Meiosis halves chromosomes (haploid gametes);\nfertilisation restores diploid zygote."
+  },
+  {
+   "skill_id": "s9c6s3",
+   "difficulty": 3,
+   "text_hi": "कोशिका विभाजन से पहले DNA —",
+   "text_en": "Before cell division, DNA -",
+   "options": [
+    "प्रतिकृत (replicate) होता है",
+    "नष्ट होता है",
+    "रंग बदलता है",
+    "झिल्ली से बाहर निकलता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "प्रत्येक बेटी को पूरा सेट।",
+   "hint_en": "Each daughter needs a full set.",
+   "solution_hi": "विभाजन से पूर्व DNA प्रतिकृतित होता है;\nइससे बेटी कोशिकाओं में समान आनुवंशिक सामग्री जाती है।",
+   "solution_en": "DNA replicates before division;\ndaughters receive equal genetic material."
+  },
+  {
+   "skill_id": "s9c6s3",
+   "difficulty": 2,
+   "text_hi": "निषेचन के बाद बनी कोशिका कहलाती है —",
+   "text_en": "The cell formed right after fertilisation is called -",
+   "options": [
+    "जायगोट",
+    "रक्त कोशिका",
+    "तंत्रिका कोशिका",
+    "कायिक कोशिका ही"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "जनन कोशिकाओं का मिलन।",
+   "hint_en": "Fusion of two gametes.",
+   "solution_hi": "युग्मनज (नर+मादा युग्मक) के संयोग से जायगोट बनता है;\nयही नए जीव की पहली कोशिका है।",
+   "solution_en": "Gamete fusion forms the zygote;\nfirst cell of the new organism."
+  },
+  {
+   "skill_id": "s9c6s4",
+   "difficulty": 2,
+   "text_hi": "अमीबा चलता है —",
+   "text_en": "Amoeba moves using -",
+   "options": [
+    "कूटपाद (झूठे पैर)",
+    "चूर्णिका",
+    "पक्ष्म",
+    "पेशियाँ"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अंगुली जैसे विस्तार।",
+   "hint_en": "Finger-like extensions.",
+   "solution_hi": "अमीबा कूटपाद बनाकर चलता व भोजन घेरता है;\nइसी से आकार भी बदलता है।",
+   "solution_en": "Pseudopodia help movement and engulfing food;\nshape changes constantly."
+  },
+  {
+   "skill_id": "s9c6s4",
+   "difficulty": 2,
+   "text_hi": "मानव RBC की आकृति है —",
+   "text_en": "Human red blood cells are shaped like -",
+   "options": [
+    "द्विअवतल (बाइकॉन्केव) डिस्क",
+    "घन",
+    "लंबी नली",
+    "तारे"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "बीच में धँसी डिस्क।",
+   "hint_en": "A disk dipped in the middle.",
+   "solution_hi": "RBC द्विअवतल डिस्क की तरह होती है;\nबड़ा पृष्ठ O2 वहन में सहायक है।",
+   "solution_en": "Biconcave disks offer large surface;\nhelpful for oxygen transport."
+  },
+  {
+   "skill_id": "s9c6s4",
+   "difficulty": 2,
+   "text_hi": "तंत्रिका कोशिका लंबी होती है क्योंकि —",
+   "text_en": "Nerve cells are long because they must -",
+   "options": [
+    "दूर तक संदेश पहुँचाने",
+    "भोजन संग्रह करने",
+    "प्रकाश बनाने",
+    "रक्त बनाने"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दिमाग से पैर तक तार।",
+   "hint_en": "Wires from brain to toes.",
+   "solution_hi": "लंबा अक्षतंतु संदेशों को दूर स्थानों तक जल्दी पहुँचाता है;\nयही तंत्रिका कोशिका की विशेषता है।",
+   "solution_en": "Long axons carry signals across long distances;\nthat is their specialisation."
+  },
+  {
+   "skill_id": "s9c6s4",
+   "difficulty": 1,
+   "text_hi": "रोगाणुओं से शरीर की रक्षा करती है —",
+   "text_en": "Cells defending the body against germs are -",
+   "options": [
+    "WBC (श्वेत रक्त कोशिकाएँ)",
+    "RBC",
+    "कॉर्क कोशिकाएँ",
+    "पत्ती कोशिकाएँ"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "शरीर की सेना।",
+   "hint_en": "The body's soldiers.",
+   "solution_hi": "WBC रोगाणुओं को नष्ट कर प्रतिरक्षा देती हैं;\nसंक्रमण में इनकी संख्या बढ़ जाती है।",
+   "solution_en": "White blood cells destroy pathogens;\ntheir count rises during infection."
+  }
+ ]
+}

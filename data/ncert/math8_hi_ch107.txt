@@ -1,0 +1,875 @@
+jkf'k;ksa dh rqyuk  85
+7.1 vuqikr ,oa izfr'kr dk Lej.k
+ge tkurs gSa fd vuqikr dk vFkZ gS nks ek=kkvksa dh rqyuk djukA
+,d Vksdjh esa nks izdkj osQ iQy gSa] eku yhft, buesa 20 lsc vkSj 5 larjs gSaA
+rks] larjksa dh la[;k dk lscksa dh la[;k ls vuqikr = 5 : 20 gSA
+;g rqyuk fHkUuksa dh lgk;rk ls 5
+20 = 1
+4 osQ :i esa Hkh dh tk ldrh gSA
+larjksa dh la[;k lscksa dh la[;k dk 1
+4 gSA vuqikr osQ :i esa ;g 1 : 4 gS vkSj bls
+^4 dh rqyuk esa 1 gS* i<+k tkrk gSA vFkok
+larjksa dh rqyuk esa lscksa dh la[;k = 20
+4
+5
+1
+=
+ gS] ftldk vFkZ gS fd larjksa dh rqyuk
+esa lscksa dh la[;k 4 xquk gSA ;g rqyuk izfr'kr osQ mi;ksx ls Hkh dh tk ldrh gSA
+jkf'k;ksa dh rqyuk
+vè;k;7
+vFkok
+25 iQyksa esa 5 larjs gSaA
+blfy, larjksa dk izfr'kr
+5
+4
+20
+20%
+25
+4
+100
+×
+=
+=
+ gSA
+(gj dks 100 cuk;k x;k gS)
+,sfdd fof/ ls %
+25 iQyksa esa larjksa dh la[;k 5 gS]
+blfy,] 100 iQyksa esa larjksa dh la[;k
+= 
+5
+100
+25
+×
+ = 20% gSA
+D;ksafd 
+ esa osQoy lsc vkSj larjs gSa]
+blfy,] lscksa dk izfr'kr + larjksa dk izfr'kr = 100
+vFkok
+lscksa dk izfr'kr + 20 = 100
+vFkok
+lscksa dk izfr'kr = 100 – 20 = 80
+vr% Vksdjh esa 20% larjs vkSj 80% lsc gSaA
+mnkgj.k 1 : fdlh fo|ky; esa d{kk VII osQ fy, fidfud dh ;kstuk cukbZ tk jgh gSA
+fo|k£Fk;ksa dh oqQy la[;k dk 60% yM+fd;k¡ gSa vkSj budh la[;k 18 gSA fidfud dk LFkku
+fo|ky; ls 55 km nwj gS vkSj ifjogu oaQiuh ` 12 izfr km dh nj ls fdjk;k ysrh gSA
+vYikgkj (tyiku) dk oqQy [kpZ ` 4280 gksxkA
+2024-25
+
+86 
+ xf.kr
+D;k vki crk ldrs gSa %
+1- d{kk esa yM+fd;ksa dh la[;k dk yM+dksa dh la[;k ls vuqikr\
+2- ;fn nks vè;kid Hkh d{kk osQ lkFk fidfud ij tk jgs gSa rks izfr O;fDr [kpZ\
+3- ;fn mudk igyk LVkWi fo|ky; ls 22 km dh nwjh ij gS rks og oqQy 55 km dh
+nwjh dk fdrus izfr'kr gS\ fdrus izfr'kr nwjh r; djuk 'ks"k gS\
+gy :
+1. yM+fd;ksa dh la[;k dk yM+dksa dh la[;k ls vuqikr Kkr djus osQ fy,] vkf'kek vkSj
+tkWu us fuEufyf[kr fofèk;k¡ iz;ksx dhaA mUgsa yM+dksa dh la[;k vkSj oqQy fo|k£Fk;ksa dh
+la[;k tkuus dh vko';drk FkhA
+blfy,] yM+dksa dh la[;k = 30 – 18 = 12 gSA vr% yM+fd;ksa dh la[;k dk yM+dksa dh
+la[;k ls 18 : 12 vFkok 18
+12 = 3
+2 dk vuqikr gSA 
+3
+2 dks 3 : 2 osQ :i esa fy[kk tkrk
+gS vkSj 2 dh rqyuk esa 3 i<+k tkrk gSA
+2- izfr O;fDr [kpZ Kkr djus osQ fy, %
+;krk;kr [kpZ = nksuksa rji+Q dh nwjh × nj
+= (55 × 2) × ` 12
+= 110 × 12 = ` 1320
+oqQy [kpZ = vYikgkj [kpZ + ;krk;kr [kpZ
+= ` 4280 + ` 1320
+= ` 5600
+oqQy O;fDr = 18 yM+fd;k¡ + 12 yM+osQ + 2 vè;kid
+= 32 O;fDr
+vkf'kek vkSj tkWu us izfr O;fDr [kpZ Kkr djus osQ fy, ,sfdd fof/ dk mi;ksx fd;kA
+32 O;fDr;ksa osQ fy, [kpZ fd, tkus okyh jkf'k ` 5600 gksxhA
+blfy, 1 O;fDr osQ fy, [kpZ dh tkus okyh jkf'k = ` 5600
+32 = ` 175
+vkf'kek us fuEufyf[kr fofèk dk mi;ksx fd;k%
+eku yhft, oqQy fo|k£Fk;ksa dh la[;k x gS]
+ftlesa 60% yM+fd;k¡ gSaA
+blfy, x dk 60% = 18
+;k 60
+100
+x
+×
+ =  18
+vFkkZr~ x = 18
+100
+60
+×
+ = 30
+fo|k£Fk;ksa dh oqQy la[;k = 30
+tkWu us ,sfdd fof/ dk mi;ksx fd;k %
+100 fo|k£Fk;ksa esa ls 60 yM+fd;k¡ gSaA
+blfy, 
+100
+60 fo|k£Fk;ksa esa ,d yM+dh gSA
+blfy, fdrus fo|k£Fk;ksa esa 18 yM+fd;k¡
+gksaxh\
+fo|k£Fk;ksa dh la[;k = 100
+18
+60 ×
+ = 30
+2024-25
+
+jkf'k;ksa dh rqyuk  87
+3- izFke LVkWi dh nwjh = 22 km
+nwjh dk izfr'kr Kkr djus osQ fy, %
+nksuksa dk mÙkj ,d tSlk ik;k x;k vkSj mudk mÙkj bl izdkj gS %
+#dus okys LFkku dh fo|ky; ls nwjh oqQy r; dh tkus okyh nwjh dk 40% FkkA
+blfy,] r; dh tkus okyh 'ks"k nwjh dk izfr'kr = 100% – 40% = 60%
+vkf'kek us ;g fof/ mi;ksx dh %
+22
+22
+100
+40%
+55
+55
+100
+=
+×
+=
+(og vuqikr dks 
+100 = 1
+100
+ ls xq.kk dj
+jgh gS vkSj izfr'kr esa cny jgh gS)
+tkWu us ,sfdd fof/ mi;ksx dh %
+55 km esa ls 22 km nwjh r; dh tk pqdh gSA
+1 km esa ls 22
+55 km nwjh r; dh xbZ gSA
+100 km esa ls 22 100
+55 ×
+ km nwjh r; dh xbZ
+gSA vFkkZr~ 40% nwjh r; dh xbZ gSA
+iz'ukoyh 7.1
+iz;kl dhft,
+,d izkFkfed fo|ky; esa vfHkHkkodksa ls iwNk x;k fd os vius cPpksa osQ x`gdk;Z esa lgk;rk
+djus osQ fy, izfrfnu fdrus ?kaVs O;rhr djrs gSaA 90 vfHkHkkodksa us 1
+2 ?kaVs ls 1 1
+2 ?kaVs
+rd lgk;rk dhA ftrus le; osQ fy, vfHkHkkodksa us vius cPpksa dh lgk;rk djuk crk;k
+mlosQ vuqlkj vfHkHkkodksa dk forj.k layXu vkÑfr esa fn[kk;k x;k gS tks bl izdkj gS %
+20% us izfrfnu 1 1
+2 ?kaVs ls vf/d lgk;rk dh] 30% us 1
+2 ?kaVs
+ls 1 1
+2 ?kaVs rd lgk;rk dh] 50% us fcYoqQy lgk;rk ugha dhA
+blosQ vk/kj ij fuEufyf[kr iz'uksa osQ mÙkj nhft, %
+(i) fdrus vfHkHkkodksa dk losZ fd;k x;k\
+(ii) fdrus vfHkHkkodksa us dgk fd mUgksaus lgk;rk ugha dh\
+(iii) fdrus vfHkHkkodksa us dgk fd mUgksaus 1
+1
+2 ?kaVs ls vfèkd
+lgk;rk dh\
+1. fuEufyf[kr dk vuqikr Kkr dhft, %
+(a) ,d lkbfdy dh 15 km izfr?kaVs dh xfr dk ,d LowQVj dh 30 km izfr?kaVs dh
+xfr lsA
+(b) 5 m dk 10 km ls
+(c) 50 iSls dk ` 5 ls
+2. fuEufyf[kr vuqikrksa dks izfr'kr esa ifjofrZr dhft, % (a) 3 : 4
+   (b) 2 : 3
+3. 25 fo|k£Fk;ksa esa ls 72% fo|kFkhZ xf.kr esa #fp j[krs gSaA fdrus izfr'kr fo|kFkhZ xf.kr esa #fp
+ugha j[krs gSa\
+4. ,d iqQVckWy Vhe us oqQy ftrus eSp [ksys muesa ls 10 esa thr gkfly dhA ;fn mudh
+thr dk izfr'kr 40 Fkk rks ml Vhe us oqQy fdrus eSp [ksys\
+2024-25
+
+88 
+ xf.kr
+5. ;fn pesyh osQ ikl vius /u dk 75% [kpZ djus osQ ckn ` 600 cps rks Kkr dhft,
+fd mlosQ ikl 'kq: esa fdrus ` Fks\
+6. ;fn fdlh 'kgj esa 60% O;fDr fØosQV ilan djrs gSa] 30% iqQVcky ilan djrs gSa vkSj
+'ks"k vU; [ksy ilan djrs gSa] rks Kkr dhft, fd fdrus izfr'kr O;fDr vU; [ksy ilan
+djrs gSa\ ;fn oqQy O;fDr 50 yk[k gSa rks izR;sd izdkj osQ [ksy dks ilan djus okys
+O;fDr;ksa dh ;FkkFkZ la[;k Kkr dhft,A
+7.2 cV~Vk Kkr djuk
+fdlh oLrq osQ vafdr ewY; esa nh tkus okyh NwV dks
+cV~Vk dgrs gSaA ;g lkekU;r% xzkgdksa dks [kjhnkjh osQ
+fy, vkdf"kZr djus osQ fy, vFkok lkeku dh fcØh esa
+o`f¼ djus osQ fy, fn;k tkrk gSA vki vafdr ewY; esa
+ls foØ; ewY; dks ?kVkdj cV~Vk Kkr dj ldrs gSaA
+blfy,] cV~Vk = vafdr ewY; – foØ; ewY;
+mnkgj.k 2 :  ` 840  vafdr ewY; okyh ,d oLrq ` 714 esa csph tkrh gSA cV~Vk vkSj cV~Vk
+izfr'kr fdruk gS\
+gy :
+cV~Vk = vafdr ewY; – foØ; ewY;
+= ` 840 – ` 714 = ` 126
+D;ksafd cV~Vk vafdr ewY; ij gS blfy, gesa vafdr ewY; dks vk/kj ekuuk iM+sxkA
+` 840 vafdr ewY; ij ` 126 cV~Vk gS]
+rks ` 100 vafdr ewY; ij fdruk cV~Vk gksxk\
+cV~Vk
+= 126
+100
+840 ×
+% = 15%
+;fn cV~Vk izfr'kr fn;k gqvk gS rks vki cV~Vk Hkh Kkr dj ldrs gSaA
+mnkgj.k 3 : ,d ÚkWd dk lwph ewY; ` 220 gSA lsy esa 20% cV~Vs dh ?kks"k.kk
+dh tkrh gSA bl Úkd ij cV~Vs dh jkf'k D;k gS vkSj bldk foØ; ewY; D;k gS\
+gy : vafdr ewY; vkSj lwph ewY; leku gksrs gSaA
+20% cV~Vs dk vFkZ gS fd ` 100 vafdr ewY; ij ` 20 cV~Vk gSA
+,sfdd fof/ ls ` 1 ij ` 20
+100
+ dk cV~Vk gksxkA
+` 220 ij cV~Vk = 20
+100
+ × ` 220 = ` 44
+foØ; ewY; = (` 220 – ` 44) vFkok ` 176
+jsgkuk us bl leL;k dks bl izdkj gy fd;k %
+20% cV~Vs dk vFkZ gS fd ` 100 vafdr ewY; ij ` 20 dk cV~Vk gSA vr% foØ; ewY;
+` 80 gSA ,sfdd fof/ osQ mi;ksx ls]
+tc vafdr ewY; ` 100 gS rks foØ; ewY; = ` 80
+NwV
+NwV
+` 220
+2024-25
+
+jkf'k;ksa dh rqyuk  89
+iz;kl dhft,
+tc vafdr ewY;  ` 1 gS rks foØ; ewY; = ` 80
+100
+vr% tc vafdr ewY; ` 220 gS rks foØ; ewY; =  80
+100 × ` 220 = ` 176
+;|fi cV~Vk Kkr fd, fcuk
+Hkh eSa lh/s foØ; ewY; Kkr
+dj ldrh gw¡A
+1. ,d nqdku 20% cV~Vk nsrh gSA fuEufyf[kr esa ls izR;sd dk foØ; ewY; D;k gksxk\
+(a)
+` 120 vafdr ewY; okyh ,d iks'kkdA
+(b)
+` 750 vafdr ewY; okys ,d tksM+h twrsA
+(c)
+` 250 vafdr ewY; okyk ,d FkSykA
+2.
+` 15000 vafdr ewY; okyh ,d est ` 14,400 esa miyC/ gSA cV~Vk vkSj cV~Vk
+izfr'kr Kkr dhft,A
+3. ,d vyekjh 5% cV~Vs ij ` 5225 esa csph tkrh gSA vyekjh dk vafdr ewY; Kkr
+dhft,A
+7.2.1 izfr'kr esa vkdyu
+,d nqdku ij vkidk fcy ` 577.80 gS vkSj nqdkunkj 15% cV~Vk Hkh iznku djrk gSA vki
+Hkqxrku dh tkus okyh jkf'k dk vkdyu oSQls djsaxs\
+(i) fcy dks ` 577.80 dh fudVre ngkbZ esa iw.kk±fdr dhft, vFkkZr~ ` 580A
+(ii) bldk 10% Kkr dhft,] vFkkZr~ 10
+100 × ` 580 = ` 58
+(iii) bldk vk/k yhft,] vFkkZr~] 1
+58
+2 ×
+ = ` 29
+(iv) (ii) vkSj (iii) dh jkf'k;ksa dks tksfM+,A tksM+us ij ` 87 izkIr gksrs gSaA
+blfy, vki vius fcy dh jkf'k dks ` 87 vFkok ` 85 de dj ldrs gSaA bl izdkj
+fcy dh jkf'k dk lfUudV eku ` 495 gksxkA
+1. blh fcy jkf'k dk 20% cV~Vs ls vkdyu djus dk iz;kl dhft,A
+2.
+` 375 dk 15% Kkr djus dk iz;kl dhft,A
+7.3  fcØh dj / Value Added Tax (oSV) / eky vkSj lsok dj
+(Goods and Services Tax)
+vè;kid us d{kk esa ,d fcy fn[kk;k ftlesa fuEufyf[kr 'kh"kZd fy[ks gq, Fks %
+fcy la[;k
+fnukad
+esuw
+Ø- la-
+oLrq
+ek=kk
+nj
+jkf'k
+fcy jkf'k
++ fcØh dj (5%)
+oqQy ;ksx
+2024-25
+
+90 
+ xf.kr
+lksfp,] ppkZ dhft, vkSj fyf[k,
+fdlh oLrq dh fcØh ij fcØh dj Sales Tax ;k ST ljdkj }kjk olwyk tkrk gSA ;g nqdkunkj
+}kjk xzkgd ls fy;k tkrk gS vkSj ljdkj dks fn;k tkrk gSA blfy, ;g ges'kk oLrq osQ foØ; ewY;
+ij yxrk gS vkSj fcy dh jkf'k esa tksM+ fn;k tkrk gSA ,d vU; izdkj dk dj gS tks oLrq osQ ewY;
+esa (Value Added Tax) oSY;w ,MsM dj (VAT) osQ uke ls tqM+rk gSA
+1 tqykbZ 2017 ls] Hkkjr ljdkj us th-,l-Vh- (GST) ykxw fd;k gS] tks eky vkSj lsok dj dk laf{kIr
+:i gSA ;g dj eky dh vkiwfrZ ;k lsok ;k nksuksa ij yxk;k tkrk gSA
+mnkgj.k 4 : (fcØh dj Kkr djuk) fdlh nqdku ij ,d tksM+h jksyj LosQV~l (ifg;ksa ij
+?kweus okyk twrk) dk ewY; ` 450 FkkA olwys x, fcØh dj dh nj 5% FkhA fcy dh ns; jkf'k
+Kkr dhft,A
+gy : ` 100 ij Hkqxrku fd;k x;k dj ` 5 FkkA
+` 450 ij Hkqxrku fd, tkus okyk dj gksxk 5
+100 × ` 450  = ` 22.50
+fcy dh ns; jkf'k = Ø; ewY; + fcØh dj
+= ` 450 + ` 22.50 = ` 472.50
+mnkgj.k 5 : oSV (Value Added Tax (VAT)) oghnk us ,d owQyj
+10% dj lfgr ` 3300 esa [kjhnkA oSV osQ tqM+us ls igys dk owQyj
+dk ewY; Kkr dhft,A
+gy : ewY; esa oSV Hkh 'kkfey gSA
+vr% 10% oSV dk vFkZ gS fd ;fn oSV jfgr ewY; ` 100 gS rks oSV lfgr
+ewY; ` 110 gSA
+vc ;fn oSV lfgr ewY; ` 110 gS rks okLrfod ewY; ` 100 gSA
+vr% tc dj lfgr ewY; ` 3300 gS rks okLrfod ewY; =  100
+110 × ` 3300 = ` 3000
+mnkgj.k 6 : lyhe us ,d oLrq ` 784 esa [kjhnh ftlesa 12% th-,l-Vh- lfEefyr FkkA
+th-,l-Vh- tksM+us ls igys oLrq dk eqY; D;k Fkk ?
+gy : eku yhft, fd oLrq dk IkzkjafHkd ewY; ` 100 gSA th-,l-Vh- = 12% A th-,l-Vh- lfEefyr
+djus ij ewY; = ` (100 +12) = ` 112 A tc fcOkzQh ewY;  ` 112 gS rks izkjafHkd ewY; = ` 100 gSA
+vr% tc foozQ; ewY; ` 784 gS] rks izkjafHkd ewY; = ` 
+784
+700
+×
+100
+= `
+112
+1. fdlh la[;k dks nqxquk djus ij ml la[;k esa 100% o`f¼ gksrh gSA ;fn ge ml la[;k
+dks vk/k dj nsa rks fdruk izfr'kr ßkl gksxk\
+2.
+` 2400 dh rqyuk esa ` 2000 fdruk izfr'kr de gS\ D;k ;g izfr'kr mruk gh gS]
+ftruk ` 2000 dh rqyuk esa ` 2400 vf/d gS\
+2024-25
+
+jkf'k;ksa dh rqyuk  91
+iz;kl dhft,
+iz'ukoyh 7.2
+1.
+lsy osQ nkSjku ,d nqdku lHkh oLrqvksa osQ vafdr ewY; ij 10% cV~Vk nsrh
+gSA ` 1450 vafdr ewY; okyk ,d thUl vkSj nks dehtsa] ftuesa ls izR;sd dk
+vafdr ewY; ` 850 gS] dks [kjhnus osQ fy, fdlh xzkgd dks fdruk Hkqxrku
+djuk iM+sxk\
+2.
+,d Vsyhfo”ku dk ewY; ` 13]000 gSA bl ij 12% dh nj ls fcØh dj
+olwyk tkrk gSA ;fn fouksn bl Vsyhfo”ku dks [kjhnrk gS rks mlosQ }kjk Hkqxrku
+dh tkus okyh jkf'k Kkr dhft,A
+3.
+v#.k ,d tksM+h LosQV~l (ifg;snkj twrs) fdlh lsy ls [kjhndj yk;k ftl
+ij fn, x, cV~Vs dh nj 20% FkhA ;fn mlosQ }kjk Hkqxrku dh xbZ jkf'k
+` 1600 gS rks vafdr ewY; Kkr dhft,A
+4.
+eSaus ,d gs;j Mªk;j 8% oSV lfgr ` 5400 esa [kjhnkA oSV dks tksM+us ls igys
+dk mldk ewY; Kkr dhft,A
+5.
+dksbZ oLrq 18% th-,l-Vh- lfEefyr djus OksQ ckn ` 1239  esa [kjhnh xbZA
+th-,l-Vh- tksM+us ls igys dk ml oLrq dk ewY; Kkr dhft,A
+7.4 pØo`f¼ C;kt
+'kk;n vkidks bl izdkj osQ dFku feys gksaxs ^cSad esa FD (lkofèk tek) ij ,d
+o"kZ dk C;kt 9% ok£"kd dh nj ls* ;k ^cpr [kkrs ij C;kt dh nj 5% ok£"kd*A
+cSad vFkok Mkd?kj tSlh laLFkkvksa osQ ikl tek fd, x, /u ij bu laLFkkvksa }kjk Hkqxrku fd;k
+x;k vfrfjDr /u C;kt dgykrk gSA tc O;fDr /u m/kj ysrs gSa rks muosQ }kjk Hkh C;kt dk
+Hkqxrku fd;k tkrk gSA ge lk/kj.k C;kt dk ifjdyu djuk igys ls gh tkurs gSaA
+mnkgj.k 7 : ` 10]000 dh jkf'k 15% ok£"kd C;kt nj ij 2 o"kZ osQ fy, m/kj yh tkrh
+gSA bl jkf'k ij lk/kj.k C;kt vkSj 2 o"kZ osQ var esa Hkqxrku dh tkus okyh jkf'k Kkr dhft,A
+gy : ` 100 ij 1 o"kZ osQ fy, ns; C;kt ` 15 gSA
+blfy, 10]000 dk 1 o"kZ dk C;kt = 15
+10000
+100 ×
+ = ` 1500
+2 o"kZ dk C;kt  = ` 1500 × 2 = ` 3000
+2 o"kZ osQ var esa Hkqxrku dh tkus okyh jkf'k = ewy/u + C;kt
+= ` 10000 + ` 3000 = ` 13000
+5% ok£"kd nj ls ` 15000 dk 2 o"kZ osQ var esa C;kt vkSj Hkqxrku dh tkus okyh oqQy
+jkf'k Kkr dhft,A
+2024-25
+
+92 
+ xf.kr
+esjs firkth us oqQN /u 3 o"kZ osQ fy, Mkd?kj esa tek djk j[kk gSA izR;sd o"kZ /u dh
+o`f¼ fiNys o"kZ dh rqyuk esa vf/d gksrh gSA
+gekjs ikl cSad esa oqQN /u gSA izfro"kZ oqQN C;kt bl /u esa tqM+ tkrk gS ftls iklcqd
+esa n'kkZ;k tkrk gSA tqM+us okyk ;g C;kt gj o"kZ ,d leku ugha gS] izR;sd o"kZ blesa o`f¼
+gksrh gSA
+lkekU;r% fy;k tkus okyk vFkok Hkqxrku fd, tkus okyk C;kt dHkh lk/kj.k ugha gksrk gSA
+C;kt dk ifjdyu fiNys o"kZ dh jkf'k ij fd;k tkrk gSA bls C;kt dk la;kstu vFkok
+pØo`f¼ C;kt (C.I.) dgk tkrk gSA
+vkb,] ge ,d mnkgj.k ij ppkZ djrs gSa vkSj izR;sd o"kZ dk vyx&vyx C;kt Kkr
+djrs gSaA izR;sd o"kZ gekjh tek jkf'k vFkok ewy/u ifjofrZr gksrk gSA
+pØo`f¼ C;kt dk ifjdyu
+8% C;kt dh nj ls fguk 2 o"kZ osQ fy, ` 20] 000 m/kj ysrh gS tcfd C;kt ok£"kd
+la;ksftr gksrk gSA 2 o"kZ osQ var esa pØo`f¼ C;kt ,oa mlosQ }kjk Hkqxrku dh tkus okyh jkf'k
+Kkr dhft,A
+vlye us vè;kid ls iwNk fd D;k bldk vFkZ ;g gS fd mUgsa izR;sd o"kZ dk C;kt
+vyx&vyx Kkr djuk pkfg,A vè;kid us dgk ^gk¡* vkSj mls fuEufyf[kr pj.kksa dk mi;ksx
+djus osQ fy, lq>ko fn;k %
+1. ,d o"kZ dk lk/kj.k C;kt Kkr dhft, eku yhft, izFke o"kZ dk ewy/u P1 gSA
+;gk¡]
+P1 = ` 20,000
+SI1
+ = 8% ok£"kd nj ls izFke o"kZ dk lk/kj.k C;kt
+= ` 20000 8
+100
+×
+ = ` 1600
+2. rRi'pkr~ Hkqxrku dh tkus okyh vFkok izkIr dh tkus okyh jkf'k Kkr dhft,A ;g nwljs
+o"kZ osQ fy, ewy/u cu tkrk gSA
+izFke o"kZ osQ var esa jkf'k = P1 + SI1 = ` 20000 + ` 1600
+= ` 21600 = P2 (nwljs o"kZ dk ewy/u)
+3. bl jkf'k ij nwljs o"kZ dk C;kt Kkr dhft,A
+SI2 = 8% ok£"kd nj ls nwljs o"kZ dk lk/kj.k C;kt
+= ` 
+21600
+8
+100
+×
+ = ` 1728
+2024-25
+
+jkf'k;ksa dh rqyuk  93
+4. nwljs o"kZ osQ var esa Hkqxrku dh tkus okyh vFkok izkIr dh tkus okyh jkf'k Kkr dhft,A
+nwljs o"kZ osQ var esa jkf'k = P2 + SI2
+= ` 21600 + ` 1728
+= ` 23328
+oqQy ns; C;kt = ` 1600 + ` 1728
+= ` 3328
+jhrk us iwNk fd D;k C;kt dh jkf'k lk/kj.k C;kt osQ fy, fHkUu gksxhA vè;kid us
+mls 2 o"kZ dk lk/kj.k C;kt fudkyus osQ fy, vkSj Lo;a varj eglwl djus osQ fy,
+lq>ko fn;kA
+2 o"kZ dk lk/kj.k C;kt = ` 20000 8
+2
+100
+× × = ` 3200
+jhrk us dgk fd pØo`f¼ C;kt osQ dkj.k fguk dks ` 128 dk vf/d Hkqxrku djuk iM+sxkA
+vkb,] vc ge lk/kj.k C;kt vkSj pØo`f¼ C;kt esa varj ns[krs gSaA ` 100 ls 'kq: djrs gSaA
+pkVZ dks iwjk djus dk iz;kl dhft, %
+lk/kj.k C;kt
+pØo`f¼ C;kt
+ osQ varxZr
+ osQ varxZr
+izFke o"kZ
+ewy/u
+` 100.00
+` 100.00
+10% dh nj ls C;kt
+` 10.00
+` 10.00
+o"kZ osQ var esa jkf'k
+ ` 110.00
+` 110.00
+f}rh; o"kZ
+ewy/u
+` 100.00
+` 110.00
+10% dh nj ls C;kt
+` 10.00
+` 11.00
+o"kZ osQ var esa jkf'k
+  ` (110 + 10) = `120.00
+` 121.00
+r`rh; o"kZ
+ewy/u
+` 100.00
+` 121.00
+10% dh nj ls C;kt
+` 10.00
+` 12.10
+o"kZ osQ var esa jkf'k
+` (120 + 10)  = ` 130.00
+` 133.10
+è;ku nhft, fd 3 o"kZ esa]
+lk/kj.k C;kt ls izkIr C;kt = ` (130 – 100)  = ` 30
+pØo`f¼ C;kt ls izkIr C;kt = ` (133.10 – 100) = ` 33.10
+;g Hkh è;ku nhft, fd lk/kj.k C;kt osQ varxZr izR;sd o"kZ ewy/u leku jgrk gS tcfd
+pØo`f¼ C;kt osQ varxZr ;g izR;sd o"kZ osQ ckn cnyrk tkrk gSA
+bldk vFkZ
+;g gqvk fd
+vki ml
+le; rd
+tek C;kt
+ij C;kt nsrs
+gSaA
+2024-25
+
+94 
+ xf.kr
+7.5 pØo`f¼ C;kt osQ fy, lw=k dk fuxeu djuk
+tqcsnk us vius vè;kid ls iwNk] ^D;k pØo`f¼ C;kt Kkr djus dh dksbZ ljy fof/ gS\*
+vè;kid us dgk] ^pØo`f¼ C;kt Kkr djus dh ,d laf{kIr fof/ gSA vkb,] bls Kkr djus
+dk iz;kl djrs gSaA*
+eku yhft, R% ok£"kd C;kt dh nj ls ewy/u P1 ij C;kt ok£"kd la;ksftr gksrk gSA
+eku yhft, P1 = ` 5000 vkSj R = 5 ok£"kd] rc mi;qZDr pj.kksa dh lgk;rk ls %
+1.
+SI1 = ` 5000
+5 1
+100
+× ×
+vFkok
+SI1 = ` 
+1P
+R
+1
+100
+×
+×
+ blfy,] A1 = 5000 + ` 5000 5 1
+100
+× ×
+vFkok
+A1 = P1 + SI1 = 
+1
+1
+P R
+P
+100
++
+= 5000 1
+5
+100
++
+
+
+
+  = ` P2
+= P
+R
+P
+1
+2
+1 100
++
+
+
+
+=
+2.
+SI2 = 5000 1
+5
+100
++
+
+
+
+× ` 5 1
+100
+×
+vFkok
+SI2 =
+2
+P
+R
+1
+100
+×
+×
+= ` 5000
+5
+100
+1
+100
+×
++
+
+
+
+
+5
+= P
+R
+R
+1 1
+100
+100
++
+
+
+
+×
+= P R
+R
+1
+100 1 100
++
+
+
+
+
+A2 = 5000 1
+5
+100
++
+
+
+
+
+A2 = P2 + SI2
++ ` 
+5000
+5
+100
+1
+5
+100
+×
++
+
+
+
+
+= P
+R
+P R
+R
+1
+1
+1
+100
+100 1
+100
++
+
+
+
++
++
+
+
+
+
+= ` 5000 1
+5
+100
+1
+5
+100
++
+
+
+
+
++
+
+
+
+
+= P
+R
+R
+1 1
+100
+1
+100
++
+
+
+
+
++
+
+
+
+
+= ` 5000 1
+5
+100
+2
++
+
+
+
+  = P3
+= P
+R
+P
+1
+2
+3
+1
+100
++
+
+
+
+=
+blh izdkj vkxs c<+rs gq, n o"kZ osQ var esa oqQy jkf'k
+An = P
+R
+1 1 100
++
+
+
+
+
+n
+gksxhA
+2024-25
+
+jkf'k;ksa dh rqyuk  95
+iz;kl dhft,
+vFkok ge dg ldrs gSa fd A = P
+R
+1 100
++
+
+
+
+
+n
+tqcsnk us dgk ysfdu bldk mi;ksx djrs gq, ge osQoy n o"kZ osQ var esa ns; oqQy jkf'k
+dk lw=k izkIr djrs gSa] u fd pØo`f¼ C;kt dk lw=kA v#.kk us rqjar dgk fd ge tkurs gSa %
+pØo`f¼ C;kt = oqQy jkf'k – ewy/u
+vFkkZr~
+CI = A – P] blfy, ge pØo`f¼ C;kt Hkh vklkuh ls Kkr dj ldrs gSaA
+mnkgj.k 8 : ` 12,600 dk 2 o"kZ osQ fy, 10% ok£"kd nj ls pØo`f¼ C;kt Kkr dhft,
+tcfd C;kt ok£"kd la;ksftr gksrk gSA
+gy : gesa izkIr gS] A = P
+R
+1 100
++
+
+
+
+
+n
+;gk¡ ewy/u (P) = ` 12600] nj (R) = ` 10
+o"kks± dh la[;k (n) = 2A = ` 12600 1
+10
+100
+2
++
+
+
+
+ = `  12600 11
+10
+2
+
+
+
+
+= ` 
+11
+11
+12600
+10
+10
+×
+×
+ = ` 15246
+pØo`f¼ C;kt (CI) = A – P = ` 15246 – ` 12600 = ` 2646
+1.
+` 8000 dk 2 o"kZ osQ fy, 5% ok£"kd nj ls pØo`f¼ C;kt Kkr dhft, ;fn C;kt
+ok£"kd la;ksftr gksrk gSA
+7.6 pØo`f¼ C;kt osQ lw=k osQ vuqiz;ksx
+oqQN ,slh fLFkfr;k¡ gSa tgk¡ ij ge pØo`f¼ C;kt osQ oqQy jkf'k Kkr djus osQ lw=k dk mi;ksx
+dj ldrs gSaA buesa ls oqQN fuEufyf[kr gSa %
+(i) tula[;k esa o`f¼ (vFkok ßkl)
+(ii) ;fn cSDVhfj;k o`f¼ dh nj Kkr gS rks mudh oqQy o`f¼ Kkr djukA
+(iii) fdlh oLrq dk eku Kkr djuk ;fn eè;orhZ o"kks± esa blosQ ewY; esa o`f¼ vFkok deh
+gksrh gSA
+mnkgj.k 9 : o"kZ 1997 osQ var esa fdlh 'kgj dh tula[;k 20] 000 FkhA blesa 5% ok£"kd
+nj ls o`f¼ gqbZA o"kZ 2000 osQ var esa ml 'kgj dh tula[;k Kkr dhft,A
+gy : izR;sd o"kZ tula[;k esa 5% dh o`f¼ gksrh gS] blfy, izR;sd u, o"kZ dh ubZ tula[;k
+gksrh gSA bl izdkj ge dg ldrs gSa fd ;g la;ksftr :i esa c<+ jgh gSA
+2024-25
+
+96 
+ xf.kr
+iz;kl dhft,
+1998 osQ 'kq: esa tula[;k = 20, 000 (bls ge izFke o"kZ osQ fy, ewy/u ekurs gSa)
+5% dh nj ls o`f¼ =
+5
+20, 000
+1000
+100 ×
+=
+o"kZ 1999 dh tula[;k = 20000 + 1000 = 21000
+5% dh nj ls o`f¼ =
+5
+21000
+1050
+100 ×
+=
+o"kZ 2000 esa tula[;k = 21000 + 1050 = 22050
+5% dh nj ls o`f¼ = 5
+22050
+1102.5
+100 ×
+=
+o"kZ 2000 osQ var esa tula[;k = 22050 + 1102.5 = 23152.5
+vFkok lw=k dh lgk;rk ls o"kZ 2000 osQ var esa tula[;k = 20000 1
+5
+100
+3
++
+
+
+
+
+=
+21
+21
+21
+20000
+20
+20
+20
+×
+×
+×
+ = 23152.5
+blfy,] yxHkx tula[;k
+= 23,153
+v#.kk us iwNk] ;fn tula[;k esa deh gksrh gS rks D;k djuk gSA rc vè;kid us fuEufyf[kr
+mnkgj.k dh ppkZ dhA
+mnkgj.k 10 : ,d T.V. ` 21,000 esa [kjhnk x;kA ,d o"kZ i'pkr~ T.V. osQ ewY; esa 5%
+voewY;u gks x;k (voewY;u dk vFkZ gS oLrq osQ mi;ksx vkSj mez osQ dkj.k mlosQ ewY;
+esa deh gksuk)A ,d o"kZ i'pkr~ T.V. dk ewY; Kkr dhft,A
+gy :
+ewy/u = ` 21,000
+voewY;u (deh)= izfro"kZ ` 21,000 dk 5%
+= ` 21,000
+5
+1
+100
+×
+× = ` 1050
+,d o"kZ osQ var esa T.V. dk ewY; = ` 21,000 – ` 1050 = ` 19,950
+fodYir%] ge bls fuEufyf[kr fof/ ls lh/s izkIr dj ldrs gSa
+1 o"kZ osQ var esa ewY; = ` 21,000 1
+5
+100
+−
+
+
+
+
+= ` 21,000 ×  19
+20 = ` 19,950
+1.
+` 10] 500 ewY; dh ,d e'khu dk 5% dh nj ls voewY;u gksrk gSA ,d o"kZ i'pkr~
+bldk ewY; Kkr dhft,A
+2. ,d 'kgj dh orZeku tula[;k 12 yk[k gS ;fn o`f¼ dh nj 4% gS rks 2 o"kZ i'pkr~
+'kgj dh tula[;k Kkr dhft,A
+bls nwljs o"kZ
+osQ fy, ewyèku
+eku yhft,A
+bls rhljs o"kZ osQ
+fy, ewy/u
+le> yhft,A
+2024-25
+
+jkf'k;ksa dh rqyuk  97
+geus D;k ppkZ dh\
+iz'ukoyh 7.3
+1. 5% ok£"kd nj ls c<+rs gq, o"kZ 2003 osQ var esa ,d LFkku dh tula[;k 54] 000 gks
+xbZA fuEufyf[kr dks Kkr dhft, %
+(i) o"kZ 2001 esa tula[;k
+(ii) o"kZ 2005 esa fdruh tula[;k gksxh\
+2. ,d iz;ksx'kkyk esa] fdlh fuf'pr iz;ksx esa cSDVhfj;k dh la[;k 2-5%
+izfr ?kaVs dh nj ls c<+ jgh gSA ;fn iz;ksx osQ 'kq: esa cSDVhfj;k dh
+la[;k 5]06]000 Fkh rks 2 ?kaVs osQ var esa cSDVhfj;k dh la[;k Kkr
+dhft,A
+ 3.
+,d LowQVj ` 42] 000 esa [kjhnk x;kA 8% ok£"kd nj ls blosQ
+ewY; dk voewY;u gks x;kA 1 o"kZ osQ ckn LowQVj dk ewY; Kkr
+dhft,A
+1. vafdr ewY; ij nh xbZ NwV cV~Vk dgykrh gSA
+cV~Vk = vafdr ewY;  – foØ; ewY;
+2. ;fn cV~Vk izfr'kr fn;k gqvk gS rks cV~Vs dk ifjdyu fd;k tk ldrk gSA cV~Vk = vafdr ewY; dk
+cV~Vk izfr'krA
+3. fdlh oLrq dks [kjhnus osQ ckn ml ij fd, x, vfrfjDr [kpsZ Ø; ewY; esa 'kkfey dj fy, tkrs
+gSa vkSj ;s [kpsZ Åijh [kpsZ dgykrs gSaA Ø; ewY; = [kjhn ewY; + Åijh [kpsZ
+4. fdlh oLrq dks cspus ij ljdkj }kjk fcØh dj fy;k tkrk gS vkSj bls fcy dh jkf'k esa tksM+ fn;k
+tkrk gSA fcØh dj = fcy jkf'k dk dj %
+5. th-,l-Vh- eky vkSj lsok dj dk laf{kIr :i gSA ;g dj eky dh vkiwfrZ ;k lsok ;k nksuksa ij yxk;k
+tkrk gSA
+6. fiNys o"kZ dh oqQy jkf'k (A = P + I) ij ifjdfyr fd;k x;k C;kt pØo`f¼ C;kt dgykrk gSA
+2024-25
+
+98 
+ xf.kr
+uksV
+2024-25

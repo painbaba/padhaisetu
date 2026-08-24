@@ -1,0 +1,616 @@
+chth; O;atd ,oa loZlfedk,¡  99
+8.1  chth; O;atdksa dk ;ksx ,oa O;odyu
+fiNyh d{kkvksa esa ge chth; O;atdksa (vFkok osQoy O;atdksa) osQ ckjs esa tkudkjh izkIr dj
+pqosQ gSaA x + 3, 2y – 5, 3x2, 4xy + 7 bR;kfn O;atdksa osQ mnkgj.k gSaA
+fiNyh d{kkvksa esa geus ;g Hkh lh[kk gS fd chth; O;atdksa dks oSQls tksM+k vkSj ?kVk;k tkrk
+gS] mnkgj.kkFkZ 7x2 – 4x + 5 ,oa  9x – 10, dks tksM+us osQ fy, ge bl izdkj djrs gSa %
+7x2 – 4x + 5
++
+9x – 10
+7x2 + 5x – 5
+fopkj dhft, fd ge ;ksxiQy oSQls Kkr djrs gSaA tksM+s tkus okys izR;sd O;atd dks ge fofHkUu
+iafDr;ksa esa fy[krs gSaA ,slk djrs le; ge leku inksa dks ,d nwljs osQ Åij&uhps fy[krs gSa vkSj]
+tSlk Åij n'kkZ;k x;k gS] ge mu leku inksa dks tksM+rs gSaA vr% 5 + (–10) = 5 –10 =  –5  blh
+izdkj, – 4x + 9x = (– 4 + 9)x = 5x. vkb, dqN vkSj mnkgj.k gy djrs gSaA
+mnkgj.k 1 : 7xy + 5yz – 3zx, 4yz + 9zx – 4y , –3xz + 5x – 2xy dk ;ksx Kkr dhft,A
+gy : leku inksa dks ,d nwljs osQ Åij&uhps j[kdj rhu O;atdksa dks fofHkUu iafDr;ksa esa
+fy[krs gq,] ge izkIr djrs gSa %
+7xy + 5yz –3zx
++
+4yz + 9zx        – 4y
++
+–2xy
+– 3zx + 5x
+(è;ku nhft, xz vkSj zx ,d leku gSa )
+5xy  +  9yz +3zx + 5x – 4y
+bl izdkj O;atdksa dk ;ksx 5xy + 9yz + 3zx + 5x – 4y  gSA è;ku nhft, nwljs O;atd osQ in
+– 4y vkSj rhljs O;atd osQ in 5x dks ;ksxiQy esa oSls gh fy[kk x;k gS tSls os gSa D;ksafd nwljs
+O;atdksa esa mudk dksbZ leku in ugha gSA
+chth; O;atd ,oa
+loZlfedk,¡
+vè;k;8
+2024-25
+
+100  xf.kr
+mnkgj.k 2 : 7x2 – 4xy + 8y2 + 5x – 3y esa ls 5x2 – 4y2 + 6y – 3 dks ?kVkb,A
+gy :
+7x2 – 4xy + 8y2 + 5x – 3y
+5x2
+– 4y2
++ 6y – 3
+(–)
+                (+)            (–)    (+)
+2x2 – 4xy + 12y2 + 5x – 9y + 3
+uksV fdlh la[;k dk ?kVkuk mlosQ ;ksT; izfrykse dks tksM+us osQ leku gSA bl izdkj – 3 dks ?kVkuk]
++ 3 dks tksM+us osQ leku gS] blh izdkj  6y dks ?kVkuk] – 6y dks tksM+us tSlk gSA – 4y2 dks ?kVkuk
+4y2 dks tksM+us osQ leku gS vkSj blh izdkj vU; nwljh iafDr osQ izR;sd in osQ uhps rhljh iafDr
+esa fy[ks fpg~u ls ;g tkuus esa lgk;rk feyrh gS fd dkSu lh lafØ;k dh tkrh gSaA
+iz'ukoyh 8.1
+1. fuEufyf[kr dk ;ksx Kkr dhft, %
+(i) ab – bc, bc – ca, ca – ab
+(ii) a – b + ab, b – c + bc, c – a + ac
+(iii) 2p2q2 – 3pq + 4, 5 + 7pq – 3p2q2
+(iv) l2 + m2, m2 + n2, n2 + l2,
+2lm + 2mn + 2nl
+2. (a)
+12a – 9ab + 5b – 3 esa ls 4a – 7ab + 3b + 12 dks ?kVkb,A
+(b)
+5xy – 2yz – 2zx + 10xyz esa ls 3xy + 5yz – 7zx dks ?kVkb,A
+(c)
+18 – 3p – 11q + 5pq – 2pq2 + 5p2q  esa ls  4p2q – 3pq + 5pq2 – 8p + 7q – 10
+dks ?kVkb,A
+8.2  chth; O;atdksa dk xq.ku
+(i) ¯cnqvksa osQ fuEufyf[kr izfr:i dks nsf[k, %
+¯cnqvksa osQ izfr:i
+                  ¯cnqvksa dh oqQy la[;k
+4 × 9
+5 × 7
+2024-25
+
+chth; O;atd ,oa loZlfedk,¡  101
+m × n
+(m + 2) × (n + 3)
+(ii) D;k vki ,slh vkSj ifjfLFkfr;ksa osQ ckjs esa lksp ldrs gSa
+ftuesa nks chth; O;atdksa dks xq.kk djuk iM+rk gks\
+vehuk mBdj dgrh gSA ^^ge vk;r osQ {ks=kiQy osQ
+ckjs esa lksp ldrs gSaA** vk;r dk {ks=kiQy l × b,
+gSa ftlesa l yackbZ gS vkSj b pkSM+kbZ gSA ;fn vk;r
+dh yackbZ 5 bdkbZ c<+k nh tk,] vFkkZr~] (l + 5) dj nh
+tk, vkSj pkSM+kbZ 3 bdkbZ de dj nh tk, vFkkZr~
+(b – 3) dj nh tk, rks vk;r dk {ks=kiQy (l + 5) ×
+(b – 3) gksxkA
+(iii) D;k vki vk;ru osQ ckjs esa lksp ldrs gSa\ (,d
+vk;rkdkj cDls dk vk;ru mldh yackbZ] pkSM+kbZ vkSj
+Å¡pkbZ osQ xq.kuiQy ls izkIr gksrk gSA)
+(iv) lfjrk dgrh gS fd tc ge oLrq,¡ [kjhnrs gSa rks gesa
+xq.kk djuk iM+rk gSA mnkgj.kkFkZ ;fn izfr ntZu osQykas dk
+ewY; p #i;s gS vkSj LowQy fidfud osQ fy, z ntZu
+osQyksa dh vko';drk gS] rks gesa (p × z) #i;ksa dk
+Hkqxrku djuk iM+sxkA
+eku yhft,] izfr ntZu osQyksa dk ewY; 2 #i;s de gksrk vkSj fidfud osQ fy, 4 ntZu
+de osQyksa dh vko';drk gksrh rks] izfr ntZu osQyksa dk ewY; (p–2) #i;s gksrk vkSj
+(z – 4) ntZu osQyksa dh vko';drk gksrhA blfy,] gesa (p – 2) × (z – 4) #i;ksa dk
+Hkqxrku djuk iM+rk gSA
+¯cnqvksa dh la[;k Kkr djus
+osQ fy, gesa iafDr;ksa dh
+la[;k osQ O;atd dks LraHkksa
+dh la[;k osQ O;atd ls
+xq.kk djuk gSA
+;gk¡ iafDr;ksa dh la[;k 2
+c<+kbZ xbZ gS] vFkkZr~ m + 2
+vkSj LraHkksa dh la[;k 3
+c<+kbZ xbZ gS] vFkkZr~ n + 3
+vk;r dk {ks=kiQy Kkr djus osQ fy,
+gesa  l × b vFkok  (l + 5) × (b – 3) osQ
+:i osQ chth; O;atdksa dks xq.kk djuk
+iM+rk gSA
+2024-25
+
+102  xf.kr
+è;ku nhft, ,difn;ksa osQ
+rhuksa xq.kuiQy 3xy, 15xy,
+–15xy Hkh ,dinh gSaA
+iz;kl dhft,
+D;k vki ,slh vkSj nks ifjfLFkfr;ksa osQ ckjs esa lksp ldrs gSa tgk¡ gesa chth; O;atdksa dks
+xq.kk djuk iM+ ldrk gS\
+[uksV : • pky vkSj le; osQ ckjs esa lksfp,A
+• lk/kj.k C;kt] ewy/u vkSj lk/kj.k C;kt dh nj bR;kfn osQ ckjs esa lksfp,A]
+mi;qZDr lHkh mnkgj.kksa esa geus nks vFkok vf/d jkf'k;ksa dk xq.ku fd;k gSA ;fn jkf'k;k¡
+chth; O;atdksa osQ :i esa nh gqbZ gSa vkSj gesa mudk xq.kuiQy Kkr djuk gS rks bldk vFkZ
+;g gqvk fd gesa ;g tkuuk pkfg, fd ;g xq.kuiQy oSQls izkIr fd;k tk,A vkb,] bls
+Øekuqlkj djrs gSaA lcls igys ge nks ,difn;ksa dk xq.ku djrs gSaA
+8.3  ,dinh dks ,dinh ls xq.kk djuk
+ftl O;atd esa osQoy ,d in gksrk gS mls ,dinh dgrs gSaA
+8.3.1  nks ,difn;ksa dks xq.kk djuk
+ge izkjaHk djrs gSa
+4 × x = x + x + x + x = 4x  ls tks igys lh[k pqosQ gSaA
+blh izdkj] 4 × (3x) = 3x + 3x + 3x + 3x = 12x
+vc fuEufyf[kr xq.kuiQyksa ij fopkj dhft, %
+(i)
+x × 3y = x × 3 × y = 3 × x × y = 3xy
+(ii)
+5x × 3y = 5 × x × 3 × y = 5 × 3 × x × y  = 15xy
+(iii)
+5x × (–3y) = 5 × x × (–3) × y
+= 5 × (–3) × x × y  = –15xy
+dqN vkSj mi;ksxh mnkgj.k bl izdkj gSa %
+(iv)
+5x × 4x2 = (5 × 4) × (x × x2)
+= 20 × x3 = 20x3
+(v)
+5x × (– 4xyz) = (5 × – 4) × (x × xyz)
+= –20 × (x × x × yz) = –20x2yz
+è;ku nhft, fd geus nksuksa ,difn;ksa osQ chth; Hkkxksa osQ
+fofHkUu pjksa dh ?kkrksa dks oSQls bdV~Bk fd;k gSA ,slk djus osQ
+fy, geus ?kkrksa osQ fu;eksa dk mi;ksx fd;k gSA
+uksV dhft, % 5 × 4 = 20
+vFkkZr~] xq.kuiQy dk xq.kkad  = izFke ,dinh dk
+xq.kkad × f}rh; ,dinh dk xq.kkad vkSj
+x × x2 = x 3
+vFkkZr~] xq.kuiQy dk chth; xq.ku[kaM = izFke
+,dinh dk chth; xq.ku[kaM × f}rh; ,dinh
+dk chth; xq.ku[kaMA
+8.3.2  rhu vFkok vf/d ,difn;ksa dks xq.kk djuk
+fuEufyf[kr mnkgj.kksa ij fopkj dhft, %
+(i)
+2x × 5y × 7z = (2x × 5y) × 7z = 10xy × 7z = 70xyz
+(ii)
+4xy × 5x2y2 × 6x3y3 = (4xy × 5x2y2) × 6x3y3 = 20x3y3 × 6x3y3 = 120x3y3 × x3y3
+= 120 (x3 × x3) × (y3 × y3) = 120x6 × y6 = 120x6y6
+;g Li"V gS fd ge loZizFke igys nks ,difn;ksa dks xq.kk djrs gSa vkSj bl izdkj xq.kuiQy
+osQ :i esa izkIr ,dinh dks rhljs ,dinh ls xq.kk djrs gSaA cgqla[; ,difn;ksa dks xq.kk djus
+osQ fy, bl fof/ dk foLrkj fd;k tk ldrk gSA
+2024-25
+
+chth; O;atd ,oa loZlfedk,¡  103
+iz;kl dhft,
+4x × 5y × 7z Kkr dhft, %
+loZizFke 4x × 5y Kkr dhft, vkSj fiQj mls 7z ls xq.kk dhft,]
+vFkok loZizFke 5y × 7z Kkr dhft, vkSj bls 4x ls xq.kk dhft,A
+D;k ifj.kke ,d tSlk gS\ vki D;k fopkj djrs gSa\
+D;k xq.kk djrs le; Øe dk egÙo gS\
+mnkgj.k 3 : ,d vk;r osQ] ftldh yackbZ vkSj pkSM+kbZ nh gqbZ gS] {ks=kiQy dh lkj.kh dks
+iwjk dhft, %
+gy :
+yackbZ
+pkSM+kbZ
+{ks=kiQy
+3x
+5y
+3x × 5y = 15xy
+9y
+4y2
+..............
+4ab
+5bc
+..............
+2l2m
+3lm2
+..............
+mnkgj.k 4 : fuEufyf[kr lkj.kh esa rhu vk;rkdkj cDlksa dh yackbZ] pkSM+kbZ vkSj Å¡pkbZ nh
+gqbZ gSaA izR;sd dk vk;ru Kkr dhft, %
+yackbZ
+pkSM+kbZ
+Å¡pkbZ
+(i)
+2ax
+3by
+5cz
+(ii)
+m2n
+n2p
+p2m
+(iii)
+2q
+4q2
+8q3
+gy : vk;ru = yackbZ × pkSM+kbZ × Å¡pkbZ
+vr%
+(i)
+vk;ru = (2ax) × (3by) × (5cz)
+= 2 × 3 × 5 × (ax) × (by) × (cz) = 30abcxyz
+(ii)
+vk;ru = m2n × n2p × p2m
+= (m2 × m) × (n × n2) × (p × p2) = m3n3p3
+(iii)
+vk;ru = 2q × 4q2 × 8q3
+= 2 × 4 × 8 × q × q2 × q3  = 64q6
+iz'ukoyh 8.2
+1. fuEufyf[kr ,dinh ;qXeksa dk xq.kuiQy Kkr dhft, %
+(i) 4, 7p
+(ii) – 4p, 7p
+(iii) – 4p, 7pq
+(iv) 4p3, – 3p
+(v) 4p, 0
+2. fuEufyf[kr ,dinh ;qXeksa osQ :i esa yackbZ ,oa pkSM+kbZ j[kus okys vk;rksa dk {ks=kiQy
+Kkr dhft, %
+(p, q); (10m, 5n); (20x2, 5y2); (4x, 3x2); (3mn, 4np)
+ge nwljs rjhosQ ls Hkh bl xq.kuiQy dks
+Kkr dj ldrs gSa % 4xy × 5x2y2 × 6x3 y3
+= (4 × 5 × 6) ×  (x × x2 × x3) ×
+   (y × y2 × y3) = 120 x6y6
+2024-25
+
+104  xf.kr
+izFke ,dinh  →
+f}rh; ,dinh ↓
+3. xq.kuiQyksa dh lkj.kh dks iwjk dhft, %
+2x
+–5y
+3x2
+– 4xy
+7x2y
+–9x2y2
+2x
+4x2
+. . .
+. . .
+. . .
+. . .
+. . .
+–5y
+. . .
+. . .
+–15x2y
+. . .
+. . .
+. . .
+3x2
+. . .
+. . .
+. . .
+. . .
+. . .
+. . .
+– 4xy
+. . .
+. . .
+. . .
+. . .
+. . .
+. . .
+7x2y
+. . .
+. . .
+. . .
+. . .
+. . .
+. . .
+–9x2y2
+. . .
+. . .
+. . .
+. . .
+. . .
+. . .
+4. ,sls ?kuk vkdkj cDlksa dk vk;ru Kkr dhft, ftudh yackbZ] pkSM+kbZ vkSj Å¡pkbZ Øe'k%
+fuEufyf[kr gSa %
+(i) 5a, 3a2, 7a4
+(ii) 2p, 4q, 8r
+(iii) xy, 2x2y, 2xy2
+(iv) a, 2b, 3c
+5. fuEufyf[kr dk xq.kuiQy Kkr dhft, %
+(i) xy, yz, zx
+(ii) a, – a2, a3
+(iii) 2, 4y, 8y2, 16y3
+(iv) a, 2b, 3c, 6abc (v) m, – mn, mnp
+8.4  ,dinh dks cgqin ls xq.kk djuk
+nks inksa okyk O;atd f}in dgykrk gSA rhu inksa okys O;atd dks f=kin dgrs gSa vkSj blh izdkj
+vU;A O;kidr% ,d vFkok vf/d inksa okyk O;atd ftlosQ xq.kkad 'kwU;srj gksa vkSj ftlosQ pjksa
+dh ?kkr ½.ksrj iw.kk±d gksa] cgqin dgykrk gSA
+8.4.1  ,dinh dks f}in ls xq.kk djuk
+vkb,] ,dinh 3x dks f}in 5y + 2 ls xq.kk djrs gSa] vFkkZr~] 3x × (5y + 2) Kkr djrs gSaA
+Lej.k dhft, fd 3x vkSj (5y + 2) la[;kvksa dks fu:fir djrs gSaA blfy, fooj.k osQ fu;e
+dk mi;ksx djrs gq,] 3x × (5y + 2) = (3x × 5y) + (3x × 2) = 15xy + 6x
+ge lkekU;r% vius ifjdyuksa esa forj.k osQ fu;e dk mi;ksx djrs gSaA mnkgj.kkFkZ
+7 × 106 = 7 × (100 + 6)
+= 7 × 100 + 7 × 6   (;gk¡ geus forj.k fu;e dk mi;ksx fd;k gSA)
+= 700 + 42 = 742
+7 × 38 = 7 × (40 – 2)
+= 7 × 40 – 7 × 2      (;gk¡ geus forj.k fu;e dk mi;ksx fd;k gSA)
+= 280 – 14 = 266
+blh izdkj]
+(–3x) × (–5y + 2) = (–3x) × (–5y) + (–3x) × (2) = 15xy – 6x
+vkSj
+5xy × (y2 + 3) = (5xy × y2) + (5xy × 3) = 5xy3 + 15xy.
+,dinh vkSj
+f}in dk
+xq.kk f}in
+gksrk gSA
+2024-25
+
+chth; O;atd ,oa loZlfedk,¡  105
+iz;kl dhft,
+f}in ,oa ,dinh osQ xq.kuiQy osQ ckjs esa vkidk D;k fopkj gS\ mnkgj.kkFkZ (5y + 2) × 3x = ?
+ge 7 × 3 = 3 × 7; vFkok O;kid :i ls a × b = b × a osQ :i esa Øefofues; fu;e dk
+mi;ksx dj ldrs gSaA
+blh izdkj
+(5y + 2) × 3x = 3x × (5y + 2) = 15xy + 6x gSA
+xq.kuiQy Kkr dhft, % (i)   2x (3x + 5xy)
+(ii)   a2 (2ab – 5c)
+8.3.2  ,dinh dks f=kin ls xq.kk djuk
+3p × (4p2 + 5p + 7) yhft,A igys dh rjg ge forj.k fu;e dk mi;ksx dj ldrs gSaA
+3p × (4p2 + 5p + 7) = (3p × 4p2) + (3p × 5p) + (3p × 7)
+= 12p3 + 15p2 + 21p
+f=kin osQ izR;sd in dks ,dinh ls xq.kk dhft, vkSj xq.kuiQy dks tksM+ nhft,A
+fopkj dhft, forj.k fu;e osQ mi;ksx ls ge ,d in dk ,d in
+osQ lkFk xq.ku djus esa l{ke gSaA
+mnkgj.k 5 : O;atdksa dks ljy dhft, vkSj funsZ'kkuqlkj eku Kkr dhft, %
+(i) x (x – 3) + 2, x = 1 osQ fy,
+(ii) 3y (2y – 7) – 3 (y – 4) – 63, y = –2 osQ fy,
+gy :
+(i) x (x – 3) + 2 = x2 – 3x + 2
+x = 1  osQ fy,]  x2 – 3x + 2 = (1)2 – 3 (1) + 2
+= 1 – 3 + 2 = 3 – 3 = 0
+(ii) 3y(2y – 7) – 3 (y – 4) – 63
+= 6y2 – 21y – 3y + 12 – 63
+= 6y2 – 24y – 51
+y = –2 osQ fy,] 6y2 – 24y – 51 = 6 (–2)2 – 24(–2) – 51
+= 6 × 4 + 24 × 2 – 51
+= 24 + 48 – 51 = 72 – 51 = 21
+mnkgj.k 6 : tksfM+, %
+(i) 5m (3 – m) ,oa 6m2 – 13m
+(ii) 4y (3y2 + 5y – 7) ,oa 2 (y3 – 4y2 + 5)
+gy :
+(i) izFke O;atd  5m (3 – m) = (5m × 3) – (5m × m) =15m – 5m2
+ vc f}rh; O;atd tksM+us ij 15m – 5m2 + 6m2 – 13m = m2 + 2m
+(ii) izFke O;atd  = 4y (3y2 + 5y – 7) = (4y × 3y2) + (4y × 5y) + (4y × (–7))
+= 12y3 + 20y2 – 28y
+iz;kl dhft,
+(4p2 + 5p + 7) × 3p dk
+xq.kuiQy Kkr dhft,A
+2024-25
+
+106  xf.kr
+f}rh; O;atd = 2 (y3 – 4y2 + 5) = 2y3 + 2 × (– 4y2) + 2 × 5
+= 2y3 – 8y2 + 10
+nksuksa O;atdksa dks tksM+us ij
+12y3
++
+20y2 – 28y
++
+2y3
+–
+8y2
++ 10
+14y3
++
+12y2 – 28y
++ 10
+mnkgj.k 7 : 2pq (p + q) esa ls 3pq (p – q) dks ?kVkb,A
+gy : ge izkIr djrs gSa 3pq (p – q) = 3p2q – 3pq2 vkSj
+                  2pq (p + q) = 2p2q + 2pq2
+?kVkus ij
+2p2q
++
+2pq2
+3p2q
+–
+3pq2
+–
++
+– p2q
++
+5pq2
+iz'ukoyh 8.3
+1. fuEufyf[kr ;qXeksa esa izR;sd osQ O;atdksa dk xq.ku dhft, %
+(i) 4p, q + r
+(ii) ab, a – b
+(iii) a + b, 7a2b2
+(iv) a2 – 9, 4a
+(v) pq + qr + rp, 0
+2. lkj.kh iwjk dhft, %
+izFke O;atd
+f}rh; O;atd
+xq.kuiQy
+(i)
+a
+b + c + d
+(ii)
+x + y – 5
+5xy
+(iii)
+p
+6p2 – 7p + 5
+(iv)
+4p2q2
+p2 – q2
+(v)
+a + b + c
+abc
+3. xq.kuiQy Kkr dhft, %
+(i) (a2) × (2a22) × (4a26)
+(ii)
+2
+3
+9
+10
+2
+2
+xy
+x y
+
+
+
+×
+−
+
+
+
+
+(iii)
+(iv) x × x2 × x3 × x4
+4. (a)
+3x (4x – 5) + 3 dks ljy dhft, vkSj (i)  x = 3 ,oa (ii) x = 1
+2 osQ fy, bldk
+eku Kkr dhft,A
+(b)
+a (a2 + a + 1) + 5 dks ljy dhft, vkSj (i) a = 0, (ii) a = 1 ,oa (iii) a = – 1
+osQ fy, bldk eku Kkr dhft,A
+2024-25
+
+chth; O;atd ,oa loZlfedk,¡  107
+5. (a)
+p ( p – q), q ( q – r) ,oa  r ( r – p) dks tksfM+,A
+(b)
+2x (z – x – y) ,oa  2y (z – y – x) dks tksfM+,A
+(c)
+4l ( 10n – 3m + 2 l ) esa ls 3l (l – 4m + 5n)  dks ?kVkb,A
+(d)
+4c ( – a + b + c ) esa ls 3a (a + b + c ) – 2 b (a – b +  c) dks ?kVkb,A
+8.5 cgqin dks cgqin ls xq.kk djuk
+8.5.1  f}in dks f}in ls xq.kk djuk
+vkb,] ,d f}in (2a + 3b) dks nwljs f}in (3a + 4b) ls xq.kk djrs gSaA tSlk fd geus igys
+fd;k gS] oSls gh xq.ku osQ forj.k fu;e dk vuqlj.k djrs gq, ge bls Hkh Øe ls djrs gSa;
+(3a + 4b) × (2a + 3b) = 3a × (2a + 3b) + 4b × (2a + 3b)
+= (3a × 2a) + (3a × 3b) + (4b × 2a) + (4b × 3b)
+= 6a2 + 9ab + 8ba + 12b2
+= 6a2 + 17ab + 12b2
+(D;ksafd ba = ab gSA)
+tc ge ,d f}in dk ,d f}in osQ lkFk xq.ku djrs gSa] rks ge vk'kk djrs gSa fd
+2 × 2 = 4 in mifLFkr gksus pkfg, ijarq buesa ls nks in leku gSa ftudks ,d lkFk bdV~Bk dj
+fn;k gS vkSj bl izdkj gesa 3 in izkIr gksrs gSaA
+cgqin dks cgqin ls xq.kk djrs le; gesa leku inksa dks <w¡<+ ysuk pkfg, vkSj mUgsa
+feyk ysuk pkfg,A
+mnkgj.k  8 : xq.kk dhft, %
+(i) (x – 4) ,oa  (2x + 3) dks
+(ii) (x – y) ,oa (3x + 5y) dks
+gy :
+(i)
+(x – 4) × (2x + 3) = x × (2x + 3) – 4 × (2x + 3)
+= (x × 2x) + (x × 3) – (4 × 2x) – (4 × 3) = 2x2 + 3x – 8x – 12
+= 2x2 – 5x – 12
+(leku inksa dks tksM+us ij)
+(ii) (x – y) × (3x + 5y) = x × (3x + 5y) – y × (3x + 5y)
+= (x × 3x) + (x × 5y) – (y × 3x) – ( y × 5y)
+= 3x2 + 5xy – 3yx – 5y2 = 3x2 + 2xy – 5y2
+mnkgj.k  9 :  xq.kk dhft, %
+(i) (a + 7) vkSj  (b – 5) dks
+(ii) (a2 + 2b2) vkSj (5a – 3b) dks
+gy :
+(i) (a + 7) × (b – 5) = a × (b – 5) + 7 × (b – 5)
+                           = ab – 5a + 7b – 35
+uksV dhft, fd bl xq.ku esa dksbZ Hkh leku in ugha gSaA
+(ii) (a2 + 2b2) × (5a – 3b) = a2 (5a – 3b) + 2b2 × (5a – 3b)
+                                   = 5a3 – 3a2b + 10ab2 – 6b3
+(leku inksa dks tksM+us ij)
+è;ku nhft, ,d f}in dk
+izR;sd in nwljs f}in osQ
+izR;sd in ls xq.kk gksrk gSA
+2024-25
+
+108  xf.kr
+8.5.2  f}in dks f=kin ls xq.kk djuk
+bl xq.ku esa gesa f=kin osQ izR;sd in dks f}in osQ izR;sd in ls xq.kk djuk iM+sxkA bl izdkj
+gesa 3 × 2 = 6 in izkIr gksaxs] ;fn ,d in dks ,d in ls xq.kk djus ij leku in curs gSa]
+rks izkIr inksa dh la[;k ?kVdj ik¡p ;k mlls Hkh de gks ldrh gSA
+(
+)
+a + 7
+f}in
+123 × 
+(
+)
+a
+a
+2
+3
+5
++
++
+f=kin
+1
+2
+44
+3
+44 = a × (a2 + 3a + 5) + 7 × (a2 + 3a + 5) forj.k fu;e osQ mi;ksx ls
+= a3 + 3a2 + 5a + 7a2 + 21a + 35
+= a3 + (3a2 + 7a2) + (5a + 21a) + 35
+= a3 + 10a2 + 26a + 35
+(vafre ifj.kke esa osQoy 4 in gh D;ksa
+gSa?)
+mnkgj.k 10 : ljy dhft, % (a + b) (2a – 3b + c) – (2a – 3b) c
+gy : ge izkIr djrs gSa %
+(a + b) (2a – 3b + c) = a (2a – 3b + c) + b (2a – 3b + c)
+= 2a2 – 3ab + ac + 2ab – 3b2 + bc
+= 2a2 – ab – 3b2 + bc + ac
+(è;ku nhft, –3ab ,oa 2ab leku in gSaA)
+vkSj
+(2a – 3b) c = 2ac – 3bc gSA
+blfy,] (a + b) (2a – 3b + c) – (2a – 3b) c = 2a2 – ab – 3b2 + bc + ac – (2ac – 3bc)
+= 2a2 – ab – 3b2 + bc + ac – 2ac + 3bc
+= 2a2 – ab – 3b2 + (bc + 3bc) + (ac – 2ac)
+= 2a2 – 3b2 – ab + 4bc – ac
+iz'ukoyh 8.4
+1. f}inksa dks xq.kk dhft, %
+(i) (2x + 5) vkSj (4x – 3)
+(ii) (y – 8) vkSj (3y – 4)
+(iii) (2.5l – 0.5m) vkSj (2.5l + 0.5m)
+(iv) (a + 3b) vkSj (x + 5)
+(v) (2pq + 3q2) vkSj (3pq – 2q2)
+(vi)
+3
+4
+3
+4
+2
+3
+2
+2
+2
+2
+a
+b
+a
+b
++
+
+
+
+
+
+
+
+
+vkSj
+
+2. xq.kuiQy Kkr dhft, %
+(i) (5 – 2x) (3 + x)
+(ii) (x + 7y) (7x – y)
+(iii) (a2 + b) (a + b2)
+(iv) (p2 – q2) (2p + q)
+3. ljy dhft, %
+(i) (x2 – 5) (x + 5) + 25
+(ii) (a2 + 5) (b3 + 3) + 5
+(iii) (t + s2) (t2 – s)
+2024-25
+
+chth; O;atd ,oa loZlfedk,¡  109
+geus D;k ppkZ dh\
+(iv) (a + b) (c – d) + (a – b) (c + d) + 2 (ac + bd)
+(v) (x + y)(2x + y) + (x + 2y)(x – y)
+(vi) (x + y)(x2 – xy + y2)
+(vii) (1.5x – 4y)(1.5x + 4y + 3) – 4.5x + 12y
+(viii) (a + b + c)(a + b – c)
+1. pjksa ,oa vpjksa dh lgk;rk ls O;atd curs gSaA
+2. O;atd cukus osQ fy, inksa dks tksM+k tkrk gSA Lo;a inksa dk fuekZ.k xq.ku[kaMksa osQ xq.kuiQy osQ :i
+esa gksrk gSA
+3. O;atd ftuesa ,d] nks rFkk rhu in gksrs gSa Øe'k% ,dinh] f}inh vkSj f=kinh dgykrs gSaA lkekU;r%
+,d vFkok vf/d inksa okyk O;atd ftlesa inksa osQ xq.kkad 'kwU;srj iw.kk±d gSa vkSj pjksa dh ?kkr ½.ksrj gS]
+cgqin dgykrk gSA
+4. leku pjksa ls leku in curs gSa] vkSj bu pjksa dh ?kkr Hkh leku gksrh gSA leku inksa osQ xq.kkad leku
+gksus vko';d ugha gSA
+5. cgqinksa dks tksM+us (vFkok ?kVkus) osQ fy, lcls igys leku inksa dks <w¡f<+, vkSj mUgsa tksM+ (vFkok
+?kVk) nhft,] mlosQ i'pkr~ vleku inksa dks mi;ksx esa yhft,A
+6. cgqr lh ifjfLFkfr;ksa esa gesa chth; O;atdksa dks xq.kk djus dh vko';drk gksrh gSA mnkgj.kkFkZ vk;r
+dk {ks=kiQy Kkr djus osQ fy,] ftldh Hkqtk,¡ chth; O;atdksa osQ :i esa nh gqbZ gSaA
+7. ,dinh dks ,dinh ls xq.kk djus ij ges'kk ,dinh izkIr gksrk gSA
+8. cgqin dks ,dinh ls xq.kk djus osQ fy, cgqin dk izR;sd in ,dinh ls xq.kk fd;k tkrk gSA
+9. cgqin dk f}in (vFkok f=kin) ls xq.ku djus osQ fy, ge ,d in dks ,d&,d in ls xq.kk djrs
+gSa] vFkkZr~ cgqin dk izR;sd in f}in (vFkok f=kin) osQ izR;sd in ls xq.kk fd;k tkrk gSA è;ku nhft,
+bl izdkj osQ xq.ku esa] gesa xq.kuiQy esa leku in izkIr gks ldrs gSa vkSj mUgsa feykuk iM+ ldrk gSA
+2024-25
+
+110  xf.kr
+uksV
+2024-25

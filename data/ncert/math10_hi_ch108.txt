@@ -1,0 +1,1888 @@
+f=kdks.kfefr dk ifjp;
+127
+8
+8.1 Hkwfedk
+vki viuh fiNyh d{kkvksa esa f=kHkqtksa] fo'ks"k :i ls ledks.k f=kHkqtksa osQ ckjs esa vè;;u
+dj pqosQ gSaA vkb, ge vius vkl&ikl osQ ifjos'k ls oqQN ,sls mnkgj.k ysa] tgk¡ ledks.k
+f=kHkqtksa osQ cuus dh dYiuk dh tk ldrh gSA mnkgj.k osQ fy, %
+1. eku yhft, ,d LowQy osQ Nk=k
+oqQrqcehukj ns[kus x, gSaA vc] ;fn
+dksbZ Nk=k ehukj osQ f'k[kj dks ns[k jgk
+gks] rks ,d ledks.k f=kHkqt cuus dh
+dYiuk dh tk ldrh gS tSlkfd vko`Qfr
+8-1 esa fn[kk;k x;k gSA D;k okLro esa
+ekis fcuk gh Nk=k ehukj dh Å¡pkbZ
+Kkr dj ldrk gS\
+    2. eku yhft, ,d yM+dh unh osQ fdukjs fLFkr vius edku dh ckyduh ij cSBh
+gqbZ gS vkSj og bl unh osQ nwljs fdukjs ij fLFkr ikl gh osQ eafnj dh ,d fupyh
+lh<+h ij j[ks xeys dks ns[k jgh gSA bl fLFkfr esa] ,d ledks.k f=kHkqt cuus dh
+f=kdks.kfefr dk ifjp;
+There is perhaps nothing which so occupies the
+middle position of mathematics as trigonometry.
+(laHkor% f=kdks.kfefr osQ vfrfjDr xf.kr dh dksbZ ,slh
+'kk[kk ugha gS] tks mldh eè; fLFkfr dk LFkku ys losQA)
+– J.F. Herbart (1890)
+vko`Qfr 8.1
+Reprint 2026-27
+
+128
+xf.kr
+dYiuk dh tk ldrh gS tSlkfd vko`Qfr
+8-2 esa fn[kk;k x;k gS] ;fn vkidks og
+Å¡pkbZ Kkr gks] ftl ij yM+dh cSBh gqbZ
+gS] rks D;k vki unh dh pkSM+kbZ Kkr dj
+ldrs gSa\
+3. eku yhft, ,d xeZ gok okyk xqCckjk
+gok esa mM+ jgk gSA vkleku esa mM+us ij
+bl xqCckjs dks ,d yM+dh ns[k ysrh gS
+vkSj bl ckr dks crkus osQ fy, og
+viuh ek¡ osQ ikl nkSM+dj tkrh gSA
+xqCckjs dks ns[kus osQ fy, mldh ek¡ rqjar
+?kj ls ckgj fudy vkrh gSA vc eku
+yhft, fd tc igys&igy yM+dh xqCckjs
+dks ns[krh gS] rc xqCckjk ¯cnq  A ij FkkA
+tc ek¡&csVh nksuksa gh xqCckjs dks ns[kus osQ
+fy, ckgj fudydj vkrh gSa rc rd xqCckjk ,d vU; ¯cnq  B rd vk pqdk gksrk
+gSA D;k vki tehu osQ ml LFkku ls] tgk¡ ek¡ vkSj csVh nksuksa [kM+h gSa]  B  dh Å¡pkbZ
+Kkr dj ldrs gSa\
+Åij crkbZ xbZ lHkh fLFkfr;ksa esa nwfj;k¡ vFkok Å¡pkbZ;k¡ oqQN xf.krh; rduhdksa dks]
+tks f=kdks.kfefr uked xf.kr dh ,d 'kk[kk osQ varxZr vkrs gSa] ykxw djosQ Kkr fd;k tk
+ldrk gSA vaxzsth 'kCn  ‘trigonometry’ dh O;qRifÙk xzhd 'kCnksa ‘tri’ (ftldk vFkZ gS
+rhu)] ‘gon’ (ftldk vFkZ gS] Hkqtk) vkSj ‘metron’ (ftldk vFkZ gS eki) ls gqbZ gSA
+oLrqr% f=kdks.kfefr esa ,d f=kHkqt dh Hkqtkvksa vkSj dks.kksa osQ chp osQ laca/ksa dk vè;;u
+fd;k tkrk gSA izkphu dky esa f=kdks.kfefr ij fd, x, dk;Z dk mYys[k felz vkSj
+cschykWu esa feyrk gSA izkphu dky osQ [kxksyfon~ f=kdks.kfefr dk iz;ksx i`Foh ls rkjksa vkSj
+xzgksa dh nwfj;k¡ ekius esa djrs FksA vkt Hkh bathfu;¯jx vkSj HkkSfrd foKku esa iz;qDr
+vf/dka'k izkS|ksfxdh; mUur fof/;k¡ f=kdks.kferh; ladYiukvksa ij vk/kfjr gSaA
+bl vè;k; esa ge ,d ledks.k f=kHkqt dh Hkqtkvksa osQ oqQN vuqikrksa dk mlosQ U;wu
+dks.kksa osQ lkis{k vè;;u djsaxs ftUgsa dks.kksa osQ f=kdks.kferh; vuqikr dgrs gaSA ;gk¡ ge
+viuh ppkZ osQoy U;wu dks.kksa rd gh lhfer j[ksaxsA ;|fi bu vuqikrksa dk foLrkj nwljs
+vko`Qfr 8.2
+vko`Qfr 8.3
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+129
+d.kZ
+dks.k
+dh lEeq[k Hkqtk
+A
+dks.k
+dh
+layXu Hkqtk
+A
+vko`Qfr 8.4
+dks.kksa osQ fy, Hkh fd;k tk ldrk gSA ;gk¡ ge  0°  vkSj  90°  osQ eki okys dks.kksa osQ
+f=kdks.kferh; vuqikrksa dks Hkh ifjHkkf"kr djsaxsA ge oqQN fof'k"V dks.kksa osQ f=kdks.kferh;
+vuqikr ifjdfyr djsaxs vkSj bu vuqikrksa ls lacaf/r oqQN loZlfedk,¡ (identities), ftUgsa
+f=kdks.kferh; loZlfedk,¡ dgk tkrk gS] LFkkfir djsaxsA
+8.2 f=kdks.kferh; vuqikr
+vuqPNsn 8-1 esa vki fofHkUu fLFkfr;ksa esa cus oqQN
+ledks.k f=kHkqtksa dh dYiuk dj pqosQ gSaA
+vkb, ge ,d ledks.k f=kHkqt ABC ysa] tSlkfd
+vko`Qfr 8-4 esa fn[kk;k x;k gSA
+;gk¡] Ð CAB (;k la{ksi esa dks.k A) ,d U;wu dks.k
+gSA dks.k A osQ lkis{k Hkqtk BC dh fLFkfr ij è;ku nhft,A
+;g Hkqtk dks.k  A osQ lkeus gSA bl Hkqtk dks ge dks.k A
+dh lEeq[k Hkqtk dgrs gSa] Hkqtk  AC ledks.k f=kHkqt dk
+d.kZ gS vkSj Hkqtk  AB, Ð A dk ,d Hkkx gSA vr% bls ge
+dks.k  A dh layXu Hkqtk dgrs gSaA
+è;ku nhft, fd dks.k A osQ LFkku ij dks.k  C ysus ij
+Hkqtkvksa dh fLFkfr cny tkrh gSA (nsf[k, vko`Qfr 8-5)
+fiNyh d{kkvksa esa vki ¶vuqikr¸ dh ladYiuk
+osQ ckjs esa vè;;u dj pqosQ gSaA ;gk¡ vc ge ledks.k
+f=kHkqt dh Hkqtkvksa ls lacaf/r oqQN vuqikrksa dks] ftUgsa
+ge f=kdks.kferh; vuqikr dgrs gSa] ifjHkkf"kr djsaxsA
+ledks.k f=kHkqt  ABC  (nsf[k, vko`Qfr 8-4) osQ
+dks.k A osQ f=kdks.kferh; vuqikr fuEu izdkj ls ifjHkkf"kr
+fd, tkrs gSa%
+Ð A dk sine = 
+A 
+BC
+AC
+=
+dk.s k
+dh lEeq[k Hktq k
+d.kZ
+Ð A dk cosine = 
+A 
+AB
+AC
+=
+dk.s k
+dh lya Xu Hkqtk
+d.kZ
+d.kZ
+dks.k
+dh layXu Hkqtk
+C
+dks.k
+dh
+lEeq[k Hkqtk
+C
+vko`Qfr 8.5
+Reprint 2026-27
+
+130
+xf.kr
+Ð A dk tangent = 
+A 
+BC
+AB
+ A 
+=
+dks.k
+dh lEeq[k Hktq k
+dk.s k
+dh layXu Hktq k
+Ð A dk cosecant = 
+1
+AC
+A 
+sine
+BC
+A 
+=
+=
+∠
+d.kZ
+dk 
+dk.s k
+dh lEeq[k Hkqtk
+Ð A dk secant  = 
+1
+AC
+A 
+cosine
+AB
+A 
+
+
+
+d.kZ
+dk 
+dks.k
+dh lEe[q k Hktq k
+Ð A dk cotangent  = 
+1
+A 
+AB
+A 
+tangent
+BC
+A 
+=
+=
+∠
+dk.s k
+dh lya Xu Hktq k
+dk 
+dk.s k
+dh lEe[q k Hkqtk
+Åij ifjHkkf"kr fd, x, vuqikrksa dks la{ksi esa Øe'k% sin A, cos A, tan A, cosec A,
+sec A vkSj cot A fy[kk tkrk gSA è;ku nhft, fd vuqikr cosec A, sec A  vkSj cot A
+vuqikrksa  sin A, cos A vkSj  tan A  osQ Øe'k% O;qRØe gksrs gSaA
+vkSj vki ;gk¡ ;g Hkh ns[k ldrs gSa fd tan A = 
+BC
+BC
+sin A
+AC
+AB
+AB
+cos A
+AC
+
+
+ vkSj
+cotA = 
+cos A
+sin A
+vr% ,d ledks.k f=kHkqt osQ ,d U;wu dks.k osQ f=kdks.kferh; vuqikr f=kHkqt osQ
+dks.k vkSj mldh Hkqtkvksa dh yackbZ osQ chp osQ laca/ dks O;Dr djrs gSaA
+D;ksa u ;gk¡ vki ,d ledks.k f=kHkqt osQ dks.k C osQ f=kdks.kferh; vuqikrksa dks
+ifjHkkf"kr djus dk iz;kl djsa (nsf[k, vko`Qfr 8-5)\
+'kCn “sine” dk lcls igyk iz;ksx ftl :i esa vkt ge
+djrs gSa mldk mYys[k 500 bZ- esa vk;ZHkêð }kjk fyf[kr
+iqLrd vk;ZHkêh;e esa feyrk gSA vk;ZHkêð us 'kCn
+v/Z&T;k dk iz;ksx v/Z&thok osQ fy, fd;k Fkk ftlus
+le;&varjky esa T;k ;k thok dk laf{kIr :i ys fy;kA tc
+iqLrd vk;ZHkêh;e dk vuqokn vjch Hkk"kk esa fd;k x;k]
+rc 'kCn thok dks ;Fkkor j[k fy;k x;kA 'kCn thok dks
+lkbul (Sinus) osQ :i esa vuwfnr fd;k x;k] ftldk
+vFkZ oØ gS] tcfd vjch :ikarj dks ySfVu esa vuwfnr fd;k
+vk;ZHkêð
+476 – 550 lk-;q-
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+131
+d.kZ
+vko`Qfr 8.6
+x;kA blosQ rqjar ckn sine osQ :i esa iz;qDr 'kCn sinus Hkh iwjs ;wjksi esa xf.krh; ikBksa
+esa iz;qDr gksus yxkA [kxksyfon~ osQ ,d vaxzsth izksi+sQlj ,MeaM xqaVj (1581&1626)
+us igys&igy laf{kIr laosQr ‘sin’  dk iz;ksx fd;k FkkA
+'kCnksa ‘cosine’ vkSj ‘tangent’ dk mn~xe cgqr ckn esa gqvk FkkA cosine iQyu dk
+mn~xe iwjd dks.k osQ sine dk vfHkdyu djus dks è;ku esa j[kdj fd;k x;k FkkA
+vk;ZHkêð us bls dksfVT;k dk uke fn;k FkkA uke cosinus dk mn~xe ,MeaM xqaVj osQ
+lkFk gqvk FkkA 1674 esa vaxzst xf.krK lj tksukl ewjs us igys&igy laf{kIr laosQr
+‘cos’ dk iz;ksx fd;k FkkA
+fVIi.kh : è;ku nhft, fd izrhd sin A dk iz;ksx dks.k A’ osQ
+sin osQ laf{kIr :i esa fd;k x;k gSA ;gk¡ sinA,  sin vkSj A
+dk xq.kuiQy ugha gSA A ls vyx jgdj ‘sin’ dk dksbZ vFkZ
+gh ugha gksrkA blh izdkj cosA, ‘cos’ vkSj A dk xq.kuiQy
+ugha gSA bl izdkj dh O;k[;k vU; f=kdks.kferh; vuqikrksa
+osQ lkFk Hkh dh tkrh gSA
+vc] ;fn ge ledks.k f=kHkqt ABC osQ d.kZ  AC ij
+,d ¯cnq P ysa ;k c<+h gqbZ Hkqtk AC ij ¯cnq Q ysa vkSj AB
+ij yac PM Mkysa vkSj c<+h gqbZ Hkqtk  AB ij yac QN  Mkysa
+(nsf[k, vko`Qfr 8-6)] rks  D PAM osQ Ð A osQ f=kdks.kferh;
+vuqikrksa vkSj  D QAN osQ Ð A osQ f=kdks.kferh; vuqikrksa esa
+D;k varj gksxk\
+bl iz'u dk mÙkj Kkr djus osQ fy, vkb, igys ge bu f=kHkqtksa dks ns[ksaA D;k
+D PAM vkSj D CAB le:i gSa\ vkidks ;kn gksxk fd vè;k; 6 esa vki AA le:irk
+dlkSVh osQ ckjs esa vè;;u dj pqosQ gSaA bl dlkSVh dks ykxw djus ij vki ik,¡xs fd
+f=kHkqt PAM vkSj CAB le:i gSaA vr% le:i f=kHkqtksa osQ xq.k/eZ osQ vuqlkj bu f=kHkqtksa
+dh laxr Hkqtk,¡ vkuqikfrd gSaA
+vr%
+AM
+AB = AP
+MP
+AC
+BC
+
+blls gesa ;g izkIr gksrk gS
+MP
+AP = BC
+sin A
+AC 
+Reprint 2026-27
+
+132
+xf.kr
+blh izdkj
+AM
+AB
+AP
+AC
+
+ = cos A, MP
+BC
+tan A
+AM
+AB
+
+
+ vkfn&vkfn
+blls ;g irk pyrk gS fd D PAM osQ dks.k A osQ f=kdks.kferh; vuqikr vkSj
+DCAB osQ dks.k A osQ f=kdks.kferh; vuqikrksa esa dksbZ varj ugha gksrkA
+blh izdkj vki ;g tk¡p dj ldrs gSa fd D QAN esa Hkh sinA dk eku (vkSj vU;
+f=kdks.kferh; vuqikrksa dk eku) leku cuk jgrk gSA
+vius izs{k.kksa ls vc ;g Li"V gks tkrk gS fd ;fn dks.k leku cuk jgrk gks]
+rks ,d dks.k osQ f=kdks.kferh; vuqikrksa osQ ekuksa esa f=kHkqt dh Hkqtkvksa dh yackb;ksa
+osQ lkFk dksbZ ifjorZu ugha gksrkA
+fVIi.kh : lqfo/k osQ fy, (sinA)2, (cosA)2, vkfn osQ LFkku ij ge Øe'k% sin2A, cos2A
+vkfn fy[k ldrs gSaA ijarq cosec A = (sin A)–1 ¹ sin–1 A (bls lkbu buolZ A dgk tkrk
+gS)A sin–1 A dk ,d vyx vFkZ gksrk gS ftl ij ppkZ ge mPp d{kkvksa esa djsaxsA blh
+izdkj dh ijaijk,¡ vU; f=kdks.kferh; vuqikrksa ij Hkh ykxw gksrh gSaA dHkh&dHkh xzhd v{kj
+q (FkhVk) dk iz;ksx dks.k dks izdV djus osQ fy, fd;k tkrk gSA
+;gk¡ geus ,d U;wu dks.k osQ N% f=kdks.kferh; vuqikr ifjHkkf"kr fd, gSaA ;fn gesa
+dksbZ ,d vuqikr Kkr gks] rks D;k ge vU; vuqikr izkIr dj ldrs gSa\ vkb, ge bl
+ij fopkj djsaA
+;fn ,d ledks.k f=kHkqt  ABC  esa
+sin A = 1 ,
+3 rc bldk vFkZ ;g gS fd BC
+1
+AC
+3
+
+,
+vFkkZr~ f=kHkqt ABC dh Hkqtkvksa  BC vkSj AC dh
+yackb;k¡ 1 : 3 osQ vuqikr esa gSa (nsf[k, vko`Qfr
+8-7)A vr% ;fn BC, k osQ cjkcj gks] rks AC, 3k osQ cjkcj gksxh] tgk¡  k ,d /u la[;k
+gSA dks.k A osQ vU; f=kdks.kferh; vuqikr Kkr djus osQ fy, gesas rhljh Hkqtk AB dh
+yackbZ Kkr djuh gksrh gSA D;k vkidks ikbFkkxksjl izes; ;kn gS\ vkb, ge ikbFkkxksjl
+izes; dh lgk;rk ls visf{kr yackbZ AB Kkr djsaA
+AB2 = AC2 – BC2 = (3k)2 – (k)2 = 8k2 = (2
+2 k)2
+vr%
+AB =
+2 2 k
+
+vr% gesa izkIr gksrk gS
+AB = 2 2 k
+(AB = – 2 2 k D;ksa ugha gS\)
+vko`Qfr 8.7
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+133
+vc
+cos A = AB
+2 2
+2 2
+AC
+3
+3
+k
+k
+
+
+blh izdkj] vki dks.k A osQ vU; f=kdks.kferh; vuqikr izkIr dj ldrs gSaA
+fVIi.kh : D;ksafd ledks.k f=kHkqt dk d.kZ] f=kHkqt dh lcls yach Hkqtk gksrk gS] blfy,
+sin A ;k cos A dk eku lnk gh 1 ls de gksrk gS (;k fo'ks"k fLFkfr esa 1 osQ cjkcj gksrk gSA)
+vkb, vc ge oqQN mnkgj.k ysasA
+mnkgj.k 1 : ;fn tan A = 4
+3 , rks dks.k A  osQ vU;
+f=kdks.kferh; vuqikr Kkr dhft,A
+gy : vkb, lcls igys ge ,d ledks.k D ABC [khapsa
+(nsf[k, vko`Qfr 8-8)A
+vc] ge tkurs gSa fd tan A = BC
+4
+AB
+3
+
+vr% ;fn BC = 4k, rc  AB = 3k, tgk¡  k /u la[;k gSA
+vc ikbFkkxksjl izes; ykxw djus ij gesa ;g izkIr gksrk gS
+AC2 = AB2 + BC2 = (4k)2 + (3k)2 = 25k2
+blfy,
+AC = 5k
+vc ge budh ifjHkk"kkvksa dh lgk;rk ls lHkh f=kdks.kferh; vuqikr fy[k ldrs gSaA
+sin A = BC
+4
+4
+AC
+5
+5
+k
+k
+
+
+cos A = AB
+3
+3
+AC
+5
+5
+k
+k
+
+
+vr% cot A = 
+1
+3
+1
+5
+, cosec A =
+tanA
+4
+sin A
+4
+
+
+ vkSj sec A = 
+1
+5
+cos A
+3
+
+mnkgj.k 2 : ;fn Ð B vkSj Ð Q ,sls
+U;wudks.k gksa ftlls fd sin B = sin Q,
+rks fl¼ dhft, fd Ð B = Ð Q
+gy : vkb, ge nks ledks.k f=kHkqt ABC
+vkSj PQR ysa] tgk¡  sin B = sin Q
+(nsf[k, vko`Qfr 8-9)A
+vko`Qfr 8.8
+vko`Qfr 8.9
+Reprint 2026-27
+
+134
+xf.kr
+vko`Qfr 8.10
+;gk¡
+sin B = AC
+AB
+vkSj
+sin Q = PR
+PQ
+rc
+AC
+AB = PR
+PQ
+vr%
+AC
+PR =
+AB
+PQ
+k
+
+ (eku yhft,)
+(1)
+vc] ikbFkkxksjl izes; ykxw djus ij gesa ;s izkIr gksrs gSa
+BC =
+2
+2
+AB
+AC
+
+vkSj
+QR =
+2
+2
+PQ – PR
+vr%
+BC
+QR = 
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+AB
+AC
+PQ
+PR
+PQ
+PR
+PQ
+PR
+PQ
+PR
+PQ
+PR
+k
+k
+k
+k
+
+
+
+
+
+
+
+
+
+(2)
+(1) vkSj (2) ls gesa ;g izkIr gksrk gS
+AC
+PR = AB
+BC
+PQ
+QR
+
+rc izes; 6-4 dk iz;ksx djus ij D ACB ~ D PRQ izkIr gksrk gSA vr% Ð B = Ð Q
+mnkgj.k 3 : D ACB yhft, ftldk dks.k C ledks.k
+gS ftlesa  AB = 29 bdkbZ] BC = 21 bdkbZ vkSj
+Ð ABC = q (nsf[k, vko`Qfr 8-10) gSa rks fuEufyf[kr
+osQ eku Kkr dhft,A
+(i) cos2 q + sin2 q
+(ii) cos2 q – sin2 q.
+gy : D ACB esa gesa ;g izkIr gksrk gS
+AC =
+2
+2
+AB
+BC
+
+ = 
+2
+2
+(29)
+(21)
+
+=
+(29
+21)(29
+21)
+(8)(50)
+400
+20
+−
++
+=
+=
+=
+bdkbZ
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+135
+vko`Qfr 8.12
+vr%
+sin q = AC
+20
+BC
+21
+, cos
+=
+AB
+29
+AB
+29
+
+
+
+
+vc] (i) cos2q + sin2q = 
+2
+2
+2
+2
+2
+20
+21
+20
+21
+400
+441
+1,
+29
+29
+841
+29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vkSj (ii) cos2 q – sin2 q = 
+2
+2
+2
+21
+20
+(21
+20)(21
+20)
+41
+29
+29
+841
+29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mnkgj.k 4 : ,d ledks.k f=kHkqt ABC esa] ftldk dks.k
+B ledks.k gS] ;fn tan A = 1 rks lR;kfir dhft, fd
+2  sin A cos A = 1
+gy : D ABC esa tan A = BC
+AB = 1 (nsf[k, vko`Qfr 8-11)
+vFkkZr~
+BC = AB
+eku yhft,  AB = BC = k, tgk¡  k ,d /u la[;k gSA
+vc
+AC =
+2
+2
+AB
+BC
+
+=
+2
+2
+( )
+( )
+2
+k
+k
+k
+
+
+vr%
+sin A =
+BC
+1
+AC
+2
+
+vkSj
+cos A = 
+AB
+1
+AC
+2
+
+blfy,
+2 sin A cos A = 
+1
+1
+2
+1,
+2
+2
+
+
+
+
+
+
+
+
+
+ tks fd visf{kr eku gSA
+mnkgj.k 5 : D OPQ esa] ftldk dks.k P ledks.k
+gS] OP = 7 cm vkSj OQ – PQ = 1 cm
+(nsf[k, vko`Qfr 8-12)]  sin Q vkSj  cos Q osQ eku
+Kkr dhft,A
+gy : D OPQ ls gesa ;g izkIr gS fd
+OQ2 = OP2 + PQ2
+vFkkZr~
+(1 + PQ)2 = OP2 + PQ2
+(D;ksa\)
+vFkkZr~
+1 + PQ2 + 2PQ = OP2 + PQ2
+vFkkZr~
+1 + 2PQ = 72
+(D;ksa\)
+vko`Qfr 8.11
+Reprint 2026-27
+
+136
+xf.kr
+vFkkZr~
+PQ = 24 cm vkSj OQ = 1 + PQ = 25 cm
+vr%
+sin Q =
+7
+25 vkSj cos Q = 24
+25
+iz'ukoyh 8.1
+1. D ABC esa] ftldk dks.k  B ledks.k gS]  AB = 24 cm vkSj BC = 7 cm gSA fuEufyf[kr dk eku
+Kkr dhft, %
+(i) sin A, cos A
+(ii) sin C, cos C
+2. vko`Qfr 8-13 esa]  tan P – cot R dk eku Kkr dhft,A
+3. ;fn sin A = 3 ,
+4
+ rks cos A  vkSj  tan A  dk eku ifjdfyr dhft,A
+4. ;fn 15 cot A = 8  gks rks sin A vkSj sec A dk eku Kkr dhft,A
+5. ;fn sec q = 13,
+12 gks rks vU; lHkh f=kdks.kferh; vuqikr ifjdfyr dhft,A
+6. ;fn Ð A vkSj Ð B U;wu dks.k gks] tgk¡ cos A = cos B, rks fn[kkb, fd Ð A = Ð B
+7. ;fn  cot q = 7 ,
+8 rks (i)
+(1
+sin
+)(1
+sin
+) ,
+(1
+cos
+)(1
+cos )
+
+
+
+
+
+
+
+
+(ii) cot2 q dk eku fudkfy,\
+8. ;fn  3 cot A = 4, rks tk¡p dhft, fd  
+2
+2
+1
+tan A
+1 + tan A
+
+ = cos2 A – sin2A gS ;k ughaA
+9. f=kHkqt  ABC  esa] ftldk dks.k  B ledks.k gS] ;fn  tan A = 1 ,
+3 rks fuEufyf[kr osQ eku Kkr
+dhft,%
+(i) sin A cos C + cos A sin C
+(ii) cos A cos C – sin A sin C
+10. D PQR esa] ftldk dks.k Q ledks.k gS]  PR + QR = 25 cm  vkSj  PQ = 5 cm gSA  sin P, cos P
+vkSj tan P  osQ eku Kkr dhft,A
+11. crkb, fd fuEufyf[kr dFku lR; gSa ;k vlR;A dkj.k lfgr vius mÙkj dh iqf"V dhft,A
+(i) tan A dk eku lnSo 1 ls de gksrk gSA
+(ii) dks.k A  osQ fdlh eku osQ fy,  sec A = 
+12
+5
+(iii) cos A, dks.k  A osQ cosecant  osQ fy, iz;qDr ,d laf{kIr :i gSA
+(iv) cot A, cot vkSj A  dk xq.kuiQy gksrk gSA
+(v) fdlh Hkh dks.k q  osQ fy, sin q = 4
+3
+vko`Qfr 8.13
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+137
+8.3 oqQN fof'k"V dks.kksa osQ f=kdks.kferh; vuqikr
+T;kfefr osQ vè;;u ls vki 30°, 45°, 60° vkSj 90°  osQ dks.kksa dh jpuk ls vki vPNh
+rjg ls ifjfpr gSaA bl vuqPNsn esa ge bu dks.kksa vkSj lkFk gh 0°  okys dks.k osQ
+f=kdks.kferh; vuqikrksa osQ eku Kkr djsaxsA
+45° osQ f=kdks.kferh; vuqikr
+D ABC esa] ftldk dks.k B ledks.k gS] ;fn ,d dks.k
+45° dk gks] rks vU; dks.k Hkh 45° dk gksxk vFkkZr~
+Ð A = Ð C = 45° (nsf[k, vko`Qfr 8-14)A
+vr%
+BC = AB
+(D;ksa\)
+vc eku yhft,  BC = AB = a
+rc ikbFkkxksjl izes; osQ vuqlkj  AC2 = AB2 + BC2 = a2 + a2 = 2a2
+blfy,
+AC = 
+2
+a
+
+f=kdks.kferh; vuqikrksa dh ifjHkk"kkvksa dks ykxw djus ij gesa ;g izkIr gksrk gS %
+sin 45° =
+45° 
+BC
+1
+AC
+2
+2
+=
+=
+=
+a
+a
+osQ dks.k dh lEeq[k Hktq k
+d.kZ
+cos 45° =
+45° 
+AB
+1
+AC
+2
+2
+=
+=
+=
+a
+a
+osQ dks.k dh lya Xu Hkqtk
+d.kZ
+tan 45° =
+45° 
+BC
+1
+AB
+45° 
+=
+=
+=
+a
+a
+oQs dk.s k dh lEeq[k Hkqtk
+oQs dks.k dh lya Xu Hkqtk
+vkSj
+cosec 45° =
+1
+2
+sin 45 
+
+, sec 45° = 
+1
+2
+cos 45 
+
+, cot 45° = 
+1
+1
+tan 45 
+
+30° vkSj 60° osQ f=kdks.kferh; vuqikr
+vkb,] vc ge 30° vkSj 60° osQ f=kdks.kferh; vuqikr
+ifjdfyr djsaA ,d leckgq f=kHkqt ABC ij fopkj
+djsaA D;ksafd leckgq f=kHkqt dk izR;sd dks.k] 60º  dk
+gksrk gS] blfy,  Ð A = Ð B = Ð C = 60°
+A  ls Hkqtk  BC ij yac AD Mkfy, (nsf[k, vko`Qfr 8-15)A
+vko`Qfr 8.14
+vko`Qfr 8.15
+Reprint 2026-27
+
+138
+xf.kr
+vc
+D ABD @ D ACD
+(D;ksa\)
+blfy,
+BD = DC
+vkSj
+Ð BAD = Ð CAD
+(CPCT)
+vc vki ;g ns[k ldrs gSa fd%
+D ABD ,d ledks.k f=kHkqt gS ftldk dks.k D ledks.k gS] vkSj tgk¡ Ð BAD = 30°
+vkSj Ð ABD = 60° (nsf[k, vko`Qfr 8-15)A
+tSlk fd vki tkurs gSa] fd f=kdks.kferh; vuqikrksa dks Kkr djus osQ fy, gesa f=kHkqt dh
+Hkqtkvksa dh yackb;k¡ Kkr djus dh vko';drk gksrh gSA vkb,] ge ;g eku ysa fd AB = 2a
+rc
+BD = 1 BC =
+2
+a
+vkSj
+AD2 = AB2 – BD2 = (2a)2 – (a)2 = 3a2
+blfy,
+AD =
+3
+a
+vc
+sin 30° = BD
+1
+AB
+2
+2
+a
+a
+
+
+, cos 30° = AD
+3
+3
+AB
+2
+2
+a
+a
+
+
+tan 30° =
+BD
+1
+AD
+3
+3
+a
+a
+
+
+vkSj
+cosec 30º =
+1
+2,
+sin 30 
+
+  sec 30° =
+1
+2
+cos 30
+3
+
+
+cot 30° =
+1
+3
+tan 30 
+
+blh izdkj
+sin 60° = AD
+3
+3
+AB
+2
+2
+a
+a
+
+
+, cos 60° = 1
+2 , tan 60° = 
+3
+cosec 60° =
+2 ,
+3 sec 60° = 2 vkSj cot 60° = 
+1
+3
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+139
+0° vkSj 90° osQ f=kdks.kferh; vuqikr
+vkb,] ge ns[ksa fd ;fn ledks.k f=kHkqt  ABC osQ dks.k A dks rc rd
+vkSj NksVk fd;k tk, tc rd fd ;g 'kwU; ugha gks tkrk gS] rc bl
+fLFkfr esa dks.k  A  osQ f=kdks.kferh; vuqikrksa ij D;k izHkko iM+rk gS
+(nsf[k, vko`Qfr 8-16)A tSls&tSls Ð A  NksVk gksrk tkrk gS] oSls&oSls
+Hkqtk BC dh yackbZ de gksrh tkrh gSA ¯cnq C, ¯cnq B osQ fudV vkrk
+tkrk gS vkSj var esa] tc ÐA, 0°  osQ dkiQh fudV gks tkrk gS rc
+AC yxHkx ogh gks tkrk gS tks fd AB gS (nsf[k, vko`Qfr 8-17)A
+vko`Qfr 8.17
+tc Ð A, 0º osQ vR;f/d fudV gksrk gS rc BC, 0 osQ vR;f/d fudV vk tkrk gSA rc
+sin A = BC
+AC dk eku 0 osQ vR;f/d fudV vk tkrk gSA vkSj] tc  Ð A,  0º osQ vR;fèkd
+fudV gksrk gS] rc AC yxHkx ogh gksrk gS tks fd  AB gksrk gS vkSj cos A = AB
+AC dk eku
+1 osQ vR;f/d lehi gksrk gSA
+bldh lgk;rk ls ge ml fLFkfr esa sin A vkSj cos A osQ eku ifjHkkf"kr dj ldrs
+gSa tcfd  A = 0°, ge sin 0° =0 vkSj cos 0° = 1 ifjHkkf"kr djrs gSaA
+budk iz;ksx djus ij gesa ;s izkIr gksrs gSa%
+tan 0° = sin 0°
+cos 0° = 0, cot 0° = 
+1
+,
+tan 0° tks fd ifjHkkf"kr ugha gS (D;ksa\)
+sec 0° = 
+1
+cos 0 = 1 rFkk cosec 0° = 
+1
+,
+sin 0 vkSj ;g Hkh ifjHkkf"kr ugha gSA (D;ksa\)
+vkb, vc ge ml fLFkfr esa ns[ksa fd Ð A osQ f=kdks.kferh; vuqikrksa osQ lkFk D;k
+gksrk gS tcfd D ABC osQ bl dks.k dks rc rd cM+k fd;k tkrk gS] tc rd fd 90° dk
+ugha gks tkrkA Ð A tSls&tSls cM+k gksrk tkrk gS]  Ð C oSls&oSls NksVk gksrk tkrk gSA vr% Åij
+okyh fLFkfr dh Hkk¡fr Hkqtk AB dh yackbZ de gksrh tkrh gSA ¯cnq  A,  ¯cnq B osQ fudV gksrk
+tkrk gS vkSj] var esa tc Ð A, 90°  osQ vR;f/d fudV vk tkrk gS] rks Ð C, 0° osQ
+vko`Qfr 8.16
+Reprint 2026-27
+
+140
+xf.kr
+vR;fèkd fudV vk tkrk gS vkSj Hkqtk AC Hkqtk BC osQ lkFk yxHkx laikrh gks tkrh gS
+(nsf[k, vko`Qfr 8-18)A
+vko`Qfr 8.18
+tc Ð C, 0°  osQ vR;f/d fudV gksrk gS rks Ð A, 90°  osQ vR;f/d fudV gks tkrk
+gS vkSj Hkqtk  AC  yxHkx ogh gks tkrh gS] tks Hkqtk BC gSA vr%  sin A, 1  osQ vR;f/d
+fudV gks tkrk gS vkSj] tc  Ð A , 90°  osQ vR;f/d fudV gksrk gS] rc  Ð C, 0° osQ
+vR;fèkd fudV gks tkrk gS vkSj Hkqtk  AB yxHkx 'kwU; gks tkrh gSA vr%  cos A, 0 osQ
+vR;f/d fudV gks tkrk gSA
+vr% ge ;g ifjHkkf"kr djrs gSa % sin 90° = 1 vkSj cos 90° = 0
+vc vki D;ksa ugha  90°  osQ vU; f=kdks.kferh; vuqikr Kkr djrs gSa\
+vc ge rqjar lanHkZ osQ fy, ,d lkj.kh 8-1 osQ :i esa 0°, 30°, 45°, 60° vkSj 90°
+osQ lHkh f=kdks.kferh; vuqikrksa osQ eku izLrqr djsaxsA
+lkj.kh 8.1
+Ð A
+0°
+30°
+45°
+60°
+90°
+sin A
+0
+1
+2
+1
+2
+3
+2
+1
+cos A
+1
+3
+2
+1
+2
+1
+2
+0
+tan A
+0
+1
+3
+1
+3
+vifjHkkf"kr
+cosec A
+vifjHkkf"kr
+2
+2
+2
+3
+1
+sec A
+1
+2
+3
+2
+2
+vifjHkkf"kr
+cot A
+vifjHkkf"kr
+3
+1
+1
+3
+0
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+141
+fVIi.kh : mi;qZDr lkj.kh ls vki ns[k ldrs gSa fd tSls&tSls Ð A  dk eku 0° ls 90°  rd
+c<+rk tkrk gS] sin A dk eku 0 ls c<+dj 1 gks tkrk gS vkSj cos A dk eku 1 ls ?kVdj 0 gks tkrk
+gSA
+vkb,] vc ge oqQN mnkgj.k ysdj Åij dh lkj.kh esa fn, x, ekuksa osQ iz;ksx dks
+izn£'kr djsaA
+mnkgj.k 6 : D ABC esa ftldk dks.k B ledks.k gS]
+AB = 5 cm vkSj Ð ACB = 30° (nsf[k, vko`Qfr 8-19)A
+Hkqtkvksa  BC vkSj AC dh yackb;k¡ Kkr djsaA
+gy : Hkqtk BC dh yackbZ Kkr djus osQ fy, ge ml
+f=kdks.kferh; vuqikr dks ysaxs ftlesa BC vkSj nh gqbZ
+Hkqtk AB gksA D;ksafd BC dks.k C dh layXu Hkqtk gS] vkSj
+AB dks.k C dh lEeq[k Hkqtk gS] blfy,
+AB
+BC = tan C
+vFkkZr~
+5
+BC = tan 30° = 
+1
+3
+ftlls
+BC = 5 3 cm izkIr gksrk gSA
+Hkqtk AC dh yackbZ Kkr djus osQ fy, ge
+sin 30° = AB
+AC ysrs gSa
+(D;ksa\)
+vFkkZr~
+1
+2 =
+5
+AC
+vFkkZr~
+AC = 10 cm
+è;ku nhft, fd Åij osQ mnkgj.k esa rhljh Hkqtk dh yackbZ Kkr djus osQ fy, fodYi
+osQ :i esa ge ikbFkkxksjl izes; dks ykxw dj ldrs Fks]
+vFkkZr~
+AC =
+2
+2
+2
+2
+AB
+BC
+5
+(5 3) cm = 10cm
+
+
+
+vko`Qfr 8.19
+Reprint 2026-27
+
+142
+xf.kr
+mnkgj.k 7 : D PQR esa] ftldk dks.k Q ledks.k
+gS (nsf[k, vko`Qfr 8-20)] PQ = 3 cm vkSj
+PR = 6 cm gSA Ð QPR vkSj Ð PRQ  Kkr dhft,A
+gy : fn;k gqvk gS PQ = 3 cm vkSj PR = 6 cm
+blfy,
+PQ
+PR = sin R
+;k
+sin R = 3
+1
+6
+2
+
+vr%
+Ð PRQ = 30°
+vkSj] blfy,
+Ð QPR = 60°
+(D;ksa\)
+vki ;gk¡ ;g ns[k ldrs gSa fd ;fn ,d ledks.k f=kHkqt dh ,d Hkqtk vkSj dksbZ ,d
+vU; Hkkx (tks ;k rks U;wu dks.k gks ;k dksbZ ,d Hkqtk gks) Kkr gks] rks f=kHkqt dh 'ks"k
+Hkqtk,¡ vkSj dks.k Kkr fd, tk ldrs gSaA
+mnkgj.k 8 : ;fn sin (A – B) = 1 ,
+2 cos (A + B) = 1 ,
+2 0° < A + B £ 90°, A > B, rks A
+vkSj B Kkr dhft,A
+gy : D;ksafd sin (A – B) = 1
+2 , blfy,]  A – B = 30° (D;ksa\)
+(1)
+vkSj] D;ksafd cos (A + B) = 1
+2 , blfy,, A + B = 60° (D;ksa\)
+(2)
+(1) vkSj (2) dks gy djus ij gesa A =45° vkSj B = 15°  izkIr gksrk gSA
+iz'ukoyh 8.2
+1. fuEufyf[kr osQ eku fudkfy, %
+(i) sin 60° cos 30° + sin 30° cos 60°
+(ii) 2 tan2 45° + cos2 30° – sin2 60°
+(iii)
+cos 45°
+sec 30° + cosec 30°
+(iv) sin 30° + tan 45° – cosec 60°
+sec 30° + cos 60° + cot 45°
+(v)
+2
+2
+2
+2
+2
+5 cos 60
+4 sec 30
+tan
+45
+sin
+30
+cos 30
+
+
+
+
+
+vko`Qfr 8.20
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+143
+2. lgh fodYi pqfu, vkSj vius fodYi dk vkSfpR; nhft,%
+(i)
+2
+2 tan 30
+1
+tan 30
+
+
+
+
+(A)
+sin 60°
+(B) cos 60°
+(C) tan 60°
+(D) sin 30°
+(ii)
+2
+2
+1
+tan
+45
+1
+tan
+45
+
+
+
+
+(A)
+tan 90°
+(B) 1
+(C) sin 45°
+(D) 0
+(iii) sin 2A = 2 sin A  rc lR; gksrk gS] tcfd A cjkcj gS%
+(A)
+0°
+(B) 30°
+(C) 45°
+(D) 60°
+(iv)
+2
+2 tan 30
+1
+tan 30
+
+
+ cjkcj gS%
+(A)
+cos 60°
+(B) sin 60°
+(C) tan 60°
+(D) sin 30°
+3. ;fn tan (A + B) = 3 vkSj tan (A – B) = 
+1
+3 ; 0° < A + B £ 90°; A > B rks  A vkSj B dk eku
+Kkr dhft,A
+4. crkb, fd fuEufyf[kr esa dkSu&dkSu lR; gSa ;k vlR; gSaA dkj.k lfgr vius mÙkj dh iqf"V
+dhft,A
+(i) sin (A + B) = sin A + sin B.
+(ii) q esa o`f¼ gksus osQ lkFk sin q  osQ eku esa Hkh o`f¼ gksrh gSA
+(iii) q  esa o`f¼ gksus osQ lkFk cos q  osQ eku esa Hkh o`f¼ gksrh gSA
+(iv) q  osQ lHkh ekuksa ij  sin q = cos q
+(v) A = 0°  ij cot A ifjHkkf"kr ugha gSA
+8.4 f=kdks.kferh; loZlfedk,¡
+vkidks ;kn gksxk fd ,d lehdj.k dks ,d loZlfedk rc
+dgk tkrk gS tcfd ;g lacaf/r pjksa osQ lHkh ekuksa osQ fy,
+lR; gksA blh izdkj ,d dks.k osQ f=kdks.kferh; vuqikrksa ls
+lacaf/r loZlfedk dks f=kdks.kferh; loZlfedk dgk tkrk
+gSA  tcfd ;g lacaf/r dks.k (dks.kksa) osQ lHkh ekuksa osQ fy,
+lR; gksrk gSA
+bl Hkkx esa] ge ,d f=kdks.kferh; loZlfedk fl¼ djsaxs
+vkSj bldk iz;ksx vU; mi;ksxh f=kdks.kferh; loZlfedkvksa
+dks fl¼ djus esa djsaxsA
+vko`Qfr 8.21
+Reprint 2026-27
+
+144
+xf.kr
+D ABC esa] tks B ij ledks.k gS (nsf[k, vko`Qfr 8-21)
+gesa ;g izkIr gS
+AB2 + BC2 = AC2
+(1)
+(1) osQ izR;sd in dks  AC2  ls Hkkx nsus ij gesa ;g izkIr gksrk gS
+2
+2
+2
+2
+AB
+BC
+AC
+AC
+
+ =
+2
+2
+AC
+AC
+;k
+2
+2
+AB
+BC
+AC
+AC
+
+
+
+
+
+
+
+
+
+
+
+
+ =
+2
+AC
+AC
+
+
+
+
+
+
+vFkkZr~
+(cos A)2 + (sin A)2 = 1
+vFkkZr~
+cos2 A + sin2 A = 1
+(2)
+;g lHkh  A  osQ fy,] tgk¡  0° £ A £ 90°,  lR; gksrk gSA vr% ;g ,d f=kdks.kferh;
+loZlfedk gSA
+vkb,] vc ge (1) dks  AB2  ls Hkkx nsaA ,slk djus ij gesa ;g izkIr gksrk gS
+2
+2
+2
+2
+AB
+BC
+AB
+AB
+
+ =
+2
+2
+AC
+AB
+;k
+2
+2
+AB
+BC
+AB
+AB
+
+
+
+
+
+
+
+
+
+
+
+
+ =
+2
+AC
+AB
+
+
+
+
+
+
+vFkkZr~
+1 + tan2 A = sec2 A
+(3)
+D;k ;g lehdj.k]  A = 0°  osQ fy, lR; gS\ gk¡] ;g lR; gSA D;k ;g  A = 90°
+osQ fy, Hkh lR; gS\  A = 90°  osQ fy,  tan A vkSj sec A  ifjHkkf"kr ugha gSA vr% (3),
+,sls lHkh A osQ fy, lR; gksrk gS] tgk¡ 0° £ A < 90º
+vkb, ge ;g ns[ksa fd (1) dks BC2  ls Hkkx nsus ij gesa D;k izkIr gksrk gSA
+2
+2
+2
+2
+AB
+BC
+BC
+BC
+
+ =
+2
+2
+AC
+BC
+vFkkZr~
+2
+2
+AB
+BC
+BC
+BC
+
+
+
+
+
+
+
+
+
+
+
+
+ =
+2
+AC
+BC
+
+
+
+
+
+
+vFkkZr~
+cot2 A + 1 = cosec2 A
+(4)
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+145
+è;ku nhft, fd  A = 0°  osQ fy, cosec A  vkSj cot A  ifjHkkf"kr ugha gSA vr% ,sls
+lHkh A  osQ fy, (4) lR; gksrk gS tgk¡  0° < A £ 90°
+bu loZlfedkvksa dk iz;ksx djosQ ge izR;sd f=kdks.kferh; vuqikr dks vU;
+f=kdks.kferh; vuqikrksa osQ inksa esa O;Dr dj ldrs gSa vFkkZr~ ;fn dksbZ ,d vuqikr Kkr
+gks] rks ge vU; f=kdks.kferh; vuqikrksa osQ eku Hkh Kkr dj ldrs gSaA
+vkb, ge ;g ns[ksa fd bu loZlfedkvksa dk iz;ksx djosQ bls ge oSQls Kkr dj
+ldrs gSaA eku yhft, gesa tan A = 
+1
+3 Kkr gSA rc cot A = 
+3
+D;ksafd sec2 A = 1 + tan2 A = 
+1
+4,
+1
+3
+3
+
+
+ sec A = 2
+3 , vkSj cos A = 
+3
+2
+vkSj] D;ksafd sin A = 
+2
+3
+1
+1
+cos A
+1
+4
+2
+
+
+
+
+. blfy, cosec A = 2
+mnkgj.k 9 : vuqikrksa cos A, tan A vkSj sec A dks sin A  osQ inksa esa O;Dr dhft,A
+gy : D;ksafd
+cos2 A + sin2 A = 1, blfy,
+cos2 A = 1 – sin2 A, vFkkZr~  cos A = 
+2
+1
+sin A
+
+
+blls ;g izkIr gksrk gS
+cos A =
+2
+1
+sin A
+
+(D;ksa\)
+vr%
+tan A = sin A
+cos A = 
+2
+2
+sin A
+1
+1
+sec A = cos A
+1 – sin A
+1
+sin A
+=
+−
+vkjS
+mnkgj.k 10 : fl¼ dhft, fd sec A (1 – sin A) (sec A + tan A) = 1
+gy :
+oke i{k = sec A (1 – sin A)(sec A + tan A) = 
+1
+1
+sin A
+(1
+sin A)
+cos A
+cos A
+cos A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+2
+2
+2
+(1
+sin A)(1 + sin A)
+1
+sin A
+cos A
+cos A
+
+
+
+=
+2
+2
+cos A
+1
+cos A
+ = nk¡;k i{k
+Reprint 2026-27
+
+146
+xf.kr
+mnkgj.k 11 : fl¼ dhft, fd 
+cot A – cos A
+cosec A – 1
+cot A + cos A
+cosec A + 1
+
+gy : oke i{k = 
+cos A
+cos A
+cot A – cos A
+sin A
+cos A
+cot A + cos A
+cos A
+sin A
+
+
+
+1
+1
+cos A
+1
+1
+sin A
+sin A
+cosec A – 1
+cosec A + 1
+1
+1
+cos A
+1
+1
+sin A
+sin A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ = nk¡;k i{k
+mnkgj.k 12 : loZlfedk sec2q = 1 + tan2q dk iz;ksx djosQ fl¼ dhft, fd
+sin
+cos
+1
+1
+sin
+cos
+1
+sec
+tan
+θ −
+θ +
+=
+θ +
+θ −
+θ −
+θ
+gy : D;ksafd gesa sec q vkSj tan q  ls lacaf/r loZlfedk iz;qDr djuh gS] blfy, vkb,
+ge lcls igys loZlfedk osQ oke i{k osQ va'k vkSj gj dks cos q ls Hkkx nsdj oke i{k
+dks sec q vkSj tan q  osQ inksa esa :ikarfjr djsaA
+oke i{k = sin
+ – cos
++ 1
+tan
+1
+sec
+sin
++ cos
+– 1
+tan
+1
+sec
+
+
+
+
+
+
+
+
+
+
+
+= (tan
+sec )
+1
+{(tan
+sec )
+1} (tan
+sec )
+(tan
+sec )
+1
+{(tan
+sec )
+1} (tan
+sec )
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+2
+2
+(tan
+sec
+)
+(tan
+sec )
+{tan
+sec
+1} (tan
+sec )
+
+
+
+
+
+
+
+
+=
+– 1
+tan
+sec
+(tan
+sec
+1) (tan
+sec )
+
+
+
+
+
+
+
+=
+–1
+1
+,
+tan
+sec
+sec
+tan
+
+
+
+
+
+tks fl¼ dh tkus okyh visf{kr loZlfedk dk nk¡;k i{k gSA
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+147
+iz'ukoyh 8.3
+1. f=kdks.kferh; vuqikrksa sin A, sec A vkSj tan A dks cot A osQ inksa esa O;Dr dhft,A
+2. Ð A  osQ vU; lHkh f=kdks.kferh; vuqikrksa dks  sec A osQ inksa eas fyf[k,A
+3. lgh fodYi pqfu, vkSj vius fodYi dh iqf"V dhft, %
+(i) 9 sec2 A – 9 tan2 A cjkcj gS%
+(A)
+1
+(B) 9
+(C) 8
+(D) 0
+(ii) (1 + tan q + sec q) (1 + cot q – cosec q) cjkcj gS%
+(A)
+0
+(B) 1
+(C) 2
+(D) –1
+(iii) (sec A + tan A) (1 – sin A) cjkcj gS%
+(A)
+sec A
+(B) sin A
+(C) cosec A
+(D) cos A
+(iv)
+2
+2
+1
+tan
+A
+1 + cot
+A
+
+ cjkcj gS%
+(A)
+sec2 A
+(B) –1
+(C) cot2 A
+(D) tan2 A
+4. fuEufyf[kr loZlfedk,¡ fl¼ dhft,] tgk¡ os dks.k] ftuosQ fy, O;atd ifjHkkf"kr gS] U;wu
+dks.k gS %
+(i) (cosec q – cot q)2 = 
+1
+cos
+1
+cos
+
+
+
+
+(ii)
+cos A
+1
+sin A
+2 sec A
+1 + sin A
+cos A
+
+
+
+(iii)
+tan
+cot
+1
+sec
+cosec
+1
+cot
+1
+tan
+
+
+
+
+
+
+
+
+
+
+
+[laosQr% O;atd dks sin q vkSj cos q  osQ inksa esa fyf[,]
+(iv)
+2
+1
+sec A
+sin A
+sec A
+1 – cos A
+
+
+[laosQr% oke i{k vkSj nk¡;k i{k dks vyx&vyx ljy dhft,A]
+Reprint 2026-27
+
+148
+xf.kr
+(v) loZlfedk cosec2 A = 1 + cot2 A dks ykxw djosQ
+cos A – sin A + 1
+cosec A + cot A
+cos A + sin A – 1 =
+(vi)
+1
+sin A
+sec A + tan A
+1 – sin A
+
+
+(vii)
+3
+3
+sin
+2 sin
+tan
+2 cos
+cos
+
+
+
+
+
+(viii) (sin A + cosec A)2 + (cos A + sec A)2 = 7 + tan2 A + cot2 A
+(ix)
+1
+(cosec A – sin A)(sec A – cos A)
+tan A + cot A
+
+[laosQr : oke i{k vkSj nk¡;k i{k dks vyx&vyx ljy dhft,]
+(x)
+2
+2
+2
+1
+tan A
+1
+tan A
+1 – cot A
+1 + cot A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ = tan2A
+8.5 lkjka'k
+bl vè;k; esa] vkius fuEufyf[kr rF;ksa dk vè;;u fd;k gS%
+1. ledks.k f=kHkqt  ABC esa] ftldk dks.k B ledks.k gS]
+sin A = 
+A 
+A 
+, cos A =
+dk.s k
+dh lEeq[k Hktq k
+dks.k
+dh lya Xu Hktq k
+d.kZ
+d.kZ
+tan A = 
+A 
+A 
+dks.k
+dh lEe[q k Hkqtk
+dks.k
+dh layXu Hktq k
+2.
+1
+1
+1
+sin A
+,
+cosec A =
+; sec A =
+; tan A =
+tan A =
+sin A
+cos A
+cot A
+cos A
+3. ;fn ,d U;wu dks.k dk ,d f=kdks.kferh; vuqikr Kkr gks] rks dks.k osQ 'ks"k f=kdks.kferh;
+vuqikr ljyrk ls Kkr fd, tk ldrs gSaA
+Reprint 2026-27
+
+f=kdks.kfefr dk ifjp;
+149
+4. 0°, 30°, 45°, 60° vkSj  90°  osQ dks.kksa osQ f=kdks.kferh; vuqikrksa osQ ekuA
+5. sin A ;k cos A dk eku dHkh Hkh 1 ls vf/d ugha gksrk] tcfd  sec A (0° £ A < 90°) ;k
+cosec A (0° < A £ 90º)dk eku lnSo 1 ls vf/d ;k 1 osQ cjkcj gksrk gSA
+6. sin2 A + cos2 A = 1
+sec2 A – tan2 A = 1 tgk¡ 0° £ A < 90°
+cosec2 A = 1 + cot2 A tgk¡ 0° < A £ 90º
+Reprint 2026-27

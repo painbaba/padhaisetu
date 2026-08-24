@@ -1,0 +1,1638 @@
+{
+ "subject": "science",
+ "grade": 10,
+ "items": [
+  {
+   "skill_id": "s10c1s1",
+   "difficulty": 1,
+   "text_hi": "संतुलित रासायनिक समीकरण में क्या समान होता है?",
+   "text_en": "In a balanced chemical equation, what is equal on both sides?",
+   "options": [
+    "प्रत्येक तत्व के परमाणुओं की संख्या",
+    "अभिक्रिया की गति",
+    "ताप",
+    "रंग"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "द्रव्यमान संरक्षण सोचिए।",
+   "hint_en": "Think conservation of mass.",
+   "solution_hi": "संतुलित समीकरण में प्रत्येक तत्व के परमाणु समान संख्या में होते हैं;\nयह द्रव्यमान संरक्षण का पालन है।",
+   "solution_en": "Each element has equal atom counts on both sides;\nit obeys conservation of mass."
+  },
+  {
+   "skill_id": "s10c1s1",
+   "difficulty": 2,
+   "text_hi": "H2 + O2 -> H2O का संतुलित रूप —",
+   "text_en": "The balanced form of H2 + O2 -> H2O is -",
+   "options": [
+    "2H2 + O2 -> 2H2O",
+    "H2 + O2 -> H2O2",
+    "3H2 + O2 -> 2H2O",
+    "H2 + O -> H2O"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ऑक्सीजन के परमाणु गिनिए।",
+   "hint_en": "Count oxygen atoms.",
+   "solution_hi": "बाएँ O के 2 परमाणु → दाएँ 2H2O;\nफिर H के लिए 2H2।",
+   "solution_en": "Left side has 2 O atoms so take 2H2O;\nthen balance H with 2H2."
+  },
+  {
+   "skill_id": "s10c1s1",
+   "difficulty": 2,
+   "text_hi": "Mg + O2 -> MgO का संतुलित समीकरण —",
+   "text_en": "Balance Mg + O2 -> MgO:",
+   "options": [
+    "2Mg + O2 -> 2MgO",
+    "Mg + O2 -> MgO2",
+    "Mg + O -> MgO",
+    "2Mg + 2O2 -> 2MgO"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दोनों ओर Mg और O गिनिए।",
+   "hint_en": "Count Mg and O on both sides.",
+   "solution_hi": "O2 के दोनों O के लिए 2MgO;\nइसलिए 2Mg।",
+   "solution_en": "Two oxygens need two MgO;\nso two Mg are required."
+  },
+  {
+   "skill_id": "s10c1s1",
+   "difficulty": 3,
+   "text_hi": "(aq) प्रतीक दर्शाता है कि पदार्थ —",
+   "text_en": "The symbol (aq) indicates the substance is -",
+   "options": [
+    "जलीय विलयन में है",
+    "ठोस है",
+    "गैस है",
+    "शुद्ध द्रव है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'aqua' = पानी।",
+   "hint_en": "'Aqua' means water.",
+   "solution_hi": "(aq) = aqueous, जलीय विलयन;\n(s) ठोस, (g) गैस, (l) द्रव होते हैं।",
+   "solution_en": "(aq) = dissolved in water;\n(s) solid, (g) gas, (l) liquid."
+  },
+  {
+   "skill_id": "s10c1s2",
+   "difficulty": 1,
+   "text_hi": "CaO + H2O -> Ca(OH)2 किस प्रकार की अभिक्रिया है?",
+   "text_en": "CaO + H2O -> Ca(OH)2 is which type of reaction?",
+   "options": [
+    "संयोग",
+    "अपघटन",
+    "विस्थापन",
+    "द्विविस्थापन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दो पदार्थ जुड़कर एक बने।",
+   "hint_en": "Two become one.",
+   "solution_hi": "दो अभिकारकों से एक उत्पाद बनता है;\nयह संयोग अभिक्रिया है (ऊष्माक्षेपी)।",
+   "solution_en": "Two reactants give a single product;\nthis is combination (exothermic)."
+  },
+  {
+   "skill_id": "s10c1s2",
+   "difficulty": 2,
+   "text_hi": "पानी का विद्युत-अपघटन किस अभिक्रिया का उदाहरण है?",
+   "text_en": "Electrolysis of water is an example of -",
+   "options": [
+    "अपघटन अभिक्रिया",
+    "संयोग अभिक्रिया",
+    "उदासीनीकरण",
+    "संक्षारण"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "एक उत्पाद से दो टुकड़े।",
+   "hint_en": "One product splits into two.",
+   "solution_hi": "विद्युत ऊर्जा से पानी H2 व O2 में टूटता है;\nयह अपघटन (decomposition) है।",
+   "solution_en": "Electricity splits water into H2 and O2;\nthis is decomposition."
+  },
+  {
+   "skill_id": "s10c1s2",
+   "difficulty": 2,
+   "text_hi": "AgBr प्रकाश में टूटता है; इसका उपयोग —",
+   "text_en": "AgBr decomposes in light; this is used in -",
+   "options": [
+    "श्वेत-श्याम फोटोग्राफी",
+    "उर्वरक बनाने",
+    "विद्युत तार",
+    "साबुन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "फिल्म के रोल सोचिए।",
+   "hint_en": "Think of film rolls.",
+   "solution_hi": "प्रकाश-अपघटन से AgBr पर काला Ag जमता है;\nफोटोग्राफी इसी पर आधारित थी।",
+   "solution_en": "Photodecomposition deposits black silver on AgBr;\nthe base of old photography."
+  },
+  {
+   "skill_id": "s10c1s2",
+   "difficulty": 3,
+   "text_hi": "AgNO3 + NaCl -> AgCl + NaNO3 है —",
+   "text_en": "AgNO3 + NaCl -> AgCl + NaNO3 is -",
+   "options": [
+    "द्विविस्थापन (double displacement)",
+    "संयोग",
+    "अपघटन",
+    "उपचयन ही"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "आयनों की अदला-बदली।",
+   "hint_en": "Ions swap partners.",
+   "solution_hi": "Ag+ और Na+ आयन साझीदार बदलते हैं;\nअघुलनशील AgCl श्वेत अवक्षेप बनता है।",
+   "solution_en": "Silver and sodium ions exchange partners;\ninsoluble white AgCl precipitates."
+  },
+  {
+   "skill_id": "s10c1s3",
+   "difficulty": 2,
+   "text_hi": "उपचयन (oxidation) है —",
+   "text_en": "Oxidation involves -",
+   "options": [
+    "ऑक्सीजन का जुड़ना/इलेक्ट्रॉन का हानि",
+    "ऑक्सीजन की हानि",
+    "हाइड्रोजन का जुड़ना",
+    "इलेक्ट्रॉन ग्रहण"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'OIL RIG' — ऑक्सीजन जुड़े तो उपचयन।",
+   "hint_en": "Gain of oxygen or loss of electrons.",
+   "solution_hi": "उपचयन में ऑक्सीजन जुड़ती या इलेक्ट्रॉन निकलते हैं;\nअपचयन इसका विलोम है।",
+   "solution_en": "Oxidation adds oxygen or removes electrons;\nreduction is the reverse."
+  },
+  {
+   "skill_id": "s10c1s3",
+   "difficulty": 2,
+   "text_hi": "CuO + H2 -> Cu + H2O में उपचयित होता है —",
+   "text_en": "In CuO + H2 -> Cu + H2O, the species oxidised is -",
+   "options": [
+    "H2",
+    "CuO",
+    "Cu",
+    "H2O"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "H2 ने ऑक्सीजन पकड़ी।",
+   "hint_en": "H2 grabbed the oxygen.",
+   "solution_hi": "H2 ऑक्सीजन ग्रहण कर H2O बनाता है;\nअतः H2 उपचयित, CuO अपचयित।",
+   "solution_en": "Hydrogen gains oxygen forming water;\nso H2 is oxidised, CuO reduced."
+  },
+  {
+   "skill_id": "s10c1s3",
+   "difficulty": 2,
+   "text_hi": "अपचयन (reduction) में होता है —",
+   "text_en": "Reduction involves -",
+   "options": [
+    "ऑक्सीजन की हानि/इलेक्ट्रॉन ग्रहण",
+    "ऑक्सीजन का जुड़ना",
+    "इलेक्ट्रॉन की हानि",
+    "केवल ताप वृद्धि"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "CuO -> Cu में क्या हुआ?",
+   "hint_en": "What happened in CuO -> Cu?",
+   "solution_hi": "अपचयन में ऑक्सीजन निकलती या इलेक्ट्रॉन मिलते हैं;\nCuO से Cu बनना अपचयन है।",
+   "solution_en": "Loss of oxygen or gain of electrons;\nCuO becoming Cu is reduction."
+  },
+  {
+   "skill_id": "s10c1s3",
+   "difficulty": 1,
+   "text_hi": "उपचयन व अपचयन —",
+   "text_en": "Oxidation and reduction -",
+   "options": [
+    "साथ-साथ होते हैं (redox)",
+    "कभी साथ नहीं होते",
+    "केवल गर्मी में होते हैं",
+    "केवल पौधों में होते हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "एक के बिना दूसरा नहीं।",
+   "hint_en": "One never comes alone.",
+   "solution_hi": "एक ही अभिक्रिया में एक पदार्थ उपचयित, दूसरा अपचयित होता है;\nऐसी अभिक्रियाएँ redox कहलाती हैं।",
+   "solution_en": "In one reaction one species is oxidised while another is reduced;\ncalled redox reactions."
+  },
+  {
+   "skill_id": "s10c1s4",
+   "difficulty": 1,
+   "text_hi": "लोहे पर जंग लगने के लिए चाहिए —",
+   "text_en": "Rusting of iron needs -",
+   "options": [
+    "ऑक्सीजन व नमी",
+    "केवल ऑक्सीजन",
+    "केवल CO2",
+    "केवल प्रकाश"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "तटीय क्षेत्रों में जंग तेज़।",
+   "hint_en": "Faster rusting near coasts.",
+   "solution_hi": "नम हवा में ऑक्सीजन से लोहा जंग (hydrated Fe2O3) खाता है;\nदोनों की उपस्थिति जरूरी।",
+   "solution_en": "Iron rusts in moist air to hydrated iron oxide;\nboth air and moisture are needed."
+  },
+  {
+   "skill_id": "s10c1s4",
+   "difficulty": 2,
+   "text_hi": "चाँदी के बर्तन काले होने का कारण —",
+   "text_en": "Silver utensils turn black due to reaction with -",
+   "options": [
+    "वायु के सल्फर यौगिक",
+    "शुद्ध नाइट्रोजन",
+    "पानी ही",
+    "प्रकाश"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अंडे की सल्फर सोचिए।",
+   "hint_en": "Sulphur in eggs.",
+   "solution_hi": "वायु में सल्फर यौगिकों से Ag2S काली परत बनती है;\nइसे कालिख कहते हैं।",
+   "solution_en": "Sulphur compounds form black silver sulphide coating;\ncalled tarnish."
+  },
+  {
+   "skill_id": "s10c1s4",
+   "difficulty": 2,
+   "text_hi": "तलछट... चिप्स के पैकेट में भरी गैस है —",
+   "text_en": "Gas flushed into chips packets is -",
+   "options": [
+    "नाइट्रोजन",
+    "ऑक्सीजन",
+    "CO2 ही",
+    "क्लोरीन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "वसा का बासी होना रोकना है।",
+   "hint_en": "Stop fats going rancid.",
+   "solution_hi": "N2 अक्रिय है; ऑक्सीजन हटाने से विरंजन (rancidity) रुकता है;\nपैकेट फूला हुआ N2 के कारण।",
+   "solution_en": "Nitrogen is inert; removing oxygen prevents rancidity;\nthat is why packets look puffed."
+  },
+  {
+   "skill_id": "s10c1s4",
+   "difficulty": 3,
+   "text_hi": "तेलों/वसाओं के बासी होने (rancidity) से बचाव नहीं है —",
+   "text_en": "Which does NOT prevent rancidity of oils?",
+   "options": [
+    "हवा में खुला रखना",
+    "प्रति-ऑक्सीकारक मिलाना",
+    "N2 से पैक करना",
+    "ठंडे अंधेरे में रखना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "उपचयन को बढ़ावा कौन देता है?",
+   "hint_en": "What accelerates oxidation?",
+   "solution_hi": "खुला रखने पर ऑक्सीजन से वसा उपचयित हो बासी होती है;\nबाकी तीनों बचाव उपाय हैं।",
+   "solution_en": "Open storage lets oxygen oxidise fats;\nthe other three are protective measures."
+  },
+  {
+   "skill_id": "s10c2s1",
+   "difficulty": 1,
+   "text_hi": "अम्ल नीले लिटमस को करते हैं —",
+   "text_en": "Acids turn blue litmus -",
+   "options": [
+    "लाल",
+    "हरा",
+    "पीला",
+    "रंगहीन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "क्लासिक संकेतक परीक्षण।",
+   "hint_en": "Classic indicator test.",
+   "solution_hi": "अम्ल नीले लिटमस को लाल करते हैं;\nक्षारक लाल को नीला करते हैं।",
+   "solution_en": "Acids redden blue litmus;\nbases turn red litmus blue."
+  },
+  {
+   "skill_id": "s10c2s1",
+   "difficulty": 1,
+   "text_hi": "क्षारक में फिनॉल्फथेलिन का रंग —",
+   "text_en": "Phenolphthalein turns which colour in bases?",
+   "options": [
+    "गुलाबी",
+    "रंगहीन",
+    "नीला",
+    "हरा"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "टाइट्रेशन में दिखता गुलाबी।",
+   "hint_en": "Pink at titration end point.",
+   "solution_hi": "क्षारक में फिनॉल्फथेलिन गुलाबी होता है;\nअम्ल में रंगहीन रहता है।",
+   "solution_en": "Phenolphthalein is pink in bases;\ncolourless in acids."
+  },
+  {
+   "skill_id": "s10c2s1",
+   "difficulty": 2,
+   "text_hi": "अम्ल का सामान्य गुण आता है —",
+   "text_en": "Acids share the property due to -",
+   "options": [
+    "H+ (H3O+) आयन से",
+    "OH- आयन से",
+    "CO3^2- से",
+    "Na+ से"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "जल में क्या छोड़ते हैं?",
+   "hint_en": "What do they release in water?",
+   "solution_hi": "जल में अम्ल H+ (H3O+) देते हैं;\nक्षारक OH− देते हैं।",
+   "solution_en": "Acids produce H+ (H3O+) in water;\nbases produce OH-."
+  },
+  {
+   "skill_id": "s10c2s1",
+   "difficulty": 2,
+   "text_hi": "चीन-गुलाब (china rose) सूचक अम्ल में देता है —",
+   "text_en": "China rose indicator gives which colour in acids?",
+   "options": [
+    "गहरा गुलाबी (मैजेंटा)",
+    "गहरा हरा",
+    "पीला",
+    "काला"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "घर के फूल का रंग गहरा पड़ता है।",
+   "hint_en": "The extract deepens to pink.",
+   "solution_hi": "चीन-गुलाब विलयन अम्ल में गहरा गुलाबी,\nक्षारक में हरा हो जाता है।",
+   "solution_en": "China rose extract turns deep pink in acid\nand green in base."
+  },
+  {
+   "skill_id": "s10c2s2",
+   "difficulty": 1,
+   "text_hi": "pH < 7 वाला विलयन है —",
+   "text_en": "A solution with pH below 7 is -",
+   "options": [
+    "अम्लीय",
+    "क्षारीय",
+    "उदासीन",
+    "संतृप्त"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "7 से नीचे अम्ल की तरफ।",
+   "hint_en": "Below 7 leans acidic.",
+   "solution_hi": "pH<7 अम्लीय, pH=7 उदासीन, pH>7 क्षारीय;\nपैमाना 0–14 है।",
+   "solution_en": "pH<7 acidic, pH=7 neutral, pH>7 basic;\nscale runs from 0 to 14."
+  },
+  {
+   "skill_id": "s10c2s2",
+   "difficulty": 2,
+   "text_hi": "दाँतों की सड़न शुरू होती है जब मुँह का pH —",
+   "text_en": "Tooth decay begins when mouth pH falls below -",
+   "options": [
+    "5.5",
+    "7.0",
+    "9.0",
+    "3.0"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "मीठे खाने से अम्ल बनता है।",
+   "hint_en": "Sugar makes acids in mouth.",
+   "solution_hi": "pH 5.5 से नीचे दंत ऊतक घुलने लगते हैं;\nब्रश करने से अम्ल उदासीन होता है।",
+   "solution_en": "Below pH 5.5 tooth enamel starts dissolving;\nbrushing neutralises the acid."
+  },
+  {
+   "skill_id": "s10c2s2",
+   "difficulty": 2,
+   "text_hi": "नींबू रस का pH लगभग 2.2 है; यह है —",
+   "text_en": "Lemon juice has pH around 2.2; it is -",
+   "options": [
+    "अम्लीय",
+    "क्षारीय",
+    "उदासीन",
+    "विषाक्त-क्षार"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "टीलापन = साइट्रिक अम्ल।",
+   "hint_en": "Sourness = citric acid.",
+   "solution_hi": "नींबू में साइट्रिक अम्ल है;\nkam pH = अधिक अम्लीय।",
+   "solution_en": "Lemons contain citric acid;\nlower pH means stronger acid."
+  },
+  {
+   "skill_id": "s10c2s2",
+   "difficulty": 3,
+   "text_hi": "मृदा अम्लीय होने पर किसान मिलाता है —",
+   "text_en": "Farmers treat acidic soil by adding -",
+   "options": [
+    "चूना (lime)",
+    "और खाद नहीं",
+    "नमक",
+    "बर्फ"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "क्षारक अम्ल को उदासीन करता है।",
+   "hint_en": "Base neutralises acid.",
+   "solution_hi": "अम्लीय मृदा में चूना (कैल्शियम यौगिक) मिलाया जाता है;\nyeh उदासीनीकरण कर pH सुधारता है।",
+   "solution_en": "Lime (calcium compounds) neutralise acidic soil;\nraising pH for better crops."
+  },
+  {
+   "skill_id": "s10c2s3",
+   "difficulty": 1,
+   "text_hi": "अम्ल + क्षारक देते हैं —",
+   "text_en": "Acid + base gives -",
+   "options": [
+    "लवण + जल",
+    "केवल गैस",
+    "केवल जल",
+    "धातु"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "उदासीनीकरण।",
+   "hint_en": "Neutralisation.",
+   "solution_hi": "उदासीनीकरण में लवण व जल बनते हैं;\nH+ व OH− मिलकर पानी बनाते हैं।",
+   "solution_en": "Neutralisation yields salt and water;\nH+ joins OH- to form water."
+  },
+  {
+   "skill_id": "s10c2s3",
+   "difficulty": 2,
+   "text_hi": "एंटासिड अजीर्ण (indigestion) में राहत देता है क्योंकि —",
+   "text_en": "Antacids relieve indigestion because they -",
+   "options": [
+    "आमाशय के अतिरिक्त HCl को उदासीन करते हैं",
+    "अम्ल बढ़ाते हैं",
+    "पाचन रोकते हैं",
+    "जल बनाते हैं ही"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "Mg(OH)2/Al(OH)3 सोचिए।",
+   "hint_en": "Mild bases like milk of magnesia.",
+   "solution_hi": "एंटासिड हल्के क्षारक हैं;\nअतिरिक्त अम्ल को उदासीन कर जलती पीड़ शांत करते हैं।",
+   "solution_en": "Antacids are mild bases;\nthey neutralise excess stomach acid."
+  },
+  {
+   "skill_id": "s10c2s3",
+   "difficulty": 2,
+   "text_hi": "NaOH + HCl -> ? ",
+   "text_en": "Complete: NaOH + HCl -> ?",
+   "options": [
+    "NaCl + H2O",
+    "NaOH2",
+    "Na2Cl",
+    "NaH + ClOH"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "साधारण नमक बनता है।",
+   "hint_en": "Common salt forms.",
+   "solution_hi": "सोडियम हाइड्रॉक्साइड + हाइड्रोक्लोरिक अम्ल →\nसोडियम क्लोराइड (नमक) + पानी।",
+   "solution_en": "Sodium hydroxide + hydrochloric acid gives\nsodium chloride (salt) and water."
+  },
+  {
+   "skill_id": "s10c2s3",
+   "difficulty": 3,
+   "text_hi": "मधुमक्खी के डंक में अम्ल होता है; राहत देगा —",
+   "text_en": "A bee sting injects an acid; relief comes from applying -",
+   "options": [
+    "खाने का सोडा (क्षारीय)",
+    "नींबू",
+    "सिरका",
+    "और अम्ल"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अम्ल का विरोधी क्या?",
+   "hint_en": "What opposes an acid?",
+   "solution_hi": "डंक अम्लीय है;\nक्षारक (baking soda) इसे उदासीन करता है।",
+   "solution_en": "Bee venom is acidic;\na mild base like baking soda neutralises it."
+  },
+  {
+   "skill_id": "s10c2s4",
+   "difficulty": 1,
+   "text_hi": "खाने का सोडा रासायनिक रूप से है —",
+   "text_en": "Baking soda is chemically -",
+   "options": [
+    "NaHCO3",
+    "Na2CO3",
+    "NaOH",
+    "NaCl"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'Bi-carbonate' नाम सोचिए।",
+   "hint_en": "Bi-carbonate of soda.",
+   "solution_hi": "बेकिंग सोडा सोडियम हाइड्रोजन कार्बोनेट NaHCO3 है;\nपकाने व एंटासिड दोनों में काम आता है।",
+   "solution_en": "Baking soda is sodium hydrogencarbonate;\nused in cooking and as antacid."
+  },
+  {
+   "skill_id": "s10c2s4",
+   "difficulty": 2,
+   "text_hi": "धोने का सोडा है —",
+   "text_en": "Washing soda is -",
+   "options": [
+    "Na2CO3·10H2O",
+    "NaHCO3",
+    "CaSO4·½H2O",
+    "CaOCl2"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "डेकाहाइड्रेट।",
+   "hint_en": "The decahydrate.",
+   "solution_hi": "धोने का सोडा सोडियम कार्बोनेट डेकाहाइड्रेट है;\nकाँच व साबुन उद्योग में उपयोगी।",
+   "solution_en": "Washing soda is sodium carbonate decahydrate;\nused in glass and soap industries."
+  },
+  {
+   "skill_id": "s10c2s4",
+   "difficulty": 2,
+   "text_hi": "प्लास्टर ऑफ पेरिस बनता है —",
+   "text_en": "Plaster of Paris is prepared by heating -",
+   "options": [
+    "जिप्सम (CaSO4·2H2O)",
+    "चूना पत्थर",
+    "सोडियम क्लोराइड",
+    "बेकिंग सोडा"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "फ्रैक्चर में लगता है।",
+   "hint_en": "Used on fractures.",
+   "solution_hi": "जिप्सम 373K पर गर्म करने से POP (CaSO4·½H2O) बनता है;\nपानी मिलाने पर पुनः कठोर जिप्सम।",
+   "solution_en": "Gypsum heated to ~373 K forms PoP;\nmixing with water sets it back to gypsum."
+  },
+  {
+   "skill_id": "s10c2s4",
+   "difficulty": 3,
+   "text_hi": "विरंजक चूर्ण (bleaching powder) बनता है —",
+   "text_en": "Bleaching powder is produced by reacting chlorine with -",
+   "options": [
+    "शुष्क बुझे चूने से",
+    "नमक से",
+    "पानी से ही",
+    "सोडियम से"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "Ca(OH)2 सोचिए।",
+   "hint_en": "Slaked lime.",
+   "solution_hi": "क्लोरीन + Ca(OH)2 → CaOCl2 (विरंजक चूर्ण);\nकपड़ा उद्योग व पेयजल रोगाणुनाशी में उपयोग।",
+   "solution_en": "Chlorine + slaked lime gives bleaching powder;\nused in textiles and disinfecting drinking water."
+  },
+  {
+   "skill_id": "s10c3s1",
+   "difficulty": 1,
+   "text_hi": "विद्युत धारा का SI मात्रक है —",
+   "text_en": "SI unit of electric current is -",
+   "options": [
+    "एम्पियर",
+    "वोल्ट",
+    "ओम",
+    "वाट"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'A' अक्षर वाला।",
+   "hint_en": "Starts with 'A'.",
+   "solution_hi": "धारा को एम्पियर (A) में मापते हैं;\nअमीटर से, परिपथ में श्रेणी क्रम में।",
+   "solution_en": "Current is measured in amperes (A);\nusing an ammeter connected in series."
+  },
+  {
+   "skill_id": "s10c3s1",
+   "difficulty": 2,
+   "text_hi": "परंपरागत धारा की दिशा —",
+   "text_en": "Conventional current flows -",
+   "options": [
+    "+ से − की ओर (इलेक्ट्रॉन के विपरीत)",
+    "इलेक्ट्रॉनों के समान दिशा में",
+    "कोई दिशा नहीं",
+    "हमेशा नीचे की ओर"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "इलेक्ट्रॉन − से + जाते हैं।",
+   "hint_en": "Electrons drift from minus to plus.",
+   "solution_hi": "परंपरा अनुसार धारा + टर्मिनल से − की ओर मानी जाती है;\nइलेक्ट्रॉन इससे विपरीत चलते हैं।",
+   "solution_en": "By convention current goes positive to negative;\nelectrons move the opposite way."
+  },
+  {
+   "skill_id": "s10c3s1",
+   "difficulty": 2,
+   "text_hi": "वोल्टमीटर लगाया जाता है —",
+   "text_en": "A voltmeter is connected -",
+   "options": [
+    "समांतर (parallel) क्रम में",
+    "श्रेणी (series) क्रम में",
+    "बिना तार",
+    "केवल AC में"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "वोल्टेज 'आर-पार' मापना है।",
+   "hint_en": "Voltage is measured across.",
+   "solution_hi": "वोल्टमीटर विभवांतर मापता है, घटक के समांतर लगता है;\nइसका प्रतिरोध बहुत अधिक होता है।",
+   "solution_en": "Voltmeters measure potential difference across components;\nthey have very high resistance."
+  },
+  {
+   "skill_id": "s10c3s1",
+   "difficulty": 3,
+   "text_hi": "परिपथ में धारा बहती है जब —",
+   "text_en": "Current flows in a circuit only when -",
+   "options": [
+    "परिपथ बंद (complete) हो और EMF हो",
+    "स्विच खुला हो",
+    "तार पतला हो",
+    "बल्ब ठंडा हो"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "टूटा तार = अंधेरा।",
+   "hint_en": "A broken wire means no glow.",
+   "solution_hi": "बंद परिपथ व विद्युतवाहक बल (स्रोत) आवश्यक;\nखुले परिपथ में धारा शून्य।",
+   "solution_en": "A closed loop with a source of EMF is required;\nin an open circuit current is zero."
+  },
+  {
+   "skill_id": "s10c3s2",
+   "difficulty": 1,
+   "text_hi": "ओम के नियम का सूत्र —",
+   "text_en": "Ohm's law states -",
+   "options": [
+    "V = IR",
+    "V = I/R",
+    "I = VR",
+    "R = VI"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "विभवांतर ∝ धारा।",
+   "hint_en": "V proportional to I.",
+   "solution_hi": "स्थिर ताप पर V = IR;\nV विभवांतर, I धारा, R प्रतिरोध।",
+   "solution_en": "At constant temperature V = IR;\nvoltage equals current times resistance."
+  },
+  {
+   "skill_id": "s10c3s2",
+   "difficulty": 2,
+   "text_hi": "V=12V, R=4Ω हो तो I = ?",
+   "text_en": "If V=12 V and R=4 ohm, then I = ?",
+   "options": [
+    "3 A",
+    "48 A",
+    "0.33 A",
+    "8 A"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "I = V/R।",
+   "hint_en": "I = V/R.",
+   "solution_hi": "I = V/R = 12/4 = 3 एम्पियर;\nओम के नियम का सीधा प्रयोग।",
+   "solution_en": "I = V/R = 12/4 = 3 A;\ndirect use of Ohm's law."
+  },
+  {
+   "skill_id": "s10c3s2",
+   "difficulty": 2,
+   "text_hi": "ओमीय पदार्थ का V-I ग्राफ होता है —",
+   "text_en": "For an ohmic conductor, the V-I graph is -",
+   "options": [
+    "मूल बिंदु से गुजरती सीधी रेखा",
+    "परवलय",
+    "घटती वक्र",
+    "अक्षों के समांतर"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ढाल स्थिर = प्रतिरोध स्थिर।",
+   "hint_en": "Constant slope = constant resistance.",
+   "solution_hi": "ओमीय पदार्थों में V ∝ I;\nV-I ग्राफ मूलबिंदु से गुजरती सरल रेखा होती है।",
+   "solution_en": "In ohmic conductors V is proportional to I;\nthe V-I graph is a straight line through origin."
+  },
+  {
+   "skill_id": "s10c3s2",
+   "difficulty": 3,
+   "text_hi": "तार का प्रतिरोध बढ़ता है जब —",
+   "text_en": "Resistance of a wire increases when -",
+   "options": [
+    "लंबाई बढ़े",
+    "क्षेत्रफल बढ़े",
+    "ताप घटे",
+    "चालकता बढ़े"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "R = ρL/A।",
+   "hint_en": "R = rho x L / A.",
+   "solution_hi": "R = ρL/A; L बढ़ने पर R बढ़ता है;\nmotा तार (बड़ा A) प्रतिरोध घटाता है।",
+   "solution_en": "With R = rho L/A, longer wires resist more;\nthicker wires (larger A) resist less."
+  },
+  {
+   "skill_id": "s10c3s3",
+   "difficulty": 1,
+   "text_hi": "श्रेणी क्रम में कुल प्रतिरोध —",
+   "text_en": "Total resistance in series is -",
+   "options": [
+    "Rs = R1 + R2 + ...",
+    "1/Rs = 1/R1 + 1/R2",
+    "Rs = R1 × R2",
+    "Rs = 0"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "रास्ते जुड़ जाते हैं।",
+   "hint_en": "Paths just add up.",
+   "solution_hi": "श्रेणी में प्रतिरोध जुड़ते हैं;\nसमांतर में व्युत्क्रम जुड़ते हैं।",
+   "solution_en": "Resistances add directly in series;\nin parallel their reciprocals add."
+  },
+  {
+   "skill_id": "s10c3s3",
+   "difficulty": 2,
+   "text_hi": "6Ω और 6Ω समांतर में → कुल R = ?",
+   "text_en": "Two 6-ohm resistors in parallel give -",
+   "options": [
+    "3 Ω",
+    "12 Ω",
+    "6 Ω",
+    "36 Ω"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "समान दो → आधा।",
+   "hint_en": "Two equal ones halve.",
+   "solution_hi": "1/Rp = 1/6+1/6 = 2/6 → Rp = 3Ω;\nsamान प्रतिरोध n लगें तो R/n।",
+   "solution_en": "1/Rp = 1/6 + 1/6 = 2/6 so Rp = 3 ohm;\nn equal resistors give R/n."
+  },
+  {
+   "skill_id": "s10c3s3",
+   "difficulty": 3,
+   "text_hi": "समांतर संयोजन का कुल प्रतिरोध —",
+   "text_en": "Equivalent resistance of a parallel combination is -",
+   "options": [
+    "सबसे छोटे प्रतिरोध से भी कम",
+    "सबसे बड़े से अधिक",
+    "सभी के योग के बराबर",
+    "सदा शून्य"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अतिरिक्त रास्ते = आसान बहाव।",
+   "hint_en": "Extra paths ease the flow.",
+   "solution_hi": "समांतर में रास्ते बढ़ते हैं तो बहाव आसान;\nकुल प्रतिरोध सबसे छोटे से भी घट जाता है।",
+   "solution_en": "Parallel branches make conduction easier;\nequivalent resistance drops below the smallest branch."
+  },
+  {
+   "skill_id": "s10c3s3",
+   "difficulty": 2,
+   "text_hi": "घरेलू परिपथ उपकरण जोड़े जाते हैं —",
+   "text_en": "Household appliances are connected in -",
+   "options": [
+    "समांतर क्रम",
+    "श्रेणी क्रम",
+    "एक ही लूप में श्रेणी",
+    "बिना स्विच"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "एक बल्ब जले तो बाकी चलें।",
+   "hint_en": "One bulb fails, others keep working.",
+   "solution_hi": "समांतर क्रम में प्रत्येक उपकरण को पूर्ण 220V मिलता है;\nएक खराब हो तो बाकी चलते रहते हैं।",
+   "solution_en": "Parallel wiring gives each appliance full voltage;\none fault does not stop the rest."
+  },
+  {
+   "skill_id": "s10c3s4",
+   "difficulty": 1,
+   "text_hi": "विद्युत ऊर्जा का ऊष्मा में रूपांतरण दर H = ?",
+   "text_en": "Heat produced by a current is given by -",
+   "options": [
+    "H = I²Rt",
+    "H = IRt",
+    "H = IR²t",
+    "H = IRT"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "जूल का नियम।",
+   "hint_en": "Joule's law.",
+   "solution_hi": "ऊष्मीय प्रभाव H = I²Rt;\nI दुगुना → ऊष्मा चौगुनी।",
+   "solution_en": "Joule heating H = I^2 R t;\ndoubling current quadruples heat."
+  },
+  {
+   "skill_id": "s10c3s4",
+   "difficulty": 2,
+   "text_hi": "फ्यूज तार का कार्य —",
+   "text_en": "The fuse wire works by -",
+   "options": [
+    "अधिक धारा पर पिघलकर परिपथ तोड़ने",
+    "धारा बढ़ाने",
+    "वोल्टेज बढ़ाने",
+    "रोशनी जलाने"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "कुचालक नहीं — बलिदानी तार।",
+   "hint_en": "A sacrificial wire.",
+   "solution_hi": "अधिक धारा पर फ्यूज गर्म होकर पिघलता है;\nपरिपथ टूटने से उपकरण सुरक्षित रहते हैं।",
+   "solution_en": "Excess current melts the fuse;\nbreaking the circuit protects appliances."
+  },
+  {
+   "skill_id": "s10c3s4",
+   "difficulty": 2,
+   "text_hi": "हीटर का तार बनाया जाता है —",
+   "text_en": "Heater coils are made of -",
+   "options": [
+    "निक्रोम (उच्च प्रतिरोध मिश्रधातु)",
+    "तांबा",
+    "चाँदी",
+    "सोना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "उच्च प्रतिरोध + उच्च गलनांक।",
+   "hint_en": "High resistance, high melting point.",
+   "solution_hi": "निक्रोम का प्रतिरोध अधिक और गलनांक ऊँचा;\nगर्म होकर लाल तपता है पर टूटता नहीं।",
+   "solution_en": "Nichrome has high resistance and melting point;\nit glows hot without melting."
+  },
+  {
+   "skill_id": "s10c3s4",
+   "difficulty": 3,
+   "text_hi": "बल्ब का तंतु (filament) बनता है —",
+   "text_en": "Bulb filaments are made of -",
+   "options": [
+    "टंगस्टन",
+    "लोहा",
+    "एल्युमिनियम",
+    "जस्ता"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "सबसे ऊँचा गलनांक।",
+   "hint_en": "Highest melting point wins.",
+   "solution_hi": "टंगस्टन का गलनांक ~3400°C;\nतेज तपने पर भी तंतु नहीं पिघलता।",
+   "solution_en": "Tungsten melts around 3400 degrees C;\nthe filament glows white-hot without failing."
+  },
+  {
+   "skill_id": "s10c4s1",
+   "difficulty": 1,
+   "text_hi": "परावर्तन का नियम —",
+   "text_en": "Law of reflection states -",
+   "options": [
+    "i = r",
+    "i > r",
+    "i + r = 90°",
+    "r = 90°"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "आपतन = परावर्तन कोण।",
+   "hint_en": "Angle in equals angle out.",
+   "solution_hi": "आपतन कोण व परावर्तन कोण बराबर;\nदोनों अभिलंब के साथ मापे जाते हैं।",
+   "solution_en": "Angle of incidence equals angle of reflection;\nboth measured from the normal."
+  },
+  {
+   "skill_id": "s10c4s1",
+   "difficulty": 2,
+   "text_hi": "समतल दर्पण में बना प्रतिबिंब —",
+   "text_en": "Image formed by a plane mirror is -",
+   "options": [
+    "आभासी, सीधा, समान आकार का",
+    "वास्तविक, उल्टा",
+    "छोटा और उल्टा",
+    "वास्तविक और बड़ा"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "आईने में आप अंदर नहीं आ सकते!",
+   "hint_en": "You cannot step into the mirror!",
+   "solution_hi": "समतल दर्पण प्रतिबिंब आभासी व सीधा बनाता है;\nआकार वस्तु के समान, पार्श्व पलटा हुआ।",
+   "solution_en": "Plane mirrors form virtual erect images;\nsame size, laterally inverted."
+  },
+  {
+   "skill_id": "s10c4s1",
+   "difficulty": 2,
+   "text_hi": "टॉर्च/वाहन हेडलाइट में दर्पण —",
+   "text_en": "Torches and vehicle headlights use which mirror?",
+   "options": [
+    "अवतल",
+    "उत्तल",
+    "समतल",
+    "कोई नहीं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "प्रकाश एकत्रित कर समांतर किरणें।",
+   "hint_en": "Collect light into near-parallel beams.",
+   "solution_hi": "अवतल दर्पण बल्ब के प्रकाश को समांतर पुंज में भेजता है;\nदूर तक रोशनी जाती है।",
+   "solution_en": "Concave mirrors turn bulb light into a parallel beam;\nthrowing light far ahead."
+  },
+  {
+   "skill_id": "s10c4s1",
+   "difficulty": 2,
+   "text_hi": "वाहनों के रियर-व्यू में उपयोग —",
+   "text_en": "Rear-view mirrors of vehicles are -",
+   "options": [
+    "उत्तल दर्पण",
+    "अवतल दर्पण",
+    "समतल दर्पण",
+    "लेंस"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "चौड़ा दृश्य-क्षेत्र।",
+   "hint_en": "Wide field of view.",
+   "solution_hi": "उत्तल दर्पण व्यापक क्षेत्र दिखाते हैं;\nछोटा, सीधा आभासी प्रतिबिंब बनाते हैं।",
+   "solution_en": "Convex mirrors give a wide view;\nforming small erect virtual images."
+  },
+  {
+   "skill_id": "s10c4s2",
+   "difficulty": 1,
+   "text_hi": "f और R का संबंध —",
+   "text_en": "Relation between focal length f and radius R is -",
+   "options": [
+    "f = R/2",
+    "f = R",
+    "f = 2R",
+    "f = R²"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "वक्रता केंद्र दोगुना दूर।",
+   "hint_en": "Centre of curvature is twice as far.",
+   "solution_hi": "मुख्य फोकस ध्रुव और वक्रता केंद्र के बीच;\nइसलिए f = R/2।",
+   "solution_en": "Principal focus lies midway between pole and centre of curvature;\nhence f = R/2."
+  },
+  {
+   "skill_id": "s10c4s2",
+   "difficulty": 2,
+   "text_hi": "वास्तविक प्रतिबिंब के लिए आवर्धन m का चिह्न —",
+   "text_en": "For real images, magnification sign is -",
+   "options": [
+    "ऋणात्मक (उल्टा प्रतिबिंब)",
+    "धनात्मक",
+    "शून्य",
+    "अनंत"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "उल्टा = ऋण।",
+   "hint_en": "Inverted means negative.",
+   "solution_hi": "वास्तविक प्रतिबिंब उल्टा होता है → m ऋणात्मक;\nसीधा (आभासी) होने पर m धनात्मक।",
+   "solution_en": "Real images are inverted so m is negative;\nerect virtual images have positive m."
+  },
+  {
+   "skill_id": "s10c4s2",
+   "difficulty": 2,
+   "text_hi": "अवतल दर्पण की f (नई चिह्न परंपरा) —",
+   "text_en": "Sign of focal length of a concave mirror is -",
+   "options": [
+    "ऋणात्मक",
+    "धनात्मक",
+    "शून्य",
+    "अनिश्चित"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "फोकस वस्तु की ओर होता है।",
+   "hint_en": "Focus lies on the object side.",
+   "solution_hi": "अवतल दर्पण का फोकस आपतन प्रकाश की ओर होता है;\nनई कार्तीय परंपरा में f ऋणात्मक लिया जाता है।",
+   "solution_en": "Concave mirror focus lies in front;\nby convention f is negative."
+  },
+  {
+   "skill_id": "s10c4s2",
+   "difficulty": 3,
+   "text_hi": "वस्तु C (वक्रता केंद्र) पर हो तो अवतल दर्पण का प्रतिबिंब —",
+   "text_en": "Object at C (centre of curvature) of a concave mirror forms an image -",
+   "options": [
+    "C पर, समान आकार, वास्तविक व उल्टा",
+    "F पर, छोटा",
+    "अनंत पर",
+    "दर्पण के पीछे बड़ा"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "C से C पर।",
+   "hint_en": "From C back to C.",
+   "solution_hi": "वस्तु C पर हो तो प्रतिबिंब भी C पर,\nsamān ākār, वास्तविक व उल्टा बनता है।",
+   "solution_en": "An object at C images to C itself;\nsame size, real and inverted."
+  },
+  {
+   "skill_id": "s10c4s3",
+   "difficulty": 1,
+   "text_hi": "काँच में प्रवेश पर प्रकाश किरण मुड़ती है; इसे कहते हैं —",
+   "text_en": "Light bending as it enters glass is called -",
+   "options": [
+    "अपवर्तन",
+    "परावर्तन",
+    "विवर्तन",
+    "प्रकीर्णन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "माध्यम बदला, चाल बदली।",
+   "hint_en": "Medium changes, speed changes.",
+   "solution_hi": "माध्यम बदलने पर प्रकाश की चाल बदलती है;\nइसी से किरण अपवर्तित होती है।",
+   "solution_en": "Changing medium changes light speed;\ncausing refraction of rays."
+  },
+  {
+   "skill_id": "s10c4s3",
+   "difficulty": 1,
+   "text_hi": "उत्तल लेंस है —",
+   "text_en": "A convex lens is also called -",
+   "options": [
+    "अभिसारी लेंस",
+    "अपसारी लेंस",
+    "समतल लेंस",
+    "दर्पण ही"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "किरणें एक बिंदु पर।",
+   "hint_en": "Rays converge to a point.",
+   "solution_hi": "उत्तल लेंस समांतर किरणों को फोकस पर एकत्रित करता है;\nइसलिए अभिसारी लेंस कहते हैं।",
+   "solution_en": "Convex lenses converge parallel rays to the focus;\nhence converging lens."
+  },
+  {
+   "skill_id": "s10c4s3",
+   "difficulty": 2,
+   "text_hi": "अपवर्तनांक n = ? ",
+   "text_en": "Refractive index n equals -",
+   "options": [
+    "c/v",
+    "v/c",
+    "cv",
+    "v²/c"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "निर्वात की चाल ÷ माध्यम की चाल।",
+   "hint_en": "Speed of light ratio.",
+   "solution_hi": "n = c/v;\nहवा में ~1.0003, काँच में ~1.5।",
+   "solution_en": "n = c/v;\nabout 1.0003 in air, about 1.5 in glass."
+  },
+  {
+   "skill_id": "s10c4s3",
+   "difficulty": 3,
+   "text_hi": "लेंस की क्षमता का मात्रक —",
+   "text_en": "Power of a lens is measured in -",
+   "options": [
+    "डाइऑप्टर",
+    "वाट",
+    "न्यूटन",
+    "जूल"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "P = 1/f(metre)।",
+   "hint_en": "P = 1/f in metres.",
+   "solution_hi": "लेंस क्षमता P = 1/f (मीटर में);\nमात्रक डाइऑप्टर (D) है।",
+   "solution_en": "Lens power P = 1/f with f in metres;\nunit is dioptre."
+  },
+  {
+   "skill_id": "s10c4s4",
+   "difficulty": 1,
+   "text_hi": "आवर्धक लेंस (magnifier) होता है —",
+   "text_en": "A simple magnifying glass is a -",
+   "options": [
+    "उत्तल लेंस",
+    "अवतल लेंस",
+    "समतल दर्पण",
+    "उत्तल दर्पण"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "छोटी वस्तु बड़ी दिखती है।",
+   "hint_en": "Small things look big.",
+   "solution_hi": "उत्तल लेंस के फोकस के भीतर वस्तु रखने पर\nबड़ा, सीधा, आभासी प्रतिबिंब मिलता है।",
+   "solution_en": "Placing object inside F of a convex lens\ngives enlarged erect virtual image."
+  },
+  {
+   "skill_id": "s10c4s4",
+   "difficulty": 2,
+   "text_hi": "P = 2D लेंस की f = ?",
+   "text_en": "If power P = 2 D, then f = ?",
+   "options": [
+    "0.5 m",
+    "2 m",
+    "5 m",
+    "0.2 m"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "f = 1/P।",
+   "hint_en": "f = 1/P.",
+   "solution_hi": "f = 1/P = 1/2 = 0.5 मीटर;\nमीटर में ही लें।",
+   "solution_en": "f = 1/P = 1/2 = 0.5 m;\nkeep f in metres."
+  },
+  {
+   "skill_id": "s10c4s4",
+   "difficulty": 2,
+   "text_hi": "निकट-दृष्टि दोष (myopia) में लगाया जाता है —",
+   "text_en": "Myopia (near-sightedness) is corrected using -",
+   "options": [
+    "अवतल लेंस",
+    "उत्तल लेंस",
+    "समतल-समतल लेंस",
+    "दर्पण"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दूर की चीज़ें धुँधली दिखती हैं।",
+   "hint_en": "Far objects look blurry.",
+   "solution_hi": "निकट दृष्टि में अवतल (अपसारी) लेंस;\nदूरदृष्टि में उत्तल लेंस लगता है।",
+   "solution_en": "Myopia needs a concave diverging lens;\nhypermetropia uses convex lenses."
+  },
+  {
+   "skill_id": "s10c4s4",
+   "difficulty": 3,
+   "text_hi": "आवर्धक से देखा गया प्रतिबिंब है —",
+   "text_en": "The image seen through a magnifying glass is -",
+   "options": [
+    "आभासी, सीधा, बड़ा",
+    "वास्तविक, उल्टा, छोटा",
+    "आभासी, उल्टा",
+    "वास्तविक, सीधा"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "फोकस के अंदर वस्तु।",
+   "hint_en": "Object within the focal length.",
+   "solution_hi": "F के भीतर वस्तु का प्रतिबिंब उसी ओर बड़ा-सीधा-आभासी बनता है;\nआँख आराम से देख पाती है।",
+   "solution_en": "Within F the image is enlarged, erect and virtual;\neasy for the eye to view."
+  },
+  {
+   "skill_id": "s10c5s1",
+   "difficulty": 1,
+   "text_hi": "स्वपोषी (autotroph) जीव है —",
+   "text_en": "An autotroph is an organism that -",
+   "options": [
+    "अपना भोजन स्वयं बनाता है",
+    "दूसरों पर निर्भर रहता है",
+    "केवल मांस खाता है",
+    "मृत जीव खाता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हरे पौधे सोचिए।",
+   "hint_en": "Think green plants.",
+   "solution_hi": "स्वपोषी प्रकाश-संश्लेषण से अपना भोजन बनाते हैं;\nजैसे हरे पौधे व कुछ जीवाणु।",
+   "solution_en": "Autotrophs make food by photosynthesis;\ne.g., green plants and some bacteria."
+  },
+  {
+   "skill_id": "s10c5s1",
+   "difficulty": 1,
+   "text_hi": "गैस विनिमय पत्तियों में होता है —",
+   "text_en": "Gas exchange in leaves occurs through -",
+   "options": [
+    "रंध्र (stomata)",
+    "जड़ों से",
+    "फूलों से",
+    "तने की छाल से ही"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पत्तियों के छोटे छिद्र।",
+   "hint_en": "Tiny pores on leaves.",
+   "solution_hi": "रंध्र CO2 अंदर व O2 बाहर आने देते हैं;\nरक्षा कोशिकाएँ इन्हें खोलती-बंद करती हैं।",
+   "solution_en": "Stomata let CO2 in and O2 out;\nguard cells open and close them."
+  },
+  {
+   "skill_id": "s10c5s1",
+   "difficulty": 2,
+   "text_hi": "प्रकाश-संश्लेषण में सूर्य प्रकाश पकड़ता है —",
+   "text_en": "In photosynthesis, sunlight is trapped by -",
+   "options": [
+    "क्लोरोफिल",
+    "हीमोग्लोबिन",
+    "मायोसिन",
+    "इंसुलिन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हरा रंगद्रव्य।",
+   "hint_en": "The green pigment.",
+   "solution_hi": "क्लोरोफिल सूर्य प्रकाश अवशोषित कर रासायनिक ऊर्जा में बदलता है;\nCO2+H2O से ग्लूकोज बनता है।",
+   "solution_en": "Chlorophyll absorbs light into chemical energy;\nCO2 and water become glucose."
+  },
+  {
+   "skill_id": "s10c5s1",
+   "difficulty": 2,
+   "text_hi": "अमीबा भोजण करता है —",
+   "text_en": "Amoeba engulfs food using -",
+   "options": [
+    "कूटपाद से (भक्षण)",
+    "रंध्र से",
+    "शैफ्ट... श्वास नली से",
+    "पत्तियों से"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "भोजन घेरकर भोजन धानी बनती है।",
+   "hint_en": "A food vacuole forms around it.",
+   "solution_hi": "अमीबा कूटपादों से भोजन घेरता है;\nभोजन धानी में पचता है।",
+   "solution_en": "Pseudopodia wrap the food particle;\ndigestion happens inside the food vacuole."
+  },
+  {
+   "skill_id": "s10c5s2",
+   "difficulty": 1,
+   "text_hi": "वायवीय श्वसन में ऊर्जा —",
+   "text_en": "Compared to anaerobic, aerobic respiration releases -",
+   "options": [
+    "अधिक ऊर्जा",
+    "कम ऊर्जा",
+    "शून्य ऊर्जा",
+    "केवल गैस"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ऑक्सीजन के साथ पूरा दहन।",
+   "hint_en": "Full breakdown with oxygen.",
+   "solution_hi": "वायवीय श्वसन ग्लूकोज का पूर्ण विघटन करता है;\nअधिक ATP मिलती है।",
+   "solution_en": "Aerobic respiration fully breaks glucose;\nmuch more ATP is released."
+  },
+  {
+   "skill_id": "s10c5s2",
+   "difficulty": 2,
+   "text_hi": "यीस्ट अनायवीय श्वसन में बनाता है —",
+   "text_en": "Yeast under anaerobic conditions produces -",
+   "options": [
+    "एथेनॉल + CO2",
+    "लैक्टिक अम्ल ही",
+    "यूरिया",
+    "HCl"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "किण्वन = शराब उद्योग।",
+   "hint_en": "Fermentation industry.",
+   "solution_hi": "यीस्ट किण्वन में एथेनॉल व CO2 बनाता है;\nबेकरी व शराब उद्योग इसी पर हैं।",
+   "solution_en": "Yeast ferments sugar to ethanol and CO2;\nbase of bakery and brewing."
+  },
+  {
+   "skill_id": "s10c5s2",
+   "difficulty": 2,
+   "text_hi": "तीव्र व्यायाम में पेशों में बनता है —",
+   "text_en": "During hard exercise, muscles produce -",
+   "options": [
+    "लैक्टिक अम्ल",
+    "एथेनॉल",
+    "CO2 ही नहीं",
+    "ग्लूकोज"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ऐंठन (cramp) का कारण।",
+   "hint_en": "Cause of cramps.",
+   "solution_hi": "ऑक्सीजन कमी में पेशे लैक्टिक अम्ल बनाते हैं;\nइसी से थकान व ऐंठन होती है।",
+   "solution_en": "Low oxygen makes muscles form lactic acid;\ncausing fatigue and cramps."
+  },
+  {
+   "skill_id": "s10c5s2",
+   "difficulty": 3,
+   "text_hi": "ग्लूकोज का पाइरुवेट में टूटना होता है —",
+   "text_en": "Glucose breaks into pyruvate in the -",
+   "options": [
+    "कोशिकाद्रव्य (cytoplasm)",
+    "माइटोकॉन्ड्रिया में ही",
+    "केंद्रक में",
+    "रिक्तिका में"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पहला चरण, बाहर।",
+   "hint_en": "First step happens outside mitochondria.",
+   "solution_hi": "ग्लाइकोलिसिस कोशिकाद्रव्य में होती है;\nआगे पाइरुवेट माइटोकॉन्ड्रिया (वायवीय) में टूटता है।",
+   "solution_en": "Glycolysis occurs in cytoplasm;\npyruvate then enters mitochondria for aerobic breakdown."
+  },
+  {
+   "skill_id": "s10c5s3",
+   "difficulty": 1,
+   "text_hi": "जल व खनिज पौधों में ले जाती है —",
+   "text_en": "Water and minerals are transported in plants by -",
+   "options": [
+    "जाइलम",
+    "फ्लोएम",
+    "रक्त",
+    "रंध्र"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ऊपर की ओर ढलाई... नहीं — ऊपर चढ़ाई!",
+   "hint_en": "It climbs upward from roots.",
+   "solution_hi": "जाइलम जड़ों से पत्तियों तक जल-खनिज ले जाता है;\nफ्लोएम भोजन का परिवहन करता है।",
+   "solution_en": "Xylem carries water-minerals upward;\nphloem transports food."
+  },
+  {
+   "skill_id": "s10c5s3",
+   "difficulty": 1,
+   "text_hi": "पौधों में भोजन का परिवहन —",
+   "text_en": "Food transport in plants occurs through -",
+   "options": [
+    "फ्लोएम",
+    "जाइलम",
+    "रंध्र",
+    "मूलरोम"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पत्तियों से जड़ों तक भोजन।",
+   "hint_en": "From leaves to roots.",
+   "solution_hi": "फ्लोएम पत्तियों से बना भोजन सभी भागों तक पहुँचाता है;\nइसे प्रवाहन (translocation) कहते हैं।",
+   "solution_en": "Phloem distributes food made in leaves;\ncalled translocation."
+  },
+  {
+   "skill_id": "s10c5s3",
+   "difficulty": 2,
+   "text_hi": "O2 वहन करने वाला रक्त प्रोटीन —",
+   "text_en": "Blood protein carrying oxygen is -",
+   "options": [
+    "हीमोग्लोबिन",
+    "इंसुलिन",
+    "कोलेजन",
+    "केराटिन"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "लाल रंग का कारण।",
+   "hint_en": "Why blood is red.",
+   "solution_hi": "RBC में हीमोग्लोबिन फेफड़ों से O2 बाँधकर ऊतकों तक ले जाता है;\nइसकी कमी से अरक्तता होती है।",
+   "solution_en": "Haemoglobin binds oxygen in lungs and delivers it;\ndeficiency causes anaemia."
+  },
+  {
+   "skill_id": "s10c5s3",
+   "difficulty": 2,
+   "text_hi": "धमनियों की दीवारें मोटी होती हैं क्योंकि —",
+   "text_en": "Artery walls are thick because blood -",
+   "options": [
+    "उच्च दाब पर बहता है",
+    "धीमा बहता है",
+    "उल्टा बहता है",
+    "रंगहीन होता है"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हृदय से निकलता तेज़ बहाव।",
+   "hint_en": "Fast flow straight from the heart.",
+   "solution_hi": "हृदय धमनियों में रक्त उच्च दाब से धकेलता है;\nमोटी लचीली दीवारें इसे सहती हैं।",
+   "solution_en": "Blood leaves the heart at high pressure;\nthick elastic walls withstand it."
+  },
+  {
+   "skill_id": "s10c5s4",
+   "difficulty": 1,
+   "text_hi": "मानव में उत्सर्जन का मुख्य अंग —",
+   "text_en": "Main excretory organ of humans is -",
+   "options": [
+    "वृक्क (kidney)",
+    "यकृत ही नहीं — फेफड़ा? नहीं: फेफड़ा CO2 निकालता है; मुख्य वृक्क है",
+    "त्वचा",
+    "आँख"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "जोड़ी में रहता है, पेशाब बनाता है।",
+   "hint_en": "A pair that filters blood.",
+   "solution_hi": "वृक्क रक्त छानकर यूरिया आदि अपशिष्ट पेशाब में निकालते हैं;\nप्रत्येक वृक्क लाखों नेफ्रॉन से बना है।",
+   "solution_en": "Kidneys filter blood removing urea as urine;\neach kidney has about a million nephrons."
+  },
+  {
+   "skill_id": "s10c5s4",
+   "difficulty": 2,
+   "text_hi": "वृक्क की संरचनात्मक व क्रियात्मक इकाई —",
+   "text_en": "Structural and functional unit of kidney is -",
+   "options": [
+    "नेफ्रॉन",
+    "न्यूरॉन",
+    "नेफ्रिडिया",
+    "एल्विओलाई"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "'N' से शुरू।",
+   "hint_en": "Starts with 'neph'.",
+   "solution_hi": "नेफ्रॉन रक्त को छानकर मूत्र बनाता है;\nग्लोमेरुलस + नलिका तंत्र होता है।",
+   "solution_en": "Each nephron filters blood forming urine;\nglomerulus plus tubules."
+  },
+  {
+   "skill_id": "s10c5s4",
+   "difficulty": 2,
+   "text_hi": "मानव में प्रमुख नाइट्रोजनी अपशिष्ट —",
+   "text_en": "Principal nitrogenous waste in humans is -",
+   "options": [
+    "यूरिया",
+    "अमोनिया",
+    "यूरिक अम्ल",
+    "नाइट्रेट"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पेशाब का प्रमुख घटक।",
+   "hint_en": "Main component of urine.",
+   "solution_hi": "प्रोटीन अपघटन से यूरिया बनता है;\nवृक्क इसे रक्त से निकालते हैं।",
+   "solution_en": "Protein metabolism forms urea;\nkidneys remove it from blood."
+  },
+  {
+   "skill_id": "s10c5s4",
+   "difficulty": 3,
+   "text_hi": "वृक्क विफलता में उपयोग आती है —",
+   "text_en": "Kidney failure is treated using -",
+   "options": [
+    "डायलिसिस (कृत्रिम वृक्क)",
+    "ईसीजी",
+    "एक्स-रे",
+    "ब्लड बैंक ही"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "मशीन रक्त छानती है।",
+   "hint_en": "A machine filters blood.",
+   "solution_hi": "डायलिसिस मशीन रक्त को छानकर अपशिष्ट निकालती है;\nयह कृत्रिम वृक्क जैसी कार्य करती है।",
+   "solution_en": "Dialysis machines filter wastes from blood;\nacting like artificial kidneys."
+  },
+  {
+   "skill_id": "s10c6s1",
+   "difficulty": 1,
+   "text_hi": "यीस्ट में अलैंगिक जनन होता है —",
+   "text_en": "Yeast reproduces asexually by -",
+   "options": [
+    "मुकुलन (budding)",
+    "बीज से",
+    "पुष्प से",
+    "निषेचन से"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "माता से छोटी कली।",
+   "hint_en": "A bud grows on the parent.",
+   "solution_hi": "यीस्ट/हाइड्रा मुकुलन से गुणित होते हैं;\nकली बढ़कर अलग जीव बनती है।",
+   "solution_en": "Buds grow out and detach;\nyeast and Hydra both bud."
+  },
+  {
+   "skill_id": "s10c6s1",
+   "difficulty": 1,
+   "text_hi": "अमीबा का अलैंगिक जनन —",
+   "text_en": "Amoeba reproduces by -",
+   "options": [
+    "द्विविभाजन",
+    "मुकुलन",
+    "बीजांड",
+    "परागण"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "एक से दो।",
+   "hint_en": "One becomes two.",
+   "solution_hi": "अमीबा द्विविभाजन से बंटता है;\nदो समान बेटी कोशिकाएँ बनती हैं।",
+   "solution_en": "Binary fission splits Amoeba equally;\ntwo identical daughters form."
+  },
+  {
+   "skill_id": "s10c6s1",
+   "difficulty": 2,
+   "text_hi": "स्पाइरोगायरा जनन करता है —",
+   "text_en": "Spirogyra reproduces by fragmentation meaning -",
+   "options": [
+    "टुकड़े बढ़कर नए जीव बनते हैं",
+    "बीज गिरते हैं",
+    "अंडे देता है",
+    "मुकुल निकलते हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "धागे टूटते हैं।",
+   "hint_en": "Threads break apart.",
+   "solution_hi": "स्पाइरोगायरा के तंतु टुकड़ों में टूटते हैं;\nप्रत्येक टुकड़ा नया जीव बन जाता है।",
+   "solution_en": "Filaments break into pieces;\neach piece grows into a new organism."
+  },
+  {
+   "skill_id": "s10c6s1",
+   "difficulty": 2,
+   "text_hi": "रोटी पर राइजोपस (फफूंद) फैलता है —",
+   "text_en": "Bread mould (Rhizopus) spreads via -",
+   "options": [
+    "बीजाणु (spores)",
+    "बीज",
+    "कलियाँ",
+    "अंडाणु"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "काले गोल सिरे।",
+   "hint_en": "Little black knobs.",
+   "solution_hi": "राइजोपस के गोल सिरों में बीजाणु बनते हैं;\nhavā में उड़कर फैलते हैं।",
+   "solution_en": "Sporangia release spores;\nthey drift in air to new surfaces."
+  },
+  {
+   "skill_id": "s10c6s2",
+   "difficulty": 1,
+   "text_hi": "परागकोष में बनते हैं —",
+   "text_en": "Anthers produce -",
+   "options": [
+    "परागकण (नर युग्मक)",
+    "बीजांड",
+    "अंडाणु",
+    "फल"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पुंकेसर का सिरा।",
+   "hint_en": "Tip of the stamen.",
+   "solution_hi": "परागकोष में परागकण बनते हैं;\nइनमें नर युग्मक होते हैं।",
+   "solution_en": "Anthers contain pollen grains;\ncarrying male gametes."
+  },
+  {
+   "skill_id": "s10c6s2",
+   "difficulty": 2,
+   "text_hi": "परागण है —",
+   "text_en": "Pollination is -",
+   "options": [
+    "परागकण का वर्तिकाग्र तक पहुँचना",
+    "बीज का अंकुरण",
+    "फल का पकना",
+    "जड़ का बढ़ना"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "मधुमक्खी/हवा संवाहक।",
+   "hint_en": "Bees and wind carry pollen.",
+   "solution_hi": "परागकण पुंकेसर से वर्तिकाग्र (stigma) तक जाना परागण;\nइसके बाद निषेचन संभव है।",
+   "solution_en": "Transfer of pollen to the stigma;\nfertilisation follows."
+  },
+  {
+   "skill_id": "s10c6s2",
+   "difficulty": 2,
+   "text_hi": "बीजांड से और अंडाशय से बनता है —",
+   "text_en": "After fertilisation, ovule becomes seed and ovary becomes -",
+   "options": [
+    "फल",
+    "जड़",
+    "पत्ती",
+    "पराग"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "आम के गुठली और गूदा।",
+   "hint_en": "Mango stone vs pulp.",
+   "solution_hi": "निषेचन के बाद बीजांड → बीज;\nअंडाशय → फल बनता है।",
+   "solution_en": "Ovule matures into the seed;\novary develops into fruit."
+  },
+  {
+   "skill_id": "s10c6s2",
+   "difficulty": 3,
+   "text_hi": "निषेचन में युग्मकों के मिलन से बनता है —",
+   "text_en": "Fusion of gametes during fertilisation forms -",
+   "options": [
+    "जायगोट (युग्मनज)",
+    "परागकण",
+    "रंध्र",
+    "जाइलम"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "नए जीवन की पहली कोशिका।",
+   "hint_en": "First cell of new life.",
+   "solution_hi": "नर व मादा युग्मक मिलकर जायगोट बनाते हैं;\nयही विभाजित होकर भ्रूण बनता है।",
+   "solution_en": "Male and female gametes unite into a zygote;\nit divides to form the embryo."
+  },
+  {
+   "skill_id": "s10c6s3",
+   "difficulty": 1,
+   "text_hi": "वृषण (testis) कार्य करते हैं —",
+   "text_en": "Testes function to -",
+   "options": [
+    "शुक्राणु व टेस्टोस्टेरॉन बनाने",
+    "अंडाणु बनाने",
+    "पाचन में",
+    "श्वसन में"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "नर जनन ग्रंथि।",
+   "hint_en": "Male gonads.",
+   "solution_hi": "वृषण शुक्राणु बनाते हैं व नर हॉर्मोन टेस्टोस्टेरॉन स्रावित करते हैं;\nयह किशोर परिवर्तनों के लिए ज़िम्मेदार है।",
+   "solution_en": "Testes make sperm and secrete testosterone;\nresponsible for male puberty changes."
+  },
+  {
+   "skill_id": "s10c6s3",
+   "difficulty": 2,
+   "text_hi": "मानव में निषेचन स्थान —",
+   "text_en": "Fertilisation in humans occurs in the -",
+   "options": [
+    "अंडवाहिनी (fallopian tube)",
+    "अंडाशय",
+    "गर्भाशय ग्रीवा",
+    "मूत्राशय"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अंडाशय से गर्भाशय जाते-जाते।",
+   "hint_en": "On the way from ovary to uterus.",
+   "solution_hi": "शुक्राणु व अंडाणु का मिलन अंडवाहिनी में होता है;\nजायगोट आगे गर्भाशय तक जाता है।",
+   "solution_en": "Sperm meets egg in the fallopian tube;\nzygote then travels to the uterus."
+  },
+  {
+   "skill_id": "s10c6s3",
+   "difficulty": 2,
+   "text_hi": "भ्रूण का आरोपण (implantation) होता है —",
+   "text_en": "Implantation of embryo occurs in the -",
+   "options": [
+    "गर्भाशय की दीवार में",
+    "अंडवाहिनी में",
+    "योनि में",
+    "वृषण में"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "गर्भ की जगह।",
+   "hint_en": "Where pregnancy is carried.",
+   "solution_hi": "जायगोट विभाजित होकर गर्भाशय दीवार में आरोपित होता है;\nयहीं भ्रूण विकसित होता है।",
+   "solution_en": "The dividing zygote embeds in uterine wall;\nembryo develops there."
+  },
+  {
+   "skill_id": "s10c6s3",
+   "difficulty": 2,
+   "text_hi": "अपरा (placenta) का कार्य —",
+   "text_en": "The placenta functions to -",
+   "options": [
+    "माता-भ्रूण में पोषक/गैस विनिमय",
+    "शुक्राणु बनाने",
+    "पाचन",
+    "श्वसन के लिए हवा लाने"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "भ्रूण का जीवन-रेखा।",
+   "hint_en": "Baby's lifeline.",
+   "solution_hi": "अपरा से भ्रूण को ऑक्सीजन-पोषक मिलते हैं;\nअपशिष्ट माता के रक्त में पहुँचते हैं।",
+   "solution_en": "Placenta supplies oxygen and nutrients to fetus;\nwastes pass back to mother's blood."
+  },
+  {
+   "skill_id": "s10c6s4",
+   "difficulty": 2,
+   "text_hi": "कॉपर-T है —",
+   "text_en": "Copper-T is a -",
+   "options": [
+    "गर्भनिरोधक उपकरण (IUD)",
+    "पोषण आहार",
+    "टीका",
+    "औषधि स्वाद की"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "गर्भाशय में लगाया जाता है।",
+   "hint_en": "Placed inside the uterus.",
+   "solution_hi": "कॉपर-T गर्भाशय में लगाया जाने वाला IUD है;\nयह दीर्घकालिक गर्भनिरोध देता है।",
+   "solution_en": "Copper-T is an intrauterine device;\nit offers long-term contraception."
+  },
+  {
+   "skill_id": "s10c6s4",
+   "difficulty": 2,
+   "text_hi": "कंडोम का उपयोग —",
+   "text_en": "Condoms help because they -",
+   "options": [
+    "गर्भनिरोध व STD से बचाव दोनों करते हैं",
+    "केवल स्वाद बढ़ाते हैं",
+    "रक्त बढ़ाते हैं",
+    "पाचन सुधारते हैं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अवरोधक विधि।",
+   "hint_en": "Barrier method.",
+   "solution_hi": "कंडोम अवरोधक गर्भनिरोधक हैं;\nये यौन रोग (STD) से भी बचाव देते हैं।",
+   "solution_en": "Condoms act as a barrier method;\nalso protecting against sexually transmitted diseases."
+  },
+  {
+   "skill_id": "s10c6s4",
+   "difficulty": 2,
+   "text_hi": "किशोरावस्था (puberty) के परिवर्तन नियंत्रित होते हैं —",
+   "text_en": "Changes during puberty are controlled by -",
+   "options": [
+    "हॉर्मोन",
+    "विटामिन",
+    "केवल आहार",
+    "प्रकाश"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ग्रंथियों के संदेशवाहक।",
+   "hint_en": "Chemical messengers from glands.",
+   "solution_hi": "हॉर्मोन (टेस्टोस्टेरॉन, एस्ट्रोजन) किशोर परिवर्तन कराते हैं;\nलंबाई, आवाज़ व त्वचा में बदलाव आते हैं।",
+   "solution_en": "Hormones drive puberty changes;\naffecting height, voice and skin."
+  },
+  {
+   "skill_id": "s10c6s4",
+   "difficulty": 3,
+   "text_hi": "गर्भावस्था में माता के आहार का ध्यान जरूरी है क्योंकि —",
+   "text_en": "Maternal diet matters in pregnancy because -",
+   "options": [
+    "भ्रूण का विकास माता के पोषण पर निर्भर है",
+    "केवल माता भूखी रहती है",
+    "भ्रूण खुद खाना बनाता है",
+    "यह जरूरी नहीं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अपरा से पोषक जाते हैं।",
+   "hint_en": "Nutrients cross the placenta.",
+   "solution_hi": "भ्रूण को अपरा द्वारा माता के रक्त से पोषक मिलते हैं;\nसंतुलित आहार स्वस्थ शिशु के लिए आवश्यक।",
+   "solution_en": "The fetus receives nutrients via placenta from mother;\nbalance diet ensures healthy development."
+  }
+ ]
+}
