@@ -61,6 +61,8 @@ CREATE TABLE IF NOT EXISTS questions(
   solution_hi TEXT,
   solution_en TEXT,
   gen_params_json TEXT,
+  marks INT DEFAULT 1,
+  qtype TEXT,
   active INT DEFAULT 1
 );
 CREATE TABLE IF NOT EXISTS attempts(
@@ -115,6 +117,13 @@ def connect():
 def init_db() -> None:
     with connect() as conn:
         conn.executescript(DDL)
+        # Migration shim: pre-existing DBs lack the M7 marks/qtype columns.
+        for stmt in ("ALTER TABLE questions ADD COLUMN marks INT DEFAULT 1",
+                     "ALTER TABLE questions ADD COLUMN qtype TEXT"):
+            try:
+                conn.execute(stmt)
+            except sqlite3.OperationalError:
+                pass  # column already exists
 
 
 def query(sql: str, params: tuple = ()) -> list[sqlite3.Row]:

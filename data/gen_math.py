@@ -4,15 +4,24 @@ Each template takes rng params, computes the answer + 3 plausible distractors
 (off-by patterns), emits bilingual text, and stores gen_params for regeneration.
 Run:  python data/gen_math.py [--seed 42]
 Writes data/qbank/maths_{8,9,10}.json  (12 variants per template).
+Class 10 additionally gets BOARD-pattern sets shaped like the official
+MPBSE 2026 sample paper (data/pyqs/paper2026_10th_*.txt):
+5 objective + 12x2m + 3x3m + 3x4m, every 3/4-mark item carrying an OR sibling.
 """
 import argparse
 import json
 import random
+import zlib
 from fractions import Fraction
+from math import gcd
 from pathlib import Path
 
 OUT_DIR = Path(__file__).resolve().parent / "qbank"
 VARIANTS = 12
+
+
+def _gcd(a: int, b: int) -> int:
+    return gcd(a, b)
 
 
 def _fmt_frac(fr: Fraction) -> str:
@@ -23,8 +32,10 @@ def _fmt_frac(fr: Fraction) -> str:
 
 
 def _mk(skill_id, difficulty, text_hi, text_en, answer, distractors,
-        hint_hi, hint_en, sol_hi, sol_en, rng, gen_params):
-    """Assemble one item; shuffle options; ensure 4 unique options."""
+        hint_hi, hint_en, sol_hi, sol_en, rng, gen_params,
+        marks=None, qtype=None, or_pair=None):
+    """Assemble one item; shuffle options; ensure 4 unique options.
+    marks/qtype are only written when given (legacy items keep loader defaults)."""
     opts = [answer]
     for d in distractors:
         d = _norm_opt(d)
@@ -42,7 +53,10 @@ def _mk(skill_id, difficulty, text_hi, text_en, answer, distractors,
     correct = opts.index(answer)
     rng.shuffle(opts)
     correct_idx = opts.index(answer)
-    return {
+    gp = dict(gen_params)
+    if or_pair:
+        gp["or_pair"] = or_pair
+    item = {
         "skill_id": skill_id,
         "difficulty": difficulty,
         "text_hi": text_hi,
@@ -53,8 +67,13 @@ def _mk(skill_id, difficulty, text_hi, text_en, answer, distractors,
         "hint_en": hint_en,
         "solution_hi": sol_hi,
         "solution_en": sol_en,
-        "gen_params": gen_params,
+        "gen_params": gp,
     }
+    if marks is not None:
+        item["marks"] = int(marks)
+    if qtype is not None:
+        item["qtype"] = qtype
+    return item
 
 
 def _opt_key(x):
@@ -765,6 +784,531 @@ CLASS10_TEMPLATES = [
 TEMPLATES = {8: CLASS8_TEMPLATES, 9: CLASS9_TEMPLATES, 10: CLASS10_TEMPLATES}
 
 
+# ---------------- MPBSE 2026 board-pattern templates (class 10) ----------------
+# Shaped after data/pyqs/paper2026_10th_Maths_*.txt: bilingual phrasing
+# (सही विकल्प चुनकर लिखिए / रिक्त स्थानों की पूर्ति / सत्य-असत्य / ज्ञात कीजिए),
+# parametric numbers — never verbatim paper questions.
+
+def t_b_mcq_hcf_lcm(rng):
+    h = rng.randint(2, 9)
+    m, n = rng.sample(range(2, 13), 2)
+    a, b = h * m, h * n
+    lcm = a * b // h
+    return _mk(
+        "m10c1s1", 1,
+        f"सही विकल्प चुनकर लिखिए : यदि HCF({a}, {b}) = {h} है, तो LCM({a}, {b}) का मान है :",
+        f"Choose the correct option and write it : If HCF({a}, {b}) = {h}, then LCM({a}, {b}) is :",
+        str(lcm),
+        [str(m * n), str(a + b), str(lcm + h)],
+        "HCF × LCM = दोनों संख्याओं का गुणनफल।",
+        "HCF x LCM = product of the two numbers.",
+        f"HCF × LCM = {a}×{b} → LCM = {a*b}/{h} = {lcm}।",
+        f"HCF x LCM = {a}x{b} -> LCM = {a*b}/{h} = {lcm}.",
+        rng, {"tpl": "b_hcf_lcm", "a": a, "b": b},
+        marks=1, qtype="mcq",
+    )
+
+
+def t_b_mcq_empirical(rng):
+    mean = rng.randint(8, 25)
+    med = rng.randint(mean + 2, mean + 9)
+    mode = 3 * med - 2 * mean
+    return _mk(
+        "m10c7s1", 1,
+        f"सही विकल्प चुनकर लिखिए : किसी बारंबारता बंटन का माध्य {mean} और माध्यिका {med} है। बहुलक का मान है :",
+        f"Choose the correct option and write it : For a frequency distribution, the mean is {mean} "
+        f"and the median is {med}. The mode is :",
+        str(mode),
+        [str(3 * mean - 2 * med), str(mean + med), str(abs(med - mean)), str(mode + 10)],
+        "प्रयोगिक संबंध: 3 माध्यिका = माध्य + 2 बहुलक।",
+        "Empirical relation: 3 median = mean + 2 mode.",
+        f"बहुलक = 3×{med} − 2×{mean} = {mode}।",
+        f"Mode = 3x{med} - 2x{mean} = {mode}.",
+        rng, {"tpl": "b_empirical", "mean": mean, "med": med},
+        marks=1, qtype="mcq",
+    )
+
+
+def t_b_fill_ap_nth(rng):
+    a, d, n = rng.randint(2, 9), rng.randint(2, 9), rng.randint(4, 15)
+    an = a + (n - 1) * d
+    return _mk(
+        "m10c4s1", 1,
+        f"रिक्त स्थानों की पूर्ति कीजिए : समांतर श्रेणी {a}, {a+d}, {a+2*d}, … का {n} वाँ पद ……… है।",
+        f"Fill in the blanks : The {n}th term of the A.P. {a}, {a+d}, {a+2*d}, … is ……….",
+        str(an),
+        [str(an + d), str(an - d), str(an + 2 * d), str(a + n * d)],
+        "an = a + (n−1)d।",
+        "an = a + (n-1)d.",
+        f"a{n} = {a} + ({n}−1)×{d} = {an}।",
+        f"a(n) = {a} + ({n}-1)x{d} = {an}.",
+        rng, {"tpl": "b_fill_ap", "a": a, "d": d, "n": n},
+        marks=1, qtype="fill",
+    )
+
+
+def t_b_fill_die(rng):
+    ev_hi, ev_en, k = rng.choice([
+        ("सम संख्या", "an even number", 3),
+        ("3 से बड़ी संख्या", "a number greater than 3", 3),
+        ("अभाज्य संख्या", "a prime number", 3),
+        ("4 से छोटी संख्या", "a number less than 4", 2),
+    ])
+    ans = f"{k}/6"
+    return _mk(
+        "m10c8s1", 1,
+        f"रिक्त स्थानों की पूर्ति कीजिए : एक पासे को एक बार फेंकने पर {ev_hi} आने की प्रायिकता ……… होती है।",
+        f"Fill in the blanks : On throwing a die once, the probability of getting {ev_en} is ……….",
+        ans,
+        [f"{6-k}/6", "1/6", "5/6", "2/3"],
+        "अनुकूल परिणाम ÷ कुल परिणाम (6)।",
+        "Favourable outcomes divided by total outcomes (6).",
+        f"{ev_en}: {k} अनुकूल परिणाम → {ans}।",
+        f"{ev_en}: {k} favourable outcomes -> {ans}.",
+        rng, {"tpl": "b_fill_die", "k": k},
+        marks=1, qtype="fill",
+    )
+
+
+def t_b_tf_axis(rng):
+    px, py = rng.randint(-9, 9), rng.randint(-9, 9)
+    while px == 0 or py == 0:
+        px, py = rng.randint(-9, 9), rng.randint(-9, 9)
+    axis_x = rng.random() < 0.5
+    truth = rng.random() < 0.5
+    true_val = abs(px) if axis_x else abs(py)
+    claim = true_val if truth else true_val + rng.choice([-2, -1, 1, 2])
+    ax_hi = "x" if axis_x else "y"
+    ax_en = "x-axis" if axis_x else "y-axis"
+    dist_val = abs(py) if axis_x else abs(px)
+    return {
+        "skill_id": "m10c6s1", "difficulty": 1,
+        "text_hi": f"सत्य/असत्य लिखिए : बिंदु ({px}, {py}) की {ax_hi}-अक्ष से दूरी {claim} है।",
+        "text_en": f"Write True/False : The distance of the point ({px}, {py}) from the {ax_en} is {claim}.",
+        "options": ["सत्य", "असत्य"],
+        "correct_idx": 0 if truth else 1,
+        "hint_hi": f"{ax_hi}-अक्ष से दूरी = दूसरे निर्देशांक का परिमाण।",
+        "hint_en": f"Distance from the {ax_en} = magnitude of the other coordinate.",
+        "solution_hi": f"{ax_hi}-अक्ष से दूरी {dist_val} है, अतः कथन {'सत्य' if truth else 'असत्य'} है।",
+        "solution_en": f"The distance from the {ax_en} is {dist_val}, so the statement is "
+                       f"{'true' if truth else 'false'}.",
+        "gen_params": {"tpl": "b_tf_axis", "px": px, "py": py, "axis": ax_hi, "claim": claim},
+        "marks": 1, "qtype": "tf",
+    }
+
+
+def t_b_short_quad_roots(rng):
+    r1, r2 = rng.randint(-6, 7), rng.randint(-6, 7)
+    while r2 == r1:
+        r2 = rng.randint(-6, 7)
+    big, small = max(r1, r2), min(r1, r2)
+    b_coef = -(r1 + r2)
+    c_coef = r1 * r2
+    eq = f"x² {'+' if b_coef >= 0 else '−'} {abs(b_coef)}x {'+' if c_coef >= 0 else '−'} {abs(c_coef)} = 0"
+    return _mk(
+        "m10c3s1", 2,
+        f"{eq} के मूल ज्ञात कीजिए।",
+        f"Find the roots of {eq.replace('−', '-')}.",
+        f"x = {small}, {big}",
+        [f"x = {-small}, {-big}", f"x = {small}, {-big}", f"x = {small - 1}, {big}",
+         f"x = {small + 2}, {big + 2}"],
+        f"ऐसी दो संख्याएँ खोजिए जिनका योग {-(b_coef)} और गुणनफल {c_coef} हो।",
+        f"Find two numbers whose sum is {-(b_coef)} and product is {c_coef}.",
+        f"गुणनखंडन से मूल {small} और {big} मिलते हैं।",
+        f"Factorising gives the roots {small} and {big}.",
+        rng, {"tpl": "b_quad_roots", "r1": r1, "r2": r2},
+        marks=2, qtype="short",
+    )
+
+
+def t_b_short_ap_which_term(rng):
+    a, d = rng.randint(2, 9), rng.randint(2, 9)
+    k = rng.randint(6, 18)
+    v = a + (k - 1) * d
+    return _mk(
+        "m10c4s2", 2,
+        f"A.P. : {a}, {a+d}, {a+2*d}, … का कौन-सा पद {v} है?",
+        f"Which term of the A.P. : {a}, {a+d}, {a+2*d}, … is {v}?",
+        str(k),
+        [str(k + 1), str(k - 1), str(v)],
+        "an = a + (n−1)d में मान रखिए।",
+        "Substitute into an = a + (n-1)d.",
+        f"{a} + (n−1)×{d} = {v} → n = {k}।",
+        f"{a} + (n-1)x{d} = {v} -> n = {k}.",
+        rng, {"tpl": "b_ap_which", "a": a, "d": d, "v": v},
+        marks=2, qtype="short",
+    )
+
+
+def t_b_short_bag_prob(rng):
+    r, w, b = rng.randint(2, 6), rng.randint(2, 6), rng.randint(2, 6)
+    total = r + w + b
+    good = total - r
+    g = _gcd(good, total)
+    ans = f"{good // g}/{total // g}"
+    return _mk(
+        "m10c8s1", 2,
+        f"एक थैली में {r} लाल, {w} सफेद और {b} काली गेंदें हैं। एक गेंद यादृच्छिक रूप से निकाली जाती है। "
+        f"उसके लाल न होने की प्रायिकता ज्ञात कीजिए।",
+        f"A bag contains {r} red, {w} white and {b} black balls. One ball is drawn at random. "
+        f"Find the probability that it is not red.",
+        ans,
+        [f"{r}/{total}", f"{(good + 1)}/{total}", f"1/{total}", f"{good + 2}/{total}"],
+        "P(लाल नहीं) = (कुल − लाल)/कुल।",
+        "P(not red) = (total - red)/total.",
+        f"कुल = {total}, लाल नहीं = {good} → {ans}।",
+        f"Total = {total}, not red = {good} -> {ans}.",
+        rng, {"tpl": "b_bag_prob", "r": r, "w": w, "b": b},
+        marks=2, qtype="short",
+    )
+
+
+def t_b_short_midpoint(rng):
+    x1, y1 = rng.randint(-6, 6), rng.randint(-6, 6)
+    dx, dy = 2 * rng.randint(1, 6), 2 * rng.randint(1, 6)
+    sx, sy = rng.choice([1, -1]), rng.choice([1, -1])
+    x2, y2 = x1 + dx * sx, y1 + dy * sy
+    mx, my = (x1 + x2) // 2, (y1 + y2) // 2
+    return _mk(
+        "m10c6s1", 2,
+        f"बिंदुओं ({x1}, {y1}) और ({x2}, {y2}) को मिलाने वाले रेखाखंड का मध्य बिंदु ज्ञात कीजिए।",
+        f"Find the midpoint of the line segment joining the points ({x1}, {y1}) and ({x2}, {y2}).",
+        f"({mx}, {my})",
+        [f"({mx + 1}, {my})", f"({mx}, {my + 1})", f"({x1 + x2}, {y1 + y2})", f"({my}, {mx})"],
+        "मध्य बिंदु = ((x₁+x₂)/2, (y₁+y₂)/2)।",
+        "Midpoint = ((x1+x2)/2, (y1+y2)/2).",
+        f"(({x1}+{x2})/2, ({y1}+{y2})/2) = ({mx}, {my})।",
+        f"(({x1}+{x2})/2, ({y1}+{y2})/2) = ({mx}, {my}).",
+        rng, {"tpl": "b_midpoint", "p1": [x1, y1], "p2": [x2, y2]},
+        marks=2, qtype="short",
+    )
+
+
+def t_b3_ap_sum(rng):
+    a, d = rng.randint(3, 11), rng.randint(2, 8)
+    n = rng.randint(8, 16)
+    while n * (2 * a + (n - 1) * d) % 2:
+        n += 1
+    sn = n * (2 * a + (n - 1) * d) // 2
+    return _mk(
+        "m10c4s3", 3,
+        f"समांतर श्रेणी {a}, {a+d}, {a+2*d}, … के प्रथम {n} पदों का योग ज्ञात कीजिए।",
+        f"Find the sum of the first {n} terms of the A.P. {a}, {a+d}, {a+2*d}, …",
+        str(sn),
+        [str(sn + n), str(sn - d), str(n * (a + d)), str(sn + 2 * d)],
+        "Sn = n/2 [2a + (n−1)d]।",
+        "Sn = n/2 [2a + (n-1)d].",
+        f"Sn = {n}/2 × [2×{a} + ({n}−1)×{d}] = {sn}।",
+        f"Sn = {n}/2 x [2x{a} + ({n}-1)x{d}] = {sn}.",
+        rng, {"tpl": "b3_ap_sum", "a": a, "d": d, "n": n},
+        marks=3, qtype="short",
+    )
+
+
+def t_b3_ap_more(rng):
+    a, d = rng.randint(2, 9), rng.randint(2, 9)
+    j = rng.randint(8, 20)
+    m = rng.randint(6, 14)
+    delta = d * m
+    k = j + m
+    return _mk(
+        "m10c4s2", 3,
+        f"A.P. : {a}, {a+d}, {a+2*d}, … का कौन-सा पद उसके {j} वें पद से {delta} अधिक होगा?",
+        f"Which term of the A.P. : {a}, {a+d}, {a+2*d}, … will be {delta} more than its {j}th term?",
+        str(k),
+        [str(j + m + 1), str(j + m - 1), str(delta // d + 1)],
+        "अंतर (ak − aj) = (k−j)d रखिए।",
+        "Use ak - aj = (k-j)d.",
+        f"(k−{j})×{d} = {delta} → k = {j} + {m} = {k}।",
+        f"(k-{j})x{d} = {delta} -> k = {j} + {m} = {k}.",
+        rng, {"tpl": "b3_ap_more", "a": a, "d": d, "j": j, "delta": delta},
+        marks=3, qtype="short",
+    )
+
+
+def t_b3_trig_eval(rng):
+    pool = [
+        ("sin30°", Fraction(1, 2)), ("cos60°", Fraction(1, 2)),
+        ("tan45°", Fraction(1)), ("sin90°", Fraction(1)),
+        ("cos0°", Fraction(1)), ("cot45°", Fraction(1)),
+    ]
+    picks = rng.sample(pool, rng.choice([2, 3]))
+    coef_map = [1, 1, 2]
+    parts, val = [], Fraction(0)
+    for i, (label, v) in enumerate(picks):
+        c = coef_map[rng.randint(0, 2)]
+        parts.append(f"{c if c > 1 else ''}{label}")
+        val += c * v
+    expr = " + ".join(parts)
+    return _mk(
+        "m10c5s1", 3,
+        f"मान ज्ञात कीजिए : {expr}",
+        f"Evaluate : {expr}",
+        _fmt_frac(val),
+        [_fmt_frac(val + 1), _fmt_frac(Fraction(1, 2)), _fmt_frac(val * 2), "3/4"],
+        "मानक कोणों की त्रिकोणमितीय सारणी लगाइए।",
+        "Use the standard-angle trigonometric table.",
+        f"प्रत्येक अनुपात का मान रखने पर योग {_fmt_frac(val)} मिलता है।",
+        f"Substituting the standard values gives {_fmt_frac(val)}.",
+        rng, {"tpl": "b3_trig_eval", "expr": expr},
+        marks=3, qtype="short",
+    )
+
+
+def t_b3_sin_tan(rng):
+    trip = rng.choice([(3, 4, 5), (6, 8, 10), (5, 12, 13), (8, 15, 17)])
+    opp, adj, hyp = trip
+    flip = rng.random() < 0.5
+    if flip:
+        opp, adj = adj, opp
+    return _mk(
+        "m10c5s1", 3,
+        f"यदि sinθ = {opp}/{hyp} है (θ न्यूनकोण है), तो tanθ का मान ज्ञात कीजिए।",
+        f"If sinθ = {opp}/{hyp} (θ is acute), find the value of tanθ.",
+        f"{opp}/{adj}",
+        [f"{adj}/{opp}", f"{opp}/{hyp}", f"{adj}/{hyp}"],
+        "पाइथागोरस से आधार निकालिए, फिर tanθ = लंब/आधार।",
+        "Get the base via Pythagoras, then tan = perpendicular/base.",
+        f"आधार = √({hyp}²−{opp}²) = {adj}; tanθ = {opp}/{adj}।",
+        f"Base = sqrt({hyp}^2-{opp}^2) = {adj}; tan = {opp}/{adj}.",
+        rng, {"tpl": "b3_sin_tan", "trip": list(trip)},
+        marks=3, qtype="short",
+    )
+
+
+def t_b3_comb_mean(rng):
+    n1, n2 = rng.randint(10, 30), rng.randint(10, 30)
+    m1 = rng.randint(8, 20)
+    m2 = rng.randint(8, 20)
+    while (n1 * m1 + n2 * m2) % (n1 + n2):
+        m2 += 1
+    comb = (n1 * m1 + n2 * m2) // (n1 + n2)
+    return _mk(
+        "m10c7s1", 3,
+        f"पहले समूह के {n1} विद्यार्थियों का माध्य प्राप्तांक {m1} तथा दूसरे समूह के {n2} विद्यार्थियों का "
+        f"माध्य प्राप्तांक {m2} है। दोनों समूहों को मिलाकर माध्य ज्ञात कीजिए।",
+        f"Group A has {n1} students with mean score {m1}; group B has {n2} students with mean score {m2}. "
+        f"Find the combined mean.",
+        str(comb),
+        [str(comb + 1), str((m1 + m2) // 2), str(comb - 1), str(comb + 2)],
+        "संयुक्त माध्य = (n₁m₁ + n₂m₂)/(n₁ + n₂)।",
+        "Combined mean = (n1m1 + n2m2)/(n1 + n2).",
+        f"({n1}×{m1} + {n2}×{m2})/{n1 + n2} = {comb}।",
+        f"({n1}x{m1} + {n2}x{m2})/{n1 + n2} = {comb}.",
+        rng, {"tpl": "b3_comb_mean", "n1": n1, "n2": n2, "m1": m1, "m2": m2},
+        marks=3, qtype="short",
+    )
+
+
+def t_b3_median(rng):
+    xs = sorted(rng.sample(range(2, 40), 7))
+    med = xs[3]
+    mean_v = sum(xs) / 7
+    dis2 = f"{mean_v:.1f}"
+    return _mk(
+        "m10c7s1", 3,
+        f"निम्न आँकड़ों की माध्यिका ज्ञात कीजिए : {', '.join(map(str, xs))}",
+        f"Find the median of the data : {', '.join(map(str, xs))}",
+        str(med),
+        [str(xs[2]), str(xs[4]), dis2],
+        "आरोही क्रम में लगाकर चौथा (मध्य) मान लीजिए।",
+        "Sort ascending and take the 4th (middle) value.",
+        f"क्रम में लगाने पर मध्य मान {med} है।",
+        f"After sorting, the middle value is {med}.",
+        rng, {"tpl": "b3_median", "xs": xs},
+        marks=3, qtype="short",
+    )
+
+
+def t_b4_fraction(rng):
+    g = rng.randint(2, 7)
+    h = rng.randint(g + 2, 11)
+    alpha, beta = rng.sample(range(1, 5), 2)
+    f1 = Fraction(g + alpha, h + alpha)
+    f2 = Fraction(g + beta, h + beta)
+    return _mk(
+        "m10c3s2", 3,
+        f"किसी भिन्न के अंश और हर दोनों में {alpha} जोड़ देने पर वह {_fmt_frac(f1)} हो जाती है और दोनों में "
+        f"{beta} जोड़ देने पर {_fmt_frac(f2)} हो जाती है। वह भिन्न ज्ञात कीजिए।",
+        f"When {alpha} is added to both the numerator and the denominator of a fraction, it becomes "
+        f"{_fmt_frac(f1)}; when {beta} is added to both, it becomes {_fmt_frac(f2)}. Find the fraction.",
+        f"{g}/{h}",
+        [f"{h}/{g}", f"{g + 1}/{h}", f"{g}/{h + 1}"],
+        "भिन्न = x/y लेकर दोनों शर्तों से रैखिक समीकरण बनाइए।",
+        "Let the fraction be x/y and form linear equations from both conditions.",
+        f"दोनों शर्तों से समीकरण हल करने पर x={g}, y={h} → भिन्न {g}/{h}।",
+        f"Solving both conditions gives x={g}, y={h} -> fraction {g}/{h}.",
+        rng, {"tpl": "b4_fraction", "g": g, "h": h, "alpha": alpha, "beta": beta},
+        marks=4, qtype="long",
+    )
+
+
+def t_b4_two_digit(rng):
+    a = rng.randint(2, 8)
+    b = rng.randint(1, 9)
+    while b == a:
+        b = rng.randint(1, 9)
+    num = 10 * a + b
+    rev = 10 * b + a
+    diff = num - rev
+    s = a + b
+    word_hi = "अधिक" if diff > 0 else "कम"
+    word_en = "more" if diff > 0 else "less"
+    return _mk(
+        "m10c3s2", 3,
+        f"दो अंकों की एक संख्या के अंकों का योग {s} है। अंकों का स्थान बदलने पर संख्या {abs(diff)} {word_hi} "
+        f"हो जाती है। वह संख्या ज्ञात कीजिए।",
+        f"The sum of the digits of a two-digit number is {s}. Reversing the digits changes the number "
+        f"by {abs(diff)} ({word_en}). Find the number.",
+        str(num),
+        [str(rev), str(num + 9), str(rev + 9), str(num + 10)],
+        "संख्या = 10x+y लीजिए; अंतर 9(x−y) होता है।",
+        "Take the number as 10x+y; the difference is 9(x-y).",
+        f"x+y={s}, 9(x−y)={diff} → x={a}, y={b} → संख्या {num}।",
+        f"x+y={s}, 9(x-y)={diff} -> x={a}, y={b} -> number {num}.",
+        rng, {"tpl": "b4_two_digit", "a": a, "b": b},
+        marks=4, qtype="long",
+    )
+
+
+def t_b4_missing_freq(rng):
+    mids = [5, 15, 25, 35, 45]
+    f = [rng.randint(4, 12) for _ in range(4)]
+    f.append(None)  # placeholder for p at index 4
+    base_f, base_fx = 0, 0
+    fixed = f[:4]
+    tot_fixed = sum(fixed)
+    fx_fixed = sum(mi * fi for mi, fi in zip(mids[:4], fixed))
+    p = None
+    total = mean = 0
+    for cand in range(2, 20):
+        total = tot_fixed + cand
+        fx = fx_fixed + 45 * cand
+        if fx % total == 0 and fx // total >= 10:
+            p, mean = cand, fx // total
+            break
+    if p is None:
+        p, mean = tot_fixed, 0
+        total = tot_fixed + p
+        mean = round((fx_fixed + 45 * p) / total)
+    seg = [f"{lo}–{lo+10}:{v if v is not None else 'p'}"
+           for lo, v in zip(range(0, 50, 10), f)]
+    table = ", ".join(seg)
+    return _mk(
+        "m10c7s2", 3,
+        f"निम्नलिखित बंटन का माध्य {mean} है : {table}। लुप्त बारंबारता p ज्ञात कीजिए।",
+        f"The mean of the following distribution is {mean} : {table}. Find the missing frequency p.",
+        str(p),
+        [str(p + 1), str(max(2, p - 1)), str(p + 2)],
+        "माध्य = Σfx/Σf लेकर p में हल कीजिए।",
+        "Set mean = sum(fx)/sum(f) and solve for p.",
+        f"Σfx = {fx_fixed + 45*p}, Σf = {total} → {fx_fixed + 45*p}/{total} = {mean} → p = {p}।",
+        f"sum fx = {fx_fixed + 45*p}, sum f = {total} -> {fx_fixed + 45*p}/{total} = {mean} -> p = {p}.",
+        rng, {"tpl": "b4_miss_freq", "f": f[:4], "p": p, "mean": mean},
+        marks=4, qtype="long",
+    )
+
+
+def t_b4_tri_area(rng):
+    x, y = rng.randint(-5, 5), rng.randint(-5, 5)
+    w, hgt = rng.choice([(4, 6), (6, 4), (6, 8), (8, 6), (4, 4), (10, 4)])
+    area = w * hgt // 2
+    bx, by = x + w, y
+    cx, cy = x, y + hgt
+    pts = [(x, y), (bx, by), (cx, cy)]
+    rng.shuffle(pts)
+    p1, p2, p3 = pts
+    return _mk(
+        "m10c6s1", 3,
+        f"उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसके शीर्षों के निर्देशांक "
+        f"({p1[0]}, {p1[1]}), ({p2[0]}, {p2[1]}) और ({p3[0]}, {p3[1]}) हैं।",
+        f"Find the area of the triangle whose vertices are "
+        f"({p1[0]}, {p1[1]}), ({p2[0]}, {p2[1]}) and ({p3[0]}, {p3[1]}).",
+        str(area),
+        [str(w * hgt), str(area + 2), str(area - 2)],
+        "क्षेत्रफल = ½|x₁(y₂−y₃) + x₂(y₃−y₁) + x₃(y₁−y₂)|।",
+        "Area = 1/2 |x1(y2-y3) + x2(y3-y1) + x3(y1-y2)|.",
+        f"आधार {w}, ऊँचाई {hgt} → क्षेत्रफल = ½×{w}×{hgt} = {area}।",
+        f"Base {w}, height {hgt} -> area = 1/2 x {w} x {hgt} = {area}.",
+        rng, {"tpl": "b4_tri_area", "pts": pts},
+        marks=4, qtype="long",
+    )
+
+
+BOARD_OBJECTIVE = [t_b_mcq_hcf_lcm, t_b_mcq_empirical, t_b_fill_ap_nth, t_b_fill_die, t_b_tf_axis]
+BOARD_SHORT = [t_b_short_quad_roots, t_b_short_ap_which_term, t_b_short_bag_prob, t_b_short_midpoint]
+BOARD_THREE_PAIRS = [
+    (t_b3_ap_sum, t_b3_ap_more),
+    (t_b3_trig_eval, t_b3_sin_tan),
+    (t_b3_comb_mean, t_b3_median),
+]
+BOARD_FOUR_PAIRS = [
+    (t_b4_fraction, t_b4_two_digit),
+    (t_b4_missing_freq, t_b4_tri_area),
+]
+
+
+def generate_board_pattern(cls: int = 10, seed: int = 42, sets: int = 3) -> dict:
+    """Emit official-sample-paper-shaped sets: 5 objective (MCQ/fill/tf),
+    12x2m, 3x3m, 3x4m — each 3/4-mark slot carrying an OR alternative sibling.
+    Returns {'main': [23 items/set], 'alt': [6 OR-siblings/set]}."""
+    main_out: list[dict] = []
+    alt_out: list[dict] = []
+    seen_texts: set[str] = set()
+
+    def make(tpl, or_pair=None):
+        name_key = zlib.crc32(tpl.__name__.encode())
+        for i in range(60):
+            sub = random.Random((seed * 1_000_003 + name_key * 97 + i * 7919) & 0x7FFFFFFF)
+            item = tpl(sub)
+            key = f"{item['text_en']}|{item['options'][item['correct_idx']]}"
+            if key in seen_texts:
+                continue
+            seen_texts.add(key)
+            if or_pair:
+                gp = dict(item["gen_params"])
+                gp["or_pair"] = or_pair
+                item["gen_params"] = gp
+            return item
+        return None
+
+    for s in range(sets):
+        rng = random.Random(seed + cls * 100 + s * 17)
+        # --- objective: 5 items, all three kinds represented ---
+        obj_tpls = BOARD_OBJECTIVE[:]
+        rng.shuffle(obj_tpls)
+        mains = []
+        for tpl in obj_tpls:
+            it = make(tpl)
+            if it:
+                mains.append(it)
+        # --- 12 two-mark items ---
+        for i in range(12):
+            it = make(BOARD_SHORT[i % len(BOARD_SHORT)])
+            if it:
+                mains.append(it)
+        # --- 3 three-mark + 3 four-mark slots, each with an OR sibling ---
+        alts = []
+        for i, (mtpl, atpl) in enumerate(BOARD_THREE_PAIRS):
+            tok = f"b{s}-3m{i}"
+            mi, ai = make(mtpl, tok), make(atpl, tok)
+            if mi:
+                mains.append(mi)
+            if ai:
+                alts.append(ai)
+        for i in range(3):
+            mtpl, atpl = BOARD_FOUR_PAIRS[i % len(BOARD_FOUR_PAIRS)]
+            tok = f"b{s}-4m{i}"
+            mi, ai = make(mtpl, tok), make(atpl, tok)
+            if mi:
+                mains.append(mi)
+            if ai:
+                alts.append(ai)
+        main_out.extend(mains)
+        alt_out.extend(alts)
+    return {"main": main_out, "alt": alt_out}
+
+
 def generate_class(cls: int, seed: int = 42) -> list[dict]:
     items: list[dict] = []
     seen_texts: set[tuple] = set()
@@ -787,16 +1331,23 @@ def generate_class(cls: int, seed: int = 42) -> list[dict]:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--seed", type=int, default=42)
+    ap.add_argument("--board-sets", type=int, default=3,
+                    help="number of class-10 board-pattern sets to append")
     args = ap.parse_args()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    board = generate_board_pattern(10, args.seed, args.board_sets) \
+        if args.board_sets > 0 else {"main": [], "alt": []}
     for cls in (8, 9, 10):
         items = generate_class(cls, args.seed)
+        if cls == 10:
+            items = items + board["main"] + board["alt"]
         path = OUT_DIR / f"maths_{cls}.json"
         path.write_text(
             json.dumps({
                 "subject": "maths",
                 "grade": cls,
-                "generator": f"gen_math.py seed={args.seed}",
+                "generator": f"gen_math.py seed={args.seed}"
+                             + (f" board_sets={args.board_sets}" if cls == 10 else ""),
                 "items": items,
             }, ensure_ascii=False, indent=1),
             encoding="utf-8",

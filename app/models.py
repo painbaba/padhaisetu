@@ -1,6 +1,8 @@
 """Pydantic domain models (brief section 4: User, Question, Attempt, MasteryState, PracticeSet, Report)."""
 from pydantic import BaseModel, Field
 
+QTYPES = {"mcq", "fill", "tf", "short", "long"}
+
 
 class User(BaseModel):
     id: int
@@ -26,6 +28,8 @@ class Question(BaseModel):
     solution_hi: str
     solution_en: str
     gen_params: dict | None = None
+    marks: int = Field(default=1, ge=1, le=10)
+    qtype: str | None = None  # one of QTYPES when tagged (legacy rows stay None)
     active: bool = True
 
 

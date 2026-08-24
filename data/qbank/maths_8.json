@@ -6,216 +6,48 @@
   {
    "skill_id": "m8c1s1",
    "difficulty": 1,
-   "text_hi": "1/3 + 1/4 = ?",
-   "text_en": "1/3 + 1/4 = ?",
+   "text_hi": "2/3 + 3/4 = ?",
+   "text_en": "2/3 + 3/4 = ?",
    "options": [
-    "1/12",
-    "2/7",
-    "1/2",
-    "7/12"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "हर समान बनाइए (LCM लें)।",
-   "hint_en": "Make denominators equal first (take LCM).",
-   "solution_hi": "LCM(3,4) पर ले जाकर जोड़ने पर 1/3+1/4 = 7/12।",
-   "solution_en": "Convert to LCM(3,4) then add: 1/3+1/4 = 7/12.",
-   "gen_params": {
-    "tpl": "rational_add",
-    "a": 1,
-    "b": 3,
-    "c": 1,
-    "d": 4
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "2/3 + 2/4 = ?",
-   "text_en": "2/3 + 2/4 = ?",
-   "options": [
-    "1/6",
-    "13/12",
-    "7/6",
-    "4/7"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "हर समान बनाइए (LCM लें)।",
-   "hint_en": "Make denominators equal first (take LCM).",
-   "solution_hi": "LCM(3,4) पर ले जाकर जोड़ने पर 2/3+2/4 = 7/6।",
-   "solution_en": "Convert to LCM(3,4) then add: 2/3+2/4 = 7/6.",
-   "gen_params": {
-    "tpl": "rational_add",
-    "a": 2,
-    "b": 3,
-    "c": 2,
-    "d": 4
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "1/2 + 2/5 = ?",
-   "text_en": "1/2 + 2/5 = ?",
-   "options": [
-    "4/5",
-    "9/10",
-    "1/10",
-    "3/7"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "हर समान बनाइए (LCM लें)।",
-   "hint_en": "Make denominators equal first (take LCM).",
-   "solution_hi": "LCM(2,5) पर ले जाकर जोड़ने पर 1/2+2/5 = 9/10।",
-   "solution_en": "Convert to LCM(2,5) then add: 1/2+2/5 = 9/10.",
-   "gen_params": {
-    "tpl": "rational_add",
-    "a": 1,
-    "b": 2,
-    "c": 2,
-    "d": 5
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "1/2 + 1/5 = ?",
-   "text_en": "1/2 + 1/5 = ?",
-   "options": [
-    "3/5",
-    "2/7",
-    "7/10",
-    "3/10"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "हर समान बनाइए (LCM लें)।",
-   "hint_en": "Make denominators equal first (take LCM).",
-   "solution_hi": "LCM(2,5) पर ले जाकर जोड़ने पर 1/2+1/5 = 7/10।",
-   "solution_en": "Convert to LCM(2,5) then add: 1/2+1/5 = 7/10.",
-   "gen_params": {
-    "tpl": "rational_add",
-    "a": 1,
-    "b": 2,
-    "c": 1,
-    "d": 5
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "1/2 + 3/5 = ?",
-   "text_en": "1/2 + 3/5 = ?",
-   "options": [
-    "11/10",
-    "4/7",
-    "1",
-    "-1/10"
+    "17/12",
+    "5/7",
+    "-1/12",
+    "4/3"
    ],
    "correct_idx": 0,
    "hint_hi": "हर समान बनाइए (LCM लें)।",
    "hint_en": "Make denominators equal first (take LCM).",
-   "solution_hi": "LCM(2,5) पर ले जाकर जोड़ने पर 1/2+3/5 = 11/10।",
-   "solution_en": "Convert to LCM(2,5) then add: 1/2+3/5 = 11/10.",
+   "solution_hi": "LCM(3,4) पर ले जाकर जोड़ने पर 2/3+3/4 = 17/12।",
+   "solution_en": "Convert to LCM(3,4) then add: 2/3+3/4 = 17/12.",
    "gen_params": {
     "tpl": "rational_add",
-    "a": 1,
-    "b": 2,
+    "a": 2,
+    "b": 3,
     "c": 3,
-    "d": 5
+    "d": 4
    }
   },
   {
    "skill_id": "m8c1s1",
    "difficulty": 1,
-   "text_hi": "1/2 + 2/3 = ?",
-   "text_en": "1/2 + 2/3 = ?",
+   "text_hi": "2/3 + 3/5 = ?",
+   "text_en": "2/3 + 3/5 = ?",
    "options": [
-    "3/5",
-    "1",
-    "-1/6",
-    "7/6"
+    "19/15",
+    "1/15",
+    "5/8",
+    "6/5"
    ],
-   "correct_idx": 3,
+   "correct_idx": 0,
    "hint_hi": "हर समान बनाइए (LCM लें)।",
    "hint_en": "Make denominators equal first (take LCM).",
-   "solution_hi": "LCM(2,3) पर ले जाकर जोड़ने पर 1/2+2/3 = 7/6।",
-   "solution_en": "Convert to LCM(2,3) then add: 1/2+2/3 = 7/6.",
+   "solution_hi": "LCM(3,5) पर ले जाकर जोड़ने पर 2/3+3/5 = 19/15।",
+   "solution_en": "Convert to LCM(3,5) then add: 2/3+3/5 = 19/15.",
    "gen_params": {
     "tpl": "rational_add",
-    "a": 1,
-    "b": 2,
-    "c": 2,
-    "d": 3
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "3/5 + 3/6 = ?",
-   "text_en": "3/5 + 3/6 = ?",
-   "options": [
-    "16/15",
-    "1/10",
-    "6/11",
-    "11/10"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "हर समान बनाइए (LCM लें)।",
-   "hint_en": "Make denominators equal first (take LCM).",
-   "solution_hi": "LCM(5,6) पर ले जाकर जोड़ने पर 3/5+3/6 = 11/10।",
-   "solution_en": "Convert to LCM(5,6) then add: 3/5+3/6 = 11/10.",
-   "gen_params": {
-    "tpl": "rational_add",
-    "a": 3,
-    "b": 5,
+    "a": 2,
+    "b": 3,
     "c": 3,
-    "d": 6
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "1/2 + 1/3 = ?",
-   "text_en": "1/2 + 1/3 = ?",
-   "options": [
-    "1/6",
-    "2/5",
-    "5/6",
-    "2/3"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "हर समान बनाइए (LCM लें)।",
-   "hint_en": "Make denominators equal first (take LCM).",
-   "solution_hi": "LCM(2,3) पर ले जाकर जोड़ने पर 1/2+1/3 = 5/6।",
-   "solution_en": "Convert to LCM(2,3) then add: 1/2+1/3 = 5/6.",
-   "gen_params": {
-    "tpl": "rational_add",
-    "a": 1,
-    "b": 2,
-    "c": 1,
-    "d": 3
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "1/4 + 1/5 = ?",
-   "text_en": "1/4 + 1/5 = ?",
-   "options": [
-    "2/5",
-    "1/20",
-    "2/9",
-    "9/20"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "हर समान बनाइए (LCM लें)।",
-   "hint_en": "Make denominators equal first (take LCM).",
-   "solution_hi": "LCM(4,5) पर ले जाकर जोड़ने पर 1/4+1/5 = 9/20।",
-   "solution_en": "Convert to LCM(4,5) then add: 1/4+1/5 = 9/20.",
-   "gen_params": {
-    "tpl": "rational_add",
-    "a": 1,
-    "b": 4,
-    "c": 1,
     "d": 5
    }
   },
@@ -225,9 +57,9 @@
    "text_hi": "2/3 + 2/5 = ?",
    "text_en": "2/3 + 2/5 = ?",
    "options": [
-    "4/15",
-    "1",
     "1/2",
+    "1",
+    "4/15",
     "16/15"
    ],
    "correct_idx": 3,
@@ -246,15 +78,159 @@
   {
    "skill_id": "m8c1s1",
    "difficulty": 1,
+   "text_hi": "2/3 + 1/4 = ?",
+   "text_en": "2/3 + 1/4 = ?",
+   "options": [
+    "5/12",
+    "5/6",
+    "3/7",
+    "11/12"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "हर समान बनाइए (LCM लें)।",
+   "hint_en": "Make denominators equal first (take LCM).",
+   "solution_hi": "LCM(3,4) पर ले जाकर जोड़ने पर 2/3+1/4 = 11/12।",
+   "solution_en": "Convert to LCM(3,4) then add: 2/3+1/4 = 11/12.",
+   "gen_params": {
+    "tpl": "rational_add",
+    "a": 2,
+    "b": 3,
+    "c": 1,
+    "d": 4
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "1/2 + 1/5 = ?",
+   "text_en": "1/2 + 1/5 = ?",
+   "options": [
+    "3/5",
+    "3/10",
+    "2/7",
+    "7/10"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "हर समान बनाइए (LCM लें)।",
+   "hint_en": "Make denominators equal first (take LCM).",
+   "solution_hi": "LCM(2,5) पर ले जाकर जोड़ने पर 1/2+1/5 = 7/10।",
+   "solution_en": "Convert to LCM(2,5) then add: 1/2+1/5 = 7/10.",
+   "gen_params": {
+    "tpl": "rational_add",
+    "a": 1,
+    "b": 2,
+    "c": 1,
+    "d": 5
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "3/4 + 2/5 = ?",
+   "text_en": "3/4 + 2/5 = ?",
+   "options": [
+    "23/20",
+    "5/9",
+    "7/20",
+    "11/10"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हर समान बनाइए (LCM लें)।",
+   "hint_en": "Make denominators equal first (take LCM).",
+   "solution_hi": "LCM(4,5) पर ले जाकर जोड़ने पर 3/4+2/5 = 23/20।",
+   "solution_en": "Convert to LCM(4,5) then add: 3/4+2/5 = 23/20.",
+   "gen_params": {
+    "tpl": "rational_add",
+    "a": 3,
+    "b": 4,
+    "c": 2,
+    "d": 5
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "2/5 + 3/6 = ?",
+   "text_en": "2/5 + 3/6 = ?",
+   "options": [
+    "9/10",
+    "-1/10",
+    "13/15",
+    "5/11"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हर समान बनाइए (LCM लें)।",
+   "hint_en": "Make denominators equal first (take LCM).",
+   "solution_hi": "LCM(5,6) पर ले जाकर जोड़ने पर 2/5+3/6 = 9/10।",
+   "solution_en": "Convert to LCM(5,6) then add: 2/5+3/6 = 9/10.",
+   "gen_params": {
+    "tpl": "rational_add",
+    "a": 2,
+    "b": 5,
+    "c": 3,
+    "d": 6
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "2/3 + 2/4 = ?",
+   "text_en": "2/3 + 2/4 = ?",
+   "options": [
+    "13/12",
+    "1/6",
+    "4/7",
+    "7/6"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "हर समान बनाइए (LCM लें)।",
+   "hint_en": "Make denominators equal first (take LCM).",
+   "solution_hi": "LCM(3,4) पर ले जाकर जोड़ने पर 2/3+2/4 = 7/6।",
+   "solution_en": "Convert to LCM(3,4) then add: 2/3+2/4 = 7/6.",
+   "gen_params": {
+    "tpl": "rational_add",
+    "a": 2,
+    "b": 3,
+    "c": 2,
+    "d": 4
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "3/4 + 1/5 = ?",
+   "text_en": "3/4 + 1/5 = ?",
+   "options": [
+    "4/9",
+    "11/20",
+    "19/20",
+    "9/10"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "हर समान बनाइए (LCM लें)।",
+   "hint_en": "Make denominators equal first (take LCM).",
+   "solution_hi": "LCM(4,5) पर ले जाकर जोड़ने पर 3/4+1/5 = 19/20।",
+   "solution_en": "Convert to LCM(4,5) then add: 3/4+1/5 = 19/20.",
+   "gen_params": {
+    "tpl": "rational_add",
+    "a": 3,
+    "b": 4,
+    "c": 1,
+    "d": 5
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
    "text_hi": "1/5 + 4/6 = ?",
    "text_en": "1/5 + 4/6 = ?",
    "options": [
-    "5/6",
     "13/15",
     "5/11",
+    "5/6",
     "-7/15"
    ],
-   "correct_idx": 1,
+   "correct_idx": 0,
    "hint_hi": "हर समान बनाइए (LCM लें)।",
    "hint_en": "Make denominators equal first (take LCM).",
    "solution_hi": "LCM(5,6) पर ले जाकर जोड़ने पर 1/5+4/6 = 13/15।",
@@ -270,120 +246,72 @@
   {
    "skill_id": "m8c1s1",
    "difficulty": 1,
-   "text_hi": "1/2 + 4/5 = ?",
-   "text_en": "1/2 + 4/5 = ?",
+   "text_hi": "2/3 + 1/5 = ?",
+   "text_en": "2/3 + 1/5 = ?",
    "options": [
-    "5/7",
-    "-3/10",
-    "6/5",
-    "13/10"
+    "4/5",
+    "3/8",
+    "13/15",
+    "7/15"
    ],
-   "correct_idx": 3,
+   "correct_idx": 2,
    "hint_hi": "हर समान बनाइए (LCM लें)।",
    "hint_en": "Make denominators equal first (take LCM).",
-   "solution_hi": "LCM(2,5) पर ले जाकर जोड़ने पर 1/2+4/5 = 13/10।",
-   "solution_en": "Convert to LCM(2,5) then add: 1/2+4/5 = 13/10.",
+   "solution_hi": "LCM(3,5) पर ले जाकर जोड़ने पर 2/3+1/5 = 13/15।",
+   "solution_en": "Convert to LCM(3,5) then add: 2/3+1/5 = 13/15.",
+   "gen_params": {
+    "tpl": "rational_add",
+    "a": 2,
+    "b": 3,
+    "c": 1,
+    "d": 5
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "1/5 + 5/6 = ?",
+   "text_en": "1/5 + 5/6 = ?",
+   "options": [
+    "31/30",
+    "1",
+    "-19/30",
+    "6/11"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हर समान बनाइए (LCM लें)।",
+   "hint_en": "Make denominators equal first (take LCM).",
+   "solution_hi": "LCM(5,6) पर ले जाकर जोड़ने पर 1/5+5/6 = 31/30।",
+   "solution_en": "Convert to LCM(5,6) then add: 1/5+5/6 = 31/30.",
    "gen_params": {
     "tpl": "rational_add",
     "a": 1,
-    "b": 2,
-    "c": 4,
-    "d": 5
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "1/4 - 3/5 = ?",
-   "text_en": "1/4 - 3/5 = ?",
-   "options": [
-    "7/20",
-    "-1/10",
-    "17/20",
-    "-7/20"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
-   "hint_en": "Equalise denominators first, then subtract.",
-   "solution_hi": "1/4-3/5 को LCM हर पर लिखकर घटाने पर -7/20 मिलता है।",
-   "solution_en": "Writing 1/4-3/5 over the LCM and subtracting gives -7/20.",
-   "gen_params": {
-    "tpl": "rational_sub",
-    "a": 1,
-    "b": 4,
-    "c": 3,
-    "d": 5
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "3/5 - 1/6 = ?",
-   "text_en": "3/5 - 1/6 = ?",
-   "options": [
-    "23/30",
-    "13/30",
-    "1/15",
-    "-13/30"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
-   "hint_en": "Equalise denominators first, then subtract.",
-   "solution_hi": "3/5-1/6 को LCM हर पर लिखकर घटाने पर 13/30 मिलता है।",
-   "solution_en": "Writing 3/5-1/6 over the LCM and subtracting gives 13/30.",
-   "gen_params": {
-    "tpl": "rational_sub",
-    "a": 3,
     "b": 5,
-    "c": 1,
+    "c": 5,
     "d": 6
    }
   },
   {
    "skill_id": "m8c1s1",
    "difficulty": 1,
-   "text_hi": "2/3 - 3/4 = ?",
-   "text_en": "2/3 - 3/4 = ?",
+   "text_hi": "2/4 - 1/5 = ?",
+   "text_en": "2/4 - 1/5 = ?",
    "options": [
-    "-1/120",
-    "17/12",
-    "1/12",
-    "-1/12"
+    "1/20",
+    "7/10",
+    "3/10",
+    "-3/10"
    ],
-   "correct_idx": 3,
+   "correct_idx": 2,
    "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
    "hint_en": "Equalise denominators first, then subtract.",
-   "solution_hi": "2/3-3/4 को LCM हर पर लिखकर घटाने पर -1/12 मिलता है।",
-   "solution_en": "Writing 2/3-3/4 over the LCM and subtracting gives -1/12.",
-   "gen_params": {
-    "tpl": "rational_sub",
-    "a": 2,
-    "b": 3,
-    "c": 3,
-    "d": 4
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "2/4 - 2/5 = ?",
-   "text_en": "2/4 - 2/5 = ?",
-   "options": [
-    "-1/10",
-    "1/10",
-    "0",
-    "9/10"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
-   "hint_en": "Equalise denominators first, then subtract.",
-   "solution_hi": "2/4-2/5 को LCM हर पर लिखकर घटाने पर 1/10 मिलता है।",
-   "solution_en": "Writing 2/4-2/5 over the LCM and subtracting gives 1/10.",
+   "solution_hi": "2/4-1/5 को LCM हर पर लिखकर घटाने पर 3/10 मिलता है।",
+   "solution_en": "Writing 2/4-1/5 over the LCM and subtracting gives 3/10.",
    "gen_params": {
     "tpl": "rational_sub",
     "a": 2,
     "b": 4,
-    "c": 2,
+    "c": 1,
     "d": 5
    }
   },
@@ -414,46 +342,22 @@
   {
    "skill_id": "m8c1s1",
    "difficulty": 1,
-   "text_hi": "2/3 - 7/8 = ?",
-   "text_en": "2/3 - 7/8 = ?",
+   "text_hi": "1/3 - 1/4 = ?",
+   "text_en": "1/3 - 1/4 = ?",
    "options": [
-    "5/24",
-    "37/24",
-    "-5/24",
-    "-5/240"
+    "-1/12",
+    "7/12",
+    "0",
+    "1/12"
    ],
-   "correct_idx": 2,
+   "correct_idx": 3,
    "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
    "hint_en": "Equalise denominators first, then subtract.",
-   "solution_hi": "2/3-7/8 को LCM हर पर लिखकर घटाने पर -5/24 मिलता है।",
-   "solution_en": "Writing 2/3-7/8 over the LCM and subtracting gives -5/24.",
+   "solution_hi": "1/3-1/4 को LCM हर पर लिखकर घटाने पर 1/12 मिलता है।",
+   "solution_en": "Writing 1/3-1/4 over the LCM and subtracting gives 1/12.",
    "gen_params": {
     "tpl": "rational_sub",
-    "a": 2,
-    "b": 3,
-    "c": 7,
-    "d": 8
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "2/3 - 1/4 = ?",
-   "text_en": "2/3 - 1/4 = ?",
-   "options": [
-    "11/12",
-    "5/12",
-    "1/12",
-    "-5/12"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
-   "hint_en": "Equalise denominators first, then subtract.",
-   "solution_hi": "2/3-1/4 को LCM हर पर लिखकर घटाने पर 5/12 मिलता है।",
-   "solution_en": "Writing 2/3-1/4 over the LCM and subtracting gives 5/12.",
-   "gen_params": {
-    "tpl": "rational_sub",
-    "a": 2,
+    "a": 1,
     "b": 3,
     "c": 1,
     "d": 4
@@ -462,25 +366,193 @@
   {
    "skill_id": "m8c1s1",
    "difficulty": 1,
-   "text_hi": "1/2 - 2/3 = ?",
-   "text_en": "1/2 - 2/3 = ?",
+   "text_hi": "1/3 - 2/8 = ?",
+   "text_en": "1/3 - 2/8 = ?",
    "options": [
-    "-1/60",
-    "1/6",
-    "-1/6",
-    "7/6"
+    "-1/12",
+    "-1/24",
+    "7/12",
+    "1/12"
    ],
-   "correct_idx": 2,
+   "correct_idx": 3,
    "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
    "hint_en": "Equalise denominators first, then subtract.",
-   "solution_hi": "1/2-2/3 को LCM हर पर लिखकर घटाने पर -1/6 मिलता है।",
-   "solution_en": "Writing 1/2-2/3 over the LCM and subtracting gives -1/6.",
+   "solution_hi": "1/3-2/8 को LCM हर पर लिखकर घटाने पर 1/12 मिलता है।",
+   "solution_en": "Writing 1/3-2/8 over the LCM and subtracting gives 1/12.",
    "gen_params": {
     "tpl": "rational_sub",
     "a": 1,
-    "b": 2,
+    "b": 3,
     "c": 2,
-    "d": 3
+    "d": 8
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "3/4 - 4/5 = ?",
+   "text_en": "3/4 - 4/5 = ?",
+   "options": [
+    "-1/20",
+    "31/20",
+    "1/20",
+    "-1/200"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
+   "hint_en": "Equalise denominators first, then subtract.",
+   "solution_hi": "3/4-4/5 को LCM हर पर लिखकर घटाने पर -1/20 मिलता है।",
+   "solution_en": "Writing 3/4-4/5 over the LCM and subtracting gives -1/20.",
+   "gen_params": {
+    "tpl": "rational_sub",
+    "a": 3,
+    "b": 4,
+    "c": 4,
+    "d": 5
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "1/3 - 2/4 = ?",
+   "text_en": "1/3 - 2/4 = ?",
+   "options": [
+    "-1/12",
+    "-1/6",
+    "1/6",
+    "5/6"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
+   "hint_en": "Equalise denominators first, then subtract.",
+   "solution_hi": "1/3-2/4 को LCM हर पर लिखकर घटाने पर -1/6 मिलता है।",
+   "solution_en": "Writing 1/3-2/4 over the LCM and subtracting gives -1/6.",
+   "gen_params": {
+    "tpl": "rational_sub",
+    "a": 1,
+    "b": 3,
+    "c": 2,
+    "d": 4
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "2/3 - 3/4 = ?",
+   "text_en": "2/3 - 3/4 = ?",
+   "options": [
+    "17/12",
+    "-1/12",
+    "-1/120",
+    "1/12"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
+   "hint_en": "Equalise denominators first, then subtract.",
+   "solution_hi": "2/3-3/4 को LCM हर पर लिखकर घटाने पर -1/12 मिलता है।",
+   "solution_en": "Writing 2/3-3/4 over the LCM and subtracting gives -1/12.",
+   "gen_params": {
+    "tpl": "rational_sub",
+    "a": 2,
+    "b": 3,
+    "c": 3,
+    "d": 4
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "4/5 - 4/6 = ?",
+   "text_en": "4/5 - 4/6 = ?",
+   "options": [
+    "2/15",
+    "0",
+    "-2/15",
+    "22/15"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
+   "hint_en": "Equalise denominators first, then subtract.",
+   "solution_hi": "4/5-4/6 को LCM हर पर लिखकर घटाने पर 2/15 मिलता है।",
+   "solution_en": "Writing 4/5-4/6 over the LCM and subtracting gives 2/15.",
+   "gen_params": {
+    "tpl": "rational_sub",
+    "a": 4,
+    "b": 5,
+    "c": 4,
+    "d": 6
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "4/5 - 2/6 = ?",
+   "text_en": "4/5 - 2/6 = ?",
+   "options": [
+    "7/15",
+    "17/15",
+    "1/15",
+    "-7/15"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
+   "hint_en": "Equalise denominators first, then subtract.",
+   "solution_hi": "4/5-2/6 को LCM हर पर लिखकर घटाने पर 7/15 मिलता है।",
+   "solution_en": "Writing 4/5-2/6 over the LCM and subtracting gives 7/15.",
+   "gen_params": {
+    "tpl": "rational_sub",
+    "a": 4,
+    "b": 5,
+    "c": 2,
+    "d": 6
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "1/5 - 1/6 = ?",
+   "text_en": "1/5 - 1/6 = ?",
+   "options": [
+    "0",
+    "-1/30",
+    "11/30",
+    "1/30"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
+   "hint_en": "Equalise denominators first, then subtract.",
+   "solution_hi": "1/5-1/6 को LCM हर पर लिखकर घटाने पर 1/30 मिलता है।",
+   "solution_en": "Writing 1/5-1/6 over the LCM and subtracting gives 1/30.",
+   "gen_params": {
+    "tpl": "rational_sub",
+    "a": 1,
+    "b": 5,
+    "c": 1,
+    "d": 6
+   }
+  },
+  {
+   "skill_id": "m8c1s1",
+   "difficulty": 1,
+   "text_hi": "3/5 - 2/6 = ?",
+   "text_en": "3/5 - 2/6 = ?",
+   "options": [
+    "1/30",
+    "4/15",
+    "14/15",
+    "-4/15"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
+   "hint_en": "Equalise denominators first, then subtract.",
+   "solution_hi": "3/5-2/6 को LCM हर पर लिखकर घटाने पर 4/15 मिलता है।",
+   "solution_en": "Writing 3/5-2/6 over the LCM and subtracting gives 4/15.",
+   "gen_params": {
+    "tpl": "rational_sub",
+    "a": 3,
+    "b": 5,
+    "c": 2,
+    "d": 6
    }
   },
   {
@@ -489,12 +561,12 @@
    "text_hi": "1/3 - 3/4 = ?",
    "text_en": "1/3 - 3/4 = ?",
    "options": [
+    "-5/12",
     "-1/6",
     "13/12",
-    "-5/12",
     "5/12"
    ],
-   "correct_idx": 2,
+   "correct_idx": 0,
    "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
    "hint_en": "Equalise denominators first, then subtract.",
    "solution_hi": "1/3-3/4 को LCM हर पर लिखकर घटाने पर -5/12 मिलता है।",
@@ -508,393 +580,342 @@
    }
   },
   {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "3/5 - 3/6 = ?",
-   "text_en": "3/5 - 3/6 = ?",
-   "options": [
-    "0",
-    "11/10",
-    "1/10",
-    "-1/10"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
-   "hint_en": "Equalise denominators first, then subtract.",
-   "solution_hi": "3/5-3/6 को LCM हर पर लिखकर घटाने पर 1/10 मिलता है।",
-   "solution_en": "Writing 3/5-3/6 over the LCM and subtracting gives 1/10.",
-   "gen_params": {
-    "tpl": "rational_sub",
-    "a": 3,
-    "b": 5,
-    "c": 3,
-    "d": 6
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "1/4 - 4/5 = ?",
-   "text_en": "1/4 - 4/5 = ?",
-   "options": [
-    "21/20",
-    "-11/20",
-    "11/20",
-    "-3/20"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
-   "hint_en": "Equalise denominators first, then subtract.",
-   "solution_hi": "1/4-4/5 को LCM हर पर लिखकर घटाने पर -11/20 मिलता है।",
-   "solution_en": "Writing 1/4-4/5 over the LCM and subtracting gives -11/20.",
-   "gen_params": {
-    "tpl": "rational_sub",
-    "a": 1,
-    "b": 4,
-    "c": 4,
-    "d": 5
-   }
-  },
-  {
-   "skill_id": "m8c1s1",
-   "difficulty": 1,
-   "text_hi": "4/5 - 5/6 = ?",
-   "text_en": "4/5 - 5/6 = ?",
-   "options": [
-    "-1/300",
-    "-1/30",
-    "49/30",
-    "1/30"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "पहले हर समान कीजिए, फिर घटाइए।",
-   "hint_en": "Equalise denominators first, then subtract.",
-   "solution_hi": "4/5-5/6 को LCM हर पर लिखकर घटाने पर -1/30 मिलता है।",
-   "solution_en": "Writing 4/5-5/6 over the LCM and subtracting gives -1/30.",
-   "gen_params": {
-    "tpl": "rational_sub",
-    "a": 4,
-    "b": 5,
-    "c": 5,
-    "d": 6
-   }
-  },
-  {
    "skill_id": "m8c2s1",
    "difficulty": 1,
-   "text_hi": "x निकालिए: 2x - 2 = 6",
-   "text_en": "Solve for x: 2x - 2 = 6",
+   "text_hi": "x निकालिए: 6x - 8 = 28",
+   "text_en": "Solve for x: 6x - 8 = 28",
    "options": [
-    "4",
-    "-4",
-    "5",
-    "3"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "-2 दूसरी ओर भेजिए, फिर 2 से भाग दीजिए।",
-   "hint_en": "Move 2 to the other side, then divide by 2.",
-   "solution_hi": "2x = 8; x = 8/2 = 4।",
-   "solution_en": "2x = 8; x = 8/2 = 4.",
-   "gen_params": {
-    "tpl": "linear_eq",
-    "x": 4,
-    "a": 2,
-    "b": -2
-   }
-  },
-  {
-   "skill_id": "m8c2s1",
-   "difficulty": 1,
-   "text_hi": "x निकालिए: 4x + 7 = 35",
-   "text_en": "Solve for x: 4x + 7 = 35",
-   "options": [
-    "8",
+    "-6",
     "7",
     "6",
-    "-7"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "+7 दूसरी ओर भेजिए, फिर 4 से भाग दीजिए।",
-   "hint_en": "Move 7 to the other side, then divide by 4.",
-   "solution_hi": "4x = 28; x = 28/4 = 7।",
-   "solution_en": "4x = 28; x = 28/4 = 7.",
-   "gen_params": {
-    "tpl": "linear_eq",
-    "x": 7,
-    "a": 4,
-    "b": 7
-   }
-  },
-  {
-   "skill_id": "m8c2s1",
-   "difficulty": 1,
-   "text_hi": "x निकालिए: 2x - 4 = 10",
-   "text_en": "Solve for x: 2x - 4 = 10",
-   "options": [
-    "8",
-    "6",
-    "7",
-    "-7"
+    "5"
    ],
    "correct_idx": 2,
-   "hint_hi": "-4 दूसरी ओर भेजिए, फिर 2 से भाग दीजिए।",
-   "hint_en": "Move 4 to the other side, then divide by 2.",
-   "solution_hi": "2x = 14; x = 14/2 = 7।",
-   "solution_en": "2x = 14; x = 14/2 = 7.",
+   "hint_hi": "-8 दूसरी ओर भेजिए, फिर 6 से भाग दीजिए।",
+   "hint_en": "Move 8 to the other side, then divide by 6.",
+   "solution_hi": "6x = 36; x = 36/6 = 6।",
+   "solution_en": "6x = 36; x = 36/6 = 6.",
    "gen_params": {
     "tpl": "linear_eq",
-    "x": 7,
-    "a": 2,
-    "b": -4
-   }
-  },
-  {
-   "skill_id": "m8c2s1",
-   "difficulty": 1,
-   "text_hi": "x निकालिए: 5x - 8 = 17",
-   "text_en": "Solve for x: 5x - 8 = 17",
-   "options": [
-    "-5",
-    "4",
-    "5",
-    "6"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "-8 दूसरी ओर भेजिए, फिर 5 से भाग दीजिए।",
-   "hint_en": "Move 8 to the other side, then divide by 5.",
-   "solution_hi": "5x = 25; x = 25/5 = 5।",
-   "solution_en": "5x = 25; x = 25/5 = 5.",
-   "gen_params": {
-    "tpl": "linear_eq",
-    "x": 5,
-    "a": 5,
+    "x": 6,
+    "a": 6,
     "b": -8
    }
   },
   {
    "skill_id": "m8c2s1",
    "difficulty": 1,
-   "text_hi": "x निकालिए: 2x - 4 = 0",
-   "text_en": "Solve for x: 2x - 4 = 0",
+   "text_hi": "x निकालिए: 2x - 6 = 2",
+   "text_en": "Solve for x: 2x - 6 = 2",
    "options": [
-    "1",
-    "-2",
-    "2",
-    "3"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "-4 दूसरी ओर भेजिए, फिर 2 से भाग दीजिए।",
-   "hint_en": "Move 4 to the other side, then divide by 2.",
-   "solution_hi": "2x = 4; x = 4/2 = 2।",
-   "solution_en": "2x = 4; x = 4/2 = 2.",
-   "gen_params": {
-    "tpl": "linear_eq",
-    "x": 2,
-    "a": 2,
-    "b": -4
-   }
-  },
-  {
-   "skill_id": "m8c2s1",
-   "difficulty": 1,
-   "text_hi": "x निकालिए: 4x + 6 = 38",
-   "text_en": "Solve for x: 4x + 6 = 38",
-   "options": [
-    "9",
-    "7",
-    "8",
-    "-8"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "+6 दूसरी ओर भेजिए, फिर 4 से भाग दीजिए।",
-   "hint_en": "Move 6 to the other side, then divide by 4.",
-   "solution_hi": "4x = 32; x = 32/4 = 8।",
-   "solution_en": "4x = 32; x = 32/4 = 8.",
-   "gen_params": {
-    "tpl": "linear_eq",
-    "x": 8,
-    "a": 4,
-    "b": 6
-   }
-  },
-  {
-   "skill_id": "m8c2s1",
-   "difficulty": 1,
-   "text_hi": "x निकालिए: 3x + 9 = 15",
-   "text_en": "Solve for x: 3x + 9 = 15",
-   "options": [
+    "4",
+    "5",
     "3",
-    "1",
-    "-2",
-    "2"
+    "-4"
    ],
-   "correct_idx": 3,
-   "hint_hi": "+9 दूसरी ओर भेजिए, फिर 3 से भाग दीजिए।",
-   "hint_en": "Move 9 to the other side, then divide by 3.",
-   "solution_hi": "3x = 6; x = 6/3 = 2।",
-   "solution_en": "3x = 6; x = 6/3 = 2.",
+   "correct_idx": 0,
+   "hint_hi": "-6 दूसरी ओर भेजिए, फिर 2 से भाग दीजिए।",
+   "hint_en": "Move 6 to the other side, then divide by 2.",
+   "solution_hi": "2x = 8; x = 8/2 = 4।",
+   "solution_en": "2x = 8; x = 8/2 = 4.",
    "gen_params": {
     "tpl": "linear_eq",
-    "x": 2,
-    "a": 3,
+    "x": 4,
+    "a": 2,
+    "b": -6
+   }
+  },
+  {
+   "skill_id": "m8c2s1",
+   "difficulty": 1,
+   "text_hi": "x निकालिए: 2x + 9 = 29",
+   "text_en": "Solve for x: 2x + 9 = 29",
+   "options": [
+    "-10",
+    "9",
+    "10",
+    "11"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "+9 दूसरी ओर भेजिए, फिर 2 से भाग दीजिए।",
+   "hint_en": "Move 9 to the other side, then divide by 2.",
+   "solution_hi": "2x = 20; x = 20/2 = 10।",
+   "solution_en": "2x = 20; x = 20/2 = 10.",
+   "gen_params": {
+    "tpl": "linear_eq",
+    "x": 10,
+    "a": 2,
     "b": 9
    }
   },
   {
    "skill_id": "m8c2s1",
    "difficulty": 1,
-   "text_hi": "x निकालिए: 2x - 9 = 3",
-   "text_en": "Solve for x: 2x - 9 = 3",
+   "text_hi": "x निकालिए: 2x + 6 = 30",
+   "text_en": "Solve for x: 2x + 6 = 30",
    "options": [
-    "6",
-    "7",
+    "13",
+    "11",
+    "12",
+    "-12"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "+6 दूसरी ओर भेजिए, फिर 2 से भाग दीजिए।",
+   "hint_en": "Move 6 to the other side, then divide by 2.",
+   "solution_hi": "2x = 24; x = 24/2 = 12।",
+   "solution_en": "2x = 24; x = 24/2 = 12.",
+   "gen_params": {
+    "tpl": "linear_eq",
+    "x": 12,
+    "a": 2,
+    "b": 6
+   }
+  },
+  {
+   "skill_id": "m8c2s1",
+   "difficulty": 1,
+   "text_hi": "x निकालिए: 4x - 3 = 21",
+   "text_en": "Solve for x: 4x - 3 = 21",
+   "options": [
     "5",
-    "-6"
+    "-6",
+    "7",
+    "6"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "-3 दूसरी ओर भेजिए, फिर 4 से भाग दीजिए।",
+   "hint_en": "Move 3 to the other side, then divide by 4.",
+   "solution_hi": "4x = 24; x = 24/4 = 6।",
+   "solution_en": "4x = 24; x = 24/4 = 6.",
+   "gen_params": {
+    "tpl": "linear_eq",
+    "x": 6,
+    "a": 4,
+    "b": -3
+   }
+  },
+  {
+   "skill_id": "m8c2s1",
+   "difficulty": 1,
+   "text_hi": "x निकालिए: 6x - 7 = 35",
+   "text_en": "Solve for x: 6x - 7 = 35",
+   "options": [
+    "8",
+    "7",
+    "6",
+    "-7"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "-7 दूसरी ओर भेजिए, फिर 6 से भाग दीजिए।",
+   "hint_en": "Move 7 to the other side, then divide by 6.",
+   "solution_hi": "6x = 42; x = 42/6 = 7।",
+   "solution_en": "6x = 42; x = 42/6 = 7.",
+   "gen_params": {
+    "tpl": "linear_eq",
+    "x": 7,
+    "a": 6,
+    "b": -7
+   }
+  },
+  {
+   "skill_id": "m8c2s1",
+   "difficulty": 1,
+   "text_hi": "x निकालिए: 3x + 2 = 11",
+   "text_en": "Solve for x: 3x + 2 = 11",
+   "options": [
+    "-3",
+    "4",
+    "2",
+    "3"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "+2 दूसरी ओर भेजिए, फिर 3 से भाग दीजिए।",
+   "hint_en": "Move 2 to the other side, then divide by 3.",
+   "solution_hi": "3x = 9; x = 9/3 = 3।",
+   "solution_en": "3x = 9; x = 9/3 = 3.",
+   "gen_params": {
+    "tpl": "linear_eq",
+    "x": 3,
+    "a": 3,
+    "b": 2
+   }
+  },
+  {
+   "skill_id": "m8c2s1",
+   "difficulty": 1,
+   "text_hi": "x निकालिए: 3x + 6 = 15",
+   "text_en": "Solve for x: 3x + 6 = 15",
+   "options": [
+    "2",
+    "4",
+    "-3",
+    "3"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "+6 दूसरी ओर भेजिए, फिर 3 से भाग दीजिए।",
+   "hint_en": "Move 6 to the other side, then divide by 3.",
+   "solution_hi": "3x = 9; x = 9/3 = 3।",
+   "solution_en": "3x = 9; x = 9/3 = 3.",
+   "gen_params": {
+    "tpl": "linear_eq",
+    "x": 3,
+    "a": 3,
+    "b": 6
+   }
+  },
+  {
+   "skill_id": "m8c2s1",
+   "difficulty": 1,
+   "text_hi": "x निकालिए: 4x + 4 = 20",
+   "text_en": "Solve for x: 4x + 4 = 20",
+   "options": [
+    "-4",
+    "5",
+    "3",
+    "4"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "+4 दूसरी ओर भेजिए, फिर 4 से भाग दीजिए।",
+   "hint_en": "Move 4 to the other side, then divide by 4.",
+   "solution_hi": "4x = 16; x = 16/4 = 4।",
+   "solution_en": "4x = 16; x = 16/4 = 4.",
+   "gen_params": {
+    "tpl": "linear_eq",
+    "x": 4,
+    "a": 4,
+    "b": 4
+   }
+  },
+  {
+   "skill_id": "m8c2s1",
+   "difficulty": 1,
+   "text_hi": "x निकालिए: 5x + 7 = 62",
+   "text_en": "Solve for x: 5x + 7 = 62",
+   "options": [
+    "11",
+    "-11",
+    "12",
+    "10"
    ],
    "correct_idx": 0,
-   "hint_hi": "-9 दूसरी ओर भेजिए, फिर 2 से भाग दीजिए।",
-   "hint_en": "Move 9 to the other side, then divide by 2.",
+   "hint_hi": "+7 दूसरी ओर भेजिए, फिर 5 से भाग दीजिए।",
+   "hint_en": "Move 7 to the other side, then divide by 5.",
+   "solution_hi": "5x = 55; x = 55/5 = 11।",
+   "solution_en": "5x = 55; x = 55/5 = 11.",
+   "gen_params": {
+    "tpl": "linear_eq",
+    "x": 11,
+    "a": 5,
+    "b": 7
+   }
+  },
+  {
+   "skill_id": "m8c2s1",
+   "difficulty": 1,
+   "text_hi": "x निकालिए: 6x + 2 = 14",
+   "text_en": "Solve for x: 6x + 2 = 14",
+   "options": [
+    "2",
+    "3",
+    "-2",
+    "1"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "+2 दूसरी ओर भेजिए, फिर 6 से भाग दीजिए।",
+   "hint_en": "Move 2 to the other side, then divide by 6.",
+   "solution_hi": "6x = 12; x = 12/6 = 2।",
+   "solution_en": "6x = 12; x = 12/6 = 2.",
+   "gen_params": {
+    "tpl": "linear_eq",
+    "x": 2,
+    "a": 6,
+    "b": 2
+   }
+  },
+  {
+   "skill_id": "m8c2s1",
+   "difficulty": 1,
+   "text_hi": "x निकालिए: 2x + 7 = 19",
+   "text_en": "Solve for x: 2x + 7 = 19",
+   "options": [
+    "7",
+    "5",
+    "-6",
+    "6"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "+7 दूसरी ओर भेजिए, फिर 2 से भाग दीजिए।",
+   "hint_en": "Move 7 to the other side, then divide by 2.",
    "solution_hi": "2x = 12; x = 12/2 = 6।",
    "solution_en": "2x = 12; x = 12/2 = 6.",
    "gen_params": {
     "tpl": "linear_eq",
     "x": 6,
     "a": 2,
-    "b": -9
+    "b": 7
    }
   },
   {
-   "skill_id": "m8c2s1",
+   "skill_id": "m8c5s1",
    "difficulty": 1,
-   "text_hi": "x निकालिए: 6x + 3 = 75",
-   "text_en": "Solve for x: 6x + 3 = 75",
+   "text_hi": "√729 = ?",
+   "text_en": "√729 = ?",
    "options": [
-    "-12",
-    "11",
-    "13",
-    "12"
+    "29",
+    "26",
+    "28",
+    "27"
    ],
    "correct_idx": 3,
-   "hint_hi": "+3 दूसरी ओर भेजिए, फिर 6 से भाग दीजिए।",
-   "hint_en": "Move 3 to the other side, then divide by 6.",
-   "solution_hi": "6x = 72; x = 72/6 = 12।",
-   "solution_en": "6x = 72; x = 72/6 = 12.",
+   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
+   "hint_en": "Think of the number whose square gives this value.",
+   "solution_hi": "27×27 = 729, अतः √729 = 27।",
+   "solution_en": "27×27 = 729, so √729 = 27.",
    "gen_params": {
-    "tpl": "linear_eq",
-    "x": 12,
-    "a": 6,
-    "b": 3
+    "tpl": "square_root",
+    "n": 27
    }
   },
   {
-   "skill_id": "m8c2s1",
+   "skill_id": "m8c5s1",
    "difficulty": 1,
-   "text_hi": "x निकालिए: 3x - 6 = 21",
-   "text_en": "Solve for x: 3x - 6 = 21",
+   "text_hi": "√484 = ?",
+   "text_en": "√484 = ?",
+   "options": [
+    "21",
+    "23",
+    "11",
+    "22"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
+   "hint_en": "Think of the number whose square gives this value.",
+   "solution_hi": "22×22 = 484, अतः √484 = 22।",
+   "solution_en": "22×22 = 484, so √484 = 22.",
+   "gen_params": {
+    "tpl": "square_root",
+    "n": 22
+   }
+  },
+  {
+   "skill_id": "m8c5s1",
+   "difficulty": 1,
+   "text_hi": "√324 = ?",
+   "text_en": "√324 = ?",
    "options": [
     "9",
-    "-9",
-    "8",
-    "10"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "-6 दूसरी ओर भेजिए, फिर 3 से भाग दीजिए।",
-   "hint_en": "Move 6 to the other side, then divide by 3.",
-   "solution_hi": "3x = 27; x = 27/3 = 9।",
-   "solution_en": "3x = 27; x = 27/3 = 9.",
-   "gen_params": {
-    "tpl": "linear_eq",
-    "x": 9,
-    "a": 3,
-    "b": -6
-   }
-  },
-  {
-   "skill_id": "m8c2s1",
-   "difficulty": 1,
-   "text_hi": "x निकालिए: 6x - 6 = 12",
-   "text_en": "Solve for x: 6x - 6 = 12",
-   "options": [
-    "2",
-    "3",
-    "-3",
-    "4"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "-6 दूसरी ओर भेजिए, फिर 6 से भाग दीजिए।",
-   "hint_en": "Move 6 to the other side, then divide by 6.",
-   "solution_hi": "6x = 18; x = 18/6 = 3।",
-   "solution_en": "6x = 18; x = 18/6 = 3.",
-   "gen_params": {
-    "tpl": "linear_eq",
-    "x": 3,
-    "a": 6,
-    "b": -6
-   }
-  },
-  {
-   "skill_id": "m8c2s1",
-   "difficulty": 1,
-   "text_hi": "x निकालिए: 2x - 5 = 9",
-   "text_en": "Solve for x: 2x - 5 = 9",
-   "options": [
-    "7",
-    "-7",
-    "8",
-    "6"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "-5 दूसरी ओर भेजिए, फिर 2 से भाग दीजिए।",
-   "hint_en": "Move 5 to the other side, then divide by 2.",
-   "solution_hi": "2x = 14; x = 14/2 = 7।",
-   "solution_en": "2x = 14; x = 14/2 = 7.",
-   "gen_params": {
-    "tpl": "linear_eq",
-    "x": 7,
-    "a": 2,
-    "b": -5
-   }
-  },
-  {
-   "skill_id": "m8c5s1",
-   "difficulty": 1,
-   "text_hi": "√400 = ?",
-   "text_en": "√400 = ?",
-   "options": [
-    "20",
-    "10",
     "19",
-    "21"
+    "18",
+    "17"
    ],
-   "correct_idx": 0,
+   "correct_idx": 2,
    "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
    "hint_en": "Think of the number whose square gives this value.",
-   "solution_hi": "20×20 = 400, अतः √400 = 20।",
-   "solution_en": "20×20 = 400, so √400 = 20.",
+   "solution_hi": "18×18 = 324, अतः √324 = 18।",
+   "solution_en": "18×18 = 324, so √324 = 18.",
    "gen_params": {
     "tpl": "square_root",
-    "n": 20
-   }
-  },
-  {
-   "skill_id": "m8c5s1",
-   "difficulty": 1,
-   "text_hi": "√1369 = ?",
-   "text_en": "√1369 = ?",
-   "options": [
-    "36",
-    "38",
-    "39",
-    "37"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
-   "hint_en": "Think of the number whose square gives this value.",
-   "solution_hi": "37×37 = 1369, अतः √1369 = 37।",
-   "solution_en": "37×37 = 1369, so √1369 = 37.",
-   "gen_params": {
-    "tpl": "square_root",
-    "n": 37
+    "n": 18
    }
   },
   {
@@ -903,12 +924,12 @@
    "text_hi": "√1225 = ?",
    "text_en": "√1225 = ?",
    "options": [
-    "34",
     "36",
+    "35",
     "37",
-    "35"
+    "34"
    ],
-   "correct_idx": 3,
+   "correct_idx": 1,
    "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
    "hint_en": "Think of the number whose square gives this value.",
    "solution_hi": "35×35 = 1225, अतः √1225 = 35।",
@@ -921,148 +942,64 @@
   {
    "skill_id": "m8c5s1",
    "difficulty": 1,
-   "text_hi": "√841 = ?",
-   "text_en": "√841 = ?",
+   "text_hi": "√121 = ?",
+   "text_en": "√121 = ?",
    "options": [
-    "30",
-    "28",
-    "29",
-    "31"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
-   "hint_en": "Think of the number whose square gives this value.",
-   "solution_hi": "29×29 = 841, अतः √841 = 29।",
-   "solution_en": "29×29 = 841, so √841 = 29.",
-   "gen_params": {
-    "tpl": "square_root",
-    "n": 29
-   }
-  },
-  {
-   "skill_id": "m8c5s1",
-   "difficulty": 1,
-   "text_hi": "√1296 = ?",
-   "text_en": "√1296 = ?",
-   "options": [
-    "36",
-    "18",
-    "35",
-    "37"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
-   "hint_en": "Think of the number whose square gives this value.",
-   "solution_hi": "36×36 = 1296, अतः √1296 = 36।",
-   "solution_en": "36×36 = 1296, so √1296 = 36.",
-   "gen_params": {
-    "tpl": "square_root",
-    "n": 36
-   }
-  },
-  {
-   "skill_id": "m8c5s1",
-   "difficulty": 1,
-   "text_hi": "√576 = ?",
-   "text_en": "√576 = ?",
-   "options": [
-    "25",
-    "12",
-    "23",
-    "24"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
-   "hint_en": "Think of the number whose square gives this value.",
-   "solution_hi": "24×24 = 576, अतः √576 = 24।",
-   "solution_en": "24×24 = 576, so √576 = 24.",
-   "gen_params": {
-    "tpl": "square_root",
-    "n": 24
-   }
-  },
-  {
-   "skill_id": "m8c5s1",
-   "difficulty": 1,
-   "text_hi": "√361 = ?",
-   "text_en": "√361 = ?",
-   "options": [
-    "21",
-    "20",
-    "19",
-    "18"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
-   "hint_en": "Think of the number whose square gives this value.",
-   "solution_hi": "19×19 = 361, अतः √361 = 19।",
-   "solution_en": "19×19 = 361, so √361 = 19.",
-   "gen_params": {
-    "tpl": "square_root",
-    "n": 19
-   }
-  },
-  {
-   "skill_id": "m8c5s1",
-   "difficulty": 1,
-   "text_hi": "√1444 = ?",
-   "text_en": "√1444 = ?",
-   "options": [
-    "38",
-    "39",
-    "19",
-    "37"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
-   "hint_en": "Think of the number whose square gives this value.",
-   "solution_hi": "38×38 = 1444, अतः √1444 = 38।",
-   "solution_en": "38×38 = 1444, so √1444 = 38.",
-   "gen_params": {
-    "tpl": "square_root",
-    "n": 38
-   }
-  },
-  {
-   "skill_id": "m8c5s1",
-   "difficulty": 1,
-   "text_hi": "√169 = ?",
-   "text_en": "√169 = ?",
-   "options": [
-    "12",
+    "11",
     "13",
+    "10",
+    "12"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
+   "hint_en": "Think of the number whose square gives this value.",
+   "solution_hi": "11×11 = 121, अतः √121 = 11।",
+   "solution_en": "11×11 = 121, so √121 = 11.",
+   "gen_params": {
+    "tpl": "square_root",
+    "n": 11
+   }
+  },
+  {
+   "skill_id": "m8c5s1",
+   "difficulty": 1,
+   "text_hi": "√225 = ?",
+   "text_en": "√225 = ?",
+   "options": [
+    "17",
     "15",
-    "14"
+    "14",
+    "16"
    ],
    "correct_idx": 1,
    "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
    "hint_en": "Think of the number whose square gives this value.",
-   "solution_hi": "13×13 = 169, अतः √169 = 13।",
-   "solution_en": "13×13 = 169, so √169 = 13.",
+   "solution_hi": "15×15 = 225, अतः √225 = 15।",
+   "solution_en": "15×15 = 225, so √225 = 15.",
    "gen_params": {
     "tpl": "square_root",
-    "n": 13
+    "n": 15
    }
   },
   {
    "skill_id": "m8c5s1",
    "difficulty": 1,
-   "text_hi": "√676 = ?",
-   "text_en": "√676 = ?",
+   "text_hi": "√961 = ?",
+   "text_en": "√961 = ?",
    "options": [
-    "25",
-    "13",
-    "27",
-    "26"
+    "31",
+    "33",
+    "30",
+    "32"
    ],
-   "correct_idx": 3,
+   "correct_idx": 0,
    "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
    "hint_en": "Think of the number whose square gives this value.",
-   "solution_hi": "26×26 = 676, अतः √676 = 26।",
-   "solution_en": "26×26 = 676, so √676 = 26.",
+   "solution_hi": "31×31 = 961, अतः √961 = 31।",
+   "solution_en": "31×31 = 961, so √961 = 31.",
    "gen_params": {
     "tpl": "square_root",
-    "n": 26
+    "n": 31
    }
   },
   {
@@ -1071,12 +1008,12 @@
    "text_hi": "√196 = ?",
    "text_en": "√196 = ?",
    "options": [
-    "13",
     "14",
+    "13",
     "15",
     "7"
    ],
-   "correct_idx": 1,
+   "correct_idx": 0,
    "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
    "hint_en": "Think of the number whose square gives this value.",
    "solution_hi": "14×14 = 196, अतः √196 = 14।",
@@ -1089,15 +1026,57 @@
   {
    "skill_id": "m8c5s1",
    "difficulty": 1,
+   "text_hi": "√361 = ?",
+   "text_en": "√361 = ?",
+   "options": [
+    "18",
+    "20",
+    "21",
+    "19"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
+   "hint_en": "Think of the number whose square gives this value.",
+   "solution_hi": "19×19 = 361, अतः √361 = 19।",
+   "solution_en": "19×19 = 361, so √361 = 19.",
+   "gen_params": {
+    "tpl": "square_root",
+    "n": 19
+   }
+  },
+  {
+   "skill_id": "m8c5s1",
+   "difficulty": 1,
+   "text_hi": "√144 = ?",
+   "text_en": "√144 = ?",
+   "options": [
+    "6",
+    "11",
+    "13",
+    "12"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
+   "hint_en": "Think of the number whose square gives this value.",
+   "solution_hi": "12×12 = 144, अतः √144 = 12।",
+   "solution_en": "12×12 = 144, so √144 = 12.",
+   "gen_params": {
+    "tpl": "square_root",
+    "n": 12
+   }
+  },
+  {
+   "skill_id": "m8c5s1",
+   "difficulty": 1,
    "text_hi": "√900 = ?",
    "text_en": "√900 = ?",
    "options": [
-    "15",
     "30",
+    "15",
     "29",
     "31"
    ],
-   "correct_idx": 1,
+   "correct_idx": 0,
    "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
    "hint_en": "Think of the number whose square gives this value.",
    "solution_hi": "30×30 = 900, अतः √900 = 30।",
@@ -1108,17 +1087,143 @@
    }
   },
   {
+   "skill_id": "m8c5s1",
+   "difficulty": 1,
+   "text_hi": "√625 = ?",
+   "text_en": "√625 = ?",
+   "options": [
+    "26",
+    "24",
+    "25",
+    "27"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "वह संख्या सोचिए जिसका वर्ग दी गई संख्या है।",
+   "hint_en": "Think of the number whose square gives this value.",
+   "solution_hi": "25×25 = 625, अतः √625 = 25।",
+   "solution_en": "25×25 = 625, so √625 = 25.",
+   "gen_params": {
+    "tpl": "square_root",
+    "n": 25
+   }
+  },
+  {
+   "skill_id": "m8c6s1",
+   "difficulty": 1,
+   "text_hi": "3³ = ?",
+   "text_en": "3³ = ?",
+   "options": [
+    "270",
+    "9",
+    "27",
+    "16"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "3 को तीन बार गुणा कीजिए।",
+   "hint_en": "Multiply the number by itself three times.",
+   "solution_hi": "3³ = 3×3×3 = 27।",
+   "solution_en": "3³ = 3×3×3 = 27.",
+   "gen_params": {
+    "tpl": "cube_value",
+    "n": 3
+   }
+  },
+  {
+   "skill_id": "m8c6s1",
+   "difficulty": 1,
+   "text_hi": "4³ = ?",
+   "text_en": "4³ = ?",
+   "options": [
+    "12",
+    "64",
+    "25",
+    "16"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "4 को तीन बार गुणा कीजिए।",
+   "hint_en": "Multiply the number by itself three times.",
+   "solution_hi": "4³ = 4×4×4 = 64।",
+   "solution_en": "4³ = 4×4×4 = 64.",
+   "gen_params": {
+    "tpl": "cube_value",
+    "n": 4
+   }
+  },
+  {
+   "skill_id": "m8c6s1",
+   "difficulty": 1,
+   "text_hi": "8³ = ?",
+   "text_en": "8³ = ?",
+   "options": [
+    "512",
+    "64",
+    "81",
+    "24"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "8 को तीन बार गुणा कीजिए।",
+   "hint_en": "Multiply the number by itself three times.",
+   "solution_hi": "8³ = 8×8×8 = 512।",
+   "solution_en": "8³ = 8×8×8 = 512.",
+   "gen_params": {
+    "tpl": "cube_value",
+    "n": 8
+   }
+  },
+  {
+   "skill_id": "m8c6s1",
+   "difficulty": 1,
+   "text_hi": "6³ = ?",
+   "text_en": "6³ = ?",
+   "options": [
+    "216",
+    "18",
+    "36",
+    "49"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "6 को तीन बार गुणा कीजिए।",
+   "hint_en": "Multiply the number by itself three times.",
+   "solution_hi": "6³ = 6×6×6 = 216।",
+   "solution_en": "6³ = 6×6×6 = 216.",
+   "gen_params": {
+    "tpl": "cube_value",
+    "n": 6
+   }
+  },
+  {
+   "skill_id": "m8c6s1",
+   "difficulty": 1,
+   "text_hi": "7³ = ?",
+   "text_en": "7³ = ?",
+   "options": [
+    "21",
+    "49",
+    "64",
+    "343"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "7 को तीन बार गुणा कीजिए।",
+   "hint_en": "Multiply the number by itself three times.",
+   "solution_hi": "7³ = 7×7×7 = 343।",
+   "solution_en": "7³ = 7×7×7 = 343.",
+   "gen_params": {
+    "tpl": "cube_value",
+    "n": 7
+   }
+  },
+  {
    "skill_id": "m8c6s1",
    "difficulty": 1,
    "text_hi": "2³ = ?",
    "text_en": "2³ = ?",
    "options": [
+    "4",
     "6",
     "9",
-    "8",
-    "4"
+    "8"
    ],
-   "correct_idx": 2,
+   "correct_idx": 3,
    "hint_hi": "2 को तीन बार गुणा कीजिए।",
    "hint_en": "Multiply the number by itself three times.",
    "solution_hi": "2³ = 2×2×2 = 8।",
@@ -1152,120 +1257,15 @@
   {
    "skill_id": "m8c6s1",
    "difficulty": 1,
-   "text_hi": "3³ = ?",
-   "text_en": "3³ = ?",
-   "options": [
-    "270",
-    "9",
-    "16",
-    "27"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "3 को तीन बार गुणा कीजिए।",
-   "hint_en": "Multiply the number by itself three times.",
-   "solution_hi": "3³ = 3×3×3 = 27।",
-   "solution_en": "3³ = 3×3×3 = 27.",
-   "gen_params": {
-    "tpl": "cube_value",
-    "n": 3
-   }
-  },
-  {
-   "skill_id": "m8c6s1",
-   "difficulty": 1,
-   "text_hi": "4³ = ?",
-   "text_en": "4³ = ?",
-   "options": [
-    "64",
-    "16",
-    "12",
-    "25"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "4 को तीन बार गुणा कीजिए।",
-   "hint_en": "Multiply the number by itself three times.",
-   "solution_hi": "4³ = 4×4×4 = 64।",
-   "solution_en": "4³ = 4×4×4 = 64.",
-   "gen_params": {
-    "tpl": "cube_value",
-    "n": 4
-   }
-  },
-  {
-   "skill_id": "m8c6s1",
-   "difficulty": 1,
-   "text_hi": "7³ = ?",
-   "text_en": "7³ = ?",
-   "options": [
-    "21",
-    "64",
-    "343",
-    "49"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "7 को तीन बार गुणा कीजिए।",
-   "hint_en": "Multiply the number by itself three times.",
-   "solution_hi": "7³ = 7×7×7 = 343।",
-   "solution_en": "7³ = 7×7×7 = 343.",
-   "gen_params": {
-    "tpl": "cube_value",
-    "n": 7
-   }
-  },
-  {
-   "skill_id": "m8c6s1",
-   "difficulty": 1,
-   "text_hi": "8³ = ?",
-   "text_en": "8³ = ?",
-   "options": [
-    "81",
-    "24",
-    "64",
-    "512"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "8 को तीन बार गुणा कीजिए।",
-   "hint_en": "Multiply the number by itself three times.",
-   "solution_hi": "8³ = 8×8×8 = 512।",
-   "solution_en": "8³ = 8×8×8 = 512.",
-   "gen_params": {
-    "tpl": "cube_value",
-    "n": 8
-   }
-  },
-  {
-   "skill_id": "m8c6s1",
-   "difficulty": 1,
-   "text_hi": "6³ = ?",
-   "text_en": "6³ = ?",
-   "options": [
-    "49",
-    "18",
-    "216",
-    "36"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "6 को तीन बार गुणा कीजिए।",
-   "hint_en": "Multiply the number by itself three times.",
-   "solution_hi": "6³ = 6×6×6 = 216।",
-   "solution_en": "6³ = 6×6×6 = 216.",
-   "gen_params": {
-    "tpl": "cube_value",
-    "n": 6
-   }
-  },
-  {
-   "skill_id": "m8c6s1",
-   "difficulty": 1,
    "text_hi": "9³ = ?",
    "text_en": "9³ = ?",
    "options": [
-    "27",
-    "81",
+    "100",
     "729",
-    "100"
+    "27",
+    "81"
    ],
-   "correct_idx": 2,
+   "correct_idx": 1,
    "hint_hi": "9 को तीन बार गुणा कीजिए।",
    "hint_en": "Multiply the number by itself three times.",
    "solution_hi": "9³ = 9×9×9 = 729।",
@@ -1281,8 +1281,8 @@
    "text_hi": "10³ = ?",
    "text_en": "10³ = ?",
    "options": [
-    "100",
     "121",
+    "100",
     "1000",
     "30"
    ],
@@ -1299,45 +1299,23 @@
   {
    "skill_id": "m8c7s1",
    "difficulty": 1,
-   "text_hi": "200 का 30% कितना है?",
-   "text_en": "What is 30% of 200?",
+   "text_hi": "80 का 25% कितना है?",
+   "text_en": "What is 25% of 80?",
    "options": [
-    "60",
-    "50",
-    "230",
-    "70"
+    "105",
+    "20",
+    "30",
+    "10"
    ],
-   "correct_idx": 0,
-   "hint_hi": "30% = 30/100, फिर 200 से गुणा कीजिए।",
-   "hint_en": "30% means 30/100; multiply by 200.",
-   "solution_hi": "30% × 200 = 30/100 × 200 = 60।",
-   "solution_en": "30% × 200 = 30/100 × 200 = 60.",
+   "correct_idx": 1,
+   "hint_hi": "25% = 25/100, फिर 80 से गुणा कीजिए।",
+   "hint_en": "25% means 25/100; multiply by 80.",
+   "solution_hi": "25% × 80 = 25/100 × 80 = 20।",
+   "solution_en": "25% × 80 = 25/100 × 80 = 20.",
    "gen_params": {
     "tpl": "percent_of",
-    "p": 30,
-    "base": 200
-   }
-  },
-  {
-   "skill_id": "m8c7s1",
-   "difficulty": 1,
-   "text_hi": "60 का 10% कितना है?",
-   "text_en": "What is 10% of 60?",
-   "options": [
-    "16",
-    "70",
-    "6",
-    "0"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "10% = 10/100, फिर 60 से गुणा कीजिए।",
-   "hint_en": "10% means 10/100; multiply by 60.",
-   "solution_hi": "10% × 60 = 10/100 × 60 = 6।",
-   "solution_en": "10% × 60 = 10/100 × 60 = 6.",
-   "gen_params": {
-    "tpl": "percent_of",
-    "p": 10,
-    "base": 60
+    "p": 25,
+    "base": 80
    }
   },
   {
@@ -1346,12 +1324,12 @@
    "text_hi": "80 का 15% कितना है?",
    "text_en": "What is 15% of 80?",
    "options": [
+    "2",
     "22",
-    "12",
     "95",
-    "2"
+    "12"
    ],
-   "correct_idx": 1,
+   "correct_idx": 3,
    "hint_hi": "15% = 15/100, फिर 80 से गुणा कीजिए।",
    "hint_en": "15% means 15/100; multiply by 80.",
    "solution_hi": "15% × 80 = 15/100 × 80 = 12।",
@@ -1365,89 +1343,67 @@
   {
    "skill_id": "m8c7s1",
    "difficulty": 1,
-   "text_hi": "150 का 40% कितना है?",
-   "text_en": "What is 40% of 150?",
+   "text_hi": "240 का 10% कितना है?",
+   "text_en": "What is 10% of 240?",
    "options": [
-    "70",
-    "190",
-    "50",
-    "60"
+    "34",
+    "250",
+    "14",
+    "24"
    ],
    "correct_idx": 3,
-   "hint_hi": "40% = 40/100, फिर 150 से गुणा कीजिए।",
-   "hint_en": "40% means 40/100; multiply by 150.",
-   "solution_hi": "40% × 150 = 40/100 × 150 = 60।",
-   "solution_en": "40% × 150 = 40/100 × 150 = 60.",
+   "hint_hi": "10% = 10/100, फिर 240 से गुणा कीजिए।",
+   "hint_en": "10% means 10/100; multiply by 240.",
+   "solution_hi": "10% × 240 = 10/100 × 240 = 24।",
+   "solution_en": "10% × 240 = 10/100 × 240 = 24.",
    "gen_params": {
     "tpl": "percent_of",
-    "p": 40,
-    "base": 150
+    "p": 10,
+    "base": 240
    }
   },
   {
    "skill_id": "m8c7s1",
    "difficulty": 1,
-   "text_hi": "60 का 25% कितना है?",
-   "text_en": "What is 25% of 60?",
+   "text_hi": "200 का 25% कितना है?",
+   "text_en": "What is 25% of 200?",
    "options": [
-    "85",
-    "15",
-    "25",
-    "5"
+    "40",
+    "60",
+    "50",
+    "225"
    ],
-   "correct_idx": 1,
-   "hint_hi": "25% = 25/100, फिर 60 से गुणा कीजिए।",
-   "hint_en": "25% means 25/100; multiply by 60.",
-   "solution_hi": "25% × 60 = 25/100 × 60 = 15।",
-   "solution_en": "25% × 60 = 25/100 × 60 = 15.",
+   "correct_idx": 2,
+   "hint_hi": "25% = 25/100, फिर 200 से गुणा कीजिए।",
+   "hint_en": "25% means 25/100; multiply by 200.",
+   "solution_hi": "25% × 200 = 25/100 × 200 = 50।",
+   "solution_en": "25% × 200 = 25/100 × 200 = 50.",
    "gen_params": {
     "tpl": "percent_of",
     "p": 25,
-    "base": 60
+    "base": 200
    }
   },
   {
    "skill_id": "m8c7s1",
    "difficulty": 1,
-   "text_hi": "120 का 5% कितना है?",
-   "text_en": "What is 5% of 120?",
+   "text_hi": "40 का 75% कितना है?",
+   "text_en": "What is 75% of 40?",
    "options": [
-    "0",
-    "16",
-    "125",
-    "6"
+    "30",
+    "20",
+    "40",
+    "115"
    ],
-   "correct_idx": 3,
-   "hint_hi": "5% = 5/100, फिर 120 से गुणा कीजिए।",
-   "hint_en": "5% means 5/100; multiply by 120.",
-   "solution_hi": "5% × 120 = 5/100 × 120 = 6।",
-   "solution_en": "5% × 120 = 5/100 × 120 = 6.",
+   "correct_idx": 0,
+   "hint_hi": "75% = 75/100, फिर 40 से गुणा कीजिए।",
+   "hint_en": "75% means 75/100; multiply by 40.",
+   "solution_hi": "75% × 40 = 75/100 × 40 = 30।",
+   "solution_en": "75% × 40 = 75/100 × 40 = 30.",
    "gen_params": {
     "tpl": "percent_of",
-    "p": 5,
-    "base": 120
-   }
-  },
-  {
-   "skill_id": "m8c7s1",
-   "difficulty": 1,
-   "text_hi": "120 का 20% कितना है?",
-   "text_en": "What is 20% of 120?",
-   "options": [
-    "14",
-    "34",
-    "24",
-    "140"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "20% = 20/100, फिर 120 से गुणा कीजिए।",
-   "hint_en": "20% means 20/100; multiply by 120.",
-   "solution_hi": "20% × 120 = 20/100 × 120 = 24।",
-   "solution_en": "20% × 120 = 20/100 × 120 = 24.",
-   "gen_params": {
-    "tpl": "percent_of",
-    "p": 20,
-    "base": 120
+    "p": 75,
+    "base": 40
    }
   },
   {
@@ -1456,12 +1412,12 @@
    "text_hi": "300 का 40% कितना है?",
    "text_en": "What is 40% of 300?",
    "options": [
-    "120",
     "340",
-    "110",
-    "130"
+    "120",
+    "130",
+    "110"
    ],
-   "correct_idx": 0,
+   "correct_idx": 1,
    "hint_hi": "40% = 40/100, फिर 300 से गुणा कीजिए।",
    "hint_en": "40% means 40/100; multiply by 300.",
    "solution_hi": "40% × 300 = 40/100 × 300 = 120।",
@@ -1478,12 +1434,12 @@
    "text_hi": "120 का 25% कितना है?",
    "text_en": "What is 25% of 120?",
    "options": [
+    "30",
     "145",
-    "20",
     "40",
-    "30"
+    "20"
    ],
-   "correct_idx": 3,
+   "correct_idx": 0,
    "hint_hi": "25% = 25/100, फिर 120 से गुणा कीजिए।",
    "hint_en": "25% means 25/100; multiply by 120.",
    "solution_hi": "25% × 120 = 25/100 × 120 = 30।",
@@ -1497,176 +1453,308 @@
   {
    "skill_id": "m8c7s1",
    "difficulty": 1,
-   "text_hi": "80 का 40% कितना है?",
-   "text_en": "What is 40% of 80?",
+   "text_hi": "240 का 25% कितना है?",
+   "text_en": "What is 25% of 240?",
    "options": [
-    "22",
-    "120",
-    "42",
-    "32"
+    "60",
+    "70",
+    "50",
+    "265"
    ],
-   "correct_idx": 3,
-   "hint_hi": "40% = 40/100, फिर 80 से गुणा कीजिए।",
-   "hint_en": "40% means 40/100; multiply by 80.",
-   "solution_hi": "40% × 80 = 40/100 × 80 = 32।",
-   "solution_en": "40% × 80 = 40/100 × 80 = 32.",
+   "correct_idx": 0,
+   "hint_hi": "25% = 25/100, फिर 240 से गुणा कीजिए।",
+   "hint_en": "25% means 25/100; multiply by 240.",
+   "solution_hi": "25% × 240 = 25/100 × 240 = 60।",
+   "solution_en": "25% × 240 = 25/100 × 240 = 60.",
    "gen_params": {
     "tpl": "percent_of",
-    "p": 40,
-    "base": 80
+    "p": 25,
+    "base": 240
    }
   },
   {
    "skill_id": "m8c7s1",
    "difficulty": 1,
-   "text_hi": "200 का 20% कितना है?",
-   "text_en": "What is 20% of 200?",
+   "text_hi": "60 का 10% कितना है?",
+   "text_en": "What is 10% of 60?",
    "options": [
-    "40",
-    "30",
-    "50",
-    "220"
+    "70",
+    "16",
+    "0",
+    "6"
    ],
-   "correct_idx": 0,
-   "hint_hi": "20% = 20/100, फिर 200 से गुणा कीजिए।",
-   "hint_en": "20% means 20/100; multiply by 200.",
-   "solution_hi": "20% × 200 = 20/100 × 200 = 40।",
-   "solution_en": "20% × 200 = 20/100 × 200 = 40.",
+   "correct_idx": 3,
+   "hint_hi": "10% = 10/100, फिर 60 से गुणा कीजिए।",
+   "hint_en": "10% means 10/100; multiply by 60.",
+   "solution_hi": "10% × 60 = 10/100 × 60 = 6।",
+   "solution_en": "10% × 60 = 10/100 × 60 = 6.",
    "gen_params": {
     "tpl": "percent_of",
-    "p": 20,
+    "p": 10,
+    "base": 60
+   }
+  },
+  {
+   "skill_id": "m8c7s1",
+   "difficulty": 1,
+   "text_hi": "400 का 40% कितना है?",
+   "text_en": "What is 40% of 400?",
+   "options": [
+    "150",
+    "440",
+    "160",
+    "170"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "40% = 40/100, फिर 400 से गुणा कीजिए।",
+   "hint_en": "40% means 40/100; multiply by 400.",
+   "solution_hi": "40% × 400 = 40/100 × 400 = 160।",
+   "solution_en": "40% × 400 = 40/100 × 400 = 160.",
+   "gen_params": {
+    "tpl": "percent_of",
+    "p": 40,
+    "base": 400
+   }
+  },
+  {
+   "skill_id": "m8c7s1",
+   "difficulty": 1,
+   "text_hi": "200 का 75% कितना है?",
+   "text_en": "What is 75% of 200?",
+   "options": [
+    "160",
+    "275",
+    "140",
+    "150"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "75% = 75/100, फिर 200 से गुणा कीजिए।",
+   "hint_en": "75% means 75/100; multiply by 200.",
+   "solution_hi": "75% × 200 = 75/100 × 200 = 150।",
+   "solution_en": "75% × 200 = 75/100 × 200 = 150.",
+   "gen_params": {
+    "tpl": "percent_of",
+    "p": 75,
     "base": 200
    }
   },
   {
    "skill_id": "m8c7s1",
    "difficulty": 1,
-   "text_hi": "60 का 20% कितना है?",
-   "text_en": "What is 20% of 60?",
+   "text_hi": "60 का 75% कितना है?",
+   "text_en": "What is 75% of 60?",
    "options": [
-    "22",
-    "80",
-    "2",
-    "12"
+    "45",
+    "35",
+    "55",
+    "135"
    ],
-   "correct_idx": 3,
-   "hint_hi": "20% = 20/100, फिर 60 से गुणा कीजिए।",
-   "hint_en": "20% means 20/100; multiply by 60.",
-   "solution_hi": "20% × 60 = 20/100 × 60 = 12।",
-   "solution_en": "20% × 60 = 20/100 × 60 = 12.",
+   "correct_idx": 0,
+   "hint_hi": "75% = 75/100, फिर 60 से गुणा कीजिए।",
+   "hint_en": "75% means 75/100; multiply by 60.",
+   "solution_hi": "75% × 60 = 75/100 × 60 = 45।",
+   "solution_en": "75% × 60 = 75/100 × 60 = 45.",
    "gen_params": {
     "tpl": "percent_of",
-    "p": 20,
+    "p": 75,
     "base": 60
    }
   },
   {
    "skill_id": "m8c9s1",
    "difficulty": 1,
-   "text_hi": "y^6 · y^2 = ?",
-   "text_en": "y^6 · y^2 = ?",
+   "text_hi": "x^7 · x^6 = ?",
+   "text_en": "x^7 · x^6 = ?",
    "options": [
-    "y^6^2",
-    "y^8",
-    "y^4",
-    "y^12"
+    "x^42",
+    "x^1",
+    "x^7^6",
+    "x^13"
    ],
-   "correct_idx": 1,
+   "correct_idx": 3,
    "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
    "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "y^m·y^n = y^(m+n), अतः y^8।",
-   "solution_en": "y^m·y^n = y^(m+n), hence y^8.",
+   "solution_hi": "x^m·x^n = x^(m+n), अतः x^13।",
+   "solution_en": "x^m·x^n = x^(m+n), hence x^13.",
    "gen_params": {
     "tpl": "exp_law",
-    "a": 6,
-    "b": 2
+    "a": 7,
+    "b": 6
    }
   },
   {
    "skill_id": "m8c9s1",
    "difficulty": 1,
-   "text_hi": "x^3 · x^5 = ?",
-   "text_en": "x^3 · x^5 = ?",
+   "text_hi": "a^2 · a^4 = ?",
+   "text_en": "a^2 · a^4 = ?",
    "options": [
-    "x^2",
-    "x^8",
-    "x^15",
-    "x^3^5"
+    "a^2",
+    "a^8",
+    "a^6",
+    "a^2^4"
    ],
-   "correct_idx": 1,
+   "correct_idx": 2,
    "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
    "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "x^m·x^n = x^(m+n), अतः x^8।",
-   "solution_en": "x^m·x^n = x^(m+n), hence x^8.",
+   "solution_hi": "a^m·a^n = a^(m+n), अतः a^6।",
+   "solution_en": "a^m·a^n = a^(m+n), hence a^6.",
    "gen_params": {
     "tpl": "exp_law",
-    "a": 3,
-    "b": 5
-   }
-  },
-  {
-   "skill_id": "m8c9s1",
-   "difficulty": 1,
-   "text_hi": "y^3 · y^4 = ?",
-   "text_en": "y^3 · y^4 = ?",
-   "options": [
-    "y^3^4",
-    "y^7",
-    "y^1",
-    "y^12"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
-   "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "y^m·y^n = y^(m+n), अतः y^7।",
-   "solution_en": "y^m·y^n = y^(m+n), hence y^7.",
-   "gen_params": {
-    "tpl": "exp_law",
-    "a": 3,
+    "a": 2,
     "b": 4
    }
   },
   {
    "skill_id": "m8c9s1",
    "difficulty": 1,
-   "text_hi": "y^4 · y^9 = ?",
-   "text_en": "y^4 · y^9 = ?",
+   "text_hi": "x^8 · x^2 = ?",
+   "text_en": "x^8 · x^2 = ?",
    "options": [
-    "y^13",
-    "y^4^9",
-    "y^5",
-    "y^36"
+    "x^16",
+    "x^6",
+    "x^8^2",
+    "x^10"
    ],
-   "correct_idx": 0,
+   "correct_idx": 3,
    "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
    "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "y^m·y^n = y^(m+n), अतः y^13।",
-   "solution_en": "y^m·y^n = y^(m+n), hence y^13.",
+   "solution_hi": "x^m·x^n = x^(m+n), अतः x^10।",
+   "solution_en": "x^m·x^n = x^(m+n), hence x^10.",
    "gen_params": {
     "tpl": "exp_law",
-    "a": 4,
-    "b": 9
+    "a": 8,
+    "b": 2
    }
   },
   {
    "skill_id": "m8c9s1",
    "difficulty": 1,
-   "text_hi": "x^3 · x^2 = ?",
-   "text_en": "x^3 · x^2 = ?",
+   "text_hi": "x^4 · x^2 = ?",
+   "text_en": "x^4 · x^2 = ?",
    "options": [
-    "x^5",
-    "x^3^2",
     "x^6",
-    "x^1"
+    "x^4^2",
+    "x^8",
+    "x^2"
    ],
    "correct_idx": 0,
    "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
    "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "x^m·x^n = x^(m+n), अतः x^5।",
-   "solution_en": "x^m·x^n = x^(m+n), hence x^5.",
+   "solution_hi": "x^m·x^n = x^(m+n), अतः x^6।",
+   "solution_en": "x^m·x^n = x^(m+n), hence x^6.",
    "gen_params": {
     "tpl": "exp_law",
-    "a": 3,
+    "a": 4,
+    "b": 2
+   }
+  },
+  {
+   "skill_id": "m8c9s1",
+   "difficulty": 1,
+   "text_hi": "a^4 · a^2 = ?",
+   "text_en": "a^4 · a^2 = ?",
+   "options": [
+    "a^2",
+    "a^6",
+    "a^4^2",
+    "a^8"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
+   "hint_en": "Same-base products add the exponents.",
+   "solution_hi": "a^m·a^n = a^(m+n), अतः a^6।",
+   "solution_en": "a^m·a^n = a^(m+n), hence a^6.",
+   "gen_params": {
+    "tpl": "exp_law",
+    "a": 4,
+    "b": 2
+   }
+  },
+  {
+   "skill_id": "m8c9s1",
+   "difficulty": 1,
+   "text_hi": "a^6 · a^7 = ?",
+   "text_en": "a^6 · a^7 = ?",
+   "options": [
+    "a^1",
+    "a^6^7",
+    "a^13",
+    "a^42"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
+   "hint_en": "Same-base products add the exponents.",
+   "solution_hi": "a^m·a^n = a^(m+n), अतः a^13।",
+   "solution_en": "a^m·a^n = a^(m+n), hence a^13.",
+   "gen_params": {
+    "tpl": "exp_law",
+    "a": 6,
+    "b": 7
+   }
+  },
+  {
+   "skill_id": "m8c9s1",
+   "difficulty": 1,
+   "text_hi": "y^6 · y^3 = ?",
+   "text_en": "y^6 · y^3 = ?",
+   "options": [
+    "y^9",
+    "y^18",
+    "y^6^3",
+    "y^3"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
+   "hint_en": "Same-base products add the exponents.",
+   "solution_hi": "y^m·y^n = y^(m+n), अतः y^9।",
+   "solution_en": "y^m·y^n = y^(m+n), hence y^9.",
+   "gen_params": {
+    "tpl": "exp_law",
+    "a": 6,
+    "b": 3
+   }
+  },
+  {
+   "skill_id": "m8c9s1",
+   "difficulty": 1,
+   "text_hi": "a^4 · a^6 = ?",
+   "text_en": "a^4 · a^6 = ?",
+   "options": [
+    "a^10",
+    "a^4^6",
+    "a^2",
+    "a^24"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
+   "hint_en": "Same-base products add the exponents.",
+   "solution_hi": "a^m·a^n = a^(m+n), अतः a^10।",
+   "solution_en": "a^m·a^n = a^(m+n), hence a^10.",
+   "gen_params": {
+    "tpl": "exp_law",
+    "a": 4,
+    "b": 6
+   }
+  },
+  {
+   "skill_id": "m8c9s1",
+   "difficulty": 1,
+   "text_hi": "y^7 · y^2 = ?",
+   "text_en": "y^7 · y^2 = ?",
+   "options": [
+    "y^9",
+    "y^7^2",
+    "y^5",
+    "y^14"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
+   "hint_en": "Same-base products add the exponents.",
+   "solution_hi": "y^m·y^n = y^(m+n), अतः y^9।",
+   "solution_en": "y^m·y^n = y^(m+n), hence y^9.",
+   "gen_params": {
+    "tpl": "exp_law",
+    "a": 7,
     "b": 2
    }
   },
@@ -1676,12 +1764,12 @@
    "text_hi": "a^4 · a^8 = ?",
    "text_en": "a^4 · a^8 = ?",
    "options": [
-    "a^32",
-    "a^12",
+    "a^4^8",
     "a^4",
-    "a^4^8"
+    "a^12",
+    "a^32"
    ],
-   "correct_idx": 1,
+   "correct_idx": 2,
    "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
    "hint_en": "Same-base products add the exponents.",
    "solution_hi": "a^m·a^n = a^(m+n), अतः a^12।",
@@ -1695,511 +1783,377 @@
   {
    "skill_id": "m8c9s1",
    "difficulty": 1,
-   "text_hi": "y^3 · y^2 = ?",
-   "text_en": "y^3 · y^2 = ?",
+   "text_hi": "a^4 · a^3 = ?",
+   "text_en": "a^4 · a^3 = ?",
    "options": [
-    "y^6",
-    "y^5",
-    "y^3^2",
-    "y^1"
+    "a^1",
+    "a^7",
+    "a^4^3",
+    "a^12"
    ],
    "correct_idx": 1,
    "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
    "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "y^m·y^n = y^(m+n), अतः y^5।",
-   "solution_en": "y^m·y^n = y^(m+n), hence y^5.",
+   "solution_hi": "a^m·a^n = a^(m+n), अतः a^7।",
+   "solution_en": "a^m·a^n = a^(m+n), hence a^7.",
    "gen_params": {
     "tpl": "exp_law",
-    "a": 3,
-    "b": 2
-   }
-  },
-  {
-   "skill_id": "m8c9s1",
-   "difficulty": 1,
-   "text_hi": "y^8 · y^4 = ?",
-   "text_en": "y^8 · y^4 = ?",
-   "options": [
-    "y^4",
-    "y^8^4",
-    "y^12",
-    "y^32"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
-   "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "y^m·y^n = y^(m+n), अतः y^12।",
-   "solution_en": "y^m·y^n = y^(m+n), hence y^12.",
-   "gen_params": {
-    "tpl": "exp_law",
-    "a": 8,
-    "b": 4
-   }
-  },
-  {
-   "skill_id": "m8c9s1",
-   "difficulty": 1,
-   "text_hi": "a^3 · a^5 = ?",
-   "text_en": "a^3 · a^5 = ?",
-   "options": [
-    "a^3^5",
-    "a^15",
-    "a^2",
-    "a^8"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
-   "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "a^m·a^n = a^(m+n), अतः a^8।",
-   "solution_en": "a^m·a^n = a^(m+n), hence a^8.",
-   "gen_params": {
-    "tpl": "exp_law",
-    "a": 3,
-    "b": 5
-   }
-  },
-  {
-   "skill_id": "m8c9s1",
-   "difficulty": 1,
-   "text_hi": "y^5 · y^7 = ?",
-   "text_en": "y^5 · y^7 = ?",
-   "options": [
-    "y^12",
-    "y^35",
-    "y^2",
-    "y^5^7"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
-   "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "y^m·y^n = y^(m+n), अतः y^12।",
-   "solution_en": "y^m·y^n = y^(m+n), hence y^12.",
-   "gen_params": {
-    "tpl": "exp_law",
-    "a": 5,
-    "b": 7
-   }
-  },
-  {
-   "skill_id": "m8c9s1",
-   "difficulty": 1,
-   "text_hi": "y^6 · y^8 = ?",
-   "text_en": "y^6 · y^8 = ?",
-   "options": [
-    "y^14",
-    "y^48",
-    "y^2",
-    "y^6^8"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
-   "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "y^m·y^n = y^(m+n), अतः y^14।",
-   "solution_en": "y^m·y^n = y^(m+n), hence y^14.",
-   "gen_params": {
-    "tpl": "exp_law",
-    "a": 6,
-    "b": 8
-   }
-  },
-  {
-   "skill_id": "m8c9s1",
-   "difficulty": 1,
-   "text_hi": "a^7 · a^3 = ?",
-   "text_en": "a^7 · a^3 = ?",
-   "options": [
-    "a^21",
-    "a^10",
-    "a^4",
-    "a^7^3"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
-   "hint_en": "Same-base products add the exponents.",
-   "solution_hi": "a^m·a^n = a^(m+n), अतः a^10।",
-   "solution_en": "a^m·a^n = a^(m+n), hence a^10.",
-   "gen_params": {
-    "tpl": "exp_law",
-    "a": 7,
+    "a": 4,
     "b": 3
    }
   },
   {
-   "skill_id": "m8c10s1",
-   "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=2 पर y=14 है, तो x=3 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=14 when x=2, find y when x=3.",
+   "skill_id": "m8c9s1",
+   "difficulty": 1,
+   "text_hi": "y^7 · y^8 = ?",
+   "text_en": "y^7 · y^8 = ?",
    "options": [
-    "28",
-    "21",
-    "10",
-    "17"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
-   "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 14/2 = 7; y = 7×3 = 21।",
-   "solution_en": "k = 14/2 = 7; y = 7×3 = 21.",
-   "gen_params": {
-    "tpl": "direct_prop",
-    "k": 7,
-    "x1": 2,
-    "y1": 14,
-    "x2": 3
-   }
-  },
-  {
-   "skill_id": "m8c10s1",
-   "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=3 पर y=27 है, तो x=6 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=27 when x=3, find y when x=6.",
-   "options": [
-    "15",
-    "54",
-    "63",
-    "33"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
-   "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 27/3 = 9; y = 9×6 = 54।",
-   "solution_en": "k = 27/3 = 9; y = 9×6 = 54.",
-   "gen_params": {
-    "tpl": "direct_prop",
-    "k": 9,
-    "x1": 3,
-    "y1": 27,
-    "x2": 6
-   }
-  },
-  {
-   "skill_id": "m8c10s1",
-   "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=6 पर y=42 है, तो x=10 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=42 when x=6, find y when x=10.",
-   "options": [
-    "17",
-    "70",
-    "52",
-    "77"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
-   "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 42/6 = 7; y = 7×10 = 70।",
-   "solution_en": "k = 42/6 = 7; y = 7×10 = 70.",
-   "gen_params": {
-    "tpl": "direct_prop",
-    "k": 7,
-    "x1": 6,
-    "y1": 42,
-    "x2": 10
-   }
-  },
-  {
-   "skill_id": "m8c10s1",
-   "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=7 पर y=21 है, तो x=12 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=21 when x=7, find y when x=12.",
-   "options": [
-    "33",
-    "36",
-    "39",
-    "15"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
-   "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 21/7 = 3; y = 3×12 = 36।",
-   "solution_en": "k = 21/7 = 3; y = 3×12 = 36.",
-   "gen_params": {
-    "tpl": "direct_prop",
-    "k": 3,
-    "x1": 7,
-    "y1": 21,
-    "x2": 12
-   }
-  },
-  {
-   "skill_id": "m8c10s1",
-   "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=8 पर y=40 है, तो x=16 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=40 when x=8, find y when x=16.",
-   "options": [
-    "56",
-    "85",
-    "80",
-    "21"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
-   "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 40/8 = 5; y = 5×16 = 80।",
-   "solution_en": "k = 40/8 = 5; y = 5×16 = 80.",
-   "gen_params": {
-    "tpl": "direct_prop",
-    "k": 5,
-    "x1": 8,
-    "y1": 40,
-    "x2": 16
-   }
-  },
-  {
-   "skill_id": "m8c10s1",
-   "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=5 पर y=45 है, तो x=11 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=45 when x=5, find y when x=11.",
-   "options": [
-    "20",
-    "99",
-    "108",
-    "56"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
-   "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 45/5 = 9; y = 9×11 = 99।",
-   "solution_en": "k = 45/5 = 9; y = 9×11 = 99.",
-   "gen_params": {
-    "tpl": "direct_prop",
-    "k": 9,
-    "x1": 5,
-    "y1": 45,
-    "x2": 11
-   }
-  },
-  {
-   "skill_id": "m8c10s1",
-   "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=4 पर y=32 है, तो x=11 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=32 when x=4, find y when x=11.",
-   "options": [
-    "96",
-    "19",
-    "43",
-    "88"
+    "y^7^8",
+    "y^1",
+    "y^56",
+    "y^15"
    ],
    "correct_idx": 3,
+   "hint_hi": "समान आधारों के गुणन में घातें जुड़ती हैं।",
+   "hint_en": "Same-base products add the exponents.",
+   "solution_hi": "y^m·y^n = y^(m+n), अतः y^15।",
+   "solution_en": "y^m·y^n = y^(m+n), hence y^15.",
+   "gen_params": {
+    "tpl": "exp_law",
+    "a": 7,
+    "b": 8
+   }
+  },
+  {
+   "skill_id": "m8c10s1",
+   "difficulty": 2,
+   "text_hi": "x ∝ y. यदि x=2 पर y=16 है, तो x=5 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=16 when x=2, find y when x=5.",
+   "options": [
+    "21",
+    "40",
+    "48",
+    "13"
+   ],
+   "correct_idx": 1,
    "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
    "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 32/4 = 8; y = 8×11 = 88।",
-   "solution_en": "k = 32/4 = 8; y = 8×11 = 88.",
+   "solution_hi": "k = 16/2 = 8; y = 8×5 = 40।",
+   "solution_en": "k = 16/2 = 8; y = 8×5 = 40.",
    "gen_params": {
     "tpl": "direct_prop",
     "k": 8,
-    "x1": 4,
-    "y1": 32,
-    "x2": 11
+    "x1": 2,
+    "y1": 16,
+    "x2": 5
    }
   },
   {
    "skill_id": "m8c10s1",
    "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=8 पर y=48 है, तो x=10 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=48 when x=8, find y when x=10.",
+   "text_hi": "x ∝ y. यदि x=5 पर y=25 है, तो x=12 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=25 when x=5, find y when x=12.",
    "options": [
-    "66",
-    "16",
-    "58",
+    "17",
+    "37",
+    "65",
     "60"
    ],
    "correct_idx": 3,
    "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
    "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 48/8 = 6; y = 6×10 = 60।",
-   "solution_en": "k = 48/8 = 6; y = 6×10 = 60.",
+   "solution_hi": "k = 25/5 = 5; y = 5×12 = 60।",
+   "solution_en": "k = 25/5 = 5; y = 5×12 = 60.",
    "gen_params": {
     "tpl": "direct_prop",
-    "k": 6,
-    "x1": 8,
-    "y1": 48,
-    "x2": 10
+    "k": 5,
+    "x1": 5,
+    "y1": 25,
+    "x2": 12
    }
   },
   {
    "skill_id": "m8c10s1",
    "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=6 पर y=54 है, तो x=10 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=54 when x=6, find y when x=10.",
+   "text_hi": "x ∝ y. यदि x=4 पर y=16 है, तो x=9 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=16 when x=4, find y when x=9.",
    "options": [
-    "19",
-    "64",
-    "90",
-    "99"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
-   "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 54/6 = 9; y = 9×10 = 90।",
-   "solution_en": "k = 54/6 = 9; y = 9×10 = 90.",
-   "gen_params": {
-    "tpl": "direct_prop",
-    "k": 9,
-    "x1": 6,
-    "y1": 54,
-    "x2": 10
-   }
-  },
-  {
-   "skill_id": "m8c10s1",
-   "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=6 पर y=48 है, तो x=7 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=48 when x=6, find y when x=7.",
-   "options": [
-    "56",
-    "55",
-    "15",
-    "64"
+    "36",
+    "13",
+    "25",
+    "40"
    ],
    "correct_idx": 0,
    "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
    "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 48/6 = 8; y = 8×7 = 56।",
-   "solution_en": "k = 48/6 = 8; y = 8×7 = 56.",
+   "solution_hi": "k = 16/4 = 4; y = 4×9 = 36।",
+   "solution_en": "k = 16/4 = 4; y = 4×9 = 36.",
    "gen_params": {
     "tpl": "direct_prop",
-    "k": 8,
-    "x1": 6,
-    "y1": 48,
-    "x2": 7
+    "k": 4,
+    "x1": 4,
+    "y1": 16,
+    "x2": 9
    }
   },
   {
    "skill_id": "m8c10s1",
    "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=5 पर y=20 है, तो x=6 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=20 when x=5, find y when x=6.",
+   "text_hi": "x ∝ y. यदि x=4 पर y=16 है, तो x=6 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=16 when x=4, find y when x=6.",
    "options": [
-    "26",
-    "10",
     "28",
-    "24"
+    "22",
+    "24",
+    "10"
    ],
-   "correct_idx": 3,
+   "correct_idx": 2,
    "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
    "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 20/5 = 4; y = 4×6 = 24।",
-   "solution_en": "k = 20/5 = 4; y = 4×6 = 24.",
+   "solution_hi": "k = 16/4 = 4; y = 4×6 = 24।",
+   "solution_en": "k = 16/4 = 4; y = 4×6 = 24.",
    "gen_params": {
     "tpl": "direct_prop",
     "k": 4,
-    "x1": 5,
-    "y1": 20,
+    "x1": 4,
+    "y1": 16,
     "x2": 6
    }
   },
   {
    "skill_id": "m8c10s1",
    "difficulty": 2,
-   "text_hi": "x ∝ y. यदि x=8 पर y=40 है, तो x=13 पर y = ?",
-   "text_en": "If x is directly proportional to y, and y=40 when x=8, find y when x=13.",
+   "text_hi": "x ∝ y. यदि x=3 पर y=18 है, तो x=10 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=18 when x=3, find y when x=10.",
+   "options": [
+    "28",
+    "16",
+    "66",
+    "60"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
+   "hint_en": "Find k = y/x first, then use y = kx.",
+   "solution_hi": "k = 18/3 = 6; y = 6×10 = 60।",
+   "solution_en": "k = 18/3 = 6; y = 6×10 = 60.",
+   "gen_params": {
+    "tpl": "direct_prop",
+    "k": 6,
+    "x1": 3,
+    "y1": 18,
+    "x2": 10
+   }
+  },
+  {
+   "skill_id": "m8c10s1",
+   "difficulty": 2,
+   "text_hi": "x ∝ y. यदि x=2 पर y=10 है, तो x=8 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=10 when x=2, find y when x=8.",
+   "options": [
+    "18",
+    "45",
+    "40",
+    "13"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
+   "hint_en": "Find k = y/x first, then use y = kx.",
+   "solution_hi": "k = 10/2 = 5; y = 5×8 = 40।",
+   "solution_en": "k = 10/2 = 5; y = 5×8 = 40.",
+   "gen_params": {
+    "tpl": "direct_prop",
+    "k": 5,
+    "x1": 2,
+    "y1": 10,
+    "x2": 8
+   }
+  },
+  {
+   "skill_id": "m8c10s1",
+   "difficulty": 2,
+   "text_hi": "x ∝ y. यदि x=2 पर y=12 है, तो x=10 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=12 when x=2, find y when x=10.",
+   "options": [
+    "60",
+    "16",
+    "22",
+    "66"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
+   "hint_en": "Find k = y/x first, then use y = kx.",
+   "solution_hi": "k = 12/2 = 6; y = 6×10 = 60।",
+   "solution_en": "k = 12/2 = 6; y = 6×10 = 60.",
+   "gen_params": {
+    "tpl": "direct_prop",
+    "k": 6,
+    "x1": 2,
+    "y1": 12,
+    "x2": 10
+   }
+  },
+  {
+   "skill_id": "m8c10s1",
+   "difficulty": 2,
+   "text_hi": "x ∝ y. यदि x=2 पर y=18 है, तो x=9 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=18 when x=2, find y when x=9.",
+   "options": [
+    "27",
+    "90",
+    "81",
+    "18"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
+   "hint_en": "Find k = y/x first, then use y = kx.",
+   "solution_hi": "k = 18/2 = 9; y = 9×9 = 81।",
+   "solution_en": "k = 18/2 = 9; y = 9×9 = 81.",
+   "gen_params": {
+    "tpl": "direct_prop",
+    "k": 9,
+    "x1": 2,
+    "y1": 18,
+    "x2": 9
+   }
+  },
+  {
+   "skill_id": "m8c10s1",
+   "difficulty": 2,
+   "text_hi": "x ∝ y. यदि x=7 पर y=35 है, तो x=13 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=35 when x=7, find y when x=13.",
    "options": [
     "65",
-    "53",
     "18",
+    "48",
     "70"
    ],
    "correct_idx": 0,
    "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
    "hint_en": "Find k = y/x first, then use y = kx.",
-   "solution_hi": "k = 40/8 = 5; y = 5×13 = 65।",
-   "solution_en": "k = 40/8 = 5; y = 5×13 = 65.",
+   "solution_hi": "k = 35/7 = 5; y = 5×13 = 65।",
+   "solution_en": "k = 35/7 = 5; y = 5×13 = 65.",
    "gen_params": {
     "tpl": "direct_prop",
     "k": 5,
-    "x1": 8,
-    "y1": 40,
+    "x1": 7,
+    "y1": 35,
     "x2": 13
    }
   },
   {
-   "skill_id": "m8c10s2",
+   "skill_id": "m8c10s1",
    "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=8 पर y=5; x=10 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=5 when x=8, find y when x=10.",
+   "text_hi": "x ∝ y. यदि x=3 पर y=24 है, तो x=10 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=24 when x=3, find y when x=10.",
    "options": [
-    "15",
-    "5",
-    "6",
-    "4"
+    "34",
+    "88",
+    "18",
+    "80"
    ],
    "correct_idx": 3,
-   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
-   "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 8×5 = 40; y = 40/10 = 4।",
-   "solution_en": "k = 8×5 = 40; y = 40/10 = 4.",
+   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
+   "hint_en": "Find k = y/x first, then use y = kx.",
+   "solution_hi": "k = 24/3 = 8; y = 8×10 = 80।",
+   "solution_en": "k = 24/3 = 8; y = 8×10 = 80.",
    "gen_params": {
-    "tpl": "inverse_prop",
-    "x1": 8,
-    "y1": 5,
+    "tpl": "direct_prop",
+    "k": 8,
+    "x1": 3,
+    "y1": 24,
+    "x2": 10
+   }
+  },
+  {
+   "skill_id": "m8c10s1",
+   "difficulty": 2,
+   "text_hi": "x ∝ y. यदि x=3 पर y=27 है, तो x=9 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=27 when x=3, find y when x=9.",
+   "options": [
+    "90",
+    "36",
+    "81",
+    "18"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
+   "hint_en": "Find k = y/x first, then use y = kx.",
+   "solution_hi": "k = 27/3 = 9; y = 9×9 = 81।",
+   "solution_en": "k = 27/3 = 9; y = 9×9 = 81.",
+   "gen_params": {
+    "tpl": "direct_prop",
+    "k": 9,
+    "x1": 3,
+    "y1": 27,
+    "x2": 9
+   }
+  },
+  {
+   "skill_id": "m8c10s1",
+   "difficulty": 2,
+   "text_hi": "x ∝ y. यदि x=3 पर y=27 है, तो x=10 पर y = ?",
+   "text_en": "If x is directly proportional to y, and y=27 when x=3, find y when x=10.",
+   "options": [
+    "99",
+    "90",
+    "37",
+    "19"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "पहले k = y/x निकालिए, फिर y = kx लगाइए।",
+   "hint_en": "Find k = y/x first, then use y = kx.",
+   "solution_hi": "k = 27/3 = 9; y = 9×10 = 90।",
+   "solution_en": "k = 27/3 = 9; y = 9×10 = 90.",
+   "gen_params": {
+    "tpl": "direct_prop",
+    "k": 9,
+    "x1": 3,
+    "y1": 27,
     "x2": 10
    }
   },
   {
    "skill_id": "m8c10s2",
    "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=2 पर y=9; x=6 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=9 when x=2, find y when x=6.",
-   "options": [
-    "15",
-    "30",
-    "3",
-    "27"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
-   "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 2×9 = 18; y = 18/6 = 3।",
-   "solution_en": "k = 2×9 = 18; y = 18/6 = 3.",
-   "gen_params": {
-    "tpl": "inverse_prop",
-    "x1": 2,
-    "y1": 9,
-    "x2": 6
-   }
-  },
-  {
-   "skill_id": "m8c10s2",
-   "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=4 पर y=3; x=12 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=3 when x=4, find y when x=12.",
-   "options": [
-    "10",
-    "9",
-    "1",
-    "15"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
-   "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 4×3 = 12; y = 12/12 = 1।",
-   "solution_en": "k = 4×3 = 12; y = 12/12 = 1.",
-   "gen_params": {
-    "tpl": "inverse_prop",
-    "x1": 4,
-    "y1": 3,
-    "x2": 12
-   }
-  },
-  {
-   "skill_id": "m8c10s2",
-   "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=7 पर y=8; x=8 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=8 when x=7, find y when x=8.",
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=7 पर y=3; x=3 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=3 when x=7, find y when x=3.",
    "options": [
     "7",
-    "16",
-    "9",
-    "0"
+    "0",
+    "6",
+    "1"
    ],
    "correct_idx": 0,
    "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
    "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 7×8 = 56; y = 56/8 = 7।",
-   "solution_en": "k = 7×8 = 56; y = 56/8 = 7.",
+   "solution_hi": "k = 7×3 = 21; y = 21/3 = 7।",
+   "solution_en": "k = 7×3 = 21; y = 21/3 = 7.",
    "gen_params": {
     "tpl": "inverse_prop",
     "x1": 7,
+    "y1": 3,
+    "x2": 3
+   }
+  },
+  {
+   "skill_id": "m8c10s2",
+   "difficulty": 2,
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=6 पर y=8; x=8 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=8 when x=6, find y when x=8.",
+   "options": [
+    "0",
+    "6",
+    "16",
+    "10"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
+   "hint_en": "xy stays constant - compute xy first.",
+   "solution_hi": "k = 6×8 = 48; y = 48/8 = 6।",
+   "solution_en": "k = 6×8 = 48; y = 48/8 = 6.",
+   "gen_params": {
+    "tpl": "inverse_prop",
+    "x1": 6,
     "y1": 8,
     "x2": 8
    }
@@ -2207,114 +2161,137 @@
   {
    "skill_id": "m8c10s2",
    "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=4 पर y=4; x=8 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=4 when x=4, find y when x=8.",
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=4 पर y=8; x=8 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=8 when x=4, find y when x=8.",
    "options": [
-    "12",
-    "8",
-    "4",
-    "2"
+    "40",
+    "16",
+    "0",
+    "4"
    ],
    "correct_idx": 3,
    "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
    "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 4×4 = 16; y = 16/8 = 2।",
-   "solution_en": "k = 4×4 = 16; y = 16/8 = 2.",
+   "solution_hi": "k = 4×8 = 32; y = 32/8 = 4।",
+   "solution_en": "k = 4×8 = 32; y = 32/8 = 4.",
    "gen_params": {
     "tpl": "inverse_prop",
     "x1": 4,
-    "y1": 4,
+    "y1": 8,
     "x2": 8
    }
   },
   {
    "skill_id": "m8c10s2",
    "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=3 पर y=7; x=7 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=7 when x=3, find y when x=7.",
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=7 पर y=8; x=4 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=8 when x=7, find y when x=4.",
    "options": [
-    "0",
-    "16",
-    "3",
-    "14"
+    "12",
+    "4",
+    "14",
+    "140"
    ],
    "correct_idx": 2,
    "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
    "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 3×7 = 21; y = 21/7 = 3।",
-   "solution_en": "k = 3×7 = 21; y = 21/7 = 3.",
-   "gen_params": {
-    "tpl": "inverse_prop",
-    "x1": 3,
-    "y1": 7,
-    "x2": 7
-   }
-  },
-  {
-   "skill_id": "m8c10s2",
-   "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=7 पर y=9; x=3 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=9 when x=7, find y when x=3.",
-   "options": [
-    "21",
-    "3",
-    "6",
-    "12"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
-   "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 7×9 = 63; y = 63/3 = 21।",
-   "solution_en": "k = 7×9 = 63; y = 63/3 = 21.",
+   "solution_hi": "k = 7×8 = 56; y = 56/4 = 14।",
+   "solution_en": "k = 7×8 = 56; y = 56/4 = 14.",
    "gen_params": {
     "tpl": "inverse_prop",
     "x1": 7,
-    "y1": 9,
-    "x2": 3
+    "y1": 8,
+    "x2": 4
    }
   },
   {
    "skill_id": "m8c10s2",
    "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=8 पर y=9; x=12 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=9 when x=8, find y when x=12.",
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=5 पर y=8; x=2 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=8 when x=5, find y when x=2.",
    "options": [
-    "13",
-    "21",
     "3",
-    "6"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
-   "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 8×9 = 72; y = 72/12 = 6।",
-   "solution_en": "k = 8×9 = 72; y = 72/12 = 6.",
-   "gen_params": {
-    "tpl": "inverse_prop",
-    "x1": 8,
-    "y1": 9,
-    "x2": 12
-   }
-  },
-  {
-   "skill_id": "m8c10s2",
-   "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=6 पर y=4; x=4 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=4 when x=6, find y when x=4.",
-   "options": [
-    "0",
-    "8",
     "6",
-    "2"
+    "20",
+    "10"
    ],
    "correct_idx": 2,
    "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
    "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 6×4 = 24; y = 24/4 = 6।",
-   "solution_en": "k = 6×4 = 24; y = 24/4 = 6.",
+   "solution_hi": "k = 5×8 = 40; y = 40/2 = 20।",
+   "solution_en": "k = 5×8 = 40; y = 40/2 = 20.",
+   "gen_params": {
+    "tpl": "inverse_prop",
+    "x1": 5,
+    "y1": 8,
+    "x2": 2
+   }
+  },
+  {
+   "skill_id": "m8c10s2",
+   "difficulty": 2,
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=5 पर y=6; x=10 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=6 when x=5, find y when x=10.",
+   "options": [
+    "16",
+    "3",
+    "12",
+    "4"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
+   "hint_en": "xy stays constant - compute xy first.",
+   "solution_hi": "k = 5×6 = 30; y = 30/10 = 3।",
+   "solution_en": "k = 5×6 = 30; y = 30/10 = 3.",
+   "gen_params": {
+    "tpl": "inverse_prop",
+    "x1": 5,
+    "y1": 6,
+    "x2": 10
+   }
+  },
+  {
+   "skill_id": "m8c10s2",
+   "difficulty": 2,
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=6 पर y=3; x=2 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=3 when x=6, find y when x=2.",
+   "options": [
+    "1",
+    "5",
+    "9",
+    "90"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
+   "hint_en": "xy stays constant - compute xy first.",
+   "solution_hi": "k = 6×3 = 18; y = 18/2 = 9।",
+   "solution_en": "k = 6×3 = 18; y = 18/2 = 9.",
    "gen_params": {
     "tpl": "inverse_prop",
     "x1": 6,
+    "y1": 3,
+    "x2": 2
+   }
+  },
+  {
+   "skill_id": "m8c10s2",
+   "difficulty": 2,
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=2 पर y=4; x=4 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=4 when x=2, find y when x=4.",
+   "options": [
+    "8",
+    "2",
+    "0",
+    "20"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
+   "hint_en": "xy stays constant - compute xy first.",
+   "solution_hi": "k = 2×4 = 8; y = 8/4 = 2।",
+   "solution_en": "k = 2×4 = 8; y = 8/4 = 2.",
+   "gen_params": {
+    "tpl": "inverse_prop",
+    "x1": 2,
     "y1": 4,
     "x2": 4
    }
@@ -2322,24 +2299,47 @@
   {
    "skill_id": "m8c10s2",
    "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=7 पर y=5; x=5 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=5 when x=7, find y when x=5.",
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=2 पर y=3; x=3 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=3 when x=2, find y when x=3.",
    "options": [
-    "10",
     "0",
-    "7",
-    "3"
+    "6",
+    "2",
+    "4"
    ],
    "correct_idx": 2,
    "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
    "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 7×5 = 35; y = 35/5 = 7।",
-   "solution_en": "k = 7×5 = 35; y = 35/5 = 7.",
+   "solution_hi": "k = 2×3 = 6; y = 6/3 = 2।",
+   "solution_en": "k = 2×3 = 6; y = 6/3 = 2.",
    "gen_params": {
     "tpl": "inverse_prop",
-    "x1": 7,
-    "y1": 5,
-    "x2": 5
+    "x1": 2,
+    "y1": 3,
+    "x2": 3
+   }
+  },
+  {
+   "skill_id": "m8c10s2",
+   "difficulty": 2,
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=5 पर y=8; x=8 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=8 when x=5, find y when x=8.",
+   "options": [
+    "12",
+    "5",
+    "16",
+    "0"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
+   "hint_en": "xy stays constant - compute xy first.",
+   "solution_hi": "k = 5×8 = 40; y = 40/8 = 5।",
+   "solution_en": "k = 5×8 = 40; y = 40/8 = 5.",
+   "gen_params": {
+    "tpl": "inverse_prop",
+    "x1": 5,
+    "y1": 8,
+    "x2": 8
    }
   },
   {
@@ -2350,8 +2350,8 @@
    "options": [
     "25",
     "1",
-    "20",
-    "30"
+    "30",
+    "20"
    ],
    "correct_idx": 1,
    "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
@@ -2368,90 +2368,68 @@
   {
    "skill_id": "m8c10s2",
    "difficulty": 2,
-   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=7 पर y=6; x=6 पर y = ?",
-   "text_en": "x and y are in inverse proportion. If y=6 when x=7, find y when x=6.",
-   "options": [
-    "5",
-    "7",
-    "0",
-    "12"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
-   "hint_en": "xy stays constant - compute xy first.",
-   "solution_hi": "k = 7×6 = 42; y = 42/6 = 7।",
-   "solution_en": "k = 7×6 = 42; y = 42/6 = 7.",
-   "gen_params": {
-    "tpl": "inverse_prop",
-    "x1": 7,
-    "y1": 6,
-    "x2": 6
-   }
-  },
-  {
-   "skill_id": "m8c8s1",
-   "difficulty": 1,
-   "text_hi": "आयत की लंबाई 12 से.मी. व चौड़ाई 6 से.मी. है। परिमाप = ?",
-   "text_en": "A rectangle has length 12 cm and width 6 cm. Perimeter = ?",
-   "options": [
-    "38",
-    "18",
-    "36",
-    "72"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
-   "hint_en": "Perimeter = 2(length + width).",
-   "solution_hi": "परिमाप = 2×(12+6) = 36 से.मी.।",
-   "solution_en": "Perimeter = 2×(12+6) = 36 cm.",
-   "gen_params": {
-    "tpl": "rect_perim",
-    "l": 12,
-    "w": 6
-   }
-  },
-  {
-   "skill_id": "m8c8s1",
-   "difficulty": 1,
-   "text_hi": "आयत की लंबाई 13 से.मी. व चौड़ाई 10 से.मी. है। क्षेत्रफल = ?",
-   "text_en": "A rectangle has length 13 cm and width 10 cm. Area = ?",
-   "options": [
-    "140",
-    "23",
-    "46",
-    "130"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "क्षेत्रफल = लंबाई × चौड़ाई।",
-   "hint_en": "Area = length × width.",
-   "solution_hi": "क्षेत्रफल = 13×10 = 130 वर्ग से.मी.।",
-   "solution_en": "Area = 13×10 = 130 sq cm.",
-   "gen_params": {
-    "tpl": "rect_area",
-    "l": 13,
-    "w": 10
-   }
-  },
-  {
-   "skill_id": "m8c8s1",
-   "difficulty": 1,
-   "text_hi": "आयत की लंबाई 8 से.मी. व चौड़ाई 6 से.मी. है। परिमाप = ?",
-   "text_en": "A rectangle has length 8 cm and width 6 cm. Perimeter = ?",
+   "text_hi": "x और y प्रतिलोम समानुपात में हैं। x=5 पर y=7; x=7 पर y = ?",
+   "text_en": "x and y are in inverse proportion. If y=7 when x=5, find y when x=7.",
    "options": [
     "14",
-    "28",
-    "48",
-    "30"
+    "0",
+    "9",
+    "5"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "xy स्थिर रहता है — पहले xy निकालिए।",
+   "hint_en": "xy stays constant - compute xy first.",
+   "solution_hi": "k = 5×7 = 35; y = 35/7 = 5।",
+   "solution_en": "k = 5×7 = 35; y = 35/7 = 5.",
+   "gen_params": {
+    "tpl": "inverse_prop",
+    "x1": 5,
+    "y1": 7,
+    "x2": 7
+   }
+  },
+  {
+   "skill_id": "m8c8s1",
+   "difficulty": 1,
+   "text_hi": "आयत की लंबाई 15 से.मी. व चौड़ाई 8 से.मी. है। क्षेत्रफल = ?",
+   "text_en": "A rectangle has length 15 cm and width 8 cm. Area = ?",
+   "options": [
+    "128",
+    "120",
+    "46",
+    "23"
    ],
    "correct_idx": 1,
+   "hint_hi": "क्षेत्रफल = लंबाई × चौड़ाई।",
+   "hint_en": "Area = length × width.",
+   "solution_hi": "क्षेत्रफल = 15×8 = 120 वर्ग से.मी.।",
+   "solution_en": "Area = 15×8 = 120 sq cm.",
+   "gen_params": {
+    "tpl": "rect_area",
+    "l": 15,
+    "w": 8
+   }
+  },
+  {
+   "skill_id": "m8c8s1",
+   "difficulty": 1,
+   "text_hi": "आयत की लंबाई 9 से.मी. व चौड़ाई 5 से.मी. है। परिमाप = ?",
+   "text_en": "A rectangle has length 9 cm and width 5 cm. Perimeter = ?",
+   "options": [
+    "30",
+    "45",
+    "14",
+    "28"
+   ],
+   "correct_idx": 3,
    "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
    "hint_en": "Perimeter = 2(length + width).",
-   "solution_hi": "परिमाप = 2×(8+6) = 28 से.मी.।",
-   "solution_en": "Perimeter = 2×(8+6) = 28 cm.",
+   "solution_hi": "परिमाप = 2×(9+5) = 28 से.मी.।",
+   "solution_en": "Perimeter = 2×(9+5) = 28 cm.",
    "gen_params": {
     "tpl": "rect_perim",
-    "l": 8,
-    "w": 6
+    "l": 9,
+    "w": 5
    }
   },
   {
@@ -2460,12 +2438,12 @@
    "text_hi": "आयत की लंबाई 7 से.मी. व चौड़ाई 6 से.मी. है। क्षेत्रफल = ?",
    "text_en": "A rectangle has length 7 cm and width 6 cm. Area = ?",
    "options": [
-    "13",
-    "42",
+    "48",
     "26",
-    "48"
+    "13",
+    "42"
    ],
-   "correct_idx": 1,
+   "correct_idx": 3,
    "hint_hi": "क्षेत्रफल = लंबाई × चौड़ाई।",
    "hint_en": "Area = length × width.",
    "solution_hi": "क्षेत्रफल = 7×6 = 42 वर्ग से.मी.।",
@@ -2479,45 +2457,89 @@
   {
    "skill_id": "m8c8s1",
    "difficulty": 1,
-   "text_hi": "आयत की लंबाई 12 से.मी. व चौड़ाई 4 से.मी. है। परिमाप = ?",
-   "text_en": "A rectangle has length 12 cm and width 4 cm. Perimeter = ?",
+   "text_hi": "आयत की लंबाई 14 से.मी. व चौड़ाई 3 से.मी. है। परिमाप = ?",
+   "text_en": "A rectangle has length 14 cm and width 3 cm. Perimeter = ?",
    "options": [
-    "48",
-    "16",
-    "32",
-    "34"
+    "17",
+    "42",
+    "34",
+    "36"
    ],
    "correct_idx": 2,
    "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
    "hint_en": "Perimeter = 2(length + width).",
-   "solution_hi": "परिमाप = 2×(12+4) = 32 से.मी.।",
-   "solution_en": "Perimeter = 2×(12+4) = 32 cm.",
+   "solution_hi": "परिमाप = 2×(14+3) = 34 से.मी.।",
+   "solution_en": "Perimeter = 2×(14+3) = 34 cm.",
    "gen_params": {
     "tpl": "rect_perim",
-    "l": 12,
-    "w": 4
+    "l": 14,
+    "w": 3
    }
   },
   {
    "skill_id": "m8c8s1",
    "difficulty": 1,
-   "text_hi": "आयत की लंबाई 9 से.मी. व चौड़ाई 7 से.मी. है। क्षेत्रफल = ?",
-   "text_en": "A rectangle has length 9 cm and width 7 cm. Area = ?",
+   "text_hi": "आयत की लंबाई 6 से.मी. व चौड़ाई 3 से.मी. है। परिमाप = ?",
+   "text_en": "A rectangle has length 6 cm and width 3 cm. Perimeter = ?",
    "options": [
-    "70",
-    "32",
-    "16",
-    "63"
+    "20",
+    "9",
+    "18",
+    "180"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
+   "hint_en": "Perimeter = 2(length + width).",
+   "solution_hi": "परिमाप = 2×(6+3) = 18 से.मी.।",
+   "solution_en": "Perimeter = 2×(6+3) = 18 cm.",
+   "gen_params": {
+    "tpl": "rect_perim",
+    "l": 6,
+    "w": 3
+   }
+  },
+  {
+   "skill_id": "m8c8s1",
+   "difficulty": 1,
+   "text_hi": "आयत की लंबाई 18 से.मी. व चौड़ाई 3 से.मी. है। परिमाप = ?",
+   "text_en": "A rectangle has length 18 cm and width 3 cm. Perimeter = ?",
+   "options": [
+    "21",
+    "54",
+    "44",
+    "42"
    ],
    "correct_idx": 3,
+   "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
+   "hint_en": "Perimeter = 2(length + width).",
+   "solution_hi": "परिमाप = 2×(18+3) = 42 से.मी.।",
+   "solution_en": "Perimeter = 2×(18+3) = 42 cm.",
+   "gen_params": {
+    "tpl": "rect_perim",
+    "l": 18,
+    "w": 3
+   }
+  },
+  {
+   "skill_id": "m8c8s1",
+   "difficulty": 1,
+   "text_hi": "आयत की लंबाई 13 से.मी. व चौड़ाई 8 से.मी. है। क्षेत्रफल = ?",
+   "text_en": "A rectangle has length 13 cm and width 8 cm. Area = ?",
+   "options": [
+    "42",
+    "104",
+    "112",
+    "21"
+   ],
+   "correct_idx": 1,
    "hint_hi": "क्षेत्रफल = लंबाई × चौड़ाई।",
    "hint_en": "Area = length × width.",
-   "solution_hi": "क्षेत्रफल = 9×7 = 63 वर्ग से.मी.।",
-   "solution_en": "Area = 9×7 = 63 sq cm.",
+   "solution_hi": "क्षेत्रफल = 13×8 = 104 वर्ग से.मी.।",
+   "solution_en": "Area = 13×8 = 104 sq cm.",
    "gen_params": {
     "tpl": "rect_area",
-    "l": 9,
-    "w": 7
+    "l": 13,
+    "w": 8
    }
   },
   {
@@ -2526,12 +2548,12 @@
    "text_hi": "आयत की लंबाई 9 से.मी. व चौड़ाई 4 से.मी. है। क्षेत्रफल = ?",
    "text_en": "A rectangle has length 9 cm and width 4 cm. Area = ?",
    "options": [
+    "13",
     "36",
     "26",
-    "40",
-    "13"
+    "40"
    ],
-   "correct_idx": 0,
+   "correct_idx": 1,
    "hint_hi": "क्षेत्रफल = लंबाई × चौड़ाई।",
    "hint_en": "Area = length × width.",
    "solution_hi": "क्षेत्रफल = 9×4 = 36 वर्ग से.मी.।",
@@ -2545,386 +2567,89 @@
   {
    "skill_id": "m8c8s1",
    "difficulty": 1,
-   "text_hi": "आयत की लंबाई 17 से.मी. व चौड़ाई 13 से.मी. है। क्षेत्रफल = ?",
-   "text_en": "A rectangle has length 17 cm and width 13 cm. Area = ?",
+   "text_hi": "आयत की लंबाई 6 से.मी. व चौड़ाई 4 से.मी. है। परिमाप = ?",
+   "text_en": "A rectangle has length 6 cm and width 4 cm. Perimeter = ?",
    "options": [
-    "234",
-    "221",
-    "30",
-    "60"
+    "24",
+    "10",
+    "22",
+    "20"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
+   "hint_en": "Perimeter = 2(length + width).",
+   "solution_hi": "परिमाप = 2×(6+4) = 20 से.मी.।",
+   "solution_en": "Perimeter = 2×(6+4) = 20 cm.",
+   "gen_params": {
+    "tpl": "rect_perim",
+    "l": 6,
+    "w": 4
+   }
+  },
+  {
+   "skill_id": "m8c8s1",
+   "difficulty": 1,
+   "text_hi": "आयत की लंबाई 10 से.मी. व चौड़ाई 9 से.मी. है। परिमाप = ?",
+   "text_en": "A rectangle has length 10 cm and width 9 cm. Perimeter = ?",
+   "options": [
+    "40",
+    "38",
+    "90",
+    "19"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
+   "hint_en": "Perimeter = 2(length + width).",
+   "solution_hi": "परिमाप = 2×(10+9) = 38 से.मी.।",
+   "solution_en": "Perimeter = 2×(10+9) = 38 cm.",
+   "gen_params": {
+    "tpl": "rect_perim",
+    "l": 10,
+    "w": 9
+   }
+  },
+  {
+   "skill_id": "m8c8s1",
+   "difficulty": 1,
+   "text_hi": "आयत की लंबाई 11 से.मी. व चौड़ाई 7 से.मी. है। क्षेत्रफल = ?",
+   "text_en": "A rectangle has length 11 cm and width 7 cm. Area = ?",
+   "options": [
+    "36",
+    "77",
+    "84",
+    "18"
    ],
    "correct_idx": 1,
    "hint_hi": "क्षेत्रफल = लंबाई × चौड़ाई।",
    "hint_en": "Area = length × width.",
-   "solution_hi": "क्षेत्रफल = 17×13 = 221 वर्ग से.मी.।",
-   "solution_en": "Area = 17×13 = 221 sq cm.",
+   "solution_hi": "क्षेत्रफल = 11×7 = 77 वर्ग से.मी.।",
+   "solution_en": "Area = 11×7 = 77 sq cm.",
+   "gen_params": {
+    "tpl": "rect_area",
+    "l": 11,
+    "w": 7
+   }
+  },
+  {
+   "skill_id": "m8c8s1",
+   "difficulty": 1,
+   "text_hi": "आयत की लंबाई 17 से.मी. व चौड़ाई 3 से.मी. है। क्षेत्रफल = ?",
+   "text_en": "A rectangle has length 17 cm and width 3 cm. Area = ?",
+   "options": [
+    "20",
+    "40",
+    "51",
+    "54"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "क्षेत्रफल = लंबाई × चौड़ाई।",
+   "hint_en": "Area = length × width.",
+   "solution_hi": "क्षेत्रफल = 17×3 = 51 वर्ग से.मी.।",
+   "solution_en": "Area = 17×3 = 51 sq cm.",
    "gen_params": {
     "tpl": "rect_area",
     "l": 17,
-    "w": 13
-   }
-  },
-  {
-   "skill_id": "m8c8s1",
-   "difficulty": 1,
-   "text_hi": "आयत की लंबाई 14 से.मी. व चौड़ाई 13 से.मी. है। परिमाप = ?",
-   "text_en": "A rectangle has length 14 cm and width 13 cm. Perimeter = ?",
-   "options": [
-    "27",
-    "54",
-    "56",
-    "182"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
-   "hint_en": "Perimeter = 2(length + width).",
-   "solution_hi": "परिमाप = 2×(14+13) = 54 से.मी.।",
-   "solution_en": "Perimeter = 2×(14+13) = 54 cm.",
-   "gen_params": {
-    "tpl": "rect_perim",
-    "l": 14,
-    "w": 13
-   }
-  },
-  {
-   "skill_id": "m8c8s1",
-   "difficulty": 1,
-   "text_hi": "आयत की लंबाई 13 से.मी. व चौड़ाई 10 से.मी. है। परिमाप = ?",
-   "text_en": "A rectangle has length 13 cm and width 10 cm. Perimeter = ?",
-   "options": [
-    "23",
-    "48",
-    "130",
-    "46"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
-   "hint_en": "Perimeter = 2(length + width).",
-   "solution_hi": "परिमाप = 2×(13+10) = 46 से.मी.।",
-   "solution_en": "Perimeter = 2×(13+10) = 46 cm.",
-   "gen_params": {
-    "tpl": "rect_perim",
-    "l": 13,
-    "w": 10
-   }
-  },
-  {
-   "skill_id": "m8c8s1",
-   "difficulty": 1,
-   "text_hi": "आयत की लंबाई 18 से.मी. व चौड़ाई 5 से.मी. है। परिमाप = ?",
-   "text_en": "A rectangle has length 18 cm and width 5 cm. Perimeter = ?",
-   "options": [
-    "23",
-    "48",
-    "46",
-    "90"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
-   "hint_en": "Perimeter = 2(length + width).",
-   "solution_hi": "परिमाप = 2×(18+5) = 46 से.मी.।",
-   "solution_en": "Perimeter = 2×(18+5) = 46 cm.",
-   "gen_params": {
-    "tpl": "rect_perim",
-    "l": 18,
-    "w": 5
-   }
-  },
-  {
-   "skill_id": "m8c8s1",
-   "difficulty": 1,
-   "text_hi": "आयत की लंबाई 11 से.मी. व चौड़ाई 10 से.मी. है। परिमाप = ?",
-   "text_en": "A rectangle has length 11 cm and width 10 cm. Perimeter = ?",
-   "options": [
-    "42",
-    "110",
-    "21",
-    "44"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "परिमाप = 2(लंबाई + चौड़ाई)।",
-   "hint_en": "Perimeter = 2(length + width).",
-   "solution_hi": "परिमाप = 2×(11+10) = 42 से.मी.।",
-   "solution_en": "Perimeter = 2×(11+10) = 42 cm.",
-   "gen_params": {
-    "tpl": "rect_perim",
-    "l": 11,
-    "w": 10
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "36x + 72 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 36x + 72",
-   "options": [
-    "9(4x + 8)",
-    "4(9x + 18)",
-    "9(12x)",
-    "8(5x + 8)"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "36x+72 = 9(4x + 8)।",
-   "solution_en": "36x+72 = 9(4x + 8).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 36,
-    "B": 72,
-    "hcf": 9,
-    "m": 4,
-    "n": 8
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "18x + 24 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 18x + 24",
-   "options": [
-    "6(3x + 4)",
-    "3(6x + 8)",
-    "5(4x + 4)",
-    "6(7x)"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "18x+24 = 6(3x + 4)।",
-   "solution_en": "18x+24 = 6(3x + 4).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 18,
-    "B": 24,
-    "hcf": 6,
-    "m": 3,
-    "n": 4
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "63x + 81 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 63x + 81",
-   "options": [
-    "8(8x + 9)",
-    "63(x + 1.2857142857142858)",
-    "9(7x + 9)",
-    "9(16x)"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "63x+81 = 9(7x + 9)।",
-   "solution_en": "63x+81 = 9(7x + 9).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 63,
-    "B": 81,
-    "hcf": 9,
-    "m": 7,
-    "n": 9
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "40x + 32 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 40x + 32",
-   "options": [
-    "7(6x + 4)",
-    "8(5x + 4)",
-    "40(x + 0.8)",
-    "8(9x)"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "40x+32 = 8(5x + 4)।",
-   "solution_en": "40x+32 = 8(5x + 4).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 40,
-    "B": 32,
-    "hcf": 8,
-    "m": 5,
-    "n": 4
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "54x + 45 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 54x + 45",
-   "options": [
-    "8(7x + 5)",
-    "9(11x)",
-    "9(6x + 5)",
-    "54(x + 0.8333333333333334)"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "54x+45 = 9(6x + 5)।",
-   "solution_en": "54x+45 = 9(6x + 5).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 54,
-    "B": 45,
-    "hcf": 9,
-    "m": 6,
-    "n": 5
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "8x + 36 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 8x + 36",
-   "options": [
-    "3(3x + 9)",
-    "4(2x + 9)",
-    "4(11x)",
-    "2(4x + 18)"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "8x+36 = 4(2x + 9)।",
-   "solution_en": "8x+36 = 4(2x + 9).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 8,
-    "B": 36,
-    "hcf": 4,
-    "m": 2,
-    "n": 9
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "40x + 15 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 40x + 15",
-   "options": [
-    "4(9x + 3)",
-    "5(8x + 3)",
-    "40(x + 0.375)",
-    "5(11x)"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "40x+15 = 5(8x + 3)।",
-   "solution_en": "40x+15 = 5(8x + 3).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 40,
-    "B": 15,
-    "hcf": 5,
-    "m": 8,
-    "n": 3
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "63x + 14 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 63x + 14",
-   "options": [
-    "7(11x)",
-    "63(x + 0.2222222222222222)",
-    "7(9x + 2)",
-    "6(10x + 2)"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "63x+14 = 7(9x + 2)।",
-   "solution_en": "63x+14 = 7(9x + 2).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 63,
-    "B": 14,
-    "hcf": 7,
-    "m": 9,
-    "n": 2
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "64x + 56 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 64x + 56",
-   "options": [
-    "7(9x + 7)",
-    "8(15x)",
-    "8(8x + 7)0",
-    "8(8x + 7)"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "64x+56 = 8(8x + 7)।",
-   "solution_en": "64x+56 = 8(8x + 7).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 64,
-    "B": 56,
-    "hcf": 8,
-    "m": 8,
-    "n": 7
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "56x + 40 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 56x + 40",
-   "options": [
-    "56(x + 0.7142857142857143)",
-    "8(7x + 5)",
-    "8(12x)",
-    "7(8x + 5)"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "56x+40 = 8(7x + 5)।",
-   "solution_en": "56x+40 = 8(7x + 5).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 56,
-    "B": 40,
-    "hcf": 8,
-    "m": 7,
-    "n": 5
-   }
-  },
-  {
-   "skill_id": "m8c11s1",
-   "difficulty": 2,
-   "text_hi": "36x + 28 के गुणनखंड चुनिए।",
-   "text_en": "Factorise: 36x + 28",
-   "options": [
-    "4(9x + 7)",
-    "3(10x + 7)",
-    "4(16x)",
-    "36(x + 0.7777777777777778)"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
-   "hint_en": "Take out the greatest common factor of both terms.",
-   "solution_hi": "36x+28 = 4(9x + 7)।",
-   "solution_en": "36x+28 = 4(9x + 7).",
-   "gen_params": {
-    "tpl": "factor_common",
-    "A": 36,
-    "B": 28,
-    "hcf": 4,
-    "m": 9,
-    "n": 7
+    "w": 3
    }
   },
   {
@@ -2934,9 +2659,9 @@
    "text_en": "Factorise: 18x + 27",
    "options": [
     "9(5x)",
-    "18(x + 1.5)",
+    "8(3x + 3)",
     "9(2x + 3)",
-    "8(3x + 3)"
+    "18(x + 1.5)"
    ],
    "correct_idx": 2,
    "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
@@ -2950,6 +2675,281 @@
     "hcf": 9,
     "m": 2,
     "n": 3
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "21x + 49 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 21x + 49",
+   "options": [
+    "7(10x)",
+    "21(x + 2.3333333333333335)",
+    "7(3x + 7)",
+    "6(4x + 7)"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "21x+49 = 7(3x + 7)।",
+   "solution_en": "21x+49 = 7(3x + 7).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 21,
+    "B": 49,
+    "hcf": 7,
+    "m": 3,
+    "n": 7
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "20x + 8 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 20x + 8",
+   "options": [
+    "4(5x + 2)",
+    "3(6x + 2)",
+    "20(x + 0.4)",
+    "4(7x)"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "20x+8 = 4(5x + 2)।",
+   "solution_en": "20x+8 = 4(5x + 2).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 20,
+    "B": 8,
+    "hcf": 4,
+    "m": 5,
+    "n": 2
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "25x + 35 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 25x + 35",
+   "options": [
+    "5(12x)",
+    "5(5x + 7)0",
+    "5(5x + 7)",
+    "4(6x + 7)"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "25x+35 = 5(5x + 7)।",
+   "solution_en": "25x+35 = 5(5x + 7).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 25,
+    "B": 35,
+    "hcf": 5,
+    "m": 5,
+    "n": 7
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "12x + 42 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 12x + 42",
+   "options": [
+    "5(3x + 7)",
+    "2(6x + 21)",
+    "6(9x)",
+    "6(2x + 7)"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "12x+42 = 6(2x + 7)।",
+   "solution_en": "12x+42 = 6(2x + 7).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 12,
+    "B": 42,
+    "hcf": 6,
+    "m": 2,
+    "n": 7
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "28x + 56 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 28x + 56",
+   "options": [
+    "7(12x)",
+    "6(5x + 8)",
+    "7(4x + 8)",
+    "4(7x + 14)"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "28x+56 = 7(4x + 8)।",
+   "solution_en": "28x+56 = 7(4x + 8).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 28,
+    "B": 56,
+    "hcf": 7,
+    "m": 4,
+    "n": 8
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "25x + 30 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 25x + 30",
+   "options": [
+    "4(6x + 6)",
+    "5(5x + 6)",
+    "5(5x + 6)0",
+    "5(11x)"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "25x+30 = 5(5x + 6)।",
+   "solution_en": "25x+30 = 5(5x + 6).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 25,
+    "B": 30,
+    "hcf": 5,
+    "m": 5,
+    "n": 6
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "10x + 30 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 10x + 30",
+   "options": [
+    "5(2x + 6)",
+    "5(8x)",
+    "4(3x + 6)",
+    "2(5x + 15)"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "10x+30 = 5(2x + 6)।",
+   "solution_en": "10x+30 = 5(2x + 6).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 10,
+    "B": 30,
+    "hcf": 5,
+    "m": 2,
+    "n": 6
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "14x + 35 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 14x + 35",
+   "options": [
+    "14(x + 2.5)",
+    "7(2x + 5)",
+    "6(3x + 5)",
+    "7(7x)"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "14x+35 = 7(2x + 5)।",
+   "solution_en": "14x+35 = 7(2x + 5).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 14,
+    "B": 35,
+    "hcf": 7,
+    "m": 2,
+    "n": 5
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "8x + 16 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 8x + 16",
+   "options": [
+    "4(6x)",
+    "2(4x + 8)",
+    "4(2x + 4)",
+    "3(3x + 4)"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "8x+16 = 4(2x + 4)।",
+   "solution_en": "8x+16 = 4(2x + 4).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 8,
+    "B": 16,
+    "hcf": 4,
+    "m": 2,
+    "n": 4
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "27x + 9 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 27x + 9",
+   "options": [
+    "3(9x + 3)",
+    "3(12x)",
+    "2(10x + 3)",
+    "9(3x + 1)"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "27x+9 = 3(9x + 3)।",
+   "solution_en": "27x+9 = 3(9x + 3).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 27,
+    "B": 9,
+    "hcf": 3,
+    "m": 9,
+    "n": 3
+   }
+  },
+  {
+   "skill_id": "m8c11s1",
+   "difficulty": 2,
+   "text_hi": "9x + 24 के गुणनखंड चुनिए।",
+   "text_en": "Factorise: 9x + 24",
+   "options": [
+    "3(11x)",
+    "3(3x + 8)0",
+    "2(4x + 8)",
+    "3(3x + 8)"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "दोनों पदों का सबसे बड़ा समान गुणनखंड बाहर निकालिए।",
+   "hint_en": "Take out the greatest common factor of both terms.",
+   "solution_hi": "9x+24 = 3(3x + 8)।",
+   "solution_en": "9x+24 = 3(3x + 8).",
+   "gen_params": {
+    "tpl": "factor_common",
+    "A": 9,
+    "B": 24,
+    "hcf": 3,
+    "m": 3,
+    "n": 8
    }
   }
  ]

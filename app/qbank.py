@@ -18,8 +18,8 @@ def insert_item(conn, subject: str, grade: int, item: dict) -> None:
         """INSERT OR IGNORE INTO questions(
              subject, grade, skill_id, difficulty, text_hi, text_en,
              options_json, correct_idx, hint_hi, hint_en, solution_hi, solution_en,
-             gen_params_json, active)
-           VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,1)""",
+             gen_params_json, marks, qtype, active)
+           VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,1)""",
         (
             subject,
             grade,
@@ -34,6 +34,8 @@ def insert_item(conn, subject: str, grade: int, item: dict) -> None:
             item.get("solution_hi", ""),
             item.get("solution_en", ""),
             json.dumps(item["gen_params"], ensure_ascii=False) if item.get("gen_params") else None,
+            int(item.get("marks", 1) or 1),
+            item.get("qtype"),
         ),
     )
 
