@@ -40,7 +40,7 @@ python data/seed.py
 ## Tests
 
 ```bash
-python -m pytest tests/ -q     # 53 tests: engine math, walker, flows, channels, dashboard, board pattern
+python -m pytest tests/ -q     # 54 tests: engine math, walker, flows, channels, dashboard
 ```
 
 ## Regenerate / extend the question banks
