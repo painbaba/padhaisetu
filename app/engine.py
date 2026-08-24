@@ -234,6 +234,48 @@ def pick_board_set(user_id: int, subject: str, grade: int, now=None) -> list[dic
     return picks
 
 
+# ---------- mock exam (M10) ----------
+
+MOCK_SIZE = 23
+
+
+def pick_mock_set(user_id: int, subject: str, grade: int, now=None) -> tuple[list[dict], bool]:
+    """Full board-pattern mock paper. Primary path reuses pick_board_set (MPBSE mix,
+    weakest-first per bucket, OR-pair dedupe; the bank's seeded generator varies items).
+    Returns (picks, is_board_pattern); falls back to a daily-set-style paper when no
+    tagged board items exist for this class/subject."""
+    picks = pick_board_set(user_id, subject, grade, now)
+    if picks:
+        return picks, True
+    return pick_daily_set(user_id, subject, grade, MOCK_SIZE, now), False
+
+
+def mock_sections(records: list[dict]) -> list[dict]:
+    """Section scores from per-question records ({marks, earned}):
+    objective (<=1), short (==2), medium (==3), long (>=4), in that order."""
+    defs = [("objective", lambda m: m <= 1), ("short", lambda m: m == 2),
+            ("medium", lambda m: m == 3), ("long", lambda m: m >= 4)]
+    out = []
+    for name, pred in defs:
+        got = sum(r["earned"] for r in records if pred(int(r["marks"])))
+        mx = sum(int(r["marks"]) for r in records if pred(int(r["marks"])))
+        out.append({"name": name, "got": got, "max": mx})
+    return out
+
+
+def weak_skills_from_records(records: list[dict], k: int = 3) -> list[str]:
+    """Top-k weakest skills by marks earned / marks available (only imperfect ones),
+    ties broken by more-attempted first then skill_id for determinism."""
+    agg: dict[str, list[int]] = {}
+    for r in records:
+        a = agg.setdefault(r["skill_id"], [0, 0])
+        a[0] += int(r["earned"])
+        a[1] += int(r["marks"])
+    scored = [(g / m, sid) for sid, (g, m) in agg.items() if m > 0 and g < m]
+    scored.sort(key=lambda e: (e[0], -agg[e[1]][1], e[1]))
+    return [sid for _, sid in scored[:k]]
+
+
 # ---------- remediation ----------
 
 def remediation_target(user_id: int, skill_id: str, exclude: set[str] | None = None) -> dict | None:

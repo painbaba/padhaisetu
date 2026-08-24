@@ -97,6 +97,18 @@ CREATE TABLE IF NOT EXISTS reports(
   payload_json TEXT,
   sent INT DEFAULT 0
 );
+CREATE TABLE IF NOT EXISTS mock_attempts(
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  user_id INT,
+  subject TEXT,
+  grade INT,
+  started_at TEXT,
+  finished_at TEXT,
+  total_marks INT,
+  earned_marks INT,
+  pct REAL,
+  detail_json TEXT
+);
 CREATE UNIQUE INDEX IF NOT EXISTS ux_questions ON questions(subject, grade, skill_id, text_en);
 CREATE UNIQUE INDEX IF NOT EXISTS ux_sessions_user ON chat_sessions(user_id);
 """

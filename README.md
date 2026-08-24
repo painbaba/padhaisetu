@@ -7,6 +7,9 @@ questions with OR alternatives). A student chats: gets a short diagnostic quiz, 
 practice that targets their weakest sub-skills using a knowledge-graph mastery model.
 Wrong answers trigger prerequisite remediation — the engine walks down the topic graph
 and rebuilds fundamentals before climbing back. Parents get a weekly Hindi progress report.
+Students can also sit a **full mock board exam** ("mock" / "मॉक" / "पेपर" or menu option 4):
+a 23-question MPBSE-pattern paper with no hints or remediation, skip allowed, a bilingual
+section-wise scorecard, and a one-tap handoff into practice targeting the weakest mock skills.
 
 **No LLM in the critical path** — the adaptive engine is deterministic and fully unit-tested.
 An optional GPT hint-explainer sits behind `OPENAI_API_KEY` and falls back gracefully.
@@ -44,7 +47,7 @@ python data/seed.py
 ## Tests
 
 ```bash
-python -m pytest tests/ -q     # 66 tests: engine math, walker, flows, channels, dashboard, board pattern, RAG explain
+python -m pytest tests/ -q     # 80 tests: engine math, walker, flows, channels, dashboard, board pattern, RAG explain, mock exam
 ```
 
 ## Regenerate / extend the question banks

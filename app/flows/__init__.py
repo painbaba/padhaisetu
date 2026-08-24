@@ -1,5 +1,5 @@
 """Chat flow orchestration: state machine over chat_sessions.
-States: onb_lang -> onb_grade -> onb_subject -> diag -> menu <-> practice."""
+States: onb_lang -> onb_grade -> onb_subject -> diag -> menu <-> practice, menu -> mock."""
 import json
 import time
 from pathlib import Path
@@ -103,6 +103,11 @@ def _prompt_for_state(user_row, state: str, ctx: dict, lang: str) -> list[str]:
         return [t(lang, "ask_subject")]
     if state == "menu":
         return [t(lang, "menu")]
+    if state == "mock":
+        cur = mock.current_prompt(ctx, lang)
+        if cur:
+            return [cur]
+        return [t(lang, "menu")]
     if state == "diag" and ctx.get("queue"):
         q = diagnostic.current_question(ctx)
         if q is not None:
@@ -152,6 +157,8 @@ def handle_message(phone: str, text: str) -> list[str]:
             replies, newstate, newctx = onboarding.handle(user_row, state, dict(ctx), intent, text)
         elif state == "diag":
             replies, newstate, newctx = diagnostic.handle(user_row, dict(ctx), intent, text)
+        elif state == "mock":
+            replies, newstate, newctx = mock.handle(user_row, dict(ctx), intent, text)
         elif state in ("menu", "practice"):
             replies, newstate, newctx = practice.handle(user_row, state, dict(ctx), intent, text)
         else:
@@ -184,4 +191,4 @@ def elapsed_ms(ctx: dict) -> int:
 
 
 # Submodule imports at the bottom so shared helpers above are already defined
-from . import onboarding, diagnostic, practice, ragflow  # noqa: E402
+from . import onboarding, diagnostic, practice, ragflow, mock  # noqa: E402

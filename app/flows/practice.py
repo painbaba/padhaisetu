@@ -25,13 +25,21 @@ def _menu(user_row, text: str, ctx: dict):
     if choice == 1 or "practice" in low or "abhyas" in low or "अभ्यास" in text:
         subject = ctx.get("subject") or _infer_subject(uid)
         grade = user_row["grade"]
-        board = engine.pick_board_set(uid, subject, grade)
-        if board:
-            picks = board
-            intro = t(lang, "practice_intro_board", total=len(picks))
-        else:
-            picks = engine.pick_daily_set(uid, subject, grade, SET_SIZE)
-            intro = t(lang, "practice_intro", total=len(picks))
+        focus = ctx.get("mock_focus") or []
+        picks, board, intro = None, False, None
+        if focus:
+            # Post-mock handoff: a set targeting the mock's weakest skills first.
+            picks = _focused_set(uid, subject, grade, focus)
+            if picks:
+                intro = t(lang, "practice_intro", total=len(picks))
+        if not picks:
+            board = engine.pick_board_set(uid, subject, grade)
+            if board:
+                picks = board
+                intro = t(lang, "practice_intro_board", total=len(picks))
+            else:
+                picks = engine.pick_daily_set(uid, subject, grade, SET_SIZE)
+                intro = t(lang, "practice_intro", total=len(picks))
         if not picks:
             return [t(lang, "unknown"), t(lang, "menu")], "menu", ctx
         newctx = {
@@ -47,6 +55,10 @@ def _menu(user_row, text: str, ctx: dict):
         q0 = db.query_one("SELECT * FROM questions WHERE id=?", (newctx["queue"][0]["qid"],))
         return [intro, render_question(q0, 1, len(picks), lang)], "practice", _stamp(newctx)
 
+    if choice == 4 or "mock" in low or "मॉक" in text or "पेपर" in text:
+        from . import mock
+        return mock.start(user_row, ctx)
+
     if choice == 2:
         return [_progress_message(uid, lang)], "menu", ctx
 
@@ -58,6 +70,32 @@ def _menu(user_row, text: str, ctx: dict):
     if ctx.get("just_diagnosed"):
         ctx.pop("just_diagnosed")
     return [t(lang, "menu")], "menu", ctx
+
+
+def _focused_set(uid: int, subject: str, grade: int, focus: list) -> list:
+    """Post-mock practice set: weakest mock skills first, padded from the daily
+    ranking. Falls back to None when nothing usable is found (caller uses the
+    normal board/daily path)."""
+    picks, used_skills = [], set()
+    for sid in focus:
+        q = engine.pick_question_for_skill(sid, pref_diff=2)
+        if q is not None:
+            picks.append({"question": q, "skill_id": sid})
+            used_skills.add(sid)
+        if len(picks) >= SET_SIZE:
+            return picks
+    for entry in engine.ranked_skills(uid, subject, grade):
+        if len(picks) >= SET_SIZE:
+            break
+        sid = entry["skill_id"]
+        if sid in used_skills:
+            continue
+        q = engine.pick_question_for_skill(sid, engine.preferred_difficulty(entry["score"]))
+        if q is None:
+            continue
+        used_skills.add(sid)
+        picks.append({"question": q, "skill_id": sid})
+    return picks
 
 
 def _infer_subject(uid: int) -> str:

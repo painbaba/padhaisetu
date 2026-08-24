@@ -37,6 +37,7 @@ def _counters() -> dict:
         "SELECT COUNT(DISTINCT user_id) FROM attempts WHERE created_at >= ?",
         (db.iso(db.now_ist() - timedelta(days=7)),)) or 0)
     reports = int(db.scalar("SELECT COUNT(*) FROM reports") or 0)
+    mocks = int(db.scalar("SELECT COUNT(*) FROM mock_attempts") or 0)
     return {
         "USERS": users,
         "QUESTIONS": questions,
@@ -45,6 +46,7 @@ def _counters() -> dict:
         "ACCURACY": f"{accuracy}%",
         "ACTIVE": active,
         "REPORTS": reports,
+        "MOCKS": mocks,
         "RAG_CHUNKS": rag.total_chunks(),
     }
 
@@ -77,12 +79,21 @@ def _student_card(user_row) -> str:
         "SELECT COUNT(*) FROM attempts WHERE user_id=? AND correct=1", (uid,)) or 0)
     acc = round(100.0 * ok_att / total_att) if total_att else 0
 
+    latest_mock = db.query_one(
+        "SELECT earned_marks, total_marks FROM mock_attempts WHERE user_id=? "
+        "ORDER BY id DESC LIMIT 1", (uid,))
+    mock_txt = ""
+    if latest_mock:
+        mock_txt = (f' · mock <b>{int(latest_mock["earned_marks"])}'
+                    f'/{int(latest_mock["total_marks"])}</b>')
+
     return (
         '<div class="card">'
         f'<div class="cardhead"><b>{escape(name)}</b>'
         f'<span class="meta">*{escape(phone)} · class {escape(str(grade))} · {lang}</span></div>'
         f'<div class="stats">attempts <b>{total_att}</b> · accuracy <b>{acc}%</b> · '
-        f'streak <b>{cur}</b>/best <b>{best}</b> · last <b>{escape(str(last_seen)[:10])}</b></div>'
+        f'streak <b>{cur}</b>/best <b>{best}</b> · last <b>{escape(str(last_seen)[:10])}</b>'
+        f'{mock_txt}</div>'
         f'<div class="grid">{grid}</div>'
         '</div>'
     )

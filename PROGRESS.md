@@ -15,13 +15,22 @@ Built via opencode TUI (ox-alpha free lane), Aug 24 2026. Brief: `../BRIEF.md`.
 | M7 | Board-pattern generator + schema: marks/qtype columns (defaults keep legacy data intact), MPBSE 2026-shaped class-10 sets (5 objective MCQ/fill/TF + 12×2m + 3×3m + 3×4m, each 3/4-mark with OR sibling), banks regenerated (maths_10 → 186 items) | 5d10e7a |
 | M8 | Board-pattern serving: grade-10 practice = full 23-question mix (objective first, ascending marks), diagnostic = board mini-mix (1×2+2×2+3), marks shown beside question number ("प्रश्न 7/23 (2 अंक)"), OR-pair dedupe within session, skill interleaving; 8 new tests | 0dff794 |
 | M9 | RAG retrieval wired into explain flow: stdlib BM25 singleton over 2,816 NCERT+MPBSE chunks, new "समझाइए/explain/क्यों/how-why" chat intent in menu+practice states (top-2 chunks filtered by class+subject, ~400-char excerpt, bilingual स्रोत citation line), POST /api/explain {phone_or_session,query}->{answer_text,source,chunks}, optional GPT 2-sentence polish behind OPENAI_API_KEY with raw-excerpt fallback, dashboard "RAG corpus chunks" stat; 13 new tests | *this commit* |
+| M10 | Mock board exam mode: menu option 4 + "mock/मॉक/पेपर" trigger (menu state & after practice), full MPBSE-pattern paper via existing board generator/banks (23 Q: 5 objective → 12×2m → 3×3m → 3×4m, OR-pair dedupe, seeded per attempt), exam rules — no hints/remediation/per-answer feedback, "SKIP/छोड़ें" scores zero; bilingual scorecard (section scores per actual mark distribution, total+%, top-3 weak skills, "1 भेजिए practice करने के लिए" handoff into focus-targeted practice); `mock_attempts` history table; dashboard "Mocks taken" KPI + latest mock score per student card; NLU EXPLAIN widened with "क्या है"/"what is"; seed adds one truthful mock row per demo student; 14 new tests (80 green) | *this commit* |
 
 ## Verification
-- pytest: **66/66 passed** (13.4s)
+- pytest: **80/80 passed** (15s) — M10 added 14 (mock exam end-to-end, NLU widening, scorecard math, dashboard counters)
 - Fresh boot: `bash run.sh` → :8831 /health {"ok":true}; retriever singleton preloaded in lifespan (~3s, once)
 - Live Hindi journey verified externally: हैलो → हिंदी → कक्षा 10 → गणित → 5 diagnostic questions answered → बोर्ड-पैटर्न practice set of 23 served with (N अंक) labels; attempts+mastery rows written
 - M9 live check: `POST /api/explain {"query":"how does photosynthesis work"}` → Hindi NCERT excerpt + "स्रोत: NCERT विज्ञान कक्षा 10…" citation; dashboard shows **2,816** RAG corpus chunks
+- M10 live check: menu option 4 / "मॉक" from menu starts the paper; mid-mock "english"/"help" re-render the current question; skip-everything run stores an honest 0/50 (0.0%) row; 16-right+1-skip+6-wrong run scores exactly 29/50 (58.0%) with correct section lines and a focus-targeted practice handoff on "1"
 - Question banks: **698 items** (323 parametric maths classes 8-10 incl. 87 board-pattern class-10 items, 288 curated science), every item asserted for unique options, correct_idx bounds, bilingual text/hint/solution fields
+
+### Mock exam marking note (M10)
+The official MPBSE sample paper reaches 75 marks because its five objective questions each carry
+six 1-mark sub-parts ("1x6=6"). PadhaiSetu serves one option-question per slot, so the chat mock's
+objective section is 5×1 — total **50 marks** over the same 23-question shape. The scorecard
+denominators are computed from the served set's actual mark distribution (task spec: "per actual
+mark distribution"), never hardcoded.
 
 ## Board-pattern alignment (M7/M8)
 - Ground truth: `data/pyqs/paper2026_10th_Maths_{standard,basic}.txt` + `_Science.txt` — official MPBSE 2026 sample papers (23 questions, 75 marks, objective Q1–5, structured Q6–23 with internal choices)

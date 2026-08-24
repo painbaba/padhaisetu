@@ -3,6 +3,7 @@ Run AFTER first server start (or standalone - it inits + loads banks itself):
     python data/seed.py
 Deterministic: fixed rng seed, so judges see the same story every reset.
 """
+import json
 import random
 import sys
 from datetime import timedelta
@@ -23,6 +24,33 @@ STUDENTS = [
      "subject": "science", "days": 4, "per_day": 5, "accuracy": 0.65,
      "streak_days": 2},
 ]
+
+
+def seed_mock(uid: int, cfg: dict, rng: random.Random, day) -> None:
+    """One completed mock-paper row built from real bank questions so the
+    dashboard's Mocks-taken counter and latest-mock score have real backing."""
+    picks, board = engine.pick_mock_set(uid, cfg["subject"], cfg["grade"])
+    if not picks:
+        return
+    records, earned, total = [], 0, 0
+    for p in picks:
+        q = p["question"]
+        marks = int(q["marks"] or 1)
+        total += marks
+        e = marks if rng.random() < cfg["accuracy"] else 0
+        earned += e
+        records.append({"qid": q["id"], "skill_id": p["skill_id"], "marks": marks,
+                        "earned": e, "skipped": False})
+    started = db.now_ist().replace(
+        year=day.year, month=day.month, day=day.day, hour=18, minute=10)
+    db.execute(
+        """INSERT INTO mock_attempts(user_id, subject, grade, started_at, finished_at,
+           total_marks, earned_marks, pct, detail_json) VALUES(?,?,?,?,?,?,?,?,?)""",
+        (uid, cfg["subject"], cfg["grade"], db.iso(started), db.iso(started),
+         total, earned, round(100.0 * earned / total, 1) if total else 0.0,
+         json.dumps(records, ensure_ascii=False)))
+    print(f"  + mock paper {'board' if board else 'plain'} "
+          f"({earned}/{total} marks)")
 
 
 def seed_student(cfg: dict, rng: random.Random) -> None:
@@ -62,6 +90,8 @@ def seed_student(cfg: dict, rng: random.Random) -> None:
            ON CONFLICT(user_id) DO UPDATE SET current=excluded.current,
              best=excluded.best, last_day=excluded.last_day""",
         (uid, cur, best, last_day))
+
+    seed_mock(uid, cfg, rng, today - timedelta(days=1))
 
     payload = engine.weekly_payload(uid)
     engine.store_report(uid, payload)
