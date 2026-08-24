@@ -70,7 +70,15 @@ def option_block(options: list[str]) -> str:
 def render_question(qrow, idx: int, total: int, lang: str, label_key: str = "q_label") -> str:
     text = qrow["text_hi"] if lang == "hi" else qrow["text_en"]
     opts = option_block((qrow["options_json"] or "").split("|"))
-    return f"{t(lang, label_key, n=idx, total=total)}\n{text}\n{opts}"
+    keys = set(qrow.keys()) if hasattr(qrow, "keys") else set()
+    marks = int(qrow["marks"]) if "marks" in keys and qrow["marks"] is not None else 1
+    qtype = qrow["qtype"] if "qtype" in keys else None
+    # Board-pattern items carry a qtype tag -> show marks next to the number.
+    if label_key == "q_label" and (qtype or marks != 1):
+        head = t(lang, "q_label_marks", n=idx, total=total, marks=marks)
+    else:
+        head = t(lang, label_key, n=idx, total=total)
+    return f"{head}\n{text}\n{opts}"
 
 
 def normalize_answer(text: str) -> int | None:

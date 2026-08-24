@@ -22,9 +22,27 @@ def representative_questions(user_row, subject: str):
     return [viable[int(i * step)] for i in range(DIAG_SIZE)]
 
 
+def _board_mini(board_picks: list[dict]) -> list[dict] | None:
+    """5-question diagnostic slice of the full board mix:
+    2 objective + 2 two-mark + 1 three-mark (objective first, ascending marks)."""
+    obj = [p for p in board_picks if int(p["question"]["marks"] or 1) <= 1][:2]
+    two = [p for p in board_picks if int(p["question"]["marks"] or 1) == 2][:2]
+    three = [p for p in board_picks if int(p["question"]["marks"] or 1) == 3][:1]
+    mini = obj + two + three
+    return mini if len(mini) == DIAG_SIZE else None
+
+
 def start(user_row, subject: str):
     lang = user_row["lang"]
-    qs = representative_questions(user_row, subject)
+    qs = None
+    if int(user_row["grade"] or 0) == engine.BOARD_GRADE:
+        board = engine.pick_board_set(user_row["id"], subject, user_row["grade"])
+        if board:
+            mini = _board_mini(board)
+            if mini:
+                qs = [{"id": p["question"]["id"], "skill_id": p["skill_id"]} for p in mini]
+    if qs is None:
+        qs = representative_questions(user_row, subject)
     if len(qs) < 3:
         return ([t(lang, "menu")], "menu", {"subject": subject})
     ctx = {

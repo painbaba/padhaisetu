@@ -11,6 +11,12 @@ WEAK = 0.45
 OK = 0.7
 DEFAULT_SCORE = 0.5
 
+# Board-pattern session shape (official MPBSE 2026 sample papers, data/pyqs/paper2026_*)
+BOARD_GRADE = 10
+BOARD_SHAPE = [(5, 1), (12, 2), (3, 3), (3, 4)]   # (count, marks)
+OBJECTIVE_QTYPES = ("mcq", "fill", "tf")
+BOARD_SKILL_CAP = 4
+
 
 # ---------- mastery math (pure) ----------
 
@@ -138,6 +144,90 @@ def pick_daily_set(user_id: int, subject: str, grade: int, n: int = 5, now=None)
             continue
         used_skills.add(sid)
         picks.append({"question": q, "skill_id": sid, "score": entry["score"]})
+    return picks
+
+
+def _mastery_score(mmap: dict, skill_id: str) -> float:
+    row = mmap.get(skill_id)
+    return float(row["score"]) if row else DEFAULT_SCORE
+
+
+def _interleave_by_skill(rows: list) -> list:
+    """Round-robin across skill groups (rank order preserved between groups)
+    so a session doesn't serve several same-template items back-to-back."""
+    groups: dict[str, list] = {}
+    for r in rows:
+        groups.setdefault(r["skill_id"], []).append(r)
+    out: list = []
+    while any(groups.values()):
+        for g in groups.values():
+            if g:
+                out.append(g.pop(0))
+    return out
+
+
+def pick_board_set(user_id: int, subject: str, grade: int, now=None) -> list[dict] | None:
+    """Grade-10 MPBSE board-pattern mix: 5 objective (MCQ/fill/tf), then
+    12x2-mark, 3x3-mark, 3x4-mark — weakest skills first inside each bucket,
+    never both members of an OR pair. Returns None when tagged items are short
+    (caller falls back to pick_daily_set)."""
+    if int(grade or 0) != BOARD_GRADE:
+        return None
+    now = now or db.now_ist()
+    ranked = ranked_skills(user_id, subject, grade, now)
+    rank = {e["skill_id"]: i for i, e in enumerate(ranked)}
+    mmap = get_mastery(user_id)
+
+    def bucket(marks: int) -> list:
+        if marks == 1:
+            qs = ",".join("?" * len(OBJECTIVE_QTYPES))
+            where = f"marks<=1 AND qtype IN ({qs})"
+            params: tuple = (subject, grade, *OBJECTIVE_QTYPES)
+        else:
+            where = "marks=?"
+            params = (subject, grade, marks)
+        rows = db.query(
+            f"SELECT * FROM questions WHERE subject=? AND grade=? AND active=1 AND {where}",
+            params)
+        return _interleave_by_skill(sorted(rows, key=lambda r: (
+            rank.get(r["skill_id"], len(rank)),
+            _mastery_score(mmap, r["skill_id"]),
+            r["id"],
+        )))
+
+    buckets = [bucket(m) for _, m in BOARD_SHAPE]
+    if any(len(rows) < need for rows, (need, _) in zip(buckets, BOARD_SHAPE)):
+        return None
+
+    used_pairs: set[str] = set()
+    used_qids: set[int] = set()
+    skill_ct: dict[str, int] = {}
+    picks: list[dict] = []
+    for rows, (need, _marks) in zip(buckets, BOARD_SHAPE):
+        taken = 0
+        for r in rows:
+            if taken >= need:
+                break
+            rid, sid = r["id"], r["skill_id"]
+            if rid in used_qids or skill_ct.get(sid, 0) >= BOARD_SKILL_CAP:
+                continue
+            opair = None
+            if r["gen_params_json"]:
+                try:
+                    opair = json.loads(r["gen_params_json"]).get("or_pair")
+                except Exception:
+                    opair = None
+            if opair and opair in used_pairs:
+                continue
+            used_qids.add(rid)
+            if opair:
+                used_pairs.add(opair)
+            skill_ct[sid] = skill_ct.get(sid, 0) + 1
+            picks.append({"question": r, "skill_id": sid,
+                          "score": _mastery_score(mmap, sid)})
+            taken += 1
+        if taken < need:
+            return None  # cap/or-pair filtering starved this bucket
     return picks
 
 

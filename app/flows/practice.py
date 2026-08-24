@@ -25,19 +25,25 @@ def _menu(user_row, text: str, ctx: dict):
     if choice == 1 or "practice" in low or "abhyas" in low or "अभ्यास" in text:
         subject = ctx.get("subject") or _infer_subject(uid)
         grade = user_row["grade"]
-        picks = engine.pick_daily_set(uid, subject, grade, SET_SIZE)
+        board = engine.pick_board_set(uid, subject, grade)
+        if board:
+            picks = board
+            intro = t(lang, "practice_intro_board", total=len(picks))
+        else:
+            picks = engine.pick_daily_set(uid, subject, grade, SET_SIZE)
+            intro = t(lang, "practice_intro", total=len(picks))
         if not picks:
             return [t(lang, "unknown"), t(lang, "menu")], "menu", ctx
         newctx = {
             "greeted": True,
             "subject": subject,
             "mode": "practice",
+            "board": bool(board),
             "queue": [{"qid": p["question"]["id"], "skill": p["skill_id"]} for p in picks],
             "idx": 0,
             "correct_ct": 0,
             "remediations_used": 0,
         }
-        intro = t(lang, "practice_intro", total=len(picks))
         q0 = db.query_one("SELECT * FROM questions WHERE id=?", (newctx["queue"][0]["qid"],))
         return [intro, render_question(q0, 1, len(picks), lang)], "practice", _stamp(newctx)
 
