@@ -1312,12 +1312,12 @@ def generate_board_pattern(cls: int = 10, seed: int = 42, sets: int = 3) -> dict
 def generate_class(cls: int, seed: int = 42) -> list[dict]:
     items: list[dict] = []
     seen_texts: set[tuple] = set()
-    for tpl in TEMPLATES[cls]:
+    for tpl_idx, tpl in enumerate(TEMPLATES[cls]):
         made = 0
         attempts = 0
         while made < VARIANTS and attempts < VARIANTS * 12:
             attempts += 1
-            rng = random.Random(seed + cls * 10000 + id(tpl) % 9973 + attempts)
+            rng = random.Random(seed * 1000003 + cls * 10000 + tpl_idx * 500 + attempts)
             item = tpl(rng)
             key = (item["skill_id"], item["text_en"], item["options"][item["correct_idx"]])
             if key in seen_texts:

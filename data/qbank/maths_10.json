@@ -6,287 +6,309 @@
   {
    "skill_id": "m10c1s1",
    "difficulty": 2,
-   "text_hi": "42 और 33 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 42 and 33 = ?",
-   "options": [
-    "6",
-    "9",
-    "3",
-    "4"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
-   "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "42, 33 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 3 है।",
-   "solution_en": "Common prime factors of 42 and 33 give HCF = 3.",
-   "gen_params": {
-    "tpl": "hcf",
-    "a": 42,
-    "b": 33
-   }
-  },
-  {
-   "skill_id": "m10c1s1",
-   "difficulty": 2,
-   "text_hi": "20 और 50 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 20 and 50 = ?",
-   "options": [
-    "11",
-    "30",
-    "10",
-    "20"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
-   "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "20, 50 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 10 है।",
-   "solution_en": "Common prime factors of 20 and 50 give HCF = 10.",
-   "gen_params": {
-    "tpl": "hcf",
-    "a": 20,
-    "b": 50
-   }
-  },
-  {
-   "skill_id": "m10c1s1",
-   "difficulty": 2,
-   "text_hi": "24 और 36 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 24 and 36 = ?",
-   "options": [
-    "24",
-    "13",
-    "120",
-    "12"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
-   "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "24, 36 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 12 है।",
-   "solution_en": "Common prime factors of 24 and 36 give HCF = 12.",
-   "gen_params": {
-    "tpl": "hcf",
-    "a": 24,
-    "b": 36
-   }
-  },
-  {
-   "skill_id": "m10c1s1",
-   "difficulty": 2,
-   "text_hi": "20 और 18 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 20 and 18 = ?",
-   "options": [
-    "3",
-    "20",
-    "2",
-    "4"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
-   "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "20, 18 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 2 है।",
-   "solution_en": "Common prime factors of 20 and 18 give HCF = 2.",
-   "gen_params": {
-    "tpl": "hcf",
-    "a": 20,
-    "b": 18
-   }
-  },
-  {
-   "skill_id": "m10c1s1",
-   "difficulty": 2,
-   "text_hi": "33 और 21 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 33 and 21 = ?",
+   "text_hi": "36 और 12 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 36 and 12 = ?",
    "options": [
     "12",
+    "24",
+    "120",
+    "13"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
+   "hint_en": "Prime factorise and multiply common factors.",
+   "solution_hi": "36, 12 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 12 है।",
+   "solution_en": "Common prime factors of 36 and 12 give HCF = 12.",
+   "gen_params": {
+    "tpl": "hcf",
+    "a": 36,
+    "b": 12
+   }
+  },
+  {
+   "skill_id": "m10c1s1",
+   "difficulty": 2,
+   "text_hi": "18 और 34 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 18 and 34 = ?",
+   "options": [
+    "2",
     "3",
+    "16",
+    "4"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
+   "hint_en": "Prime factorise and multiply common factors.",
+   "solution_hi": "18, 34 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 2 है।",
+   "solution_en": "Common prime factors of 18 and 34 give HCF = 2.",
+   "gen_params": {
+    "tpl": "hcf",
+    "a": 18,
+    "b": 34
+   }
+  },
+  {
+   "skill_id": "m10c1s1",
+   "difficulty": 2,
+   "text_hi": "46 और 52 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 46 and 52 = ?",
+   "options": [
+    "2",
+    "6",
     "4",
-    "6"
+    "3"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
+   "hint_en": "Prime factorise and multiply common factors.",
+   "solution_hi": "46, 52 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 2 है।",
+   "solution_en": "Common prime factors of 46 and 52 give HCF = 2.",
+   "gen_params": {
+    "tpl": "hcf",
+    "a": 46,
+    "b": 52
+   }
+  },
+  {
+   "skill_id": "m10c1s1",
+   "difficulty": 2,
+   "text_hi": "20 और 28 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 20 and 28 = ?",
+   "options": [
+    "5",
+    "4",
+    "40",
+    "8"
    ],
    "correct_idx": 1,
    "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
    "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "33, 21 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 3 है।",
-   "solution_en": "Common prime factors of 33 and 21 give HCF = 3.",
+   "solution_hi": "20, 28 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 4 है।",
+   "solution_en": "Common prime factors of 20 and 28 give HCF = 4.",
    "gen_params": {
     "tpl": "hcf",
-    "a": 33,
-    "b": 21
+    "a": 20,
+    "b": 28
    }
   },
   {
    "skill_id": "m10c1s1",
    "difficulty": 2,
-   "text_hi": "50 और 32 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 50 and 32 = ?",
+   "text_hi": "36 और 32 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 36 and 32 = ?",
    "options": [
-    "18",
+    "40",
     "4",
-    "3",
-    "2"
+    "8",
+    "5"
    ],
-   "correct_idx": 3,
+   "correct_idx": 1,
    "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
    "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "50, 32 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 2 है।",
-   "solution_en": "Common prime factors of 50 and 32 give HCF = 2.",
+   "solution_hi": "36, 32 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 4 है।",
+   "solution_en": "Common prime factors of 36 and 32 give HCF = 4.",
    "gen_params": {
     "tpl": "hcf",
-    "a": 50,
+    "a": 36,
     "b": 32
    }
   },
   {
    "skill_id": "m10c1s1",
    "difficulty": 2,
-   "text_hi": "14 और 35 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 14 and 35 = ?",
+   "text_hi": "27 और 12 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 27 and 12 = ?",
    "options": [
-    "8",
-    "14",
-    "21",
-    "7"
+    "4",
+    "3",
+    "15",
+    "6"
    ],
-   "correct_idx": 3,
+   "correct_idx": 1,
    "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
    "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "14, 35 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 7 है।",
-   "solution_en": "Common prime factors of 14 and 35 give HCF = 7.",
+   "solution_hi": "27, 12 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 3 है।",
+   "solution_en": "Common prime factors of 27 and 12 give HCF = 3.",
    "gen_params": {
     "tpl": "hcf",
-    "a": 14,
-    "b": 35
+    "a": 27,
+    "b": 12
    }
   },
   {
    "skill_id": "m10c1s1",
    "difficulty": 2,
-   "text_hi": "15 और 40 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 15 and 40 = ?",
+   "text_hi": "32 और 14 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 32 and 14 = ?",
    "options": [
-    "5",
-    "6",
-    "25",
-    "10"
+    "3",
+    "18",
+    "4",
+    "2"
    ],
-   "correct_idx": 0,
+   "correct_idx": 3,
    "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
    "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "15, 40 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 5 है।",
-   "solution_en": "Common prime factors of 15 and 40 give HCF = 5.",
+   "solution_hi": "32, 14 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 2 है।",
+   "solution_en": "Common prime factors of 32 and 14 give HCF = 2.",
    "gen_params": {
     "tpl": "hcf",
-    "a": 15,
+    "a": 32,
+    "b": 14
+   }
+  },
+  {
+   "skill_id": "m10c1s1",
+   "difficulty": 2,
+   "text_hi": "18 और 40 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 18 and 40 = ?",
+   "options": [
+    "22",
+    "2",
+    "4",
+    "3"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
+   "hint_en": "Prime factorise and multiply common factors.",
+   "solution_hi": "18, 40 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 2 है।",
+   "solution_en": "Common prime factors of 18 and 40 give HCF = 2.",
+   "gen_params": {
+    "tpl": "hcf",
+    "a": 18,
     "b": 40
    }
   },
   {
    "skill_id": "m10c1s1",
    "difficulty": 2,
-   "text_hi": "15 और 60 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 15 and 60 = ?",
+   "text_hi": "16 और 20 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 16 and 20 = ?",
    "options": [
-    "30",
-    "16",
-    "45",
-    "15"
+    "8",
+    "40",
+    "4",
+    "5"
    ],
-   "correct_idx": 3,
+   "correct_idx": 2,
    "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
    "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "15, 60 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 15 है।",
-   "solution_en": "Common prime factors of 15 and 60 give HCF = 15.",
+   "solution_hi": "16, 20 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 4 है।",
+   "solution_en": "Common prime factors of 16 and 20 give HCF = 4.",
    "gen_params": {
     "tpl": "hcf",
-    "a": 15,
-    "b": 60
+    "a": 16,
+    "b": 20
    }
   },
   {
    "skill_id": "m10c1s1",
    "difficulty": 2,
-   "text_hi": "46 और 38 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 46 and 38 = ?",
+   "text_hi": "36 और 58 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 36 and 58 = ?",
    "options": [
     "3",
-    "2",
     "4",
-    "8"
+    "2",
+    "22"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
+   "hint_en": "Prime factorise and multiply common factors.",
+   "solution_hi": "36, 58 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 2 है।",
+   "solution_en": "Common prime factors of 36 and 58 give HCF = 2.",
+   "gen_params": {
+    "tpl": "hcf",
+    "a": 36,
+    "b": 58
+   }
+  },
+  {
+   "skill_id": "m10c1s1",
+   "difficulty": 2,
+   "text_hi": "28 और 38 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 28 and 38 = ?",
+   "options": [
+    "10",
+    "2",
+    "3",
+    "4"
    ],
    "correct_idx": 1,
    "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
    "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "46, 38 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 2 है।",
-   "solution_en": "Common prime factors of 46 and 38 give HCF = 2.",
+   "solution_hi": "28, 38 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 2 है।",
+   "solution_en": "Common prime factors of 28 and 38 give HCF = 2.",
    "gen_params": {
     "tpl": "hcf",
-    "a": 46,
+    "a": 28,
     "b": 38
    }
   },
   {
    "skill_id": "m10c1s1",
    "difficulty": 2,
-   "text_hi": "39 और 48 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 39 and 48 = ?",
+   "text_hi": "33 और 54 का महत्तम समापवर्तक (HCF) = ?",
+   "text_en": "HCF of 33 and 54 = ?",
    "options": [
-    "6",
-    "4",
     "3",
-    "9"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
-   "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "39, 48 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 3 है।",
-   "solution_en": "Common prime factors of 39 and 48 give HCF = 3.",
-   "gen_params": {
-    "tpl": "hcf",
-    "a": 39,
-    "b": 48
-   }
-  },
-  {
-   "skill_id": "m10c1s1",
-   "difficulty": 2,
-   "text_hi": "54 और 24 का महत्तम समापवर्तक (HCF) = ?",
-   "text_en": "HCF of 54 and 24 = ?",
-   "options": [
-    "7",
-    "12",
-    "30",
+    "4",
+    "21",
     "6"
    ],
-   "correct_idx": 3,
+   "correct_idx": 0,
    "hint_hi": "अभाज्य गुणनखंड निकालकर सामान्य गुणनखंडों का गुणनफल लीजिए।",
    "hint_en": "Prime factorise and multiply common factors.",
-   "solution_hi": "54, 24 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 6 है।",
-   "solution_en": "Common prime factors of 54 and 24 give HCF = 6.",
+   "solution_hi": "33, 54 के सामान्य अभाज्य गुणनखंडों का गुणनफल HCF = 3 है।",
+   "solution_en": "Common prime factors of 33 and 54 give HCF = 3.",
    "gen_params": {
     "tpl": "hcf",
-    "a": 54,
-    "b": 24
+    "a": 33,
+    "b": 54
    }
   },
   {
-   "skill_id": "m10c3s1",
+   "skill_id": "m10c2s2",
    "difficulty": 2,
-   "text_hi": "x² - 12x + 35 = 0 का बड़ा मूल = ?",
-   "text_en": "The larger root of x² - 12x + 35 = 0 is ?",
+   "text_hi": "x² + 4x - 5 = 0 के मूलों का योग = ?",
+   "text_en": "Sum of roots of x² + 4x - 5 = 0 is ?",
    "options": [
-    "7",
-    "5",
-    "8",
-    "-12"
+    "-3",
+    "-5",
+    "-4",
+    "4"
    ],
-   "correct_idx": 0,
-   "hint_hi": "गुणनखंड कीजिए: (x−p)(x−q) रूप सोचिए।",
-   "hint_en": "Factorise: think of the form (x-p)(x-q).",
-   "solution_hi": "गुणनखंड से मूल 5, 7 मिलते हैं; बड़ा मूल 7 है।",
-   "solution_en": "Factorising gives roots 5 and 7; larger root is 7.",
+   "correct_idx": 2,
+   "hint_hi": "मूलों का योग = −b/a।",
+   "hint_en": "Sum of roots = -b/a.",
+   "solution_hi": "a=1, b=4 → योग = −(4)/1 = -4।",
+   "solution_en": "a=1, b=4 -> sum = -(4) = -4.",
    "gen_params": {
-    "tpl": "quad_roots",
-    "r1": 5,
-    "r2": 7
+    "tpl": "root_sum",
+    "r1": 1,
+    "r2": -5
+   }
+  },
+  {
+   "skill_id": "m10c2s2",
+   "difficulty": 2,
+   "text_hi": "x² - 7x - 8 = 0 के मूलों का योग = ?",
+   "text_en": "Sum of roots of x² - 7x - 8 = 0 is ?",
+   "options": [
+    "-7",
+    "-8",
+    "7",
+    "8"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "मूलों का योग = −b/a।",
+   "hint_en": "Sum of roots = -b/a.",
+   "solution_hi": "a=1, b=-7 → योग = −(-7)/1 = 7।",
+   "solution_en": "a=1, b=-7 -> sum = -(-7) = 7.",
+   "gen_params": {
+    "tpl": "root_sum",
+    "r1": 8,
+    "r2": -1
    }
   },
   {
@@ -295,64 +317,64 @@
    "text_hi": "x² + 1x - 20 = 0 के मूलों का योग = ?",
    "text_en": "Sum of roots of x² + 1x - 20 = 0 is ?",
    "options": [
-    "-20",
     "1",
-    "0",
-    "-1"
+    "-1",
+    "-20",
+    "0"
    ],
-   "correct_idx": 3,
+   "correct_idx": 1,
    "hint_hi": "मूलों का योग = −b/a।",
    "hint_en": "Sum of roots = -b/a.",
    "solution_hi": "a=1, b=1 → योग = −(1)/1 = -1।",
    "solution_en": "a=1, b=1 -> sum = -(1) = -1.",
    "gen_params": {
     "tpl": "root_sum",
-    "r1": 4,
-    "r2": -5
+    "r1": -5,
+    "r2": 4
    }
   },
   {
    "skill_id": "m10c2s2",
    "difficulty": 2,
-   "text_hi": "x² + 10x + 21 = 0 के मूलों का योग = ?",
-   "text_en": "Sum of roots of x² + 10x + 21 = 0 is ?",
+   "text_hi": "x² + 3x - 28 = 0 के मूलों का योग = ?",
+   "text_en": "Sum of roots of x² + 3x - 28 = 0 is ?",
    "options": [
-    "-10",
-    "21",
-    "-9",
-    "10"
+    "3",
+    "-3",
+    "-28",
+    "-2"
    ],
-   "correct_idx": 0,
+   "correct_idx": 1,
    "hint_hi": "मूलों का योग = −b/a।",
    "hint_en": "Sum of roots = -b/a.",
-   "solution_hi": "a=1, b=10 → योग = −(10)/1 = -10।",
-   "solution_en": "a=1, b=10 -> sum = -(10) = -10.",
+   "solution_hi": "a=1, b=3 → योग = −(3)/1 = -3।",
+   "solution_en": "a=1, b=3 -> sum = -(3) = -3.",
    "gen_params": {
     "tpl": "root_sum",
-    "r1": -3,
-    "r2": -7
+    "r1": -7,
+    "r2": 4
    }
   },
   {
-   "skill_id": "m10c3s1",
+   "skill_id": "m10c2s2",
    "difficulty": 2,
-   "text_hi": "x² - 3x - 40 = 0 का बड़ा मूल = ?",
-   "text_en": "The larger root of x² - 3x - 40 = 0 is ?",
+   "text_hi": "x² + 11x + 28 = 0 के मूलों का योग = ?",
+   "text_en": "Sum of roots of x² + 11x + 28 = 0 is ?",
    "options": [
-    "-3",
-    "8",
-    "-5",
-    "9"
+    "28",
+    "-11",
+    "-10",
+    "11"
    ],
    "correct_idx": 1,
-   "hint_hi": "गुणनखंड कीजिए: (x−p)(x−q) रूप सोचिए।",
-   "hint_en": "Factorise: think of the form (x-p)(x-q).",
-   "solution_hi": "गुणनखंड से मूल 8, -5 मिलते हैं; बड़ा मूल 8 है।",
-   "solution_en": "Factorising gives roots 8 and -5; larger root is 8.",
+   "hint_hi": "मूलों का योग = −b/a।",
+   "hint_en": "Sum of roots = -b/a.",
+   "solution_hi": "a=1, b=11 → योग = −(11)/1 = -11।",
+   "solution_en": "a=1, b=11 -> sum = -(11) = -11.",
    "gen_params": {
-    "tpl": "quad_roots",
-    "r1": 8,
-    "r2": -5
+    "tpl": "root_sum",
+    "r1": -7,
+    "r2": -4
    }
   },
   {
@@ -361,151 +383,85 @@
    "text_hi": "x² + 0x - 16 = 0 के मूलों का योग = ?",
    "text_en": "Sum of roots of x² + 0x - 16 = 0 is ?",
    "options": [
-    "0",
-    "1",
     "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-    "-16"
+    "-16",
+    "1",
+    "0"
    ],
-   "correct_idx": 0,
+   "correct_idx": 3,
    "hint_hi": "मूलों का योग = −b/a।",
    "hint_en": "Sum of roots = -b/a.",
    "solution_hi": "a=1, b=0 → योग = −(0)/1 = 0।",
    "solution_en": "a=1, b=0 -> sum = -(0) = 0.",
    "gen_params": {
     "tpl": "root_sum",
-    "r1": -4,
-    "r2": 4
-   }
-  },
-  {
-   "skill_id": "m10c3s1",
-   "difficulty": 2,
-   "text_hi": "x² - 4x - 12 = 0 का बड़ा मूल = ?",
-   "text_en": "The larger root of x² - 4x - 12 = 0 is ?",
-   "options": [
-    "6",
-    "-2",
-    "7",
-    "-4"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "गुणनखंड कीजिए: (x−p)(x−q) रूप सोचिए।",
-   "hint_en": "Factorise: think of the form (x-p)(x-q).",
-   "solution_hi": "गुणनखंड से मूल 6, -2 मिलते हैं; बड़ा मूल 6 है।",
-   "solution_en": "Factorising gives roots 6 and -2; larger root is 6.",
-   "gen_params": {
-    "tpl": "quad_roots",
-    "r1": 6,
-    "r2": -2
-   }
-  },
-  {
-   "skill_id": "m10c2s2",
-   "difficulty": 2,
-   "text_hi": "x² + 5x - 14 = 0 के मूलों का योग = ?",
-   "text_en": "Sum of roots of x² + 5x - 14 = 0 is ?",
-   "options": [
-    "-4",
-    "-5",
-    "-14",
-    "5"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "मूलों का योग = −b/a।",
-   "hint_en": "Sum of roots = -b/a.",
-   "solution_hi": "a=1, b=5 → योग = −(5)/1 = -5।",
-   "solution_en": "a=1, b=5 -> sum = -(5) = -5.",
-   "gen_params": {
-    "tpl": "root_sum",
-    "r1": -7,
-    "r2": 2
-   }
-  },
-  {
-   "skill_id": "m10c3s1",
-   "difficulty": 2,
-   "text_hi": "x² + 0x - 36 = 0 का बड़ा मूल = ?",
-   "text_en": "The larger root of x² + 0x - 36 = 0 is ?",
-   "options": [
-    "0",
-    "6",
-    "7",
-    "-6"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "गुणनखंड कीजिए: (x−p)(x−q) रूप सोचिए।",
-   "hint_en": "Factorise: think of the form (x-p)(x-q).",
-   "solution_hi": "गुणनखंड से मूल 6, -6 मिलते हैं; बड़ा मूल 6 है।",
-   "solution_en": "Factorising gives roots 6 and -6; larger root is 6.",
-   "gen_params": {
-    "tpl": "quad_roots",
-    "r1": 6,
-    "r2": -6
-   }
-  },
-  {
-   "skill_id": "m10c3s1",
-   "difficulty": 2,
-   "text_hi": "x² + 9x + 14 = 0 का बड़ा मूल = ?",
-   "text_en": "The larger root of x² + 9x + 14 = 0 is ?",
-   "options": [
-    "-2",
-    "-1",
-    "9",
-    "-7"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "गुणनखंड कीजिए: (x−p)(x−q) रूप सोचिए।",
-   "hint_en": "Factorise: think of the form (x-p)(x-q).",
-   "solution_hi": "गुणनखंड से मूल -7, -2 मिलते हैं; बड़ा मूल -2 है।",
-   "solution_en": "Factorising gives roots -7 and -2; larger root is -2.",
-   "gen_params": {
-    "tpl": "quad_roots",
-    "r1": -7,
-    "r2": -2
-   }
-  },
-  {
-   "skill_id": "m10c2s2",
-   "difficulty": 2,
-   "text_hi": "x² - 3x - 28 = 0 के मूलों का योग = ?",
-   "text_en": "Sum of roots of x² - 3x - 28 = 0 is ?",
-   "options": [
-    "3",
-    "4",
-    "-28",
-    "-3"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "मूलों का योग = −b/a।",
-   "hint_en": "Sum of roots = -b/a.",
-   "solution_hi": "a=1, b=-3 → योग = −(-3)/1 = 3।",
-   "solution_en": "a=1, b=-3 -> sum = -(-3) = 3.",
-   "gen_params": {
-    "tpl": "root_sum",
-    "r1": 7,
+    "r1": 4,
     "r2": -4
    }
   },
   {
    "skill_id": "m10c3s1",
    "difficulty": 2,
-   "text_hi": "x² - 13x + 40 = 0 का बड़ा मूल = ?",
-   "text_en": "The larger root of x² - 13x + 40 = 0 is ?",
+   "text_hi": "x² + 1x - 6 = 0 का बड़ा मूल = ?",
+   "text_en": "The larger root of x² + 1x - 6 = 0 is ?",
+   "options": [
+    "1",
+    "3",
+    "2",
+    "-3"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "गुणनखंड कीजिए: (x−p)(x−q) रूप सोचिए।",
+   "hint_en": "Factorise: think of the form (x-p)(x-q).",
+   "solution_hi": "गुणनखंड से मूल 2, -3 मिलते हैं; बड़ा मूल 2 है।",
+   "solution_en": "Factorising gives roots 2 and -3; larger root is 2.",
+   "gen_params": {
+    "tpl": "quad_roots",
+    "r1": 2,
+    "r2": -3
+   }
+  },
+  {
+   "skill_id": "m10c3s1",
+   "difficulty": 2,
+   "text_hi": "x² + 2x - 8 = 0 का बड़ा मूल = ?",
+   "text_en": "The larger root of x² + 2x - 8 = 0 is ?",
+   "options": [
+    "3",
+    "20",
+    "-4",
+    "2"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "गुणनखंड कीजिए: (x−p)(x−q) रूप सोचिए।",
+   "hint_en": "Factorise: think of the form (x-p)(x-q).",
+   "solution_hi": "गुणनखंड से मूल 2, -4 मिलते हैं; बड़ा मूल 2 है।",
+   "solution_en": "Factorising gives roots 2 and -4; larger root is 2.",
+   "gen_params": {
+    "tpl": "quad_roots",
+    "r1": 2,
+    "r2": -4
+   }
+  },
+  {
+   "skill_id": "m10c3s1",
+   "difficulty": 2,
+   "text_hi": "x² - 15x + 56 = 0 का बड़ा मूल = ?",
+   "text_en": "The larger root of x² - 15x + 56 = 0 is ?",
    "options": [
     "9",
     "8",
-    "5",
-    "-13"
+    "7",
+    "-15"
    ],
    "correct_idx": 1,
    "hint_hi": "गुणनखंड कीजिए: (x−p)(x−q) रूप सोचिए।",
    "hint_en": "Factorise: think of the form (x-p)(x-q).",
-   "solution_hi": "गुणनखंड से मूल 5, 8 मिलते हैं; बड़ा मूल 8 है।",
-   "solution_en": "Factorising gives roots 5 and 8; larger root is 8.",
+   "solution_hi": "गुणनखंड से मूल 7, 8 मिलते हैं; बड़ा मूल 8 है।",
+   "solution_en": "Factorising gives roots 7 and 8; larger root is 8.",
    "gen_params": {
     "tpl": "quad_roots",
-    "r1": 5,
+    "r1": 7,
     "r2": 8
    }
   },
@@ -515,12 +471,12 @@
    "text_hi": "x² - 8x + 7 = 0 का बड़ा मूल = ?",
    "text_en": "The larger root of x² - 8x + 7 = 0 is ?",
    "options": [
-    "1",
     "7",
     "-8",
+    "1",
     "8"
    ],
-   "correct_idx": 1,
+   "correct_idx": 0,
    "hint_hi": "गुणनखंड कीजिए: (x−p)(x−q) रूप सोचिए।",
    "hint_en": "Factorise: think of the form (x-p)(x-q).",
    "solution_hi": "गुणनखंड से मूल 7, 1 मिलते हैं; बड़ा मूल 7 है।",
@@ -532,47 +488,69 @@
    }
   },
   {
-   "skill_id": "m10c3s2",
+   "skill_id": "m10c2s2",
    "difficulty": 2,
-   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 12x + 36 = 0 के मूलों की प्रकृति?",
-   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 12x + 36 = 0.",
+   "text_hi": "x² - 1x - 20 = 0 के मूलों का योग = ?",
+   "text_en": "Sum of roots of x² - 1x - 20 = 0 is ?",
    "options": [
-    "दो भिन्न वास्तविक मूल",
-    "कोई वास्तविक मूल नहीं",
-    "दो बराबर वास्तविक मूल",
-    "दो बराबर वास्तविक मूल0"
+    "-1",
+    "2",
+    "-20",
+    "1"
    ],
-   "correct_idx": 2,
-   "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
-   "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
-   "solution_hi": "D = 144 − 4×1×36 = 0 → दो बराबर वास्तविक मूल (two equal real roots)।",
-   "solution_en": "D = 144 - 4x1x36 = 0 -> two equal real roots.",
+   "correct_idx": 3,
+   "hint_hi": "मूलों का योग = −b/a।",
+   "hint_en": "Sum of roots = -b/a.",
+   "solution_hi": "a=1, b=-1 → योग = −(-1)/1 = 1।",
+   "solution_en": "a=1, b=-1 -> sum = -(-1) = 1.",
    "gen_params": {
-    "tpl": "discriminant",
-    "b": -12,
-    "c": 36
+    "tpl": "root_sum",
+    "r1": -4,
+    "r2": 5
+   }
+  },
+  {
+   "skill_id": "m10c3s1",
+   "difficulty": 2,
+   "text_hi": "x² - 7x - 8 = 0 का बड़ा मूल = ?",
+   "text_en": "The larger root of x² - 7x - 8 = 0 is ?",
+   "options": [
+    "8",
+    "9",
+    "-7",
+    "-1"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "गुणनखंड कीजिए: (x−p)(x−q) रूप सोचिए।",
+   "hint_en": "Factorise: think of the form (x-p)(x-q).",
+   "solution_hi": "गुणनखंड से मूल 8, -1 मिलते हैं; बड़ा मूल 8 है।",
+   "solution_en": "Factorising gives roots 8 and -1; larger root is 8.",
+   "gen_params": {
+    "tpl": "quad_roots",
+    "r1": 8,
+    "r2": -1
    }
   },
   {
    "skill_id": "m10c3s2",
    "difficulty": 2,
-   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 5x + 8 = 0 के मूलों की प्रकृति?",
-   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 5x + 8 = 0.",
+   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² + 3x - 10 = 0 के मूलों की प्रकृति?",
+   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² + 3x - 10 = 0.",
    "options": [
-    "दो भिन्न वास्तविक मूल",
     "दो बराबर वास्तविक मूल",
-    "कोई वास्तविक मूल नहीं",
-    "कोई वास्तविक मूल नहीं0"
+    "दो भिन्न वास्तविक मूल0",
+    "दो भिन्न वास्तविक मूल",
+    "कोई वास्तविक मूल नहीं"
    ],
    "correct_idx": 2,
    "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
    "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
-   "solution_hi": "D = 25 − 4×1×8 = -7 → कोई वास्तविक मूल नहीं (no real roots)।",
-   "solution_en": "D = 25 - 4x1x8 = -7 -> no real roots.",
+   "solution_hi": "D = 9 − 4×1×-10 = 49 → दो भिन्न वास्तविक मूल (two distinct real roots)।",
+   "solution_en": "D = 9 - 4x1x-10 = 49 -> two distinct real roots.",
    "gen_params": {
     "tpl": "discriminant",
-    "b": -5,
-    "c": 8
+    "b": 3,
+    "c": -10
    }
   },
   {
@@ -581,12 +559,12 @@
    "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² + 12x + 36 = 0 के मूलों की प्रकृति?",
    "text_en": "Without computing D = b²-4ac, state the nature of roots of x² + 12x + 36 = 0.",
    "options": [
+    "दो बराबर वास्तविक मूल0",
     "दो बराबर वास्तविक मूल",
     "कोई वास्तविक मूल नहीं",
-    "दो बराबर वास्तविक मूल0",
     "दो भिन्न वास्तविक मूल"
    ],
-   "correct_idx": 0,
+   "correct_idx": 1,
    "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
    "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
    "solution_hi": "D = 144 − 4×1×36 = 0 → दो बराबर वास्तविक मूल (two equal real roots)।",
@@ -600,88 +578,22 @@
   {
    "skill_id": "m10c3s2",
    "difficulty": 2,
-   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 2x + 1 = 0 के मूलों की प्रकृति?",
-   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 2x + 1 = 0.",
+   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 5x + 0 = 0 के मूलों की प्रकृति?",
+   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 5x + 0 = 0.",
    "options": [
-    "दो बराबर वास्तविक मूल0",
-    "कोई वास्तविक मूल नहीं",
-    "दो भिन्न वास्तविक मूल",
-    "दो बराबर वास्तविक मूल"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
-   "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
-   "solution_hi": "D = 4 − 4×1×1 = 0 → दो बराबर वास्तविक मूल (two equal real roots)।",
-   "solution_en": "D = 4 - 4x1x1 = 0 -> two equal real roots.",
-   "gen_params": {
-    "tpl": "discriminant",
-    "b": -2,
-    "c": 1
-   }
-  },
-  {
-   "skill_id": "m10c3s2",
-   "difficulty": 2,
-   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 3x + 7 = 0 के मूलों की प्रकृति?",
-   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 3x + 7 = 0.",
-   "options": [
-    "कोई वास्तविक मूल नहीं0",
+    "दो बराबर वास्तविक मूल",
     "दो भिन्न वास्तविक मूल",
     "कोई वास्तविक मूल नहीं",
-    "दो बराबर वास्तविक मूल"
+    "दो भिन्न वास्तविक मूल0"
    ],
-   "correct_idx": 2,
+   "correct_idx": 1,
    "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
    "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
-   "solution_hi": "D = 9 − 4×1×7 = -19 → कोई वास्तविक मूल नहीं (no real roots)।",
-   "solution_en": "D = 9 - 4x1x7 = -19 -> no real roots.",
+   "solution_hi": "D = 25 − 4×1×0 = 25 → दो भिन्न वास्तविक मूल (two distinct real roots)।",
+   "solution_en": "D = 25 - 4x1x0 = 25 -> two distinct real roots.",
    "gen_params": {
     "tpl": "discriminant",
-    "b": -3,
-    "c": 7
-   }
-  },
-  {
-   "skill_id": "m10c3s2",
-   "difficulty": 2,
-   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² + 6x + 14 = 0 के मूलों की प्रकृति?",
-   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² + 6x + 14 = 0.",
-   "options": [
-    "दो भिन्न वास्तविक मूल",
-    "कोई वास्तविक मूल नहीं0",
-    "कोई वास्तविक मूल नहीं",
-    "दो बराबर वास्तविक मूल"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
-   "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
-   "solution_hi": "D = 36 − 4×1×14 = -20 → कोई वास्तविक मूल नहीं (no real roots)।",
-   "solution_en": "D = 36 - 4x1x14 = -20 -> no real roots.",
-   "gen_params": {
-    "tpl": "discriminant",
-    "b": 6,
-    "c": 14
-   }
-  },
-  {
-   "skill_id": "m10c3s2",
-   "difficulty": 2,
-   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 3x + 0 = 0 के मूलों की प्रकृति?",
-   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 3x + 0 = 0.",
-   "options": [
-    "दो भिन्न वास्तविक मूल",
-    "दो भिन्न वास्तविक मूल0",
-    "कोई वास्तविक मूल नहीं",
-    "दो बराबर वास्तविक मूल"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
-   "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
-   "solution_hi": "D = 9 − 4×1×0 = 9 → दो भिन्न वास्तविक मूल (two distinct real roots)।",
-   "solution_en": "D = 9 - 4x1x0 = 9 -> two distinct real roots.",
-   "gen_params": {
-    "tpl": "discriminant",
-    "b": -3,
+    "b": -5,
     "c": 0
    }
   },
@@ -692,8 +604,8 @@
    "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 4x + 4 = 0.",
    "options": [
     "कोई वास्तविक मूल नहीं",
-    "दो बराबर वास्तविक मूल0",
     "दो भिन्न वास्तविक मूल",
+    "दो बराबर वास्तविक मूल0",
     "दो बराबर वास्तविक मूल"
    ],
    "correct_idx": 3,
@@ -710,641 +622,750 @@
   {
    "skill_id": "m10c3s2",
    "difficulty": 2,
-   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 6x + 11 = 0 के मूलों की प्रकृति?",
-   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 6x + 11 = 0.",
+   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 6x + 9 = 0 के मूलों की प्रकृति?",
+   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 6x + 9 = 0.",
    "options": [
-    "कोई वास्तविक मूल नहीं",
-    "कोई वास्तविक मूल नहीं0",
     "दो बराबर वास्तविक मूल",
+    "कोई वास्तविक मूल नहीं",
+    "दो बराबर वास्तविक मूल0",
     "दो भिन्न वास्तविक मूल"
    ],
    "correct_idx": 0,
    "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
    "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
-   "solution_hi": "D = 36 − 4×1×11 = -8 → कोई वास्तविक मूल नहीं (no real roots)।",
-   "solution_en": "D = 36 - 4x1x11 = -8 -> no real roots.",
+   "solution_hi": "D = 36 − 4×1×9 = 0 → दो बराबर वास्तविक मूल (two equal real roots)।",
+   "solution_en": "D = 36 - 4x1x9 = 0 -> two equal real roots.",
    "gen_params": {
     "tpl": "discriminant",
     "b": -6,
-    "c": 11
+    "c": 9
    }
   },
   {
    "skill_id": "m10c3s2",
    "difficulty": 2,
-   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 2x + 3 = 0 के मूलों की प्रकृति?",
-   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 2x + 3 = 0.",
+   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² + 0x - 25 = 0 के मूलों की प्रकृति?",
+   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² + 0x - 25 = 0.",
+   "options": [
+    "कोई वास्तविक मूल नहीं",
+    "दो भिन्न वास्तविक मूल",
+    "दो बराबर वास्तविक मूल",
+    "दो भिन्न वास्तविक मूल0"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
+   "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
+   "solution_hi": "D = 0 − 4×1×-25 = 100 → दो भिन्न वास्तविक मूल (two distinct real roots)।",
+   "solution_en": "D = 0 - 4x1x-25 = 100 -> two distinct real roots.",
+   "gen_params": {
+    "tpl": "discriminant",
+    "b": 0,
+    "c": -25
+   }
+  },
+  {
+   "skill_id": "m10c3s2",
+   "difficulty": 2,
+   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² + 5x + 9 = 0 के मूलों की प्रकृति?",
+   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² + 5x + 9 = 0.",
+   "options": [
+    "दो बराबर वास्तविक मूल",
+    "कोई वास्तविक मूल नहीं",
+    "दो भिन्न वास्तविक मूल",
+    "कोई वास्तविक मूल नहीं0"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
+   "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
+   "solution_hi": "D = 25 − 4×1×9 = -11 → कोई वास्तविक मूल नहीं (no real roots)।",
+   "solution_en": "D = 25 - 4x1x9 = -11 -> no real roots.",
+   "gen_params": {
+    "tpl": "discriminant",
+    "b": 5,
+    "c": 9
+   }
+  },
+  {
+   "skill_id": "m10c3s2",
+   "difficulty": 2,
+   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 9x + 18 = 0 के मूलों की प्रकृति?",
+   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 9x + 18 = 0.",
+   "options": [
+    "दो बराबर वास्तविक मूल",
+    "दो भिन्न वास्तविक मूल0",
+    "कोई वास्तविक मूल नहीं",
+    "दो भिन्न वास्तविक मूल"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
+   "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
+   "solution_hi": "D = 81 − 4×1×18 = 9 → दो भिन्न वास्तविक मूल (two distinct real roots)।",
+   "solution_en": "D = 81 - 4x1x18 = 9 -> two distinct real roots.",
+   "gen_params": {
+    "tpl": "discriminant",
+    "b": -9,
+    "c": 18
+   }
+  },
+  {
+   "skill_id": "m10c3s2",
+   "difficulty": 2,
+   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² + 0x + 0 = 0 के मूलों की प्रकृति?",
+   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² + 0x + 0 = 0.",
+   "options": [
+    "दो बराबर वास्तविक मूल",
+    "दो भिन्न वास्तविक मूल",
+    "दो बराबर वास्तविक मूल0",
+    "कोई वास्तविक मूल नहीं"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
+   "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
+   "solution_hi": "D = 0 − 4×1×0 = 0 → दो बराबर वास्तविक मूल (two equal real roots)।",
+   "solution_en": "D = 0 - 4x1x0 = 0 -> two equal real roots.",
+   "gen_params": {
+    "tpl": "discriminant",
+    "b": 0,
+    "c": 0
+   }
+  },
+  {
+   "skill_id": "m10c3s2",
+   "difficulty": 2,
+   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 5x - 6 = 0 के मूलों की प्रकृति?",
+   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 5x - 6 = 0.",
+   "options": [
+    "दो भिन्न वास्तविक मूल0",
+    "दो बराबर वास्तविक मूल",
+    "दो भिन्न वास्तविक मूल",
+    "कोई वास्तविक मूल नहीं"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
+   "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
+   "solution_hi": "D = 25 − 4×1×-6 = 49 → दो भिन्न वास्तविक मूल (two distinct real roots)।",
+   "solution_en": "D = 25 - 4x1x-6 = 49 -> two distinct real roots.",
+   "gen_params": {
+    "tpl": "discriminant",
+    "b": -5,
+    "c": -6
+   }
+  },
+  {
+   "skill_id": "m10c3s2",
+   "difficulty": 2,
+   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 3x - 10 = 0 के मूलों की प्रकृति?",
+   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 3x - 10 = 0.",
    "options": [
     "दो भिन्न वास्तविक मूल",
-    "कोई वास्तविक मूल नहीं0",
     "कोई वास्तविक मूल नहीं",
-    "दो बराबर वास्तविक मूल"
+    "दो बराबर वास्तविक मूल",
+    "दो भिन्न वास्तविक मूल0"
    ],
-   "correct_idx": 2,
+   "correct_idx": 0,
    "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
    "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
-   "solution_hi": "D = 4 − 4×1×3 = -8 → कोई वास्तविक मूल नहीं (no real roots)।",
-   "solution_en": "D = 4 - 4x1x3 = -8 -> no real roots.",
+   "solution_hi": "D = 9 − 4×1×-10 = 49 → दो भिन्न वास्तविक मूल (two distinct real roots)।",
+   "solution_en": "D = 9 - 4x1x-10 = 49 -> two distinct real roots.",
    "gen_params": {
     "tpl": "discriminant",
-    "b": -2,
-    "c": 3
+    "b": -3,
+    "c": -10
    }
   },
   {
    "skill_id": "m10c3s2",
    "difficulty": 2,
-   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² + 6x + 11 = 0 के मूलों की प्रकृति?",
-   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² + 6x + 11 = 0.",
+   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 3x - 4 = 0 के मूलों की प्रकृति?",
+   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 3x - 4 = 0.",
    "options": [
-    "कोई वास्तविक मूल नहीं0",
     "दो बराबर वास्तविक मूल",
     "कोई वास्तविक मूल नहीं",
-    "दो भिन्न वास्तविक मूल"
+    "दो भिन्न वास्तविक मूल",
+    "दो भिन्न वास्तविक मूल0"
    ],
    "correct_idx": 2,
    "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
    "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
-   "solution_hi": "D = 36 − 4×1×11 = -8 → कोई वास्तविक मूल नहीं (no real roots)।",
-   "solution_en": "D = 36 - 4x1x11 = -8 -> no real roots.",
+   "solution_hi": "D = 9 − 4×1×-4 = 25 → दो भिन्न वास्तविक मूल (two distinct real roots)।",
+   "solution_en": "D = 9 - 4x1x-4 = 25 -> two distinct real roots.",
    "gen_params": {
     "tpl": "discriminant",
-    "b": 6,
-    "c": 11
-   }
-  },
-  {
-   "skill_id": "m10c3s2",
-   "difficulty": 2,
-   "text_hi": "D = b²−4ac ज्ञात किए बिना बताइए — x² - 6x + 12 = 0 के मूलों की प्रकृति?",
-   "text_en": "Without computing D = b²-4ac, state the nature of roots of x² - 6x + 12 = 0.",
-   "options": [
-    "कोई वास्तविक मूल नहीं",
-    "दो बराबर वास्तविक मूल",
-    "कोई वास्तविक मूल नहीं0",
-    "दो भिन्न वास्तविक मूल"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "D>0 → भिन्न वास्तविक; D=0 → बराबर; D<0 → वास्तविक नहीं।",
-   "hint_en": "D>0 distinct real; D=0 equal real; D<0 no real roots.",
-   "solution_hi": "D = 36 − 4×1×12 = -12 → कोई वास्तविक मूल नहीं (no real roots)।",
-   "solution_en": "D = 36 - 4x1x12 = -12 -> no real roots.",
-   "gen_params": {
-    "tpl": "discriminant",
-    "b": -6,
-    "c": 12
+    "b": -3,
+    "c": -4
    }
   },
   {
    "skill_id": "m10c4s2",
    "difficulty": 2,
-   "text_hi": "AP: a = 5, d = 3 हो तो 17 वाँ पद = ?",
-   "text_en": "In an AP with a = 5 and d = 3, find the 17th term.",
+   "text_hi": "AP: a = 9, d = 4 हो तो 19 वाँ पद = ?",
+   "text_en": "In an AP with a = 9 and d = 4, find the 19th term.",
    "options": [
-    "53",
-    "56",
-    "530",
-    "50"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "an = a + (n−1)d।",
-   "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a17 = 5 + (17−1)×3 = 53।",
-   "solution_en": "a(n) = 5 + (17-1)x3 = 53.",
-   "gen_params": {
-    "tpl": "ap_nth",
-    "a": 5,
-    "d": 3,
-    "n": 17
-   }
-  },
-  {
-   "skill_id": "m10c4s2",
-   "difficulty": 2,
-   "text_hi": "AP: a = 2, d = 6 हो तो 14 वाँ पद = ?",
-   "text_en": "In an AP with a = 2 and d = 6, find the 14th term.",
-   "options": [
-    "74",
-    "80",
-    "86",
-    "800"
+    "77",
+    "81",
+    "810",
+    "85"
    ],
    "correct_idx": 1,
    "hint_hi": "an = a + (n−1)d।",
    "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a14 = 2 + (14−1)×6 = 80।",
-   "solution_en": "a(n) = 2 + (14-1)x6 = 80.",
+   "solution_hi": "a19 = 9 + (19−1)×4 = 81।",
+   "solution_en": "a(n) = 9 + (19-1)x4 = 81.",
    "gen_params": {
     "tpl": "ap_nth",
-    "a": 2,
-    "d": 6,
-    "n": 14
-   }
-  },
-  {
-   "skill_id": "m10c4s2",
-   "difficulty": 2,
-   "text_hi": "AP: a = 2, d = 4 हो तो 15 वाँ पद = ?",
-   "text_en": "In an AP with a = 2 and d = 4, find the 15th term.",
-   "options": [
-    "580",
-    "54",
-    "58",
-    "62"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "an = a + (n−1)d।",
-   "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a15 = 2 + (15−1)×4 = 58।",
-   "solution_en": "a(n) = 2 + (15-1)x4 = 58.",
-   "gen_params": {
-    "tpl": "ap_nth",
-    "a": 2,
+    "a": 9,
     "d": 4,
-    "n": 15
-   }
-  },
-  {
-   "skill_id": "m10c4s2",
-   "difficulty": 2,
-   "text_hi": "AP: a = 6, d = 7 हो तो 18 वाँ पद = ?",
-   "text_en": "In an AP with a = 6 and d = 7, find the 18th term.",
-   "options": [
-    "125",
-    "132",
-    "118",
-    "1250"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "an = a + (n−1)d।",
-   "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a18 = 6 + (18−1)×7 = 125।",
-   "solution_en": "a(n) = 6 + (18-1)x7 = 125.",
-   "gen_params": {
-    "tpl": "ap_nth",
-    "a": 6,
-    "d": 7,
-    "n": 18
-   }
-  },
-  {
-   "skill_id": "m10c4s2",
-   "difficulty": 2,
-   "text_hi": "AP: a = 4, d = 7 हो तो 8 वाँ पद = ?",
-   "text_en": "In an AP with a = 4 and d = 7, find the 8th term.",
-   "options": [
-    "530",
-    "46",
-    "60",
-    "53"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "an = a + (n−1)d।",
-   "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a8 = 4 + (8−1)×7 = 53।",
-   "solution_en": "a(n) = 4 + (8-1)x7 = 53.",
-   "gen_params": {
-    "tpl": "ap_nth",
-    "a": 4,
-    "d": 7,
-    "n": 8
-   }
-  },
-  {
-   "skill_id": "m10c4s2",
-   "difficulty": 2,
-   "text_hi": "AP: a = 8, d = 5 हो तो 5 वाँ पद = ?",
-   "text_en": "In an AP with a = 8 and d = 5, find the 5th term.",
-   "options": [
-    "28",
-    "280",
-    "33",
-    "23"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "an = a + (n−1)d।",
-   "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a5 = 8 + (5−1)×5 = 28।",
-   "solution_en": "a(n) = 8 + (5-1)x5 = 28.",
-   "gen_params": {
-    "tpl": "ap_nth",
-    "a": 8,
-    "d": 5,
-    "n": 5
-   }
-  },
-  {
-   "skill_id": "m10c4s2",
-   "difficulty": 2,
-   "text_hi": "AP: a = 2, d = 8 हो तो 19 वाँ पद = ?",
-   "text_en": "In an AP with a = 2 and d = 8, find the 19th term.",
-   "options": [
-    "146",
-    "138",
-    "1460",
-    "154"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "an = a + (n−1)d।",
-   "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a19 = 2 + (19−1)×8 = 146।",
-   "solution_en": "a(n) = 2 + (19-1)x8 = 146.",
-   "gen_params": {
-    "tpl": "ap_nth",
-    "a": 2,
-    "d": 8,
     "n": 19
    }
   },
   {
    "skill_id": "m10c4s2",
    "difficulty": 2,
-   "text_hi": "AP: a = 10, d = 6 हो तो 16 वाँ पद = ?",
-   "text_en": "In an AP with a = 10 and d = 6, find the 16th term.",
+   "text_hi": "AP: a = 4, d = 2 हो तो 6 वाँ पद = ?",
+   "text_en": "In an AP with a = 4 and d = 2, find the 6th term.",
    "options": [
-    "100",
-    "94",
-    "106",
-    "1000"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "an = a + (n−1)d।",
-   "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a16 = 10 + (16−1)×6 = 100।",
-   "solution_en": "a(n) = 10 + (16-1)x6 = 100.",
-   "gen_params": {
-    "tpl": "ap_nth",
-    "a": 10,
-    "d": 6,
-    "n": 16
-   }
-  },
-  {
-   "skill_id": "m10c4s2",
-   "difficulty": 2,
-   "text_hi": "AP: a = 9, d = 6 हो तो 7 वाँ पद = ?",
-   "text_en": "In an AP with a = 9 and d = 6, find the 7th term.",
-   "options": [
-    "51",
-    "39",
-    "450",
-    "45"
+    "12",
+    "16",
+    "140",
+    "14"
    ],
    "correct_idx": 3,
    "hint_hi": "an = a + (n−1)d।",
    "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a7 = 9 + (7−1)×6 = 45।",
-   "solution_en": "a(n) = 9 + (7-1)x6 = 45.",
+   "solution_hi": "a6 = 4 + (6−1)×2 = 14।",
+   "solution_en": "a(n) = 4 + (6-1)x2 = 14.",
    "gen_params": {
     "tpl": "ap_nth",
-    "a": 9,
-    "d": 6,
-    "n": 7
+    "a": 4,
+    "d": 2,
+    "n": 6
    }
   },
   {
    "skill_id": "m10c4s2",
    "difficulty": 2,
-   "text_hi": "AP: a = 7, d = 3 हो तो 12 वाँ पद = ?",
-   "text_en": "In an AP with a = 7 and d = 3, find the 12th term.",
+   "text_hi": "AP: a = 12, d = 4 हो तो 17 वाँ पद = ?",
+   "text_en": "In an AP with a = 12 and d = 4, find the 17th term.",
    "options": [
-    "43",
-    "40",
-    "400",
-    "37"
+    "80",
+    "72",
+    "76",
+    "760"
    ],
-   "correct_idx": 1,
+   "correct_idx": 2,
    "hint_hi": "an = a + (n−1)d।",
    "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a12 = 7 + (12−1)×3 = 40।",
-   "solution_en": "a(n) = 7 + (12-1)x3 = 40.",
+   "solution_hi": "a17 = 12 + (17−1)×4 = 76।",
+   "solution_en": "a(n) = 12 + (17-1)x4 = 76.",
    "gen_params": {
     "tpl": "ap_nth",
-    "a": 7,
-    "d": 3,
+    "a": 12,
+    "d": 4,
+    "n": 17
+   }
+  },
+  {
+   "skill_id": "m10c4s2",
+   "difficulty": 2,
+   "text_hi": "AP: a = 9, d = 2 हो तो 12 वाँ पद = ?",
+   "text_en": "In an AP with a = 9 and d = 2, find the 12th term.",
+   "options": [
+    "310",
+    "33",
+    "29",
+    "31"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "an = a + (n−1)d।",
+   "hint_en": "an = a + (n-1)d.",
+   "solution_hi": "a12 = 9 + (12−1)×2 = 31।",
+   "solution_en": "a(n) = 9 + (12-1)x2 = 31.",
+   "gen_params": {
+    "tpl": "ap_nth",
+    "a": 9,
+    "d": 2,
     "n": 12
    }
   },
   {
    "skill_id": "m10c4s2",
    "difficulty": 2,
-   "text_hi": "AP: a = 2, d = 5 हो तो 18 वाँ पद = ?",
-   "text_en": "In an AP with a = 2 and d = 5, find the 18th term.",
+   "text_hi": "AP: a = 2, d = 5 हो तो 7 वाँ पद = ?",
+   "text_en": "In an AP with a = 2 and d = 5, find the 7th term.",
    "options": [
-    "870",
-    "87",
-    "82",
-    "92"
+    "32",
+    "320",
+    "37",
+    "27"
    ],
-   "correct_idx": 1,
+   "correct_idx": 0,
    "hint_hi": "an = a + (n−1)d।",
    "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a18 = 2 + (18−1)×5 = 87।",
-   "solution_en": "a(n) = 2 + (18-1)x5 = 87.",
+   "solution_hi": "a7 = 2 + (7−1)×5 = 32।",
+   "solution_en": "a(n) = 2 + (7-1)x5 = 32.",
    "gen_params": {
     "tpl": "ap_nth",
     "a": 2,
     "d": 5,
-    "n": 18
+    "n": 7
    }
   },
   {
    "skill_id": "m10c4s2",
    "difficulty": 2,
-   "text_hi": "AP: a = 2, d = 9 हो तो 13 वाँ पद = ?",
-   "text_en": "In an AP with a = 2 and d = 9, find the 13th term.",
+   "text_hi": "AP: a = 2, d = 4 हो तो 6 वाँ पद = ?",
+   "text_en": "In an AP with a = 2 and d = 4, find the 6th term.",
    "options": [
-    "119",
-    "101",
-    "1100",
-    "110"
+    "220",
+    "26",
+    "18",
+    "22"
    ],
    "correct_idx": 3,
    "hint_hi": "an = a + (n−1)d।",
    "hint_en": "an = a + (n-1)d.",
-   "solution_hi": "a13 = 2 + (13−1)×9 = 110।",
-   "solution_en": "a(n) = 2 + (13-1)x9 = 110.",
+   "solution_hi": "a6 = 2 + (6−1)×4 = 22।",
+   "solution_en": "a(n) = 2 + (6-1)x4 = 22.",
+   "gen_params": {
+    "tpl": "ap_nth",
+    "a": 2,
+    "d": 4,
+    "n": 6
+   }
+  },
+  {
+   "skill_id": "m10c4s2",
+   "difficulty": 2,
+   "text_hi": "AP: a = 7, d = 5 हो तो 20 वाँ पद = ?",
+   "text_en": "In an AP with a = 7 and d = 5, find the 20th term.",
+   "options": [
+    "107",
+    "1020",
+    "102",
+    "97"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "an = a + (n−1)d।",
+   "hint_en": "an = a + (n-1)d.",
+   "solution_hi": "a20 = 7 + (20−1)×5 = 102।",
+   "solution_en": "a(n) = 7 + (20-1)x5 = 102.",
+   "gen_params": {
+    "tpl": "ap_nth",
+    "a": 7,
+    "d": 5,
+    "n": 20
+   }
+  },
+  {
+   "skill_id": "m10c4s2",
+   "difficulty": 2,
+   "text_hi": "AP: a = 2, d = 9 हो तो 9 वाँ पद = ?",
+   "text_en": "In an AP with a = 2 and d = 9, find the 9th term.",
+   "options": [
+    "83",
+    "74",
+    "65",
+    "740"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "an = a + (n−1)d।",
+   "hint_en": "an = a + (n-1)d.",
+   "solution_hi": "a9 = 2 + (9−1)×9 = 74।",
+   "solution_en": "a(n) = 2 + (9-1)x9 = 74.",
    "gen_params": {
     "tpl": "ap_nth",
     "a": 2,
     "d": 9,
+    "n": 9
+   }
+  },
+  {
+   "skill_id": "m10c4s2",
+   "difficulty": 2,
+   "text_hi": "AP: a = 7, d = 9 हो तो 10 वाँ पद = ?",
+   "text_en": "In an AP with a = 7 and d = 9, find the 10th term.",
+   "options": [
+    "880",
+    "88",
+    "97",
+    "79"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "an = a + (n−1)d।",
+   "hint_en": "an = a + (n-1)d.",
+   "solution_hi": "a10 = 7 + (10−1)×9 = 88।",
+   "solution_en": "a(n) = 7 + (10-1)x9 = 88.",
+   "gen_params": {
+    "tpl": "ap_nth",
+    "a": 7,
+    "d": 9,
+    "n": 10
+   }
+  },
+  {
+   "skill_id": "m10c4s2",
+   "difficulty": 2,
+   "text_hi": "AP: a = 6, d = 2 हो तो 10 वाँ पद = ?",
+   "text_en": "In an AP with a = 6 and d = 2, find the 10th term.",
+   "options": [
+    "24",
+    "26",
+    "240",
+    "22"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "an = a + (n−1)d।",
+   "hint_en": "an = a + (n-1)d.",
+   "solution_hi": "a10 = 6 + (10−1)×2 = 24।",
+   "solution_en": "a(n) = 6 + (10-1)x2 = 24.",
+   "gen_params": {
+    "tpl": "ap_nth",
+    "a": 6,
+    "d": 2,
+    "n": 10
+   }
+  },
+  {
+   "skill_id": "m10c4s2",
+   "difficulty": 2,
+   "text_hi": "AP: a = 12, d = 4 हो तो 12 वाँ पद = ?",
+   "text_en": "In an AP with a = 12 and d = 4, find the 12th term.",
+   "options": [
+    "560",
+    "56",
+    "60",
+    "52"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "an = a + (n−1)d।",
+   "hint_en": "an = a + (n-1)d.",
+   "solution_hi": "a12 = 12 + (12−1)×4 = 56।",
+   "solution_en": "a(n) = 12 + (12-1)x4 = 56.",
+   "gen_params": {
+    "tpl": "ap_nth",
+    "a": 12,
+    "d": 4,
+    "n": 12
+   }
+  },
+  {
+   "skill_id": "m10c4s2",
+   "difficulty": 2,
+   "text_hi": "AP: a = 6, d = 2 हो तो 6 वाँ पद = ?",
+   "text_en": "In an AP with a = 6 and d = 2, find the 6th term.",
+   "options": [
+    "16",
+    "14",
+    "160",
+    "18"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "an = a + (n−1)d।",
+   "hint_en": "an = a + (n-1)d.",
+   "solution_hi": "a6 = 6 + (6−1)×2 = 16।",
+   "solution_en": "a(n) = 6 + (6-1)x2 = 16.",
+   "gen_params": {
+    "tpl": "ap_nth",
+    "a": 6,
+    "d": 2,
+    "n": 6
+   }
+  },
+  {
+   "skill_id": "m10c4s3",
+   "difficulty": 3,
+   "text_hi": "AP 10, 13, 16, ... के पहले 9 पदों का योग = ?",
+   "text_en": "Find the sum of the first 9 terms of the AP 10, 13, 16, ...",
+   "options": [
+    "195",
+    "117",
+    "198",
+    "207"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
+   "hint_en": "Sn = n/2 [2a + (n-1)d].",
+   "solution_hi": "Sn = 9/2 × [2×10 + 8×3] = 198।",
+   "solution_en": "Sn = 9/2 x [2x10 + 8x3] = 198.",
+   "gen_params": {
+    "tpl": "ap_sum",
+    "a": 10,
+    "d": 3,
+    "n": 9
+   }
+  },
+  {
+   "skill_id": "m10c4s3",
+   "difficulty": 3,
+   "text_hi": "AP 8, 12, 16, ... के पहले 11 पदों का योग = ?",
+   "text_en": "Find the sum of the first 11 terms of the AP 8, 12, 16, ...",
+   "options": [
+    "132",
+    "319",
+    "308",
+    "304"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
+   "hint_en": "Sn = n/2 [2a + (n-1)d].",
+   "solution_hi": "Sn = 11/2 × [2×8 + 10×4] = 308।",
+   "solution_en": "Sn = 11/2 x [2x8 + 10x4] = 308.",
+   "gen_params": {
+    "tpl": "ap_sum",
+    "a": 8,
+    "d": 4,
+    "n": 11
+   }
+  },
+  {
+   "skill_id": "m10c4s3",
+   "difficulty": 3,
+   "text_hi": "AP 2, 8, 14, ... के पहले 11 पदों का योग = ?",
+   "text_en": "Find the sum of the first 11 terms of the AP 2, 8, 14, ...",
+   "options": [
+    "352",
+    "88",
+    "346",
+    "363"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
+   "hint_en": "Sn = n/2 [2a + (n-1)d].",
+   "solution_hi": "Sn = 11/2 × [2×2 + 10×6] = 352।",
+   "solution_en": "Sn = 11/2 x [2x2 + 10x6] = 352.",
+   "gen_params": {
+    "tpl": "ap_sum",
+    "a": 2,
+    "d": 6,
+    "n": 11
+   }
+  },
+  {
+   "skill_id": "m10c4s3",
+   "difficulty": 3,
+   "text_hi": "AP 8, 13, 18, ... के पहले 7 पदों का योग = ?",
+   "text_en": "Find the sum of the first 7 terms of the AP 8, 13, 18, ...",
+   "options": [
+    "161",
+    "91",
+    "168",
+    "156"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
+   "hint_en": "Sn = n/2 [2a + (n-1)d].",
+   "solution_hi": "Sn = 7/2 × [2×8 + 6×5] = 161।",
+   "solution_en": "Sn = 7/2 x [2x8 + 6x5] = 161.",
+   "gen_params": {
+    "tpl": "ap_sum",
+    "a": 8,
+    "d": 5,
+    "n": 7
+   }
+  },
+  {
+   "skill_id": "m10c4s3",
+   "difficulty": 3,
+   "text_hi": "AP 4, 6, 8, ... के पहले 14 पदों का योग = ?",
+   "text_en": "Find the sum of the first 14 terms of the AP 4, 6, 8, ...",
+   "options": [
+    "252",
+    "236",
+    "238",
+    "84"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
+   "hint_en": "Sn = n/2 [2a + (n-1)d].",
+   "solution_hi": "Sn = 14/2 × [2×4 + 13×2] = 238।",
+   "solution_en": "Sn = 14/2 x [2x4 + 13x2] = 238.",
+   "gen_params": {
+    "tpl": "ap_sum",
+    "a": 4,
+    "d": 2,
+    "n": 14
+   }
+  },
+  {
+   "skill_id": "m10c4s3",
+   "difficulty": 3,
+   "text_hi": "AP 2, 8, 14, ... के पहले 8 पदों का योग = ?",
+   "text_en": "Find the sum of the first 8 terms of the AP 2, 8, 14, ...",
+   "options": [
+    "184",
+    "178",
+    "64",
+    "192"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
+   "hint_en": "Sn = n/2 [2a + (n-1)d].",
+   "solution_hi": "Sn = 8/2 × [2×2 + 7×6] = 184।",
+   "solution_en": "Sn = 8/2 x [2x2 + 7x6] = 184.",
+   "gen_params": {
+    "tpl": "ap_sum",
+    "a": 2,
+    "d": 6,
+    "n": 8
+   }
+  },
+  {
+   "skill_id": "m10c4s3",
+   "difficulty": 3,
+   "text_hi": "AP 7, 10, 13, ... के पहले 9 पदों का योग = ?",
+   "text_en": "Find the sum of the first 9 terms of the AP 7, 10, 13, ...",
+   "options": [
+    "171",
+    "168",
+    "180",
+    "90"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
+   "hint_en": "Sn = n/2 [2a + (n-1)d].",
+   "solution_hi": "Sn = 9/2 × [2×7 + 8×3] = 171।",
+   "solution_en": "Sn = 9/2 x [2x7 + 8x3] = 171.",
+   "gen_params": {
+    "tpl": "ap_sum",
+    "a": 7,
+    "d": 3,
+    "n": 9
+   }
+  },
+  {
+   "skill_id": "m10c4s3",
+   "difficulty": 3,
+   "text_hi": "AP 7, 11, 15, ... के पहले 13 पदों का योग = ?",
+   "text_en": "Find the sum of the first 13 terms of the AP 7, 11, 15, ...",
+   "options": [
+    "143",
+    "403",
+    "416",
+    "399"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
+   "hint_en": "Sn = n/2 [2a + (n-1)d].",
+   "solution_hi": "Sn = 13/2 × [2×7 + 12×4] = 403।",
+   "solution_en": "Sn = 13/2 x [2x7 + 12x4] = 403.",
+   "gen_params": {
+    "tpl": "ap_sum",
+    "a": 7,
+    "d": 4,
     "n": 13
    }
   },
   {
    "skill_id": "m10c4s3",
    "difficulty": 3,
-   "text_hi": "AP 10, 12, 14, ... के पहले 11 पदों का योग = ?",
-   "text_en": "Find the sum of the first 11 terms of the AP 10, 12, 14, ...",
+   "text_hi": "AP 4, 10, 16, ... के पहले 11 पदों का योग = ?",
+   "text_en": "Find the sum of the first 11 terms of the AP 4, 10, 16, ...",
    "options": [
-    "231",
-    "218",
-    "132",
-    "220"
+    "110",
+    "374",
+    "368",
+    "385"
    ],
-   "correct_idx": 3,
+   "correct_idx": 1,
    "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
    "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 11/2 × [2×10 + 10×2] = 220।",
-   "solution_en": "Sn = 11/2 x [2x10 + 10x2] = 220.",
+   "solution_hi": "Sn = 11/2 × [2×4 + 10×6] = 374।",
+   "solution_en": "Sn = 11/2 x [2x4 + 10x6] = 374.",
    "gen_params": {
     "tpl": "ap_sum",
-    "a": 10,
-    "d": 2,
+    "a": 4,
+    "d": 6,
     "n": 11
    }
   },
   {
    "skill_id": "m10c4s3",
    "difficulty": 3,
-   "text_hi": "AP 8, 11, 14, ... के पहले 7 पदों का योग = ?",
-   "text_en": "Find the sum of the first 7 terms of the AP 8, 11, 14, ...",
+   "text_hi": "AP 5, 11, 17, ... के पहले 12 पदों का योग = ?",
+   "text_en": "Find the sum of the first 12 terms of the AP 5, 11, 17, ...",
    "options": [
-    "116",
-    "77",
-    "126",
-    "119"
+    "132",
+    "456",
+    "450",
+    "468"
    ],
-   "correct_idx": 3,
+   "correct_idx": 1,
    "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
    "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 7/2 × [2×8 + 6×3] = 119।",
-   "solution_en": "Sn = 7/2 x [2x8 + 6x3] = 119.",
-   "gen_params": {
-    "tpl": "ap_sum",
-    "a": 8,
-    "d": 3,
-    "n": 7
-   }
-  },
-  {
-   "skill_id": "m10c4s3",
-   "difficulty": 3,
-   "text_hi": "AP 2, 8, 14, ... के पहले 9 पदों का योग = ?",
-   "text_en": "Find the sum of the first 9 terms of the AP 2, 8, 14, ...",
-   "options": [
-    "234",
-    "228",
-    "243",
-    "72"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
-   "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 9/2 × [2×2 + 8×6] = 234।",
-   "solution_en": "Sn = 9/2 x [2x2 + 8x6] = 234.",
-   "gen_params": {
-    "tpl": "ap_sum",
-    "a": 2,
-    "d": 6,
-    "n": 9
-   }
-  },
-  {
-   "skill_id": "m10c4s3",
-   "difficulty": 3,
-   "text_hi": "AP 9, 14, 19, ... के पहले 15 पदों का योग = ?",
-   "text_en": "Find the sum of the first 15 terms of the AP 9, 14, 19, ...",
-   "options": [
-    "675",
-    "210",
-    "660",
-    "655"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
-   "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 15/2 × [2×9 + 14×5] = 660।",
-   "solution_en": "Sn = 15/2 x [2x9 + 14x5] = 660.",
-   "gen_params": {
-    "tpl": "ap_sum",
-    "a": 9,
-    "d": 5,
-    "n": 15
-   }
-  },
-  {
-   "skill_id": "m10c4s3",
-   "difficulty": 3,
-   "text_hi": "AP 5, 9, 13, ... के पहले 11 पदों का योग = ?",
-   "text_en": "Find the sum of the first 11 terms of the AP 5, 9, 13, ...",
-   "options": [
-    "271",
-    "286",
-    "275",
-    "99"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
-   "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 11/2 × [2×5 + 10×4] = 275।",
-   "solution_en": "Sn = 11/2 x [2x5 + 10x4] = 275.",
+   "solution_hi": "Sn = 12/2 × [2×5 + 11×6] = 456।",
+   "solution_en": "Sn = 12/2 x [2x5 + 11x6] = 456.",
    "gen_params": {
     "tpl": "ap_sum",
     "a": 5,
-    "d": 4,
-    "n": 11
-   }
-  },
-  {
-   "skill_id": "m10c4s3",
-   "difficulty": 3,
-   "text_hi": "AP 3, 10, 17, ... के पहले 14 पदों का योग = ?",
-   "text_en": "Find the sum of the first 14 terms of the AP 3, 10, 17, ...",
-   "options": [
-    "679",
-    "672",
-    "140",
-    "693"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
-   "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 14/2 × [2×3 + 13×7] = 679।",
-   "solution_en": "Sn = 14/2 x [2x3 + 13x7] = 679.",
-   "gen_params": {
-    "tpl": "ap_sum",
-    "a": 3,
-    "d": 7,
-    "n": 14
-   }
-  },
-  {
-   "skill_id": "m10c4s3",
-   "difficulty": 3,
-   "text_hi": "AP 3, 8, 13, ... के पहले 12 पदों का योग = ?",
-   "text_en": "Find the sum of the first 12 terms of the AP 3, 8, 13, ...",
-   "options": [
-    "361",
-    "96",
-    "366",
-    "378"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
-   "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 12/2 × [2×3 + 11×5] = 366।",
-   "solution_en": "Sn = 12/2 x [2x3 + 11x5] = 366.",
-   "gen_params": {
-    "tpl": "ap_sum",
-    "a": 3,
-    "d": 5,
+    "d": 6,
     "n": 12
    }
   },
   {
    "skill_id": "m10c4s3",
    "difficulty": 3,
-   "text_hi": "AP 7, 14, 21, ... के पहले 14 पदों का योग = ?",
-   "text_en": "Find the sum of the first 14 terms of the AP 7, 14, 21, ...",
+   "text_hi": "AP 3, 9, 15, ... के पहले 10 पदों का योग = ?",
+   "text_en": "Find the sum of the first 10 terms of the AP 3, 9, 15, ...",
    "options": [
-    "749",
-    "196",
-    "735",
-    "728"
+    "310",
+    "90",
+    "294",
+    "300"
    ],
-   "correct_idx": 2,
+   "correct_idx": 3,
    "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
    "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 14/2 × [2×7 + 13×7] = 735।",
-   "solution_en": "Sn = 14/2 x [2x7 + 13x7] = 735.",
+   "solution_hi": "Sn = 10/2 × [2×3 + 9×6] = 300।",
+   "solution_en": "Sn = 10/2 x [2x3 + 9x6] = 300.",
    "gen_params": {
     "tpl": "ap_sum",
-    "a": 7,
-    "d": 7,
-    "n": 14
-   }
-  },
-  {
-   "skill_id": "m10c4s3",
-   "difficulty": 3,
-   "text_hi": "AP 1, 3, 5, ... के पहले 10 पदों का योग = ?",
-   "text_en": "Find the sum of the first 10 terms of the AP 1, 3, 5, ...",
-   "options": [
-    "30",
-    "100",
-    "98",
-    "110"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
-   "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 10/2 × [2×1 + 9×2] = 100।",
-   "solution_en": "Sn = 10/2 x [2x1 + 9x2] = 100.",
-   "gen_params": {
-    "tpl": "ap_sum",
-    "a": 1,
-    "d": 2,
+    "a": 3,
+    "d": 6,
     "n": 10
    }
   },
   {
    "skill_id": "m10c4s3",
    "difficulty": 3,
-   "text_hi": "AP 3, 7, 11, ... के पहले 9 पदों का योग = ?",
-   "text_en": "Find the sum of the first 9 terms of the AP 3, 7, 11, ...",
+   "text_hi": "AP 4, 9, 14, ... के पहले 11 पदों का योग = ?",
+   "text_en": "Find the sum of the first 11 terms of the AP 4, 9, 14, ...",
    "options": [
-    "167",
-    "171",
-    "63",
-    "180"
+    "99",
+    "319",
+    "314",
+    "330"
    ],
    "correct_idx": 1,
    "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
    "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 9/2 × [2×3 + 8×4] = 171।",
-   "solution_en": "Sn = 9/2 x [2x3 + 8x4] = 171.",
+   "solution_hi": "Sn = 11/2 × [2×4 + 10×5] = 319।",
+   "solution_en": "Sn = 11/2 x [2x4 + 10x5] = 319.",
    "gen_params": {
     "tpl": "ap_sum",
-    "a": 3,
-    "d": 4,
-    "n": 9
+    "a": 4,
+    "d": 5,
+    "n": 11
    }
   },
   {
-   "skill_id": "m10c4s3",
-   "difficulty": 3,
-   "text_hi": "AP 5, 12, 19, ... के पहले 15 पदों का योग = ?",
-   "text_en": "Find the sum of the first 15 terms of the AP 5, 12, 19, ...",
+   "skill_id": "m10c5s1",
+   "difficulty": 1,
+   "text_hi": "मान ज्ञात कीजिए: sin30° × cos30°",
+   "text_en": "Evaluate: sin30° x cos30°",
    "options": [
-    "803",
-    "825",
-    "180",
-    "810"
-   ],
-   "correct_idx": 3,
-   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
-   "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 15/2 × [2×5 + 14×7] = 810।",
-   "solution_en": "Sn = 15/2 x [2x5 + 14x7] = 810.",
-   "gen_params": {
-    "tpl": "ap_sum",
-    "a": 5,
-    "d": 7,
-    "n": 15
-   }
-  },
-  {
-   "skill_id": "m10c4s3",
-   "difficulty": 3,
-   "text_hi": "AP 5, 10, 15, ... के पहले 6 पदों का योग = ?",
-   "text_en": "Find the sum of the first 6 terms of the AP 5, 10, 15, ...",
-   "options": [
-    "105",
-    "60",
-    "111",
-    "100"
+    "3/4",
+    "1/2",
+    "3/2",
+    "7/4"
    ],
    "correct_idx": 0,
-   "hint_hi": "Sn = n/2 [2a + (n−1)d]।",
-   "hint_en": "Sn = n/2 [2a + (n-1)d].",
-   "solution_hi": "Sn = 6/2 × [2×5 + 5×5] = 105।",
-   "solution_en": "Sn = 6/2 x [2x5 + 5x5] = 105.",
+   "hint_hi": "मानक कोणों की सारणी याद कीजिए।",
+   "hint_en": "Recall the standard-angle table.",
+   "solution_hi": "sin30° x cos30° = 3/4।",
+   "solution_en": "sin30° x cos30° = 3/4.",
    "gen_params": {
-    "tpl": "ap_sum",
-    "a": 5,
-    "d": 5,
-    "n": 6
+    "tpl": "trig_values",
+    "label": "sin30° x cos30°"
    }
   },
   {
@@ -1353,9 +1374,9 @@
    "text_hi": "मान ज्ञात कीजिए: sin30° + cos60°",
    "text_en": "Evaluate: sin30° + cos60°",
    "options": [
-    "1/2",
-    "1",
     "3/2",
+    "1",
+    "1/2",
     "2"
    ],
    "correct_idx": 1,
@@ -1374,12 +1395,12 @@
    "text_hi": "मान ज्ञात कीजिए: cos60° + sin30°",
    "text_en": "Evaluate: cos60° + sin30°",
    "options": [
-    "1",
+    "3/2",
     "2",
-    "1/2",
-    "3/2"
+    "1",
+    "1/2"
    ],
-   "correct_idx": 0,
+   "correct_idx": 2,
    "hint_hi": "मानक कोणों की सारणी याद कीजिए।",
    "hint_en": "Recall the standard-angle table.",
    "solution_hi": "cos60° + sin30° = 1।",
@@ -1392,15 +1413,36 @@
   {
    "skill_id": "m10c5s1",
    "difficulty": 1,
-   "text_hi": "मान ज्ञात कीजिए: tan45° + cot45°",
-   "text_en": "Evaluate: tan45° + cot45°",
+   "text_hi": "मान ज्ञात कीजिए: cos0° + sin0°",
+   "text_en": "Evaluate: cos0° + sin0°",
    "options": [
-    "3",
     "1/2",
     "2",
+    "1",
     "3/2"
    ],
    "correct_idx": 2,
+   "hint_hi": "मानक कोणों की सारणी याद कीजिए।",
+   "hint_en": "Recall the standard-angle table.",
+   "solution_hi": "cos0° + sin0° = 1।",
+   "solution_en": "cos0° + sin0° = 1.",
+   "gen_params": {
+    "tpl": "trig_values",
+    "label": "cos0° + sin0°"
+   }
+  },
+  {
+   "skill_id": "m10c5s1",
+   "difficulty": 1,
+   "text_hi": "मान ज्ञात कीजिए: tan45° + cot45°",
+   "text_en": "Evaluate: tan45° + cot45°",
+   "options": [
+    "2",
+    "3",
+    "3/2",
+    "1/2"
+   ],
+   "correct_idx": 0,
    "hint_hi": "मानक कोणों की सारणी याद कीजिए।",
    "hint_en": "Recall the standard-angle table.",
    "solution_hi": "tan45° + cot45° = 2।",
@@ -1416,8 +1458,8 @@
    "text_hi": "मान ज्ञात कीजिए: tan45° × sin90°",
    "text_en": "Evaluate: tan45° x sin90°",
    "options": [
-    "3/2",
     "1/2",
+    "3/2",
     "1",
     "2"
    ],
@@ -1432,59 +1474,17 @@
    }
   },
   {
-   "skill_id": "m10c5s1",
-   "difficulty": 1,
-   "text_hi": "मान ज्ञात कीजिए: cos0° + sin0°",
-   "text_en": "Evaluate: cos0° + sin0°",
-   "options": [
-    "3/2",
-    "2",
-    "1",
-    "1/2"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "मानक कोणों की सारणी याद कीजिए।",
-   "hint_en": "Recall the standard-angle table.",
-   "solution_hi": "cos0° + sin0° = 1।",
-   "solution_en": "cos0° + sin0° = 1.",
-   "gen_params": {
-    "tpl": "trig_values",
-    "label": "cos0° + sin0°"
-   }
-  },
-  {
-   "skill_id": "m10c5s1",
-   "difficulty": 1,
-   "text_hi": "मान ज्ञात कीजिए: sin30° × cos30°",
-   "text_en": "Evaluate: sin30° x cos30°",
-   "options": [
-    "7/4",
-    "3/4",
-    "3/2",
-    "1/2"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "मानक कोणों की सारणी याद कीजिए।",
-   "hint_en": "Recall the standard-angle table.",
-   "solution_hi": "sin30° x cos30° = 3/4।",
-   "solution_en": "sin30° x cos30° = 3/4.",
-   "gen_params": {
-    "tpl": "trig_values",
-    "label": "sin30° x cos30°"
-   }
-  },
-  {
    "skill_id": "m10c5s3",
    "difficulty": 2,
    "text_hi": "sin²θ + cos²θ = ?",
    "text_en": "sin²θ + cos²θ = ?",
    "options": [
-    "1",
-    "θ",
     "0",
-    "2"
+    "2",
+    "1",
+    "θ"
    ],
-   "correct_idx": 0,
+   "correct_idx": 2,
    "hint_hi": "मूल त्रिकोणमितीय सर्वसमिका याद कीजिए।",
    "hint_en": "Recall the fundamental trigonometric identity.",
    "solution_hi": "sin²θ+cos²θ = 1 (सभी θ के लिए)।",
@@ -1499,12 +1499,12 @@
    "text_hi": "sec²θ − tan²θ = ?",
    "text_en": "sec²θ − tan²θ = ?",
    "options": [
-    "2",
     "1",
-    "0",
-    "-1"
+    "-1",
+    "2",
+    "0"
    ],
-   "correct_idx": 1,
+   "correct_idx": 0,
    "hint_hi": "1 + tan²θ = sec²θ से रूपांतरित कीजिए।",
    "hint_en": "Rearrange 1 + tan²(theta) = sec²(theta).",
    "solution_hi": "sec²θ−tan²θ = 1।",
@@ -1516,37 +1516,15 @@
   {
    "skill_id": "m10c6s1",
    "difficulty": 2,
-   "text_hi": "बिंदुओं (3, -3) और (9, 5) के बीच की दूरी = ?",
-   "text_en": "Distance between (3, -3) and (9, 5) = ?",
-   "options": [
-    "20",
-    "11",
-    "10",
-    "14"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "d = √((Δx)²+(Δy)²)।",
-   "hint_en": "d = sqrt(dx² + dy²).",
-   "solution_hi": "d = √(6²+8²) = √100 = 10।",
-   "solution_en": "d = sqrt(100) = 10.",
-   "gen_params": {
-    "tpl": "distance",
-    "dx": 6,
-    "dy": 8
-   }
-  },
-  {
-   "skill_id": "m10c6s1",
-   "difficulty": 2,
-   "text_hi": "बिंदुओं (-4, 2) और (5, 14) के बीच की दूरी = ?",
-   "text_en": "Distance between (-4, 2) and (5, 14) = ?",
+   "text_hi": "बिंदुओं (-5, -2) और (4, 10) के बीच की दूरी = ?",
+   "text_en": "Distance between (-5, -2) and (4, 10) = ?",
    "options": [
     "21",
-    "15",
+    "30",
     "16",
-    "30"
+    "15"
    ],
-   "correct_idx": 1,
+   "correct_idx": 3,
    "hint_hi": "d = √((Δx)²+(Δy)²)।",
    "hint_en": "d = sqrt(dx² + dy²).",
    "solution_hi": "d = √(9²+12²) = √225 = 15।",
@@ -1560,37 +1538,81 @@
   {
    "skill_id": "m10c6s1",
    "difficulty": 2,
-   "text_hi": "बिंदुओं (-3, 3) और (3, 11) के बीच की दूरी = ?",
-   "text_en": "Distance between (-3, 3) and (3, 11) = ?",
+   "text_hi": "बिंदुओं (-4, 4) और (5, 16) के बीच की दूरी = ?",
+   "text_en": "Distance between (-4, 4) and (5, 16) = ?",
    "options": [
-    "10",
-    "11",
-    "14",
-    "20"
+    "21",
+    "30",
+    "16",
+    "15"
    ],
-   "correct_idx": 0,
+   "correct_idx": 3,
    "hint_hi": "d = √((Δx)²+(Δy)²)।",
    "hint_en": "d = sqrt(dx² + dy²).",
-   "solution_hi": "d = √(6²+8²) = √100 = 10।",
-   "solution_en": "d = sqrt(100) = 10.",
+   "solution_hi": "d = √(9²+12²) = √225 = 15।",
+   "solution_en": "d = sqrt(225) = 15.",
    "gen_params": {
     "tpl": "distance",
-    "dx": 6,
-    "dy": 8
+    "dx": 9,
+    "dy": 12
    }
   },
   {
    "skill_id": "m10c6s1",
    "difficulty": 2,
-   "text_hi": "बिंदुओं (-4, 1) और (1, 13) के बीच की दूरी = ?",
-   "text_en": "Distance between (-4, 1) and (1, 13) = ?",
+   "text_hi": "बिंदुओं (1, -4) और (4, 0) के बीच की दूरी = ?",
+   "text_en": "Distance between (1, -4) and (4, 0) = ?",
    "options": [
-    "17",
-    "14",
-    "26",
-    "13"
+    "5",
+    "7",
+    "6",
+    "10"
    ],
-   "correct_idx": 3,
+   "correct_idx": 0,
+   "hint_hi": "d = √((Δx)²+(Δy)²)।",
+   "hint_en": "d = sqrt(dx² + dy²).",
+   "solution_hi": "d = √(3²+4²) = √25 = 5।",
+   "solution_en": "d = sqrt(25) = 5.",
+   "gen_params": {
+    "tpl": "distance",
+    "dx": 3,
+    "dy": 4
+   }
+  },
+  {
+   "skill_id": "m10c6s1",
+   "difficulty": 2,
+   "text_hi": "बिंदुओं (0, 0) और (3, 4) के बीच की दूरी = ?",
+   "text_en": "Distance between (0, 0) and (3, 4) = ?",
+   "options": [
+    "6",
+    "5",
+    "7",
+    "10"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "d = √((Δx)²+(Δy)²)।",
+   "hint_en": "d = sqrt(dx² + dy²).",
+   "solution_hi": "d = √(3²+4²) = √25 = 5।",
+   "solution_en": "d = sqrt(25) = 5.",
+   "gen_params": {
+    "tpl": "distance",
+    "dx": 3,
+    "dy": 4
+   }
+  },
+  {
+   "skill_id": "m10c6s1",
+   "difficulty": 2,
+   "text_hi": "बिंदुओं (4, -4) और (9, 8) के बीच की दूरी = ?",
+   "text_en": "Distance between (4, -4) and (9, 8) = ?",
+   "options": [
+    "13",
+    "17",
+    "26",
+    "14"
+   ],
+   "correct_idx": 0,
    "hint_hi": "d = √((Δx)²+(Δy)²)।",
    "hint_en": "d = sqrt(dx² + dy²).",
    "solution_hi": "d = √(5²+12²) = √169 = 13।",
@@ -1604,101 +1626,123 @@
   {
    "skill_id": "m10c6s1",
    "difficulty": 2,
-   "text_hi": "बिंदुओं (-4, 4) और (3, 28) के बीच की दूरी = ?",
-   "text_en": "Distance between (-4, 4) and (3, 28) = ?",
+   "text_hi": "बिंदुओं (0, 0) और (8, 15) के बीच की दूरी = ?",
+   "text_en": "Distance between (0, 0) and (8, 15) = ?",
    "options": [
-    "26",
-    "31",
-    "50",
-    "25"
+    "18",
+    "23",
+    "34",
+    "17"
    ],
    "correct_idx": 3,
    "hint_hi": "d = √((Δx)²+(Δy)²)।",
    "hint_en": "d = sqrt(dx² + dy²).",
-   "solution_hi": "d = √(7²+24²) = √625 = 25।",
-   "solution_en": "d = sqrt(625) = 25.",
+   "solution_hi": "d = √(8²+15²) = √289 = 17।",
+   "solution_en": "d = sqrt(289) = 17.",
    "gen_params": {
     "tpl": "distance",
-    "dx": 7,
-    "dy": 24
+    "dx": 8,
+    "dy": 15
    }
   },
   {
    "skill_id": "m10c6s1",
    "difficulty": 2,
-   "text_hi": "बिंदुओं (-1, 2) और (8, 14) के बीच की दूरी = ?",
-   "text_en": "Distance between (-1, 2) and (8, 14) = ?",
+   "text_hi": "बिंदुओं (0, 4) और (8, 19) के बीच की दूरी = ?",
+   "text_en": "Distance between (0, 4) and (8, 19) = ?",
    "options": [
-    "21",
-    "16",
-    "15",
-    "30"
+    "18",
+    "23",
+    "34",
+    "17"
    ],
-   "correct_idx": 2,
+   "correct_idx": 3,
    "hint_hi": "d = √((Δx)²+(Δy)²)।",
    "hint_en": "d = sqrt(dx² + dy²).",
-   "solution_hi": "d = √(9²+12²) = √225 = 15।",
-   "solution_en": "d = sqrt(225) = 15.",
+   "solution_hi": "d = √(8²+15²) = √289 = 17।",
+   "solution_en": "d = sqrt(289) = 17.",
    "gen_params": {
     "tpl": "distance",
-    "dx": 9,
-    "dy": 12
+    "dx": 8,
+    "dy": 15
    }
   },
   {
    "skill_id": "m10c6s1",
    "difficulty": 2,
-   "text_hi": "बिंदुओं (5, -2) और (12, 22) के बीच की दूरी = ?",
-   "text_en": "Distance between (5, -2) and (12, 22) = ?",
+   "text_hi": "बिंदुओं (-5, -1) और (1, 7) के बीच की दूरी = ?",
+   "text_en": "Distance between (-5, -1) and (1, 7) = ?",
    "options": [
-    "26",
-    "25",
-    "31",
-    "50"
+    "20",
+    "11",
+    "14",
+    "10"
    ],
-   "correct_idx": 1,
+   "correct_idx": 3,
    "hint_hi": "d = √((Δx)²+(Δy)²)।",
    "hint_en": "d = sqrt(dx² + dy²).",
-   "solution_hi": "d = √(7²+24²) = √625 = 25।",
-   "solution_en": "d = sqrt(625) = 25.",
+   "solution_hi": "d = √(6²+8²) = √100 = 10।",
+   "solution_en": "d = sqrt(100) = 10.",
    "gen_params": {
     "tpl": "distance",
-    "dx": 7,
-    "dy": 24
+    "dx": 6,
+    "dy": 8
    }
   },
   {
    "skill_id": "m10c6s1",
    "difficulty": 2,
-   "text_hi": "बिंदुओं (5, -2) और (14, 10) के बीच की दूरी = ?",
-   "text_en": "Distance between (5, -2) and (14, 10) = ?",
+   "text_hi": "बिंदुओं (3, 4) और (9, 12) के बीच की दूरी = ?",
+   "text_en": "Distance between (3, 4) and (9, 12) = ?",
    "options": [
-    "21",
-    "15",
-    "16",
-    "30"
+    "11",
+    "20",
+    "14",
+    "10"
    ],
-   "correct_idx": 1,
+   "correct_idx": 3,
    "hint_hi": "d = √((Δx)²+(Δy)²)।",
    "hint_en": "d = sqrt(dx² + dy²).",
-   "solution_hi": "d = √(9²+12²) = √225 = 15।",
-   "solution_en": "d = sqrt(225) = 15.",
+   "solution_hi": "d = √(6²+8²) = √100 = 10।",
+   "solution_en": "d = sqrt(100) = 10.",
    "gen_params": {
     "tpl": "distance",
-    "dx": 9,
-    "dy": 12
+    "dx": 6,
+    "dy": 8
    }
   },
   {
    "skill_id": "m10c6s1",
    "difficulty": 2,
-   "text_hi": "बिंदुओं (-2, -3) और (6, 12) के बीच की दूरी = ?",
-   "text_en": "Distance between (-2, -3) and (6, 12) = ?",
+   "text_hi": "बिंदुओं (3, -3) और (6, 1) के बीच की दूरी = ?",
+   "text_en": "Distance between (3, -3) and (6, 1) = ?",
+   "options": [
+    "5",
+    "7",
+    "10",
+    "6"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "d = √((Δx)²+(Δy)²)।",
+   "hint_en": "d = sqrt(dx² + dy²).",
+   "solution_hi": "d = √(3²+4²) = √25 = 5।",
+   "solution_en": "d = sqrt(25) = 5.",
+   "gen_params": {
+    "tpl": "distance",
+    "dx": 3,
+    "dy": 4
+   }
+  },
+  {
+   "skill_id": "m10c6s1",
+   "difficulty": 2,
+   "text_hi": "बिंदुओं (-1, 4) और (7, 19) के बीच की दूरी = ?",
+   "text_en": "Distance between (-1, 4) and (7, 19) = ?",
    "options": [
     "17",
     "18",
-    "23",
-    "34"
+    "34",
+    "23"
    ],
    "correct_idx": 0,
    "hint_hi": "d = √((Δx)²+(Δy)²)।",
@@ -1714,59 +1758,15 @@
   {
    "skill_id": "m10c6s1",
    "difficulty": 2,
-   "text_hi": "बिंदुओं (1, 1) और (10, 13) के बीच की दूरी = ?",
-   "text_en": "Distance between (1, 1) and (10, 13) = ?",
+   "text_hi": "बिंदुओं (5, -5) और (10, 7) के बीच की दूरी = ?",
+   "text_en": "Distance between (5, -5) and (10, 7) = ?",
    "options": [
-    "21",
-    "15",
-    "16",
-    "30"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "d = √((Δx)²+(Δy)²)।",
-   "hint_en": "d = sqrt(dx² + dy²).",
-   "solution_hi": "d = √(9²+12²) = √225 = 15।",
-   "solution_en": "d = sqrt(225) = 15.",
-   "gen_params": {
-    "tpl": "distance",
-    "dx": 9,
-    "dy": 12
-   }
-  },
-  {
-   "skill_id": "m10c6s1",
-   "difficulty": 2,
-   "text_hi": "बिंदुओं (2, 1) और (9, 25) के बीच की दूरी = ?",
-   "text_en": "Distance between (2, 1) and (9, 25) = ?",
-   "options": [
-    "50",
-    "31",
-    "25",
+    "14",
+    "17",
+    "13",
     "26"
    ],
    "correct_idx": 2,
-   "hint_hi": "d = √((Δx)²+(Δy)²)।",
-   "hint_en": "d = sqrt(dx² + dy²).",
-   "solution_hi": "d = √(7²+24²) = √625 = 25।",
-   "solution_en": "d = sqrt(625) = 25.",
-   "gen_params": {
-    "tpl": "distance",
-    "dx": 7,
-    "dy": 24
-   }
-  },
-  {
-   "skill_id": "m10c6s1",
-   "difficulty": 2,
-   "text_hi": "बिंदुओं (1, 3) और (6, 15) के बीच की दूरी = ?",
-   "text_en": "Distance between (1, 3) and (6, 15) = ?",
-   "options": [
-    "17",
-    "14",
-    "26",
-    "13"
-   ],
-   "correct_idx": 3,
    "hint_hi": "d = √((Δx)²+(Δy)²)।",
    "hint_en": "d = sqrt(dx² + dy²).",
    "solution_hi": "d = √(5²+12²) = √169 = 13।",
@@ -1780,95 +1780,191 @@
   {
    "skill_id": "m10c7s1",
    "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 8×3, 15×6, 18×2, 23×92। माध्य = ?",
-   "text_en": "Values & frequencies: 8×3, 15×6, 18×2, 23×92. Mean = ?",
+   "text_hi": "मान व बारंबारता: 11×1, 23×2, 26×1, 30×33। माध्य = ?",
+   "text_en": "Values & frequencies: 11×1, 23×2, 26×1, 30×33. Mean = ?",
    "options": [
-    "16",
-    "21",
     "22",
-    "23"
+    "29",
+    "30",
+    "28"
    ],
-   "correct_idx": 2,
+   "correct_idx": 1,
    "hint_hi": "माध्य = Σfx / Σf।",
    "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 2266, Σf = 103 → माध्य = 22।",
-   "solution_en": "sum fx = 2266, sum f = 103 -> mean = 22.",
+   "solution_hi": "Σfx = 1073, Σf = 37 → माध्य = 29।",
+   "solution_en": "sum fx = 1073, sum f = 37 -> mean = 29.",
    "gen_params": {
     "tpl": "grouped_mean",
     "xs": [
-     8,
-     15,
-     18,
-     23
+     11,
+     23,
+     26,
+     30
     ],
     "freqs": [
-     3,
-     6,
+     1,
      2,
-     92
+     1,
+     33
     ]
    }
   },
   {
    "skill_id": "m10c7s1",
    "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 8×4, 11×2, 19×3, 27×2। माध्य = ?",
-   "text_en": "Values & frequencies: 8×4, 11×2, 19×3, 27×2. Mean = ?",
+   "text_hi": "मान व बारंबारता: 6×1, 30×1, 38×5, 39×40। माध्य = ?",
+   "text_en": "Values & frequencies: 6×1, 30×1, 38×5, 39×40. Mean = ?",
    "options": [
-    "15",
-    "14",
-    "150",
-    "16"
+    "38",
+    "28",
+    "37",
+    "39"
    ],
    "correct_idx": 0,
    "hint_hi": "माध्य = Σfx / Σf।",
    "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 165, Σf = 11 → माध्य = 15।",
-   "solution_en": "sum fx = 165, sum f = 11 -> mean = 15.",
+   "solution_hi": "Σfx = 1786, Σf = 47 → माध्य = 38।",
+   "solution_en": "sum fx = 1786, sum f = 47 -> mean = 38.",
    "gen_params": {
     "tpl": "grouped_mean",
     "xs": [
-     8,
-     11,
-     19,
-     27
+     6,
+     30,
+     38,
+     39
     ],
     "freqs": [
-     4,
-     2,
-     3,
-     2
+     1,
+     1,
+     5,
+     40
     ]
    }
   },
   {
    "skill_id": "m10c7s1",
    "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 16×3, 17×2, 18×5, 34×11। माध्य = ?",
-   "text_en": "Values & frequencies: 16×3, 17×2, 18×5, 34×11. Mean = ?",
+   "text_hi": "मान व बारंबारता: 10×3, 16×6, 19×6, 36×10। माध्य = ?",
+   "text_en": "Values & frequencies: 10×3, 16×6, 19×6, 36×10. Mean = ?",
    "options": [
-    "27",
-    "21",
     "25",
-    "26"
+    "24",
+    "20",
+    "23"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "माध्य = Σfx / Σf।",
+   "hint_en": "Mean = sum(fx) / sum(f).",
+   "solution_hi": "Σfx = 600, Σf = 25 → माध्य = 24।",
+   "solution_en": "sum fx = 600, sum f = 25 -> mean = 24.",
+   "gen_params": {
+    "tpl": "grouped_mean",
+    "xs": [
+     10,
+     16,
+     19,
+     36
+    ],
+    "freqs": [
+     3,
+     6,
+     6,
+     10
+    ]
+   }
+  },
+  {
+   "skill_id": "m10c7s1",
+   "difficulty": 3,
+   "text_hi": "मान व बारंबारता: 7×1, 11×1, 14×3, 18×5। माध्य = ?",
+   "text_en": "Values & frequencies: 7×1, 11×1, 14×3, 18×5. Mean = ?",
+   "options": [
+    "16",
+    "14",
+    "12",
+    "15"
    ],
    "correct_idx": 3,
    "hint_hi": "माध्य = Σfx / Σf।",
    "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 546, Σf = 21 → माध्य = 26।",
-   "solution_en": "sum fx = 546, sum f = 21 -> mean = 26.",
+   "solution_hi": "Σfx = 150, Σf = 10 → माध्य = 15।",
+   "solution_en": "sum fx = 150, sum f = 10 -> mean = 15.",
    "gen_params": {
     "tpl": "grouped_mean",
     "xs": [
-     16,
-     17,
-     18,
-     34
+     7,
+     11,
+     14,
+     18
+    ],
+    "freqs": [
+     1,
+     1,
+     3,
+     5
+    ]
+   }
+  },
+  {
+   "skill_id": "m10c7s1",
+   "difficulty": 3,
+   "text_hi": "मान व बारंबारता: 8×3, 13×2, 14×2, 17×34। माध्य = ?",
+   "text_en": "Values & frequencies: 8×3, 13×2, 14×2, 17×34. Mean = ?",
+   "options": [
+    "17",
+    "13",
+    "16",
+    "15"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "माध्य = Σfx / Σf।",
+   "hint_en": "Mean = sum(fx) / sum(f).",
+   "solution_hi": "Σfx = 656, Σf = 41 → माध्य = 16।",
+   "solution_en": "sum fx = 656, sum f = 41 -> mean = 16.",
+   "gen_params": {
+    "tpl": "grouped_mean",
+    "xs": [
+     8,
+     13,
+     14,
+     17
     ],
     "freqs": [
      3,
      2,
-     5,
+     2,
+     34
+    ]
+   }
+  },
+  {
+   "skill_id": "m10c7s1",
+   "difficulty": 3,
+   "text_hi": "मान व बारंबारता: 15×2, 16×4, 29×6, 30×11। माध्य = ?",
+   "text_en": "Values & frequencies: 15×2, 16×4, 29×6, 30×11. Mean = ?",
+   "options": [
+    "27",
+    "25",
+    "26",
+    "22"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "माध्य = Σfx / Σf।",
+   "hint_en": "Mean = sum(fx) / sum(f).",
+   "solution_hi": "Σfx = 598, Σf = 23 → माध्य = 26।",
+   "solution_en": "sum fx = 598, sum f = 23 -> mean = 26.",
+   "gen_params": {
+    "tpl": "grouped_mean",
+    "xs": [
+     15,
+     16,
+     29,
+     30
+    ],
+    "freqs": [
+     2,
+     4,
+     6,
      11
     ]
    }
@@ -1876,159 +1972,95 @@
   {
    "skill_id": "m10c7s1",
    "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 8×3, 13×1, 14×2, 15×19। माध्य = ?",
-   "text_en": "Values & frequencies: 8×3, 13×1, 14×2, 15×19. Mean = ?",
+   "text_hi": "मान व बारंबारता: 16×4, 21×1, 32×1, 35×25। माध्य = ?",
+   "text_en": "Values & frequencies: 16×4, 21×1, 32×1, 35×25. Mean = ?",
    "options": [
-    "14",
-    "15",
-    "12",
-    "13"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "माध्य = Σfx / Σf।",
-   "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 350, Σf = 25 → माध्य = 14।",
-   "solution_en": "sum fx = 350, sum f = 25 -> mean = 14.",
-   "gen_params": {
-    "tpl": "grouped_mean",
-    "xs": [
-     8,
-     13,
-     14,
-     15
-    ],
-    "freqs": [
-     3,
-     1,
-     2,
-     19
-    ]
-   }
-  },
-  {
-   "skill_id": "m10c7s1",
-   "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 13×6, 20×3, 34×6, 38×4। माध्य = ?",
-   "text_en": "Values & frequencies: 13×6, 20×3, 34×6, 38×4. Mean = ?",
-   "options": [
+    "33",
+    "32",
     "26",
-    "260",
-    "25",
-    "27"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "माध्य = Σfx / Σf।",
-   "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 494, Σf = 19 → माध्य = 26।",
-   "solution_en": "sum fx = 494, sum f = 19 -> mean = 26.",
-   "gen_params": {
-    "tpl": "grouped_mean",
-    "xs": [
-     13,
-     20,
-     34,
-     38
-    ],
-    "freqs": [
-     6,
-     3,
-     6,
-     4
-    ]
-   }
-  },
-  {
-   "skill_id": "m10c7s1",
-   "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 6×1, 13×3, 19×6, 32×13। माध्य = ?",
-   "text_en": "Values & frequencies: 6×1, 13×3, 19×6, 32×13. Mean = ?",
-   "options": [
-    "17",
-    "25",
-    "24",
-    "26"
+    "31"
    ],
    "correct_idx": 1,
    "hint_hi": "माध्य = Σfx / Σf।",
    "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 575, Σf = 23 → माध्य = 25।",
-   "solution_en": "sum fx = 575, sum f = 23 -> mean = 25.",
+   "solution_hi": "Σfx = 992, Σf = 31 → माध्य = 32।",
+   "solution_en": "sum fx = 992, sum f = 31 -> mean = 32.",
    "gen_params": {
     "tpl": "grouped_mean",
     "xs": [
-     6,
-     13,
-     19,
-     32
-    ],
-    "freqs": [
-     1,
-     3,
-     6,
-     13
-    ]
-   }
-  },
-  {
-   "skill_id": "m10c7s1",
-   "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 9×1, 23×4, 28×6, 31×7। माध्य = ?",
-   "text_en": "Values & frequencies: 9×1, 23×4, 28×6, 31×7. Mean = ?",
-   "options": [
-    "28",
-    "22",
-    "27",
-    "26"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "माध्य = Σfx / Σf।",
-   "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 486, Σf = 18 → माध्य = 27।",
-   "solution_en": "sum fx = 486, sum f = 18 -> mean = 27.",
-   "gen_params": {
-    "tpl": "grouped_mean",
-    "xs": [
-     9,
-     23,
-     28,
-     31
-    ],
-    "freqs": [
-     1,
-     4,
-     6,
-     7
-    ]
-   }
-  },
-  {
-   "skill_id": "m10c7s1",
-   "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 21×2, 28×2, 33×3, 36×48। माध्य = ?",
-   "text_en": "Values & frequencies: 21×2, 28×2, 33×3, 36×48. Mean = ?",
-   "options": [
-    "36",
-    "29",
-    "35",
-    "34"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "माध्य = Σfx / Σf।",
-   "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 1925, Σf = 55 → माध्य = 35।",
-   "solution_en": "sum fx = 1925, sum f = 55 -> mean = 35.",
-   "gen_params": {
-    "tpl": "grouped_mean",
-    "xs": [
+     16,
      21,
-     28,
-     33,
-     36
+     32,
+     35
+    ],
+    "freqs": [
+     4,
+     1,
+     1,
+     25
+    ]
+   }
+  },
+  {
+   "skill_id": "m10c7s1",
+   "difficulty": 3,
+   "text_hi": "मान व बारंबारता: 15×2, 16×3, 18×6, 20×6। माध्य = ?",
+   "text_en": "Values & frequencies: 15×2, 16×3, 18×6, 20×6. Mean = ?",
+   "options": [
+    "17",
+    "180",
+    "19",
+    "18"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "माध्य = Σfx / Σf।",
+   "hint_en": "Mean = sum(fx) / sum(f).",
+   "solution_hi": "Σfx = 306, Σf = 17 → माध्य = 18।",
+   "solution_en": "sum fx = 306, sum f = 17 -> mean = 18.",
+   "gen_params": {
+    "tpl": "grouped_mean",
+    "xs": [
+     15,
+     16,
+     18,
+     20
+    ],
+    "freqs": [
+     2,
+     3,
+     6,
+     6
+    ]
+   }
+  },
+  {
+   "skill_id": "m10c7s1",
+   "difficulty": 3,
+   "text_hi": "मान व बारंबारता: 13×2, 14×2, 35×1, 39×48। माध्य = ?",
+   "text_en": "Values & frequencies: 13×2, 14×2, 35×1, 39×48. Mean = ?",
+   "options": [
+    "25",
+    "37",
+    "36",
+    "38"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "माध्य = Σfx / Σf।",
+   "hint_en": "Mean = sum(fx) / sum(f).",
+   "solution_hi": "Σfx = 1961, Σf = 53 → माध्य = 37।",
+   "solution_en": "sum fx = 1961, sum f = 53 -> mean = 37.",
+   "gen_params": {
+    "tpl": "grouped_mean",
+    "xs": [
+     13,
+     14,
+     35,
+     39
     ],
     "freqs": [
      2,
      2,
-     3,
+     1,
      48
     ]
    }
@@ -2036,150 +2068,181 @@
   {
    "skill_id": "m10c7s1",
    "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 7×5, 19×1, 20×6, 27×3। माध्य = ?",
-   "text_en": "Values & frequencies: 7×5, 19×1, 20×6, 27×3. Mean = ?",
+   "text_hi": "मान व बारंबारता: 18×3, 22×6, 30×1, 37×12। माध्य = ?",
+   "text_en": "Values & frequencies: 18×3, 22×6, 30×1, 37×12. Mean = ?",
    "options": [
-    "16",
-    "18",
-    "17",
-    "170"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "माध्य = Σfx / Σf।",
-   "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 255, Σf = 15 → माध्य = 17।",
-   "solution_en": "sum fx = 255, sum f = 15 -> mean = 17.",
-   "gen_params": {
-    "tpl": "grouped_mean",
-    "xs": [
-     7,
-     19,
-     20,
-     27
-    ],
-    "freqs": [
-     5,
-     1,
-     6,
-     3
-    ]
-   }
-  },
-  {
-   "skill_id": "m10c7s1",
-   "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 14×2, 21×6, 23×3, 39×92। माध्य = ?",
-   "text_en": "Values & frequencies: 14×2, 21×6, 23×3, 39×92. Mean = ?",
-   "options": [
-    "37",
-    "24",
-    "36",
-    "38"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "माध्य = Σfx / Σf।",
-   "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 3811, Σf = 103 → माध्य = 37।",
-   "solution_en": "sum fx = 3811, sum f = 103 -> mean = 37.",
-   "gen_params": {
-    "tpl": "grouped_mean",
-    "xs": [
-     14,
-     21,
-     23,
-     39
-    ],
-    "freqs": [
-     2,
-     6,
-     3,
-     92
-    ]
-   }
-  },
-  {
-   "skill_id": "m10c7s1",
-   "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 14×3, 16×1, 18×5, 23×50। माध्य = ?",
-   "text_en": "Values & frequencies: 14×3, 16×1, 18×5, 23×50. Mean = ?",
-   "options": [
-    "23",
-    "21",
-    "22",
-    "17"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "माध्य = Σfx / Σf।",
-   "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 1298, Σf = 59 → माध्य = 22।",
-   "solution_en": "sum fx = 1298, sum f = 59 -> mean = 22.",
-   "gen_params": {
-    "tpl": "grouped_mean",
-    "xs": [
-     14,
-     16,
-     18,
-     23
-    ],
-    "freqs": [
-     3,
-     1,
-     5,
-     50
-    ]
-   }
-  },
-  {
-   "skill_id": "m10c7s1",
-   "difficulty": 3,
-   "text_hi": "मान व बारंबारता: 5×1, 6×6, 14×4, 34×266। माध्य = ?",
-   "text_en": "Values & frequencies: 5×1, 6×6, 14×4, 34×266. Mean = ?",
-   "options": [
-    "34",
-    "14",
-    "32",
-    "33"
+    "29",
+    "26",
+    "31",
+    "30"
    ],
    "correct_idx": 3,
    "hint_hi": "माध्य = Σfx / Σf।",
    "hint_en": "Mean = sum(fx) / sum(f).",
-   "solution_hi": "Σfx = 9141, Σf = 277 → माध्य = 33।",
-   "solution_en": "sum fx = 9141, sum f = 277 -> mean = 33.",
+   "solution_hi": "Σfx = 660, Σf = 22 → माध्य = 30।",
+   "solution_en": "sum fx = 660, sum f = 22 -> mean = 30.",
    "gen_params": {
     "tpl": "grouped_mean",
     "xs": [
-     5,
-     6,
-     14,
-     34
+     18,
+     22,
+     30,
+     37
     ],
     "freqs": [
-     1,
+     3,
      6,
+     1,
+     12
+    ]
+   }
+  },
+  {
+   "skill_id": "m10c7s1",
+   "difficulty": 3,
+   "text_hi": "मान व बारंबारता: 13×6, 14×1, 36×4, 37×8। माध्य = ?",
+   "text_en": "Values & frequencies: 13×6, 14×1, 36×4, 37×8. Mean = ?",
+   "options": [
+    "29",
+    "25",
+    "28",
+    "27"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "माध्य = Σfx / Σf।",
+   "hint_en": "Mean = sum(fx) / sum(f).",
+   "solution_hi": "Σfx = 532, Σf = 19 → माध्य = 28।",
+   "solution_en": "sum fx = 532, sum f = 19 -> mean = 28.",
+   "gen_params": {
+    "tpl": "grouped_mean",
+    "xs": [
+     13,
+     14,
+     36,
+     37
+    ],
+    "freqs": [
+     6,
+     1,
      4,
-     266
+     8
+    ]
+   }
+  },
+  {
+   "skill_id": "m10c7s1",
+   "difficulty": 3,
+   "text_hi": "मान व बारंबारता: 7×4, 8×5, 19×4, 22×58। माध्य = ?",
+   "text_en": "Values & frequencies: 7×4, 8×5, 19×4, 22×58. Mean = ?",
+   "options": [
+    "20",
+    "14",
+    "19",
+    "21"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "माध्य = Σfx / Σf।",
+   "hint_en": "Mean = sum(fx) / sum(f).",
+   "solution_hi": "Σfx = 1420, Σf = 71 → माध्य = 20।",
+   "solution_en": "sum fx = 1420, sum f = 71 -> mean = 20.",
+   "gen_params": {
+    "tpl": "grouped_mean",
+    "xs": [
+     7,
+     8,
+     19,
+     22
+    ],
+    "freqs": [
+     4,
+     5,
+     4,
+     58
     ]
    }
   },
   {
    "skill_id": "m10c8s2",
    "difficulty": 2,
-   "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 4 आने की प्रायिकता = ?",
-   "text_en": "Two dice are thrown together. Probability that the sum is 4 = ?",
+   "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 5 आने की प्रायिकता = ?",
+   "text_en": "Two dice are thrown together. Probability that the sum is 5 = ?",
    "options": [
-    "2/36",
-    "1/4",
+    "4/36",
+    "5/36",
     "3/36",
-    "4/36"
+    "1/5"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
+   "hint_en": "Count favourable outcomes out of 36 equally likely results.",
+   "solution_hi": "योग 5: 4 अनुकूल परिणाम → 4/36।",
+   "solution_en": "Sum 5: 4 favourable outcomes -> 4/36.",
+   "gen_params": {
+    "tpl": "prob_die",
+    "target": 5
+   }
+  },
+  {
+   "skill_id": "m10c8s2",
+   "difficulty": 2,
+   "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 10 आने की प्रायिकता = ?",
+   "text_en": "Two dice are thrown together. Probability that the sum is 10 = ?",
+   "options": [
+    "4/36",
+    "6/36",
+    "3/36",
+    "2/36"
    ],
    "correct_idx": 2,
    "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
    "hint_en": "Count favourable outcomes out of 36 equally likely results.",
-   "solution_hi": "योग 4: 3 अनुकूल परिणाम → 3/36।",
-   "solution_en": "Sum 4: 3 favourable outcomes -> 3/36.",
+   "solution_hi": "योग 10: 3 अनुकूल परिणाम → 3/36।",
+   "solution_en": "Sum 10: 3 favourable outcomes -> 3/36.",
    "gen_params": {
     "tpl": "prob_die",
-    "target": 4
+    "target": 10
+   }
+  },
+  {
+   "skill_id": "m10c8s2",
+   "difficulty": 2,
+   "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 7 आने की प्रायिकता = ?",
+   "text_en": "Two dice are thrown together. Probability that the sum is 7 = ?",
+   "options": [
+    "7/36",
+    "6/36",
+    "6/360",
+    "5/36"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
+   "hint_en": "Count favourable outcomes out of 36 equally likely results.",
+   "solution_hi": "योग 7: 6 अनुकूल परिणाम → 6/36।",
+   "solution_en": "Sum 7: 6 favourable outcomes -> 6/36.",
+   "gen_params": {
+    "tpl": "prob_die",
+    "target": 7
+   }
+  },
+  {
+   "skill_id": "m10c8s2",
+   "difficulty": 2,
+   "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 6 आने की प्रायिकता = ?",
+   "text_en": "Two dice are thrown together. Probability that the sum is 6 = ?",
+   "options": [
+    "5/36",
+    "6/36",
+    "5/360",
+    "4/36"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
+   "hint_en": "Count favourable outcomes out of 36 equally likely results.",
+   "solution_hi": "योग 6: 5 अनुकूल परिणाम → 5/36।",
+   "solution_en": "Sum 6: 5 favourable outcomes -> 5/36.",
+   "gen_params": {
+    "tpl": "prob_die",
+    "target": 6
    }
   },
   {
@@ -2188,10 +2251,10 @@
    "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 8 आने की प्रायिकता = ?",
    "text_en": "Two dice are thrown together. Probability that the sum is 8 = ?",
    "options": [
-    "4/36",
-    "5/36",
     "6/36",
-    "5/360"
+    "5/36",
+    "5/360",
+    "4/36"
    ],
    "correct_idx": 1,
    "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
@@ -2206,99 +2269,15 @@
   {
    "skill_id": "m10c8s2",
    "difficulty": 2,
-   "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 6 आने की प्रायिकता = ?",
-   "text_en": "Two dice are thrown together. Probability that the sum is 6 = ?",
-   "options": [
-    "5/360",
-    "6/36",
-    "5/36",
-    "4/36"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
-   "hint_en": "Count favourable outcomes out of 36 equally likely results.",
-   "solution_hi": "योग 6: 5 अनुकूल परिणाम → 5/36।",
-   "solution_en": "Sum 6: 5 favourable outcomes -> 5/36.",
-   "gen_params": {
-    "tpl": "prob_die",
-    "target": 6
-   }
-  },
-  {
-   "skill_id": "m10c8s2",
-   "difficulty": 2,
-   "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 10 आने की प्रायिकता = ?",
-   "text_en": "Two dice are thrown together. Probability that the sum is 10 = ?",
-   "options": [
-    "6/36",
-    "3/36",
-    "4/36",
-    "2/36"
-   ],
-   "correct_idx": 1,
-   "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
-   "hint_en": "Count favourable outcomes out of 36 equally likely results.",
-   "solution_hi": "योग 10: 3 अनुकूल परिणाम → 3/36।",
-   "solution_en": "Sum 10: 3 favourable outcomes -> 3/36.",
-   "gen_params": {
-    "tpl": "prob_die",
-    "target": 10
-   }
-  },
-  {
-   "skill_id": "m10c8s2",
-   "difficulty": 2,
-   "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 5 आने की प्रायिकता = ?",
-   "text_en": "Two dice are thrown together. Probability that the sum is 5 = ?",
-   "options": [
-    "1/5",
-    "5/36",
-    "4/36",
-    "3/36"
-   ],
-   "correct_idx": 2,
-   "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
-   "hint_en": "Count favourable outcomes out of 36 equally likely results.",
-   "solution_hi": "योग 5: 4 अनुकूल परिणाम → 4/36।",
-   "solution_en": "Sum 5: 4 favourable outcomes -> 4/36.",
-   "gen_params": {
-    "tpl": "prob_die",
-    "target": 5
-   }
-  },
-  {
-   "skill_id": "m10c8s2",
-   "difficulty": 2,
-   "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 7 आने की प्रायिकता = ?",
-   "text_en": "Two dice are thrown together. Probability that the sum is 7 = ?",
-   "options": [
-    "6/36",
-    "5/36",
-    "6/360",
-    "7/36"
-   ],
-   "correct_idx": 0,
-   "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
-   "hint_en": "Count favourable outcomes out of 36 equally likely results.",
-   "solution_hi": "योग 7: 6 अनुकूल परिणाम → 6/36।",
-   "solution_en": "Sum 7: 6 favourable outcomes -> 6/36.",
-   "gen_params": {
-    "tpl": "prob_die",
-    "target": 7
-   }
-  },
-  {
-   "skill_id": "m10c8s2",
-   "difficulty": 2,
    "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 9 आने की प्रायिकता = ?",
    "text_en": "Two dice are thrown together. Probability that the sum is 9 = ?",
    "options": [
+    "4/36",
     "6/36",
     "3/36",
-    "5/36",
-    "4/36"
+    "5/36"
    ],
-   "correct_idx": 3,
+   "correct_idx": 0,
    "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
    "hint_en": "Count favourable outcomes out of 36 equally likely results.",
    "solution_hi": "योग 9: 4 अनुकूल परिणाम → 4/36।",
@@ -2306,6 +2285,27 @@
    "gen_params": {
     "tpl": "prob_die",
     "target": 9
+   }
+  },
+  {
+   "skill_id": "m10c8s2",
+   "difficulty": 2,
+   "text_hi": "दो पासे एक साथ फेंके जाते हैं। योग 4 आने की प्रायिकता = ?",
+   "text_en": "Two dice are thrown together. Probability that the sum is 4 = ?",
+   "options": [
+    "2/36",
+    "3/36",
+    "1/4",
+    "4/36"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "36 सम-प्रायिक परिणाम गिनिए।",
+   "hint_en": "Count favourable outcomes out of 36 equally likely results.",
+   "solution_hi": "योग 4: 3 अनुकूल परिणाम → 3/36।",
+   "solution_en": "Sum 4: 3 favourable outcomes -> 3/36.",
+   "gen_params": {
+    "tpl": "prob_die",
+    "target": 4
    }
   },
   {

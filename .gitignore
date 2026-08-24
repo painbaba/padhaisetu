@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+data/padhaisetu.db
+data/padhaisetu.db-*
+*.log
+.pytest_cache/

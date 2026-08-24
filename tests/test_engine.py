@@ -226,3 +226,11 @@ def test_store_report_persists_row(student):
     assert row is not None
     assert row["week_of"] == payload["week_of"]
     assert '"attempts"' in row["payload_json"]
+
+
+def test_diagnostic_results_due_immediately(student):
+    q = qbank.questions_for_skill("m8c1s1")[0]
+    res = engine.record_attempt(student, q, False, 60000, "diag")
+    assert res["due_after"] <= db.iso()          # practicable today
+    res2 = engine.record_attempt(student, q, False, 60000, "practice")
+    assert res2["due_after"] > db.iso()          # practice keeps SR spacing

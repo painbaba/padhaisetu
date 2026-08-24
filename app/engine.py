@@ -58,7 +58,9 @@ def score_of(mastery_map: dict, skill_id: str) -> float:
 
 
 def record_attempt(user_id: int, question, correct: bool, time_ms: int, mode: str, now=None) -> dict:
-    """Insert attempt + EWMA-update mastery + set due_after band."""
+    """Insert attempt + EWMA-update mastery + set due_after band.
+    Diagnostic results are due immediately: gaps found by the placement quiz must be
+    practicable the same day, otherwise SR would hide them until tomorrow."""
     now = now or db.now_ist()
     sid = question["skill_id"]
     prev_row = db.query_one(
@@ -72,15 +74,16 @@ def record_attempt(user_id: int, question, correct: bool, time_ms: int, mode: st
         " VALUES(?,?,?,?,?,?,?)",
         (user_id, question["id"], 1 if correct else 0, int(time_ms), mode, sid, db.iso(now)),
     )
+    due = db.iso(now) if mode == "diag" else due_after_from(ns, now)
     db.execute(
         """INSERT INTO mastery(user_id, skill_id, score, seen, last_seen, due_after)
            VALUES(?,?,?,?,?,?)
            ON CONFLICT(user_id, skill_id)
            DO UPDATE SET score=excluded.score, seen=excluded.seen,
                          last_seen=excluded.last_seen, due_after=excluded.due_after""",
-        (user_id, sid, ns, seen, db.iso(now), due_after_from(ns, now)),
+        (user_id, sid, ns, seen, db.iso(now), due),
     )
-    return {"attempt_id": aid, "score": ns, "due_after": due_after_from(ns, now), "seen": seen}
+    return {"attempt_id": aid, "score": ns, "due_after": due, "seen": seen}
 
 
 # ---------- ranking / selection ----------
