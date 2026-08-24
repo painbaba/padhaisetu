@@ -244,11 +244,17 @@ window.PS_DATA={"strings":{"hi":{"greet_first":"नमस्ते! मैं �
   const menuLine = () => T("मेनू: 1=डायग्नोस्टिक · 2=अभ्यास · 3=मॉक पेपर · 4=प्रश्न पूछें", "Menu: 1=diagnostic · 2=practice · 3=mock · 4=ask");
   function explainAsk(query) {
     bubble(query, true);
-    const hits = bm25(query, S.grade || 10, S.subject);
+    // smart filter: only constrain subject if the query clearly matches it; SST/history/civics/geo queries search across subjects
+    const q = query.toLowerCase();
+    const sstHint = /(1857|revolt|constitution|democra|resource|geograph|history|civics|nation|freedom|संविधान|क्रांति|इतिहास|नागरिक|संसाधन|भूगोल|राजनीति)/i.test(query);
+    let subj = S.subject;
+    if (sstHint) subj = (/(algebra|equation|number|geometry|trigon|गणित|बीजगणित|त्रिकोण)/i.test(query)) ? subj : "social science";
+    if (/^(explain|समझाइए|kya|क्या)/i.test(q) && !subj) subj = null;
+    // try filtered first, fall back to unfiltered if weak
+    let hits = bm25(query, S.grade || null, subj);
     if (!hits.length) return say(T("माफ़ कीजिए, इस विषय पर सामग्री नहीं मिली।", "Sorry, no grounded content found for that."));
     hits.forEach((h) => {
-      const cite = h.src.replace(/^NCERT (\w+) ch(\d+)$/, (_, f, ch) => `NCERT ${f} — अध्याय/Chapter ${parseInt(ch)}`);
-      say(h.t.slice(0, 380) + "…", "", "📚 स्रोत/Source: " + cite);
+      say(h.t.slice(0, 380) + "…", "", "📚 स्रोत/Source: " + h.src);
     });
   }
   function renderStats() {
