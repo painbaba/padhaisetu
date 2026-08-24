@@ -1,0 +1,995 @@
+1 
+ 
+dsoy vH;kl gsrq uewuk iz’u i= 
+Sample question paper for practice only 
+gkbZ Ldwy ijh{kk &2025 
+High School Examination - 2025 
+fo"k;&xf.kr 
+Subject-MATHEMATICS 
+(Hindi & English Version) 
+Total 
+Questions 
+Total Printed Pages 
+Time 
+Maximum 
+Marks 
+23 
+8 
+3 hours 
+75 
+ 
+funsZ’k& 
+(𝑖) lHkh iz'u vfuok;Z gSaA 
+(𝑖𝑖) iz'u Øekad 1 ls 5 rd ds izR;sd miiz’u ij 1-1 vad fu/kkZfjr gSA 
+(𝑖𝑖𝑖) iz'u Øekad 6 ls 17 rd ds izR;sd iz’u 2 vad dk gSA 
+(𝑖𝑣) iz'u Øekad 18 ls 20 rd ds izR;sd iz’u 3 vad dk gSA 
+(𝑣) iz'u Øekad 21 ls 23 rd ds izR;sd iz’u 4 vad dk gSA 
+Instructions% 
+ 
+(i) All questions are compulsory. 
+ 
+(ii) Sub-question of Question numbers 1 to 5 carry 1 mark each. 
+ 
+(iii) Question numbers 6 to 17 carry 2 marks each. 
+ 
+(iv) Question numbers 18 to 20 carry 3 marks each. 
+ 
+(v) Question numbers 21 to 23 carry 4 marks each. 
+ 
+  
+1 
+lgh fodYi pqudj fyf[k,% %& 
+ 
+ 
+ 
+ 
+ 
+1x6=6 
+(𝑖) (12, 16, 20) dk HCF  gS& 
+ 
+(𝑎) 1  
+ 
+ 
+ 
+ 
+ 
+(𝑏) 2 
+ 
+(𝑐) 3  
+ 
+ 
+ 
+ 
+ 
+(𝑑) 4 
+(𝑖𝑖) jSf[kd cgqin dh ?kkr gksrh gS&  
+ 
+(𝑎)  0  
+ 
+ 
+ 
+    
+ 
+(𝑏)  2 
+ 
+(𝑐) −1 
+ 
+ 
+ 
+ 
+ 
+(𝑑) 1 
+(𝑖𝑖𝑖) lehdj.k fudk; 𝑎1𝑥+ 𝑏1𝑦+ 𝑐1 = 0 rFkk 𝑎2𝑥+ 𝑏2𝑦+ 𝑐2 = 0  ds ,d vf}rh; gy  
+gksus dh 'krZ gS%& 
+ 
+(𝑎) 
+𝑎1
+𝑎2 ≠
+𝑏1
+𝑏2  
+ 
+ 
+ 
+ 
+(𝑏) 
+𝑎1
+𝑎2 =
+𝑏1
+𝑏2 =
+𝑐1
+𝑐2 
+ 
+(𝑐) 
+𝑎1
+𝑎2 =
+𝑏1
+𝑏2 ≠
+𝑐1
+𝑐2  
+ 
+  
+ 
+(𝑑) 
+𝑎1
+𝑎2 =
+𝑏1
+𝑏2 
+ 
+(𝑖𝑣) f}?kkr lehdj.k 𝑎𝑥2 + 𝑏𝑥+ 𝑐= 0,    𝑎≠0 esa nks cjkcj okLrfod ewy gksaxsa ;fn& 
+ 
+(𝑎) 𝑏2 + 4𝑎𝑐= 0 
+ 
+ 
+ 
+ 
+(𝑏)  𝑏2 −4𝑎𝑐> 0 
+ 
+       (𝑐) 𝑏2 −4𝑎𝑐< 0 
+ 
+ 
+ 
+ 
+(𝑑)  𝑏2 −4𝑎𝑐= 0 
+ 
+(𝑣) 𝐴. 𝑃.   −3,
+−1
+2 , 2, … …dk 11 oka in gS& 
+ 
+(𝑎) 28  
+ 
+ 
+ 
+ 
+ 
+(𝑏) 22 
+ 
+(𝑐) −38 
+ 
+ 
+ 
+ 
+ 
+(𝑑) −22 
+ 
+ 
+
+2 
+ 
+(𝑣𝑖) fcanq 𝑃(−7 ,7) vkSj 𝑄(−2, −3) ds chp dh nwjh gS& 
+ 
+(𝑎) 5√5 
+ 
+ 
+ 
+ 
+ 
+(𝑏) 5√6 
+ 
+(𝑐)6√5 
+ 
+ 
+ 
+ 
+ 
+(𝑑) 4√5 
+       Choose the correct option and write it - 
+ 
+ 
+ 
+ 
+ 
+  (𝑖)  𝐻𝐶𝐹 𝑜𝑓(12, 16, 20) 𝑖𝑠 - 
+ 
+(𝑎) 1  
+ 
+ 
+ 
+ 
+ 
+(𝑏) 2 
+ 
+(𝑐) 3  
+ 
+ 
+ 
+ 
+ 
+(𝑑) 4 
+(𝑖𝑖) Degree of linear polynomial is - 
+ 
+(𝑎)  0  
+ 
+ 
+ 
+ 
+ 
+(𝑏)  2 
+ 
+(𝑐) −1 
+ 
+ 
+ 
+ 
+ 
+(𝑑) 1 
+(𝑖𝑖𝑖) The condition for the systems of equations  𝑎1𝑥+ 𝑏1𝑦+ 𝑐1 = 0   
+         𝑎𝑛𝑑   𝑎2𝑥+ 𝑏2𝑦+ 𝑐2 = 0  have a unique solution is -  
+ 
+(𝑎) 
+𝑎1
+𝑎2 ≠
+𝑏1
+𝑏2 
+ 
+ 
+ 
+ 
+ 
+(𝑏) 
+𝑎1
+𝑎2 =
+𝑏1
+𝑏2 =
+𝑐1
+𝑐2 
+ 
+(𝑐) 
+𝑎1
+𝑎2 =
+𝑏1
+𝑏2 ≠
+𝑐1
+𝑐2 
+ 
+ 
+ 
+ 
+(𝑑) 
+𝑎1
+𝑎2 =
+𝑏1
+𝑏2 
+ 
+(𝑖𝑣)  The quadratic equation  𝑎𝑥2 + 𝑏𝑥+ 𝑐= 0,    𝑎≠0  will have two equal real roots,  if 
+ 
+(𝑎) 𝑏2 + 4𝑎𝑐= 0 
+ 
+ 
+ 
+ 
+ (𝑏)  𝑏2 −4𝑎𝑐> 0 
+ 
+             (𝑐) 𝑏2 −4𝑎𝑐< 0 
+ 
+ 
+ 
+ 
+ (𝑑) 𝑏2 −4𝑎𝑐= 0 
+ 
+(𝑣)  11𝑡ℎ 𝑡𝑒𝑟𝑚 𝑜𝑓 𝑡ℎ𝑒 𝐴. 𝑃.   −3,
+−1
+2 , 2, … 𝑖𝑠 
+ 
+(𝑎) 28  
+ 
+ 
+ 
+ 
+ 
+(𝑏) 22 
+ 
+(𝑐) −38 
+ 
+ 
+ 
+ 
+ 
+(𝑑) −22 
+(𝑣𝑖) Distance between points  𝑃(−7 ,7) 𝑎𝑛𝑑  𝑄(−2, −3) 𝑖𝑠− 
+ 
+(𝑎) 5√5 
+ 
+ 
+ 
+ 
+ 
+(𝑏) 5√6 
+ 
+(𝑐)6√5 
+ 
+ 
+ 
+ 
+ 
+(𝑑) 4√5 
+ 
+2 
+ fjDr LFkkuksa dh iwfrZ dhft, %& 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     1x6=6 
+(𝑖) f}?kkr lehdj.k 𝑎𝑥2 + 𝑏𝑥+ 𝑐= 0, 𝑎 ≠0  ds fy, fofoDrdj 𝐷= -------------- 
+(𝑖𝑖) 𝐴. 𝑃. ds izFke 𝑛 inksa dk ;ksx 𝑆=----------------------- 
+(𝑖𝑖𝑖) lHkh o`Ùk ------------------------- gksrs gSaA 
+(𝑖𝑣) o`Ùk rFkk mldh Li’kZ js[kk ds mHk;fu"B fcanq ---------------------------------dks dgrs gSa 
+(𝑣) fdlh iz;ksx dh lHkh izkjafHkd ?kVukvksa dh izkf;drkvksa dk ;ksx--------------------- gksrk gSA 
+(𝑣𝑖) o`Ùk ds fdlh fcanq ij Li’kZ js[kk,  Li’kZ fcanq ls tkus okyh f=T;k ij -----------------------------gksrh gSA 
+ 
+Fill in the blanks : 
+       (𝑖) For a quadratic  equation  𝑎𝑥2 + 𝑏𝑥+ 𝑐= 0, 𝑎 ≠0 discriminant 𝐷= ……………….. 
+(𝑖𝑖) Sum of first 𝑛 terms of an  𝐴. 𝑃. , 𝑆=…………………… 
+(𝑖𝑖𝑖) All circles are …………………………… 
+(𝑖𝑣) The common point of a tangent to a circle and the circle is called  ………………………….. 
+              (𝑣) The Sum of the probabilities of all the elementary events of an experiment is ………… 
+(𝑣𝑖) The tangent at any point of a circle  is …………………….to  the radius through the  point of  
+           contact. 
+ 
+ 
+ 
+
+3 
+ 
+ 
+3 
+lgh tksM+h feykb, %&  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x6=6 
+[k.M ^v^ 
+ 
+ 
+ 
+ 
+[k.M ^c^ 
+(𝑖) v/kZxksys dk oØ i`"Bh; {ks=Qy 
+ 
+ 
+(𝑎) 0  
+ 
+ 
+(𝑖𝑖) csyu dk oØ i`"Bh; {ks=Qy 
+ 
+ 
+(𝑏) 1 + 𝑐𝑜𝑡2𝐴 
+ 
+ 
+ 
+ 
+ 
+(𝑖𝑖𝑖) o`Ùk ds ,d f=T;k[k.M dk {ks=Qy 
+ 
+(𝑐) 
+1
+𝑡𝑎𝑛𝐴 
+ 
+ 
+ 
+ 
+(𝑖𝑣) 𝑐𝑜𝑡 𝐴  
+ 
+ 
+ 
+ 
+ 
+(𝑑) 2𝜋𝑟ℎ 
+ 
+ 
+ 
+ 
+(𝑣) 𝑐𝑜𝑠𝑒𝑐2𝐴  
+ 
+ 
+ 
+        (𝑒) 2𝜋𝑟2 
+(𝑣𝑖) 𝑠𝑖𝑛0° 
+ 
+ 
+ 
+ 
+ 
+(𝑓) 
+𝜃
+360° × 𝜋𝑟2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Match the correct column : 
+Section ‘A’ 
+ 
+ 
+ 
+       Section ‘B’ 
+(𝑖) The curved surface area of the hemisphere 
+(𝑎) 0  
+ 
+ 
+(𝑖𝑖) The curved surface area of the cylinder  
+(𝑏) 1 + 𝑐𝑜𝑡2𝐴 
+ 
+ 
+(𝑖𝑖𝑖) Area of a sector  of a circle 
+ 
+ 
+(𝑐) 
+1
+𝑡𝑎𝑛𝐴 
+ 
+ 
+ 
+ 
+(𝑖𝑣) 𝑐𝑜𝑡 𝐴  
+ 
+ 
+ 
+ 
+ 
+(𝑑) 2𝜋𝑟ℎ 
+ 
+ 
+ 
+ 
+(𝑣) 𝑐𝑜𝑠𝑒𝑐2𝐴  
+ 
+ 
+ 
+             (𝑒) 2𝜋𝑟2 
+(𝑣𝑖) 𝑠𝑖𝑛0° 
+ 
+ 
+ 
+ 
+ 
+(𝑓) 
+𝜃
+360° × 𝜋𝑟2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+4 
+fuEufyf[kr esa lR;@vlR; fyf[k, %&  
+ 
+ 
+ 
+ 
+ 
+ 
+1x6=6 
+(𝑖) lehdj.k (𝑥−2)2 + 1 = 2𝑥−3 ,d f}?kkr lehdj.k ugha gSA  
+(𝑖𝑖) 𝐴. 𝑃.   
+3
+2 ,
+1
+2 ,
+−1
+2 ,
+−3
+2 , …. dk lkoZUrj −2 gSA 
+(𝑖𝑖𝑖) lHkh lef}ckgq f=Hkqt le:Ik gksrs gSaA  
+       (𝑖𝑣) fcUnqvksa 𝐴(3, −1) vkSj 𝐵(6, 4) dk e/; fcUnq (9, 3)gSA  
+(𝑣) fdlh ?kVuk 𝐸 ds fy, 𝑃(𝐸̅) = 1 −𝑃(𝐸) 
+(𝑣𝑖) dsanzh; izo`fRr ds ekidksa esa ,d vkuqHkkfod laca/k gS] tks fuEufyf[kr gSA 
+3 माध्यक= बहुलक+ 2  माध्य 
+ 
+Write True/False in the following: 
+(𝑖) Equation  (𝑥−2)2 + 1 = 2𝑥−3 is not a quadratic equation.  
+(𝑖𝑖) The common difference  of the 𝐴. 𝑃.   
+3
+2 ,
+1
+2 ,
+−1
+2 ,
+−3
+2 , … . 𝑖𝑠−2 
+(𝑖𝑖𝑖) All isosceles triangles are similar. 
+             (𝑖𝑣) Mid point  of points 𝐴(3, −1) 𝑎𝑛𝑑  𝐵(6, 4) 𝑖𝑠 (9, 3).   
+(𝑣) For an event  𝐸, 𝑃(𝐸̅) = 1 −𝑃(𝐸) 
+            (𝑣𝑖) There is an empirical relationship between the three measures of central tendency. 
+3 𝑀𝑒𝑑𝑖𝑎𝑛= 𝑀𝑜𝑑𝑒+ 2 𝑀𝑒𝑎𝑛 
+5 
+izR;sd dk ,d 'kCn@okD; esa mRrj fyf[k, %&  
+ 
+ 
+ 
+ 
+ 
+1x6=6 
+(𝑖) dks.k&dks.k (𝐴𝐴) le:irk dlkSVh fyf[k,A 
+ 
+(𝑖𝑖) fcUnqvks 𝑃(𝑥1, 𝑦1) vkSj 𝑄(𝑥2, 𝑦2) ds chp dh nwjh fyf[k,A 
+       (𝑖𝑖𝑖) n`f"V js[kk dh ifjHkk"kk fyf[k,A 
+       (𝑖𝑣) o`Ùk ds f=T;[k.M ds pki dh yEckbZ dk lw= fyf[k,A 
+(𝑣) ,d o`Ùk dh fdruh Li’kZ js[kk,¡ gks ldrh gSaA 
+(𝑣𝑖) voueu dks.k dh ifjHkk"kk fyf[k,A 
+
+4 
+ 
+ 
+ Write the answer in one word/sentence of each : 
+         (𝑖) Write the angle-angle (AA)  similarity criterion. 
+         (𝑖𝑖) Write the distance between the points 𝑃(𝑥1, 𝑦1) and (𝑥2, 𝑦2) . 
+        (𝑖𝑖𝑖) Write the definition of line of sight. 
+        (𝑖𝑣) Write the formula for the length of the arc of a sector of a circle. 
+        (𝑣) How many tangents can a circle have? 
+        (𝑣𝑖) Write the definition of the angle of depression. 
+ 
+6 
+5005 dks vHkkT; xq.ku[k.M ds :Ik esa O;Dr dhft,A  
+ 
+ 
+ 
+ 
+ 
+2 
+        Express 5005 as a product of its prime factor. 
+ 
+ 
+ 
+ 
+ 
+vFkok@OR  
+ 
+ 8 ,9 ,oa 25  dk 𝐻𝐶𝐹 vkSj 𝐿𝐶𝑀 Kkr dhft,A 
+     
+Find the HCF and LCM of  8, 9 𝑎𝑛𝑑 25. 
+ 
+ 
+ 
+7 
+f}?kkr cgqin 𝑥2 + 7𝑥+ 10 ds 'kwU;d Kkr dhft,A   
+ 
+                                   2 
+            Find the zeroes of the quadratic polynomial 𝑥2 + 7𝑥+ 10.   
+ 
+ 
+ 
+ 
+ 
+vFkok@ OR      
+𝑝(𝑥) ds fy,] 𝑦= 𝑝(𝑥) dk xzkQ uhps fn;k x;k gSA 𝑝(𝑥) ds 
+fdlh cgqin 
+'kwU;dksa dh 
+la[;k Kkr dhft,A 
+ 
+ 
+              
+ 
+ 
+ 
+ 
+ 
+ The graph of 𝑦= 𝑝(𝑥) is given below for polynomial 𝑝(𝑥). Find the number of zeroes of 𝑝(𝑥). 
+ 
+                                                
+ 
+ 
+8 
+f}?kkr cgqin   𝑥2– 3  ds 'kwU;dksa dk ;ksxQy ,oa xq.kuQy Kkr dhft,A  
+ 
+ 
+ 
+2      
+ 
+Find the sum and product of the zeroes of quadratic polynomial 𝑥2– 3 .  
+                                                               vFkok@ OR      
+ 
+,d f}?kkr cgqin Kkr dhft,] ftlds 'kwU;dksa dk ;ksx rFkk xq.kuQy Øe’k% 
+−1
+4 ,
+1
+4 gSA 
+            Find a quadratic polynomial whose sum and product of the zeroes are 
+−1
+4 ,
+1
+4  respectively. 
+  
+
+5 
+ 
+ 
+9 
+vuqikrksa 
+𝑎1
+𝑎2 ,
+𝑏1
+𝑏2 vkSj 
+𝑐1
+𝑐2 dh rqyuk dj Kkr dhft, fd fuEUk jSf[kd lehdj.k ;qXe laxr gSa ;k vlaxrA           
+                                                                                                                                         2           
+ 
+ 
+3𝑥+ 2𝑦= 5 
+ 
+ 
+ 
+2𝑥−3𝑦= 7 
+ 
+On comparing the ratios 
+𝑎1
+𝑎2 ,
+𝑏1
+𝑏2 𝑎𝑛𝑑 
+𝑐1
+𝑐2,  Find out whether the following pair of linear equations are 
+consistent or inconsistent. 
+                                       3𝑥+ 2𝑦= 5 
+                                       2𝑥−3𝑦= 7 
+ 
+ 
+ 
+ 
+ 
+vFkok@ OR      
+fuEu jSf[kd lehdj.k ;qXe dks gy dhft,A 
+              𝑥+ 𝑦= 14 
+ 
+ 
+ 
+𝑥−𝑦= 4 
+       Solve the following pair of linear equations. 
+                         𝑥+ 𝑦= 14 
+                         𝑥−𝑦= 4 
+10   xq.ku[kaMu }kjk lehdj.k 2𝑥2 −5𝑥+ 3 = 0 ds ewy Kkr dhft,A    
+ 
+ 
+ 
+2 
+        
+ Find the roots of the equation 2𝑥2 −5𝑥+ 3 = 0 by factorisation. 
+ 
+ 
+ 
+ 
+ 
+vFkok@ OR      
+    
+   f}?kkr lehdj.k 2𝑥2 + 𝑘𝑥+ 3 = 0, esa 𝑘 dk ,slk eku Kkr dhft, fd mlds nks cjkcj ewy gksaA 
+       
+  Find the value of 𝑘 for quadratic equation  2𝑥2 + 𝑘𝑥+ 3 = 0, so that they have two equal    
+       
+  roots. 
+11  
+nks vadks okyh fdruh la[;k,¡ 3 ls foHkkT; gSa ? 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+ 
+ 
+ 
+ 
+                            
+       
+ How many two digit numbers are divisible by 3? 
+ 
+ 
+ 
+ 
+ 
+vFkok@ OR      
+,d 𝐴. 𝑃. esa 𝑎= 5, 𝑑= 3 vkSj 𝑎𝑛= 50 gS, 𝑛 Kkr dhft,A 
+In an 𝐴. 𝑃. 𝑎= 5, 𝑑= 3 𝑎𝑛𝑑 𝑎𝑛= 50,  Find   𝑛.   
+12   
+;fn ∆𝐴𝐵𝐶 esa 𝐷𝐸 || 𝐵𝐶 gS] rks 𝐸𝐶 Kkr dhft,A  
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+                                
+        
+  If in ∆𝐴𝐵𝐶, 𝐷𝐸 ||𝐵𝐶 then Find EC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+6 
+ 
+ 
+vFkok@ OR      
+     vk/kkjHkwr lekuqikfrdrk izes; dk dFku fyf[k,A 
+        
+ Write the statement of Basic Proportionality Theorem. 
+13  
+ fcUnqvksa 𝑃(−1,7) vkSj 𝑄(4, −3) dks feykus okys js[kk[k.M dks 2: 3 esa foHkkftr djus okys fcUnq ds 
+funsZ'kkad   Kkr dhft,A 
+ 
+ 
+                                             2 
+  
+Find the co-ordinates of the points which divides the line segment joining the points 𝑃(−1,7) and   
+ 
+𝑄(4, −3)   in the ratio  2: 3. 
+ 
+ 
+ 
+ 
+ 
+vFkok@ OR      
+;fn fcUnq 𝐴(6, 1), 𝐵(8, 2), 𝐶(9, 4)  vkSj 𝐷 (𝑝, 3) ,d lekarj prqHkqZt ds 'kh"kZ blh Øe esa gk]sa rks 𝑝   
+dk eku Kkr dhft,A   
+ 
+      If the points 𝐴(6, 1), 𝐵(8, 2), 𝐶(9, 4)𝑎𝑛𝑑 𝐷 (𝑝, 3) are the vertices of a parallelogram, taken in  
+ order, find the value of 𝑝. 
+ 14    ;fn 𝑠𝑖𝑛𝐴=
+3
+4 , rks 𝑐𝑜𝑠𝐴 vkSj 𝑡𝑎𝑛𝐴 dk eku ifjdfyr dhft,A 
+ 
+ 
+           2 
+ If 𝑠𝑖𝑛𝐴=
+3
+4 ,  then find the value of 𝑐𝑜𝑠𝐴 and tan 𝐴 
+ 
+ 
+ 
+vFkok@ OR      
+fuEufyf[kr dk eku fudkfy,& 
+𝑠𝑖𝑛60°𝑐𝑜𝑠30° + 𝑠𝑖𝑛30°𝑐𝑜𝑠60° 
+ 
+           Evaluate the following. 
+𝑠𝑖𝑛60°𝑐𝑜𝑠30° + 𝑠𝑖𝑛30°𝑐𝑜𝑠60° 
+15    ,d fcUnq 𝐴 ls tks ,d o`Ùk ds dsUnz ls 5𝑐𝑚 nwjh ij gS] o`Ùk ij Li’kZ js[kk dh yEckbZ 4𝑐𝑚 gSA o`Ùk dh 
+f=T;k Kkr dhft,A     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2                 
+      The length of the tangent from a  point A at distance 5 cm from the center of the circle is 4 cm.         
+             Find the radius of the circle.  
+ 
+ 
+ 
+                    vFkok@ OR      
+fl) dhft, fd ckg~; fcUnq ls o`Ùk ij [khaph  xbZ Li’kZ js[kkvksa dh yEckb;k¡ cjkcj gksrh gSaA 
+Prove that, the lengths of tangents drawn from an external point to a circle are equal. 
+ 
+16 
+ lfork vkSj gehnk nks fe= gSa bldh D;k izkf;drk gS fd nksuksa                              2 
+       (𝑖) ds tUe&fnu fHkUu fHkUUk gksa \ 
+       (𝑖𝑖) dk tUefnu ,d gh gks \ 
+¼yhi dk o"kZ dks NksM+rs gq,½ 
+        Savita and Hamida are two friends. What is the probability that both will have 
+           (i) different birthdays ? 
+           (ii) The same birthday ? 
+             (ignoring a leap years) 
+ 
+ 
+ 
+                     vFkok@ OR      
+;fn  𝑃(𝐸) = 0.05 gS] rks ‘𝐸 ugh ’ dh izkf;drk D;k gSA 
+ 
+If 𝑃(𝐸) = 0.05, what is the probability of  ‘not E’ 
+ 
+ 
+ 
+
+7 
+ 
+ 
+17  
+vPNh izdkj ls QsaVh xbZ 52 iRrksa dh ,d xM~Mh esa ls ,d iRrk fudkyk tkrk gSA bldh izkf;drk  
+ifjdfyr dhft, fd ;g iRrk %                                                                
+          (𝑖) ,d bDdk gksxk , 
+ 
+(𝑖𝑖) ,d bDdk ugha gksxkA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+One card is drawn from a well- shuffled deck of 52 cards. Calculate the probability that the card will 
+              (i) be an ace, 
+(ii) not be an ace. 
+ 
+ 
+vFkok@ OR      
+,d FkSys esa 3 yky vkSj 5 dkyh xsansa gSaA bl FkSys esa ls ,d xsan ;n`PN;k fudkyh tkrh gSA bldh izkf;drk 
+D;k gS fd xsan (𝑖) yky gks \ (𝑖𝑖) yky ugha gks \ 
+   A bag contains 3 red balls and 5 black balls. A ball is drawn at random from this bag. What is the 
+probability that the ball drawn is (i) red ?   (ii) not red ? 
+ 
+18  
+ fl) dhft, fd 3 + √5 ,d vifjes; la[;k gSA 
+ 
+ 
+ 
+ 
+ 
+3 
+Prove that 3 + √5    is an irrational number 
+ 
+ 
+ 
+ 
+vFkok@ OR      
+tkWp  dhft, fd D;k fdlh izkd`r la[;k 𝑛 ds fy,] la[;k 6𝑛 vad 0 ij lekIr gks ldrh gS ? 
+Check whether 6𝑛can end with the digit 0 for any natural number 𝑛  ? 
+19   Hkwfe ij ,d fcUnq ls] ehukj dk ikn fcUnq 30𝑚 dh nwjh ij gS] ehukj ds f’k[kj dk mUu;u dks.k      
+      30° gSA ehukj dh Å¡pkbZ Kkr dhft,A                                                 3 
+ 
+ 
+The angle of elevation of the top of the tower  from a point on the ground, which  is 30𝑚 away from 
+the foot of the tower, is 30°. Find the height of the tower.  
+ 
+ 
+ 
+                              vFkok@ OR      
+1.5𝑚 yEck ,d izs{kd ,d fpeuh ls 28.5𝑚 dh nwjh ij gSA mldh vk¡[kks ls fpeuh ds f’k[kj dk mUu;u 
+dks.k 45° gSA fpeuh dh Å¡pkbZ Kkr dhft,A 
+ An observer 1.5𝑚 tall is 28.5 𝑚 away from a chimney. The angle of elevation of the top of the 
+chimney from his eyes is 45°.Find the height of the chimney. 
+20  
+ 6 𝑐𝑚 f=T;k okys ,d o`Ùk ds ,d f=T;k[k.M dk {ks=Qy Kkr dhft,] f=T;k[k.M dk dks.k 60° gSA  3 
+        
+  Find the area of a sector of a circle with radius 6 𝑐𝑚, If angle of the sector is 60°  
+ 
+ 
+ 
+vFkok@ OR      
+,d ?kM+h dh feuV dh lqbZ ftldh yEckbZ 14 𝑐𝑚 gSA bl lqbZ }kjk 5 feuV esa jfpr {ks=Qy Kkr dhft,A 
+The length of the  minute hand of a clock is 14 𝑐𝑚. Find the area swept by the minute hand  in 5 
+minutes. 
+21  
+ nks vadks dh ,d la[;k ,oa mlds vadks dks myVus ij cuh la[;k dk ;ksx 66 gSA ;fn la[;k ds vadks   
+dk varj 2 gks] rks la[;k Kkr dhft,A                                                      4 
+             The sum of a two digit number and the number obtained by reversing the digits is 66. If the digits of 
+the number differ by 2 . Find the number.  
+ 
+ 
+vFkok@ OR      
+     ;fn ge va’k esa 1 tksM+ nsa rFkk gj esa ls 1 ,d ?kVk nsa] rks fHkUUk 1 esa cny tkrh gSA ;fn gj esa 1 tksM+ nsa] 
+rks ;g 
+1
+2 gks tkrh gSA og fHkUu D;k gS \ 
+        
+  If we add 1 to the numerator and subtract 1 from the denominator, a fraction redues to 1. It  
+        
+  becomes  
+1
+2 , If we only  add 1 to the denominator. What is that fraction? 
+ 
+
+8 
+ 
+ 
+22   ,d f[kykSuk f=T;k 3.5 𝑐𝑚 okys ,d 'kadq ds vkdkj dk gS] tks mlh f=T;k okys ,d v)Zxksys ij  
+      v/;kjksfir gSA bl f[kykSus dh lEiw.kZ Å¡pkbZ 15.5 𝑐𝑚 gSA bl f[kykSus dk lEiw.kZ i`"Bh; {ks=Qy Kkr     
+      dhft,A                                                                                4 
+        
+  A toy is in the form of a cone of radius 3.5 𝑐𝑚, mounted on a hemisphere of same radius.     
+         
+ The total height of this toy is 15.5 𝑐𝑚. Find the total surface area of this toy  
+vFkok@ OR      
+,d Bksl] ,d v)Zxksys ij [kMs+ ,d 'kadq ds vkdkj dk gS ftudh f=T;k,¡ 1 𝑐𝑚 gSa rFkk 'kadq dh Å¡pkbZ 
+mldh f=T;k ds cjkcj gSA bl Bksl dk vk;ru 𝜋 ds inksa esa Kkr dhft,A 
+             A solid is in the shape of a cone standing on a hemisphere with both their radii being to 1𝑐𝑚 and the 
+height of the cone is equal to its radius. Find the volume of this solid in terms of π. 
+23  
+fuEUkfyf[kr lkj.kh 35 uxjksa dh lk{kjrk nj ¼izfr'kr esa½ n'kkZrh gSA ek/; lk{kjrk nj  
+Kkr dhft,A  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     4 
+lk{kjrk nj ¼izfr'kr esa½ 
+45 −55 
+55 −65 
+65 −75 
+75 −85 
+85 −95 
+uxjksa dh la[;k 
+3 
+10 
+11 
+8 
+3 
+The following table gives the literacy rate (in percentage) of 35 cities, Find the mean literacy rate 
+Literacy rate (in %) 
+45 −55 
+55 −65 
+65 −75 
+75 −85 
+85 −95 
+Number of cities 
+3 
+10 
+11 
+8 
+3 
+                                     
+  vFkok@ OR      
+,d LFkkuh; VsyhQksu funsZf’kdk ls 100 dqyuke  fy,  x, vkSj muesa iz;qDr vaxzsth o.kZekyk ds v{kjksa dh 
+la[;k dk fuEufyf[kr ckjackjrk caVu izkIr gqvk % 
+ 
+v{kjksa dh la[;k 
+1 −4 
+4 −7 
+7 −10 
+10 −13 
+13 −16 
+16 −19 
+dqyukeksa dh la[;k 
+6 
+30 
+40 
+16 
+4 
+4 
+dqy ukeksa dk cgqyd Kkr dhft,A 
+        100 surnames were randomly picked up from a local telephone directory and the frequency   
+           distribution of the number of letters in the English alphabet in the surnames was obtained as  
+            follows: 
+Number of 
+letters 
+1 −4 
+4 −7 
+7 −10 
+10 −13 
+13 −16 
+16 −19 
+Number of 
+surnames 
+6 
+30 
+40 
+16 
+4 
+4 
+            
+ Find the mode size of the surnames. 
+ 
+ 
+------------------X--------------------X------------------------X--------------------------X-----------------X---------------X------------ 
+ 
+ 
+ 
+ 

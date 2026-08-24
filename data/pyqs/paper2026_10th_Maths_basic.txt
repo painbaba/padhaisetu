@@ -1,0 +1,1199 @@
+केवल अɷास हेतु नमूना Ůʲ पũ  
+Sample question paper for practice only  
+हाई ˋूल परीƗा - 2026 
+High School Examination - 2026 
+गिणत (बेिसक) 
+Mathematic (Basic) 
+(Hindi and English Version) 
+Total Printed Pages : 11 
+Total Questions : 23
+Time : 3 Hours
+Maximum Marks : 75
+ 
+िनदőश : 
+(i) सभी Ůʲ अिनवायŊ हœ। 
+(ii) Ůʲ Ţमांक 1 से 5 तक वˑुिनʿ Ůकार के Ůʲ हœ। 
+(iii) Ůʲ Ţमांक 6 से 23 मŐ आंतįरक िवकʙ िदए गए हœ। 
+(iv) जहाँ आवʴक हो ˢǅ एवं नामांिकत िचũ बनाइए। 
+Instructions : 
+(i) All questions are compulsory. 
+(ii) Questions number 1 to 5 are objective type questions. 
+(iii) Internal choices are given in question numbers 6 to 23. 
+(iv) Draw neat and clean labelled diagram wherever required.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+1.   
+सही िवकʙ चुनकर िलİखए :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x6 = 6 
+(i) एक पįरमेय संƥा और एक अपįरमेय संƥा का योग होता है : 
+(a) पįरमेय संƥा     
+ 
+ 
+ 
+(b) अपįरमेय संƥा     
+(c) Ůाकृत संƥा    
+ 
+ 
+ 
+(d) पूणाōक संƥा  
+(ii) िनɻिलİखत मŐ से कौनसा िȪघात बŠपद होगा : 
+(a) 
+2
+7
+10
+x
+x
+
+
+   
+ 
+ 
+ 
+(b) 2
+3
+x   
+(c)  
+3
+2
+5
+7
+x
+x
+x
+
+
+
+  
+ 
+ 
+ 
+(d) 
+3
+2
+x 
+  
+(iii) िब̢ दु P( , )
+x y की मूल िब̢ दु से दूरी है :  
+(a) 
+2x 
+ 
+ 
+ 
+ 
+ 
+(b) 
+2
+y 
+(c) 
+2
+2
+x
+y
+
+ 
+ 
+ 
+ 
+ 
+(d) x
+y
+
+ 
+(iv) A.P. : 4, 10, 16, 22, … मŐ सावŊ अंतर है : 
+(a) 4 
+ 
+ 
+ 
+ 
+ 
+(b) 22 
+(c) 6 
+ 
+ 
+ 
+ 
+ 
+(d) -6 
+(v) िȪघात बŠपद  
+2
+3
+6
+9
+x
+x
+
+ मŐ शूɊको का योगफल होगा : 
+(a) 2  
+ 
+ 
+ 
+ 
+ 
+(b) -2  
+(c) 3  
+ 
+ 
+ 
+ 
+ 
+(d) -3  
+(vi) रैİखक समीकरण युƵ 
+1
+1
+1
+0
+a x
+b y
+c
+
+
+
+ एवं 
+2
+2
+2
+0
+a x
+b y
+c
+
+
+
+ का एक अिȪतीय हल होगा, यिद : 
+(a) 
+1
+1
+2
+2
+a
+b
+a
+b
+
+ 
+ 
+ 
+ 
+ 
+(b) 
+1
+1
+1
+2
+2
+2
+a
+b
+c
+a
+b
+c
+
+
+ 
+(c) 
+1
+1
+2
+2
+a
+b
+a
+b
+
+ 
+ 
+ 
+ 
+ 
+(d) 
+1
+1
+1
+2
+2
+2
+a
+b
+c
+a
+b
+c
+
+
+ 
+ 
+ 
+Choose the correct option and write it : 
+(i) The sum of a rational number and an irrational number is : 
+(a) a rational number      
+ 
+ 
+(b) an irrational number     
+(c) a natural number    
+ 
+ 
+(d) an integer   
+2 
+
+(ii) Which of the following will be a quadratic polynomial : 
+(a) 
+2
+7
+10
+x
+x
+
+
+   
+ 
+ 
+ 
+(b) 2
+3
+x   
+(c)  
+3
+2
+5
+7
+x
+x
+x
+
+
+
+  
+ 
+ 
+ 
+(d) 
+3
+2
+x 
+  
+(iii) Distance of point P ( , )
+x y from the origin is :  
+(a) 
+2x 
+ 
+ 
+ 
+ 
+ 
+(b) 
+2
+y 
+(c) 
+2
+2
+x
+y
+
+ 
+ 
+ 
+ 
+ 
+(d) x
+y
+
+ 
+(iv) Common difference in the A.P. 4, 10, 16, 22, … is : 
+(a) 4 
+ 
+ 
+ 
+ 
+ 
+(b) 22 
+(c) 6 
+ 
+ 
+ 
+ 
+ 
+(d) -6 
+(v) The sum of zeroes in the quadratic polynomial 
+2
+3
+6
+9
+x
+x
+
+ will be : 
+(a) 2  
+ 
+ 
+ 
+ 
+ 
+(b) -2  
+(c) 3  
+ 
+ 
+ 
+ 
+ 
+(d) -3  
+(vi) The pair of linear equations 
+1
+1
+1
+0
+a x
+b y
+c
+
+
+
+ and 
+2
+2
+2
+0
+a x
+b y
+c
+
+
+
+ will have a unique  
+       solution, if : 
+(a) 
+1
+1
+2
+2
+a
+b
+a
+b
+
+ 
+ 
+ 
+ 
+ 
+(b) 
+1
+1
+1
+2
+2
+2
+a
+b
+c
+a
+b
+c
+
+
+ 
+(c) 
+1
+1
+2
+2
+a
+b
+a
+b
+
+ 
+ 
+ 
+ 
+ 
+(d) 
+1
+1
+1
+2
+2
+2
+a
+b
+c
+a
+b
+c
+
+
+ 
+ 
+2.  
+įरƅ ˕ानों की पूितŊ कीिजए :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x6 = 6 
+(i) दो िũभुज िजनके आकार समान हो, परंतु आवʴक ŝप से आमाप समान न हो ………………. कहलाते है। 
+(ii) ŮेƗक की आँख से ŮेƗक Ȫारा देखी गई वˑु के िबंदु को िमलाने वाली रेखा को ………………… कहते है। 
+(iii) 
+2
+(
+2)
+x 
+ एक …………….. बŠपद है। 
+(iv) एक िȪघात समीकरण मŐ चर की अिधकतम घात ................ होती है। 
+(v) एक वृȅीय Ɨेũ का वह भाग जो दो िũǛाओं और संगत चाप से िघरा हो, उस वृȅ का एक................... 
+      कहलाता है। 
+(vi) उɄयन कोण बनने की İ˕ित मŐ, देखा जा रहा िब̢ दु Ɨैितज ˑर से ..................... होता है। 
+3 
+
+Fill in the blanks : 
+(i) Two triangles having the same shape but not necessarily the same size are  
+called ..……......... 
+(ii) The line drawn from the eye of an observer to the point in the object viewed by the  
+     observer is called ….…………….. 
+(iii) 
+2
+(
+2)
+x 
+ is a …….............. Polynomial. 
+ (iv) Highest power of variable in the quadratic equation is ……………….. 
+ (v) The part of the circular region enclosed by two radii and the corresponding arc is called  
+       ................... of the circle. 
+(vi) In case of the angle of elevation, the point being viewed is ................... the horizontal level. 
+ 
+3.  
+िनɻिलİखत के िलए सȑ / असȑ िलİखए :   
+ 
+ 
+ 
+ 
+ 
+1x6 = 6 
+(i) सभी सवाōगसम आकृितयाँ  समŝप होती है। 
+(ii) िब̢ दु (x, y) की x-अƗ से दूरी शूɊ होगी।  
+(iii) िकसी वृȅ मŐ िũǛखंड और वृȅखंड समान होते हœ। 
+(iv) वृȅ के िकसी िबंदु पर ˙शŊ रेखा ˙शŊ िबंदु से जाने वाली िũǛा के समांतर होती हœ। 
+(v) िकसी वृȅ के िकसी ʩास के िसरों पर खींची गई ˙शŊ रेखाएँ समांतर होती हœ। 
+(vi) कŐ ūीय Ůवृिȅ के तीनो मापकों मŐ एक आनुभािवक संबंध होता है “3 माȯक = बŠलक + 2 माȯ” 
+ 
+ 
+Write True/False in the following : 
+(i) All Congruent figures are similar. 
+(ii) The distance of point (x, y) from x-axis will be zero.  
+(iii) In a circle, sector and segment are equal. 
+(iv) The tangent at any point of a circle is parallel to the radius through the point of contact.  
+(v) The tangents drawn at the ends of a diameter of a circle are parallel. 
+(vi) The empirical relationship between the three measures of central tendency is 
+                  “3 median = mode + 2 mean”.  
+4 
+
+4.  
+सही जोड़ी िमलाइए :   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x6 = 6 
+(i) ऐसी घटना की Ůाियकता जो घिटत नहीं हो सकती  
+ 
+ 
+(a) 2   
+(ii) tan 60 का मान 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)1  
+(iii)sec60 का मान  
+ 
+ 
+ 
+ 
+ 
+ 
+(c) rl
+
+  
+(iv)
+2
+2
+sin
+cos
+
+
+
+  
+ 
+ 
+ 
+ 
+ 
+(d)2 rh
+
+ 
+(v) बेलन का वŢ पृʿीय Ɨेũफल  
+ 
+ 
+ 
+ 
+(e) 
+3  
+(vi) शंकु का वŢ पृʿीय Ɨेũफल 
+ 
+ 
+ 
+ 
+(f) 0   
+Match the columns : 
+(i)  The probability of an event that cannot happen 
+ 
+(a) 2 
+(ii) The value of tan 60 
+ 
+ 
+ 
+ 
+ 
+(b) 1   
+(iii) The value of sec60 
+ 
+ 
+ 
+ 
+ 
+(c) rl
+
+ 
+(iv) 
+2
+2
+sin
+cos
+
+
+
+  
+ 
+ 
+ 
+ 
+ 
+(d) 2 rh
+
+ 
+(v) Curved surface area of the cylinder 
+ 
+ 
+ 
+(e) 
+3   
+(vi) Curved surface area of the cone 
+ 
+ 
+ 
+(f) 0  
+ 
+5.  
+एक वाƐ / शɨ मŐ उȅर िलİखए :   
+ 
+ 
+ 
+ 
+ 
+ 
+1x6 = 6 
+(i) िũǛा R व P० कोण  वाले वृȅ के िũǛखंड के Ɨेũफल का सूũ िलİखए।  
+(ii) िȪघात समीकरण 
+2
+0,
+0
+ax
+bx
+c
+a
+
+
+
+
+ के िलए िȪघातीय सूũ िलİखए। 
+(iii) एक िसſे को एक बार उछालने पर संभव पįरणामो की संƥा िलİखए। 
+(iv) मूल िब̢ दु के िनदőशांक िलİखए। 
+(v) वृȅ की छेदक रेखा की पįरभाषा िलİखए। 
+(vi) समŝप आकृितयों के युƵ का एक उदाहरण िलİखए।  
+5 
+
+Answer in one sentence/word : 
+(i) Write the formula for the area of the segment of a circle with radius R and angle P°. 
+(ii) Write the quadratic formula for a quadratic equation 
+2
+0,
+0
+ax
+bx
+c
+a
+
+
+
+
+. 
+(iii) Write the number of possible outcomes when a coin tossed once. 
+(iv) Write the coordinates of the origin. 
+(v) Write the definition of the secant of a circle. 
+(vi) Write one example of pair of similar figures.  
+ 
+6. 
+संƥा 12, 15 और 21 का अभाǛ गुणनखंडन िविध Ȫारा LCM ǒात कीिजए। 
+ 
+ 
+ 
+2 
+ 
+Find the LCM of the numbers 12, 15 and 21 by the prime factorization method. 
+अथवा/OR 
+140 को अभाǛ गुणनखंडों के गुणनफल के ŝप मŐ ʩƅ कीिजए। 
+ 
+Express 140 as a product of its prime factors.  
+ 
+7. 
+A.P. : 2, 7, 12, ... के Ůथम 10 पदों का योग ǒात कीिजए।  
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+Find the sum of first 10 terms of an A.P. : 2, 7, 12, … 
+अथवा/OR 
+ 
+A.P. : 7, 13, 19, ... , 205 मŐ पदों की संƥा ǒात कीिजए।  
+ 
+Find the number of terms in the A.P. : 7, 13, 19, …, 205. 
+ 
+8.  
+िȪघात बŠपद 
+2
+7
+10
+x
+x
+
+
+ के शूɊक ǒात कीिजए। 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+Find the zeroes of the quadratic polynomial
+2
+7
+10
+x
+x
+
+
+. 
+अथवा/OR 
+ 
+एक िȪघात बŠपद ǒात कीिजए, िजसके शूɊकों का योग तथा गुणनफल Ţमशः 5 और 7 है। 
+ 
+ 
+Find a quadratic polynomial the sum and product of whose zeroes are 5 and 7 respectively. 
+ 
+6 
+
+9.  
+िũǛा 21 cm वाले वृȅ का एक चाप कŐ ū पर 60० का कोण अंतįरत करता है। चाप की लंबाई ǒात कीिजए। 2 
+An arc of a circle of radius 21 cm subtends an angle of 60° at the centre. Find the 
+length of the arc.  
+अथवा/OR 
+10 cm िũǛा वाले एक वृȅ की कोई जीवा कŐ ū पर समकोण अंतįरत करता है। संगत िũǛखंड का Ɨेũफल 
+ǒात कीिजए।   
+A chord of a circle of radius 10 cm subtends right angle at the centre. Find the area of 
+corresponding sector. 
+ 
+10.  
+रैİखक समीकरण युƵ 
+14
+x
+y
+
+
+ एवं 
+4
+x
+y
+
+
+ को हल कीिजए। 
+ 
+ 
+ 
+ 
+2 
+ 
+Solve the pair of linear equations 
+14
+x
+y
+
+
+ एवं 
+4
+x
+y
+
+
+. 
+अथवा/OR 
+अनुपातो 
+1
+1
+2
+2
+,
+a
+b
+a
+b और 
+1
+2
+c
+c की तुलना कर ǒात कीिजए िक रैİखक समीकरण युƵ 3x+2y=5 एवं 2x-3y=7         
+संगत है या असंगत। 
+On Comparing the ratios 
+1
+1
+2
+2
+,
+a
+b
+a
+b and 
+1
+2
+c
+c , find out whether the pair of linear equations 
+3x+2y=5   and 2x-3y=7 are consist or Inconsistent. 
+11. 
+A.P. : 4, 9, 14, 19,... के अगले दो पद िलİखए।   
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+Write next two terms of A.P. : 4, 9, 14, 19,…  
+अथवा/OR 
+A.P. : 3, 15, 27, 39,... का Ůथम पद व सावŊ अंतर िलİखए।  
+Write the first term and common difference of the A.P. 3, 15, 27, 39,…  
+ 
+12.  
+दो िũभुजों के समŝप होने के Ůितबंध िलİखए।   
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+Write the conditions for the similarity of two triangles. 
+अथवा/OR 
+ 
+आधारभूत समानुपाितकता Ůमेय का कथन िलİखए।  
+ 
+Write the statement of Basic Proportionality Theorem.  
+7  
+
+13.  
+िबंदुओं (2,-5) और (-2, 9) के बीच की दूरी ǒात कीिजए।  
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+Find the distance between points (2,-5) and (-2, 9). 
+अथवा/OR 
+ 
+उस िबंदु के िनदőशांक ǒात कीिजए, जो िबंदुओं (-1, 7) और (4,-3) को िमलाने वाले रेखाखंड को 2:3 के 
+अनुपात मŐ िवभािजत करता है। 
+ 
+Find the coordinates of the point which divides the line segment joining the points (-1, 7) 
+and (4.-3) in the ratio 2:3. 
+ 
+14. 
+यिद 
+3
+sin
+,
+5
+A 
+तो cos Aऔर tan Aका मान ǒात कीिजए।  
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+If
+3
+sin
+,
+5
+A 
+then find the value of cos Aand tan A. 
+अथवा/OR 
+2
+2tan30
+1
+tan 30
+
+
+का मान ǒात कीिजए। 
+Find the value of 
+2
+2tan30
+1
+tan 30
+
+
+ . 
+ 
+15. 
+वृȅ के कŐ ū से 5 cm दूरी पर İ˕त एक िबंदु A से ˙शŊ रेखा की लंबाई 4 cm है। वृȅ की िũǛा ǒात   
+कीिजए।  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+The length of a tangent from a point A at distance 5 cm from the centre of the circle is 4 
+cm. Find the radius of the circle. 
+अथवा/OR 
+दो संकेȾीय वृȅों की िũǛाएँ 5 cm और 3 cm हœ। बड़े वृȅ की उस जीवा की लंबाई ǒात कीिजए जो छोटे वृȅ 
+को ˙शŊ करती है। 
+Two concentric circles are of radii 5 cm and 3 cm. Find the length of the chord of the larger 
+circle which touches the smaller circle. 
+ 
+16. 
+यिद P(E) = 0.05 है, तो 'E नहीं' की Ůाियकता Ɛा है?   
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+If P(E) = 0.05, what is the probability of 'not E'? 
+8  
+
+अथवा/OR 
+एक िचत Ůाɑ करने की Ůाियकता ǒात कीिजए, जब एक िसſे को एक बार उछाला जाता है। 
+Find the Probability of getting a head, when a coin is tossed once. 
+ 
+17. 
+52 पȅों की अǅी Ůकार से फेटी गई एक गǭी मŐ से एक पȅा िनकाला जाता है। बादशाह Ůाɑ करने की 
+Ůाियकता ǒात कीिजए।  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+A card is drawn from a well shuffled deck of 52 cards. Find the probability of getting a king. 
+अथवा/OR 
+एक थैले मŐ 3 लाल, 2 सफेद और 5 काली गŐदे हœ। इस थैले मŐ से एक गŐद या̊ ǅया िनकाली जाती है। इसकी 
+लाल होने की Ůाियकता ǒात कीिजए। 
+ 
+A bag contains 3 red, 2 white and 5 black balls. A ball is drawn at random from this bag. 
+Find the probability that it is red. 
+ 
+18.  
+िȪघात समीकरण 
+2
+2
+6
+3
+0
+x
+x
+
+
+
+ के मूलों की Ůकृित ǒात कीिजए।  
+ 
+ 
+ 
+ 
+3 
+ 
+Find the nature of the roots of quadratic equation 
+2
+2
+6
+3
+0
+x
+x
+
+
+
+.  
+अथवा/OR 
+िȪघात समीकरण 
+2
+2
+6
+0
+x
+x
+
+
+
+ के मूल ǒात कीिजए। 
+Find the roots of the quadratic equation 
+2
+2
+6
+0
+x
+x
+
+
+
+.   
+ 
+19. 
+धरती पर एक मीनार ऊȰाŊधर खड़ी है। धरती के एक िब̢ दु से जो मीनार के पाद-िब̢ दु से 15m दूर है मीनार 
+के िशखर का का उɄयन कोण 60० है। मीनार की ऊंचाई ǒात कीिजए।   
+  
+ 
+ 
+3 
+ 
+A tower stands vertically on the ground. From a point on the ground, which is 15m away 
+from the foot of the tower, the angle of elevation of the top of the tower is found to be 60°. 
+Find the height of the tower. 
+ 
+अथवा/OR 
+ 
+भूिम के एक िब̢ दु से जो मीनार के पाद िब̢ दु से 30m की दूरी पर है, मीनार के िशखर का उɄयन कोण 30० 
+है। मीनार की ऊंचाई ǒात कीिजए। 
+The angle of elevation of the top of a tower from a point on the ground, which is 30m away 
+from the foot of the tower, is 30०. Find the height of the tower. 
+9  
+
+20.  
+िसȠ कीिजए िक 3
+2 5
+
+ एक अपįरमेय संƥा है।   
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+Prove that 3
+2 5
+
+is an irrational number. 
+अथवा/OR 
+HCF (306, 657) = 9 िदया है। LCM (306, 657) ǒात कीिजए। 
+Given HCF (306, 657) = 9. Find the LCM (306, 657). 
+ 
+21. 
+पाँच वषŊ पूवŊ नुरी की आयु सोनू की आयु  से तीन गुनी थी। दस वषŊ पʮात, नुरी की आयु सोनू की आयु की दो 
+गुनी हो जाएगी।  नुरी और सोनू की आयु िकतनी है। 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+Five years ago, Nuri was thrice as old as Sonu. Ten years later, Nuri will be twice as old as 
+Sonu.   How old are Nuri and Sonu.  
+अथवा/OR 
+ 
+ 
+दो संƥाओं का अंतर 26 है और एक संƥा दूसरी संƥा की तीन गुना है। संƥाएँ ǒात कीिजए।  
+ 
+The difference between two numbers is 26 and one number is three times the other. Find 
+the numbers. 
+ 
+22. 
+कोई बतŊन एक खोखले अधŊगोले के आकार का है िजसके ऊपर एक खोखला बेलन अȯारोिपत है। अधŊगोले 
+का ʩास 14 cm है और इस बतŊन की कुल ऊँचाई 13 cm है। इस बतŊन का आंतįरक पृʿीय Ɨेũफल ǒात 
+कीिजए।  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+A vessel is in the shape of a hollow hemisphere on which a hollow cylinder is mounted. The 
+diameter of the hemisphere is 14 cm and the total height of the vessel is 13 cm. Find the 
+internal surface area of the vessel. 
+अथवा/OR 
+दो घनों, िजनमŐ से Ůȑेक का आयतन 64 cm3 है, के संलư फलको को िमलाकर एक ठोस बनाया जाता है। 
+इससे Ůाɑ घनाभ का पृʿीय Ɨेũफल ǒात कीिजए। 
+ 
+ 
+ 
+ 
+Two Cubes each of volume 64 cm3 are joined end to end. Find the surface area of the 
+resulting cuboid. 
+ 
+23.  
+िनɻिलİखत सारणी मŐ 35 नगरों की साƗरता दर (Ůितशत मŐ) दशाŊती है।  
+साƗरता दर (% मŐ) 
+45 - 55
+55 - 65
+65 - 75
+75 - 85
+85 - 95
+नगरों की संƥा 
+3 
+10 
+11
+8 
+3 
+ 
+माȯ साƗरता दर ǒात कीिजए।  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+10   
+
+The following table gives the literacy rate (in percentage) of 35 cities.  
+Literacy Rate (in %)
+45 - 55
+55 - 65
+65 - 75
+75 - 85
+85 - 95
+Number of Cities
+3 
+10 
+11
+8 
+3 
+ 
+ 
+ 
+Find the mean literacy rate. 
+अथवा/OR 
+ 
+ 
+िवȨािथŊयों के एक समूह Ȫारा एक मोहʟे के 20 पįरवारों पर िकए गए सवőƗण के पįरणामˢŝप िविभɄ 
+पįरवारों के सद˟ों की संƥा से संबंिधत िनɻिलİखत आँकड़े Ůाɑ Šए: 
+पįरवार का माप 
+1 - 3
+3 – 5 
+5 – 7 
+7 – 9 
+9 - 11
+पįरवारों की संƥा
+7 
+8 
+2
+2 
+1
+ 
+इन आँकड़ों का बŠलक ǒात कीिजए। 
+ 
+A survey conducted by a group of students on 20 families in a locality resulted in the 
+following data regarding the number of members in different families: 
+Family size
+1 - 3
+3 – 5 
+5 – 7 
+7 – 9 
+9 - 11
+Number of families
+7 
+8 
+2
+2 
+1
+ 
+Find the mode of this data. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11  

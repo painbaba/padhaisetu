@@ -1,0 +1,985 @@
+1 
+ 
+ 
+ 
+ 
+dsoy vH;kl gsr quewuk ç'u i= 
+Sample Question Paper for Practice only 
+gk;j lsds.Mjh ijh{kk−2026 
+Higher Secondary Examination −2026 
+fo"k; −mPp xf.kr 
+Subject Name −Higher Mathematics 
+(Hindi & English Versions) 
+Total Questions 
+Total Printed Pages 
+Time 
+Maximum Marks 
+23 
+13 
+3 Hours 
+80 
+ 
+funsZ'k: 
+ 
+(i). lHkh ç'u vfuok;Z gSaA 
+ 
+(ii). ç'u la[;k 1 ls 5 rd ds miç'u çR;sd 1 vad ds gSaA 
+ 
+(iii). ç'u la[;k 6 ls 15 rd çR;sd 2 vad ds gSaA 
+ 
+(iv). ç'u la[;k 16 ls 19 rd çR;sd 3 vad ds gSaA 
+ 
+(v). ç'u la[;k 20 ls 23 rd çR;sd 4 vad ds gSaA 
+ 
+ 
+ 
+Instructions: 
+ 
+ 
+ 
+(i) All questions are compulsory. 
+ 
+(ii) Sub-questions of Question numbers 1 to 5 carry 1 mark each. 
+ 
+(iii) Question numbers 6 to 15 carry 2 marks each. 
+ 
+(iv) Question numbers 16 to 19 carry 3 marks each. 
+ 
+ (v) Question numbers 20 to 23 carry 4 marks each. 
+ 
+ 
+
+2 
+ 
+ 
+ 
+ (1) lgh fodYi pqudj fyf[k, :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x6=6 
+i)  
+;fn 𝐴 = {1,2,3} gks rks ,sls laca/k ftuesa vo;o (1,2) rFkk (1,3) gks vkSj      
+  
+tks LorqY; rFkk lefer gSa fdarq laØked ugha gS fd la[;k gS&- 
+𝑎)  0  
+ 
+ 
+𝑏) 1  
+ 
+𝑐) 2  
+ 
+𝑑) 3 
+ii) 
+𝑐𝑜𝑠−1𝑥 dh eq[; 'kk[kk dk ifjlj gS& 
+𝑎) (0,𝜋) 
+ 
+ 
+𝑏) [−
+𝜋
+2 ,
+𝜋
+2] 
+𝑐)  𝑅  
+ 
+ 
+𝑑) [0,𝜋] 
+iii) 
+;fn ,d vkO;qg 𝐴 ds fy, 𝐴= − 𝐴′ rks 
+𝑎) ,d lefer vO;wg gSA  
+𝑏) ,d fo"ke lefer vkO;wg gSA 
+𝑐) ,d 'kwU; vkO;wg gSA 
+𝑑) ,d rR~led vkO;wg gSA 
+iv) 
+;fn 𝑃(𝐴) =
+1
+2, 𝑃(𝐵) =
+1
+4 gks vkSj 𝐴 oa 𝐵 Lora= ?kVuk,s gS rks 𝑃(𝐴).𝑃(𝐵) =  
+ 
+𝑎)  
+1
+8         
+ 
+𝑏)
+1
+2  
+𝑐)      
+3
+4 
+ 
+𝑑)0 
+v) 
+;fn 𝐴 ,d LraHk vkO;wg gS rks 𝐴 dk ifjorZ gksxk 
+𝑎) ,d LraHk vkO;wg  
+𝑏) ,d iafä vkO;wg 
+𝑐) ,d oxZ vkO;wg 
+ 
+𝑑) 'kwU; vkO;wg 
+vi) 
+varjky  [0,
+𝜋
+4] esa 𝑠𝑖𝑛𝑥 dk mPpre eku gS 
+𝑎) 
+√3
+2  
+ 
+𝑏) 1  
+𝑐) 
+1
+2  
+𝑑) 
+1
+√2 
+Choose and write correct option -  
+i) 
+If 𝐴 = {1,2,3} then number of relations containing (1,2) and (1,3) 
+which are  reflexive and symmetric but not transitive are: 
+𝑎)  0          
+ 
+ 
+𝑏)1  
+ 
+𝑐)2 
+ 
+𝑑) 3 
+ii) 
+Range of principal value of 𝑐𝑜𝑠−1𝑥 is 
+𝑎) (0,𝜋) 
+ 
+ 
+𝑏)[−
+𝜋
+2 ,
+𝜋
+2] 
+𝑐)𝑅  
+ 
+ 
+𝑑)[0,𝜋] 
+ 
+
+3 
+ 
+ 
+ 
+iii)  
+For any matrix 𝐴, If 𝐴= − 𝐴′ then: 
+𝑎)𝐴 is a symmetric matrix 
+𝑏) 𝐴 is a skew symmetric matrix 
+𝑐)𝐴 is a zero matrix 
+𝑑)𝐴 is an identity matrix 
+iv) 
+If 𝑃(𝐴) =
+1
+2 ,𝑃(𝐵) = 
+1
+4  and 𝐴 and 𝐵 are independent events  
+then  𝑃(𝐴). 𝑃(𝐵) = 
+𝑎)  
+1
+8          
+𝑏)
+1
+2  
+𝑐)      
+3
+4 
+ 
+𝑑)0 
+v)  
+If 𝐴 is a column matrix then transpose of 𝐴 will be- 
+a) A Column matrix.  
+b) A row matrix. 
+c) A Square matrix 
+ 
+d) zero matrix  
+vi)  
+Maximum value of 𝑠𝑖𝑛𝑥 in interval [0,
+𝜋
+4] is 
+a) 
+√3
+2  
+ 
+b) 1  
+c) 
+1
+2  
+d) 
+1
+√2 
+ 
+ 
+(2)  
+fjDr LFkkuksa dh iwfrZ dhft,&  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x6=6 
+i) 𝑓: 𝑋→𝑌 ,d vkPNknd Qyu gS ;fn vkSj ;fn 𝑓 dk ifjlj =…… 
+ii) nks O;qRdze.kh; vkO;wg 𝐴 vkSj 𝐵 ds fy, (𝐴𝐵)−1 =…… 
+iii) vody lehdj.k 
+𝑑𝑦
+𝑑𝑥= 2 dk O;kid gy  ….. gksxkA 
+iv) lfn’k 𝑎⃗= 2𝑖̂ + 3𝑗̂ dh fn’kk esa bdkbZ lfn’k …… gksxkA  
+v) vody lehdj.k  2𝑥
+𝑑2𝑦
+𝑑𝑥2 + 5 = 0 dh ?kkr …… gS A  
+vi) 𝑠𝑖𝑛2𝑥 dk vodyu xq.kkd ....gksrk gSA  
+ 
+
+4 
+ 
+ 
+ 
+ 
+Fill in the blanks - 
+i)  𝑓: 𝑋→𝑌 is an onto function if and only if, Range of 𝑓=…… 
+ii)  For two invertible matrices 𝐴 and 𝐵   (𝐴𝐵)−1 =…… 
+iii)  General solution of differential equation 
+𝑑𝑦
+𝑑𝑥= 2 will be ….. 
+iv)  Unit vector, in the direction of vector 𝑎⃗= 2𝑖̂ + 3𝑗̂ will be…… 
+v)  Degree of differential equation 2𝑥
+𝑑2𝑦
+𝑑𝑥2 + 5 = 0 is ….. 
+vi)  Differential Coefficient of 𝑠𝑖𝑛2𝑥 is.... 
+             (3)  lR;@vlR; fyf[k,&  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x6=6 
+i) ,d Qyu 𝑓: 𝑋→𝑌 ,dSdh Qyu gS ;fn 𝑓(𝑥1) = 𝑓(𝑥2)⇒ 𝑥1 = 𝑥2、 
+𝑥1,𝑥2 ∈𝑋  
+ii) vody lehdj.k 𝑥
+𝑑𝑦
+𝑑𝑥−𝑦= 2𝑥² dk lekdyu xq.kd  𝑒𝑥 gSA 
+iii) ∫√1 −𝑥2𝑑𝑥
+1
+0
+ dk eku  
+𝜋
+4 ds cjkcj gSA 
+iv) lfn’k 𝑎⃗= 0î + ĵ + 0k̂ rFkk 𝑏⃗⃗= î + 0ĵ + 0k̂ ds e/; dks.k dk eku 𝜋 ds  
+cjkcj  gSA 
+v) 𝑋−v{k ds fnd~ dkslkbu 1,0,0 gSA 
+vi) Qyu 𝑓(𝑥) = 5𝑥3 −7𝑥+ 13 varjky [−5,5] esa ,d larr Qyu gSA 
+ 
+ 
+ 𝐖𝐫𝐢𝐭𝐞 𝐭𝐫𝐮𝐞 𝐚𝐧𝐝 𝐟𝐚𝐥𝐬𝐞- 
+i) A function 𝑓: 𝑋→𝑌 is one-one function if 𝑓(𝑥1) = 𝑓(𝑥2)⇒ 𝑥1 = 𝑥2、
+ 
+𝑥1,𝑥2 ∈𝑋 
+ii) Integrating factor of  differential equation 𝑥
+𝑑𝑦
+𝑑𝑥−𝑦= 2𝑥²  is  𝑒𝑥 
+iii) Value of ∫√1 −𝑥2𝑑𝑥
+1
+0
+ is equal to the  
+𝜋
+4 
+iv) Angle between the vectors 𝑎⃗= 0î + ĵ + 0k̂  and  𝑏⃗⃗= î + 0ĵ + 0k̂ is 
+equal to 𝜋 
+v) Direction cosine of 𝑋−𝑎𝑥𝑖𝑠 are 1,0,0 
+vi) Function  𝑓(𝑥) = 5𝑥3 −7𝑥+ 13 is a continuous function in interval 
+[−5,5] 
+
+5 
+ 
+ 
+ 
+ 
+ 
+(4) 
+lgh tksM+h cukb;s& 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x7=7 
+LrEHk v 
+LrEHk c 
+i) ∫𝑐𝑜𝑡𝑥𝑑𝑥
+𝜋
+2
+𝜋
+4
+ 
+a) √2 −1 
+ii) ∫𝑠𝑖𝑛𝑥𝑑𝑥
+𝜋
+2
+0
+ 
+b) 
+𝑎2𝜋
+2 +
+𝜋3
+24 
+iii) ∫√𝑥2 −1 𝑑𝑥
+2
+1
+ 
+c) 
+1
+𝑎𝑡𝑎𝑛−1 𝜋
+2𝑎 
+iv) ∫
+1
+𝑥 𝑑𝑥
+𝜋
+2
+1
+ 
+d) 
+1
+2 𝑙𝑜𝑔2 
+v) ∫
+1
+𝑎2+𝑥2 𝑑𝑥
+𝜋
+2
+0
+ 
+e) 1 
+vi) ∫(𝑎2 + 𝑥2)𝑑𝑥
+𝜋
+2
+0
+ 
+f) √3 − 
+1
+2 log (2 + √3) 
+vii) ∫𝑠𝑒𝑐𝑥𝑡𝑎𝑛𝑥𝑑𝑥
+𝜋
+4
+0
+ 
+g) 𝑙𝑜𝑔
+𝜋
+2 
+ 
+Match the correct column - 
+𝐶𝑜𝑙𝑢𝑚𝑛 𝐴 
+𝐶𝑜𝑙𝑢𝑚𝑛 𝐵 
+i) ∫𝑐𝑜𝑡𝑥𝑑𝑥
+𝜋
+2
+𝜋
+4
+ 
+a) √2 −1 
+ii) ∫𝑠𝑖𝑛𝑥𝑑𝑥
+𝜋
+2
+0
+ 
+b) 
+𝑎2𝜋
+2 +
+𝜋3
+24 
+iii) ∫√𝑥2 −1 𝑑𝑥
+2
+1
+ 
+c) 
+1
+𝑎𝑡𝑎𝑛−1 𝜋
+2𝑎 
+iv) ∫
+1
+𝑥 𝑑𝑥
+𝜋
+2
+1
+ 
+d) 
+1
+2 𝑙𝑜𝑔2 
+v) ∫
+1
+𝑎2+𝑥2 𝑑𝑥
+𝜋
+2
+0
+ 
+e) 1 
+vi) ∫(𝑎2 + 𝑥2)𝑑𝑥
+𝜋
+2
+0
+ 
+f) √3 − 
+1
+2 log (2 + √3) 
+vii) ∫𝑠𝑒𝑐𝑥𝑡𝑎𝑛𝑥𝑑𝑥
+𝜋
+4
+0
+ 
+g) 𝑙𝑜𝑔
+𝜋
+2 
+
+6 
+ 
+ 
+ 
+(5)  ,d okD;@'kCn esa mRrj fyf[k,& 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x7=7 
+i)  2sin−1 1
+2 dk eku Kkr dhft, A 
+ii) ;fn 𝐴= [2
+0
+0
+3] rks 𝑎𝑑𝑗 𝐴 dk eku fyf[k,A 
+iii) ;fn 𝐴= [1
+0
+0
+0] rFkk 𝐵= [3
+0
+0
+0] rks 𝐴′𝐵 dk eku fyf[k, A  
+iv) o`r dh f=T;k ds lkis{k {ks=Qy esa ifjorZu dh nj fyf[k,A 
+v) vody lehdj.k 
+𝑑𝑦
+𝑑𝑥= 𝑒𝑥+𝑦 dk O;kid gy fyf[k,A  
+vi) ;fn lfn’k 𝑎⃗= î −2ĵ + 3k̂  vkSj  𝑏⃗⃗= 3î−2ĵ + k̂  rks 𝑎⃗.𝑏⃗⃗ Kkr dhft,A  
+vii) 𝑃(𝐴∣𝐵) dk eku Kkr dhft, ;fn 𝑃(𝐵) = 0.7 rFkk 𝑃(𝐴∩𝐵) = 0.1 
+𝐖𝐫𝐢𝐭𝐞 𝐚𝐧𝐬𝐰𝐞𝐫 𝐢𝐧 𝐨𝐧𝐞 𝐰𝐨𝐫𝐝/𝐬𝐞𝐧𝐭𝐞𝐧𝐜𝐞- 
+i) Find the value of 2sin−1 1
+2 
+ii) If 𝐴= [2
+0
+0
+3] then write the value of 𝑎𝑑𝑗 𝐴  
+iii)  If 𝐴= [1
+0
+0
+0] and 𝐵= [3
+0
+0
+0] then write the value of 𝐴′𝐵  
+iv)  Write the change in area of a circle with respect to its radius 
+v)  Write general solution of differential equation 
+𝑑𝑦
+𝑑𝑥= 𝑒𝑥+𝑦 
+vi)  If vector  𝑎⃗= î −2ĵ + 3k̂  and  𝑏⃗⃗= 3î −2ĵ + k̂ then find  𝑎⃗.𝑏⃗⃗ 
+vii)  Find the value of 𝑃(𝐴∣𝐵) if 𝑃(𝐵) = 0.7 and 𝑃(𝐴∩𝐵) = 0.1   
+ 
+(6)      fl) dhft, fd çnÙk Qyu 𝑓: 𝑅→𝑅  𝑓(𝑥) = 2𝑥  ,dSdh vkPNknd gSA  
+ 
+ 
+ 
+2 
+Prove that the function 𝑓: 𝑅→𝑅   given by 𝑓(𝑥) = 2𝑥 is one-one and onto. 
+vFkok /OR 
+fn[kkb;s fd ,d vkPNknd Qyu 𝑓: {1,2,3} → {1, 2, 3} ges'kk ,dSdh gSA 
+Show that an onto function 𝑓: {1,2,3} → {1 , 2, 3} is always one-one. 
+ 
+
+7 
+ 
+ 
+(7) 
+fn[kkb;s fd 3 sin−1 𝑥= sin−1(3𝑥−4𝑥3), 𝑥∈[−
+1
+2,
+1
+2]  
+ 
+ 
+ 
+ 
+2 
+Show that 3 sin−1 𝑥= sin−1(3𝑥−4𝑥3), 𝑥∈[−
+1
+2 ,
+1
+2] 
+vFkok /OR 
+             
+ cot−1 
+1
+√𝑥2−1 ,|𝑥| > 1 dk ljyre :i fyf[k, A  
+write the simplest form of cot−1 
+1
+√𝑥2−1  ,|𝑥| > 1 
+ 
+(8) 
+sin−1(𝑠𝑖𝑛
+3𝜋
+5 )  dk eku Kkr dhft,A  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+            Find the values of sin−1(𝑠𝑖𝑛
+3𝜋
+5 ) 
+vFkok /OR 
+ cos−1(𝑐𝑜𝑠
+13𝜋
+6 )  dk eku Kkr dhft,A  
+Find the value of cos−1(𝑐𝑜𝑠
+13𝜋
+6 ) 
+ 
+(9) 
+Qyu 𝑐𝑜𝑠[𝑠𝑖𝑛(𝑥3)]  dk 𝑥 ds lkis{k vodyu xq.kkad Kkr  dhft,A  
+ 
+ 
+ 
+2 
+find differential coefficient of function 𝑐𝑜𝑠[𝑠𝑖𝑛(𝑥3)] with respect to 𝑥. 
+vFkok /OR 
+Qyu 𝑠𝑖𝑛[𝑐𝑜𝑠(𝑥4)] dk 𝑥3 ds lkis{k vodyu xq.kkad Kkr  dhft,A  
+find differential coefficient of function 𝑠𝑖𝑛[𝑐𝑜𝑠(𝑥4)] with respect to 𝑥3. 
+(10) fn[kkb;s dh çnÙk Qyu 𝑓(𝑥) = 𝑥2 −3𝑥+ 17  ,𝑥∈𝑅, 𝑅 esa o/kZeku Qyu gSA 
+ 
+2  
+show that the function given by  𝑓(𝑥) = 𝑥2 −3𝑥+ 17 ,𝑥∈𝑅,  is  
+increasing function on R. 
+ 
+ 
+
+8 
+ 
+ 
+ 
+vFkok /OR 
+fn[kkb;s dh çnÙk Qyu  𝑓(𝑥) = 17𝑥−5 ,𝑅 esa o/kZeku Qyu gSA  
+Show that the function given by 𝑓(𝑥) = 17𝑥−5 is increasing function on 𝑅. 
+(11) ,d o`Ùk dh f=T;k esa ifjorZu dh nj 0.7𝑐𝑚/𝑠  gSAmldh ifjf/k esa ifjorZu dh nj Kkr dhft, A  2 
+The radius of a circle change at the rale of  0.7 𝑐𝑚/𝑠𝑒𝑐 what is the rate of change of 
+its circumference 
+vFkok /OR 
+,d xqCckjk tks lnSo xksykdkj jgrk gS] dk ifjorZu'khy O;kl 
+3
+2(2𝑥+ 1) gSA 𝑥 ds lkis{k vk;ru esa 
+ifjorZu dh nj Kkr dhft,A 
+A balloon which always remains spherical, has a variable diameter 
+3
+2 (2𝑥+ 1) find the 
+rate of change of its volume with respect to 𝑥. 
+ 
+(12) vody lehdj.k 𝑥
+𝑑𝑦
+𝑑𝑥+ 2𝑦= 𝑥2𝑙𝑜𝑔𝑥  dk lekdyu xq.kd Kkr dhft,A 
+ 
+ 
+2 
+Find Integrating factor of differential equation 𝑥
+𝑑𝑦
+𝑑𝑥+ 2𝑦= 𝑥2𝑙𝑜𝑔𝑥. 
+vFkok /OR 
+vody lehdj.k 
+𝑑𝑦
+𝑑𝑥=
+1+𝑦2
+1+𝑥2  dk O;kid gy Kkr dhft,A 
+find the general solution of differential equation 
+𝑑𝑦
+𝑑𝑥=
+1+𝑦2
+1+𝑥2 
+ 
+(13) lfn'k  î + 2ĵ + 3k̂  dh fnd dksT;k, Kkr dhft,A   
+ 
+ 
+ 
+ 
+ 
+2 
+find the direction cosines of the vector  î + 2ĵ + 3k̂ 
+ 
+ 
+
+9 
+ 
+ 
+ 
+vFkok /OR  
+lfn'k  î + 3ĵ + 7k̂  dk ç{ksi lfn'k 7î −ĵ + 8k̂   ij Kkr dhft,A 
+Find the projection of the vector î + 3ĵ + 7k̂  on the Vector  7î−ĵ + 8k̂   
+ 
+(14)  foUnq (5,2,−4) ls tkus okyh vkSj lfn'k 3î + 2ĵ −8k̂  ds lekUrj  ljy js[kk dk lfn'k lehdj.k 
+Kkr dhft,A   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+Find vector Equation of straight line passing through the point (5,2,−4)  and parallel 
+to the vector 3î + 2ĵ −8k̂  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vFkok /OR  
+js[kkvks 
+𝑥+3
+3 =
+𝑦+1
+5 =
+𝑧+3
+4 vkSj  
+𝑥+1
+1 =
+𝑦−4
+1 =
+𝑧−5
+2 ds chp dk dks.k Kkr dhft,A 
+Find the angle between the pair of lines 
+𝑥+3
+3 =
+𝑦+1
+5
+=
+𝑧+3
+4 and 
+𝑥+1
+1 =
+𝑦−4
+1 =
+𝑧−5
+2 
+(15) ;fn  𝑎⃗= î + 2ĵ −3k̂  और  𝑏⃗⃗= 2î −ĵ  है तो |𝑎⃗× 𝑏⃗⃗| dk eku Kkr dhft, 
+If  𝑎⃗= î + 2ĵ −3k̂  and 𝑏⃗⃗= 2î −ĵ  then find the value of |𝑎⃗× 𝑏⃗⃗| 
+ 
+ 
+2 
+vFkok /OR 
+;fn (𝑎⃗+ 𝑏⃗⃗). (𝑎⃗−𝑏⃗⃗) = 8 vkSj  |𝑎⃗| = 8|𝑏⃗⃗| rks  |𝑎⃗| vkSj |𝑏⃗⃗| dk eku Kkr dhft,A  
+If (𝑎⃗+ 𝑏⃗⃗).(𝑎⃗−𝑏⃗⃗) = 8 and |𝑎⃗| = 8|𝑏⃗⃗| then find the value of  |𝑎⃗| and |𝑏⃗⃗|. 
+(16) vkO;wg 𝑋 Kkr dhft,] ;fn 𝑋[1
+2
+3
+4
+5
+6] = [ 9
+12
+15
+19
+26
+33] 
+ 
+ 
+ 
+ 
+3 
+Find the matrix  𝑋 If 𝑋[1
+2
+3
+4
+5
+6] = [ 9
+12
+15
+19
+26
+33] 
+vFkok /OR 
+;fn vkO;wg 𝐴= [
+1
+−4
+3
+] vkSj 𝐵= [−1
+2
+1] gSa]rks ,lR;kfir dhft, fd (𝐴𝐵)’ = 𝐵’𝐴′ 
+
+10 
+ 
+ 
+ 
+If matrix 𝐴= [
+1
+−4
+3
+] and 𝐵= [−1
+2
+1] then verify that (𝐴𝐵)’ = 𝐵’𝐴′  
+(17)  lekdyu dk iz;ksx djrs gq, nh?kZo`Rr 
+𝑥2
+4 +
+𝑦2
+9 = 1 ls f?kjs {ks= dk {ks=Qy Kkr dhft,A  
+3 
+ 
+ 
+By using integration Find the area bounded by the ellipse 
+𝑥2
+4 +
+𝑦2
+9 = 1  
+ 
+vFkok /OR 
+ 
+         
+ 𝑥= 0 ,oa  𝑥 = 2 𝜋 ds e/; oØ 𝑦= 𝑠𝑖𝑛𝑥  ls f?kjs {ks= dk {ks=Qy Kkr dhft, A 
+Find the the area bounded by curve 𝑦= 𝑠𝑖𝑛𝑥 between  𝑥= 0 and  𝑥 = 2 𝜋 
+ 
+(18) vkys[kh; fof/k }kjk fuEu jSf[kd çksxzkeu leL;k dks gy dhft,∶ 
+fuEu O;ojks/kksa ds varxZr 5𝑥+ 𝑦≤ 100 ,𝑥 + 𝑦 ≤ 60, 𝑥≥0, 𝑦≥0 
+ 
+ 
+𝑍 = 75𝑥+ 𝑦  dk vf/kdrehdj.k dhft,A  
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+Solve the following linear programming problem by graphical method : 
+Maximize 𝑍 = 75𝑥+ 𝑦   Subject to constraints: 
+5𝑥+ 𝑦≤ 100 ,𝑥 + 𝑦 ≤ 60, 𝑥≥0, 𝑦≥0 
+vFkok /OR 
+vkys[kh; fof/k }kjk fuEu jSf[kd çksxzkeu leL;k dks gy dhft,A 
+fuEu O;ojks/kksa ds varxZr 𝑥+ 𝑦≤50,3𝑥+ 𝑦≤90,𝑥≥0,𝑦≥0  
+ 
+𝑧= 4𝑥+ 𝑦  dk vf/kdrehdj.k dhft,: 
+Solve the following linear programming problem by graphical method : 
+Maximize 𝑍 = 4𝑥+ 𝑦 subject to the constraints : 
+ 𝑥+ 𝑦≤50,3𝑥+ 𝑦≤90,𝑥≥0,𝑦≥0 
+ 
+
+11 
+ 
+ 
+ 
+(19) ,d O;fä ds ckjs esa Kkr gS fd og 4 esa ls 3 ckj lR; cksyrk gSA og ,d ikls dks mNkyrk gS  
+vkSj crykrk gS fd ml ij vkus okyh la[;k 5 gSA bldh çkf;drk Kkr dhft, fd ikls ij  
+vkus okyh la[;k okLro esa 5 gSA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+A man is known to speak truth 3 out of 4 times. He throws a die and reports 
+ that it is a 5 .Find the probability that it is actually a 5 
+vFkok /OR 
+,d ikls dks nks ckj mNkyk x;k vkSj çdV gqbZ la[;kvksa dk ;ksx 6 ik;k x;k A la[;k 4 ds  
+U;wure ,d ckj çdV gksus dh lçfrca/k çkf;drk Kkr dhft, A 
+A die is thrown twice and the sum of the appearing is observed to be 6.what 
+ is the conditional probability that the number 4 has appeared at least once. 
+ 
+ 
+ (20) 𝑎 rFkk 𝑏 ds e/; laca/k  Kkr dhft, ftlls iznRr Qyu 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+𝑓(𝑥) = {
+5  ;𝑥≤2
+𝑎𝑥+ 𝑏
+21  ;𝑥≥10
+;2 < 𝑥< 10  
+larr gksA  
+Find the relation between 𝑎 and 𝑏 for which the given function 
+𝑓(𝑥) = {
+5  ; 𝑥≤2
+𝑎𝑥+ 𝑏
+21 ; 𝑥≥10
+;2 < 𝑥< 10  
+is continuous  
+vFkok /OR 
+;fn 𝑥3 + 𝑥2𝑦+ 𝑥𝑦2 + 𝑦3 = 81 rks 
+𝑑𝑦
+𝑑𝑥 dk eku Kkr dhft,A 
+If  𝑥3 + 𝑥2𝑦+ 𝑥𝑦2 + 𝑦3 = 81 then find the value of 
+𝑑𝑦
+𝑑𝑥 
+ 
+
+12 
+ 
+ 
+ 
+(21) fn, x;s lehdj.k fudk; dks vkO;wg fof/k ls gy dhft, & 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+2
+𝑥+
+3
+𝑦+
+10
+𝑧= 4 
+ 
+4
+𝑥−
+6
+𝑦+
+5
+𝑧= 1 
+ 
+6
+𝑥+
+9
+𝑦−
+20
+𝑧= 2 
+Solve the following system of equation by matrix method 
+ 
+2
+𝑥+
+3
+𝑦+
+10
+𝑧= 4 
+ 
+4
+𝑥−
+6
+𝑦+
+5
+𝑧= 1 
+ 
+6
+𝑥+
+9
+𝑦−
+20
+𝑧= 2 
+vFkok /OR 
+ 
+ 
+4 kg I;kt] 3 kg xsgw¡ vkSj 2 kg&pkoy dk ewY; # 60 gSA 2 kg I;kt] 4 kg xsgwa vkSj  
+ 
+ 
+6 kg pkoy dk ewY; #- 90 gSA 6 kg I;kt] 2 kg xsgw¡ vkSj 3 kg pkoy dk ewY; # 70 gS  
+vkO;wg fof/k }kjk çR;sd dk ewY; çfr kg Kkr dhft, A 
+ 
+ (22)   ∫|𝑥−5|𝑑𝑥
+8
+2
+ dk eku Kkr dhft,A  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+Find the value of ∫|𝑥−5|𝑑𝑥
+8
+2
+ 
+vFkok /OR 
+ 
+∫√1 + 3𝑥−𝑥2 𝑑𝑥 dk eku Kkr dhft,A 
+ 
+Find the value of ∫√1 + 3𝑥−𝑥2 𝑑𝑥 
+ 
+(23) ;fn dksbZ js[kk 𝑙1 foUnq (1,2,−4)a  ls tkrh gS rFkk 2𝑖̂ + 3𝑗̂ + 6𝑘̂ ds lekUrj gS rFkk 
+ 𝑙2dk lfn'k lehdj.k 𝑟⃗= (2𝑖̂ + 4𝑗̂ + 5𝑘̂) ++μ(3𝑖̂ + 4𝑗̂ + 5𝑘̂) gSs rks] 𝑙1 rFkk  
+𝑙2 ds chp dh U;wure bjh Kkr dhft,A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+If a line 𝑙1, passes through the point  (1,2,−4) and parallel to 2𝑖̂ + 3𝑗̂ + 6𝑘̂  
+and vector equation of the line 𝑙2 is given by 𝑟⃗= (2𝑖̂ + 4𝑗̂ + 5𝑘̂)+μ(3𝑖̂ + 4𝑗̂ + 5𝑘̂) 
+then find the minimum distance between 𝑙1 and 𝑙2 
+ 
+
+13 
+ 
+ 
+ 
+vFkok /OR 
+fcUnq (1,2,−4)Z ls tkus okyh vkSj js[kkvksa  
+𝑥−8
+3 =
+𝑦+19
+−16 =
+𝑧−10
+7  rFkk  
+𝑥−15
+3
+=
+𝑦−29
+8
+= 
+𝑧−5
+−5 ij 
+yac js[kk dk lfn'k lehdj.k Kkr dhft, A 
+Find the  vector equation of the line which passes through the point (1,2,−4) and  
+perpendicular  to the lines  
+𝑥−8
+3 =
+𝑦+19
+−16 =
+𝑧−10
+7 and  
+𝑥−15
+3
+=
+𝑦−29
+8
+=
+𝑧−5
+−5 
+ 
+ 
