@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multiple Choice Questions
+1.
+Which of the following statement is not correct for an object moving along
+a straight path in an accelerated motion?
+(a) Its speed keeps changing
+(b) Its velocity always changes
+(c) It always goes away from the earth
+(d) A force is always acting on it
+2.
+According to the third law of motion, action and reaction
+(a) always act on the same body
+(b) always act on different bodies in opposite directions
+(c) have same magnitude and directions
+(d) act on either body at normal to each other
+3.
+A goalkeeper in a game of football pulls his hands backwards after holding
+the ball shot at the goal. This enables the goal keeper to
+         (a) exert larger force on the ball
+(b) reduce the force exerted by the ball on hands
+         (c) increase the rate of change of  momentum
+(d) decrease the rate of change of  momentum
+4.
+The inertia of an object tends to cause the object
+         (a) to increase its speed
+         (b) to decrease its speed
+         (c) to resist any change in its state of motion
+         (d) to decelerate due to friction
+5.  A passenger in a moving train tosses a coin which falls behind him. It
+means that motion of the train is
+(a) accelerated
+(b) uniform
+(c) retarded
+(d) along circular tracks
+16-04-2018
+
+EXEMPLAR PROBLEMS
+62
+5.
+An object of mass 2 kg is sliding with a constant velocity of 4 m s–1 on a
+frictionless horizontal table. The force required to keep the object moving
+with the same velocity is
+(a) 32 N
+(b) 0 N
+(c) 2 N
+(d) 8 N
+7.
+Rocket works on the principle of conservation of
+(a) mass
+(b) energy
+(c) momentum
+(d) velocity
+8.
+A water tanker filled up to 
+2
+3 of its height is moving with a uniform speed.
+On sudden application of the brake, the water in the tank would
+(a) move backward
+(b) move forward
+(c) be unaffected
+(d) rise upwards
+Short Answer Questions
+9.
+There are three solids made up of aluminium, steel and wood, of the same
+shape and same volume. Which of them would have highest inertia?
+10.
+Two balls of the same size but of different materials, rubber and iron are
+kept on the smooth floor of a moving train. The brakes are applied suddenly
+to stop the train. Will the balls start rolling? If so, in which direction? Will
+they move with the same speed?  Give reasons for your answer.
+11.
+Two identical bullets are fired one by a light rifle and another by a heavy
+rifle with the same force. Which rifle will hurt the shoulder more and why?
+12.
+A horse continues to apply a force in order to move a cart with a constant
+speed. Explain why?
+13.
+Suppose a ball of mass m is thrown vertically upward with an initial speed v, its
+speed decreases continuously till it becomes zero. Thereafter, the ball begins to
+fall downward and attains the speed v again before striking the ground. It
+implies that the magnitude of initial and final momentums of the ball are same.
+Yet, it is not an example of conservation of momentum. Explain why ?
+16-04-2018
+
+FORCE AND LAWS OF MOTION
+63
+14.
+Velocity versus time graph of a ball of mass 50 g rolling on a concrete floor
+is shown in Fig. 9.1.  Calculate the acceleration and frictional force of the
+floor on the ball.
+15.
+A truck of mass M is moved under a force F. If the truck is then loaded with
+an object equal to the mass of the truck and the driving force is halved,
+then how does the acceleration change?
+16.
+Two friends on roller-skates are standing 5 m apart facing each other. One
+of them throws a ball of 2 kg towards the other, who catches it, How will
+this activity affect the position of the two? Explain your answer.
+17.
+Water sprinkler used for grass lawns begins to rotate as soon as the water
+is supplied. Explain the principle on which it works.
+Long Answer Questions
+18.
+Using second law of motion, derive the relation between force and
+acceleration. A bullet of 10 g strikes a sand-bag at a speed of 103 m s-1 and
+gets embedded after travelling 5 cm. Calculate
+(i) the resistive force exerted by the sand on the bullet
+(ii) the time taken by the bullet to come to rest.
+19.
+Derive the unit of force using the second law of motion. A force of 5 N
+produces an acceleration of 8 m s–2 on a mass m1 and an acceleration of
+24 m s–2 on a mass m2. What acceleration would the same force provide if
+both the masses are tied together?
+20.
+What is momentum? Write its SI unit. Interpret force in terms of momentum.
+Represent the following graphically
+(a) momentum versus velocity when mass is fixed.
+(b) momentum versus mass when velocity is constant.
+Fig. 9.1
+16-04-2018

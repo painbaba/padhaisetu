@@ -1,0 +1,1632 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• A simple closed curve made up of only line segments is called a
+polygon.
+• A diagonal of a polygon is a line segment connecting two non-
+consecutive vertices.
+• A convex polygon is a polygon in which no portion of its any
+diagonal is in its exterior.
+• A quadrilateral is a polygon having only four sides.
+• A regular polygon is a polygon whose all sides are equal and also
+all angles are equal.
+• The sum of interior angles of a polygon of n sides is (n-2) straight
+angles.
+• The sum of interior angles of a quadrilateral is 360°.
+• The sum of exterior angles, taken in an order, of a polygon is 360°.
+• Trapezium is a quadrilateral in which a pair of opposite sides is
+parallel.
+• Kite is a quadrilateral which has two pairs of equal consecutive
+sides.
+• A parallelogram is a quadrilateral in which each pair of opposite
+sides is parallel.
+12/04/18
+
+
+
+• A rhombus is a parallelogram in which adjacent sides are equal.
+• A rectangle is a parallelogram in which one angle is of 900.
+• A square is a parallelogram in which adjacent sides are equal and
+one angle is of 900.
+• In a parallelogram, opposite sides are equal, opposite angles are
+equal and diagonals bisect each other.
+• In a rhombus diagonals intersect at right angles.
+• In a rectangle diagonals are equal.
+• Five measurements can determine a quadrilateral uniquely.
+• A quadrilateral can be constructed uniquely if the lengths of its
+four sides and a diagonal are given.
+• A quadrilateral can be constructed uniquely if the lengths of its
+three sides and two diagonals are given.
+• A  quadrilateral can be constructed uniquely if its two adjacent
+sides and three angles are given.
+• A quadrilateral can be constructed uniquely if its three sides and
+two included angles are given.
+
+
+In examples 1 to 8, there are four options out of which one is correct.
+Write the correct answer.
+Example 1
+: The number of diagonals in a polygon of n sides is
+(a)
+n n
+(
+1)
+2
+
+(b) n n
+(
+2)
+2
+
+(c) n n
+(
+3)
+2
+
+(d) n (n–3).
+Solution
+: The correct answer is (c).
+Example 2
+: The angles of a quadrilateral ABCD taken in an order are
+in the ratio 3 : 7 : 6 : 4. Then ABCD is a
+(a) kite
+(b) parallelogram
+(c) rhombus
+(d) trapezium
+Solution
+: The correct answer is (d).
+12/04/18
+
+
+
+Example 3
+: If the diagonals of a quadrilateral bisect each other at
+right angles, it will be a
+(a) rhombus
+(b) trapezium
+(c) rectangle
+(d) kite
+Solution
+: The correct answer is (a).
+Example 4
+: The sum of the angles of a quadrilateral is
+(a) 180°
+(b) 270°
+(c) 360°
+(d) 300°
+Solution
+: The correct answer is (c).
+Example 5
+: In a square ABCD, the diagonals meet at point O. The
+∆AOB is
+(a) isosceles right triangle
+(b) equilateral triangle
+(c) isosceles triangle but not right triangle
+(d) scalene right triangle.
+Solution
+: The correct answer is (a).
+Quadrilaterals with certain properties are given additional names. A
+trapezium has exactly 1 pair of parallel sides. A parallelogram has 2 pairs
+of parallel sides. A rectangle has 4 right angles. A rhombus has 4 congruent
+sides. A square has 4 congruent sides and 4 right angles.
+12/04/18
+
+
+
+Example 6
+: ABCD is a quadrilateral in which AB = 5 cm, CD = 8 cm
+and the sum of angle A and angle D is 180°. What is the
+name of this quadrilateral?
+(a) Parallelogram
+(b) Trapezium
+(c) Rhombus
+(d) Can not be determined
+Solution
+: The correct answer is (b).
+Example 7
+: Rukmini has a farm land which is triangular in shape.
+What is the sum of all the exterior angles taken in an
+order of the farm land?
+(a) 90°
+(b) 180°
+(c) 360°
+(d) Can not be determined.
+Solution
+: The correct answer is (c).
+Example 8
+: How many sides does an octagon have?
+(A) 7
+(b) 8
+(c) 9
+(d) 10
+Solution
+: The correct answer is (b)
+In examples 9 and 13, fill in the blanks to make the statements
+true.
+Example 9
+: The diagonals of a rhombus bisect each other at _____
+angles.
+Solution
+: Right.
+Example 10 : For getting diagonals through vertex A of a pentagon
+ABCDE, A is joined to _________.
+Solution
+: C and D.
+Example 11 : For constructing a unique quadrilateral at least __________
+measurements are required.
+Solution
+: Five.
+Example 12 : If diagonals of a quadrilateral bisect at right angles it is a
+__________.
+Solution
+: Rhombus (or square).
+Example 13 : The diagonals of a __________ intersect at right angles.
+Solution
+: Kite.
+12/04/18
+
+
+
+In examples 14 to 23, state whether the statements are true (T) or
+false (F).
+Example 14 : Every rectangle is a parallelogram.
+Solution
+: True.
+Example 15 : Every rhombus is a kite.
+Solution
+: True.
+Example 16 : Every parallelogram is a trapezuim.
+Solution
+: True.
+Example 17 : Every kite is a trapezium.
+Solution
+: False.
+Example 18 : Every kite is a parallelogram.
+Solution
+: False.
+Example 19 : Diagonals of a rectangle are perpendicular to each other.
+Solution
+: False.
+Example 20 : For constructing a unique parallelogram lengths of only
+two sides should be given.
+Solution
+: False.
+Diagonals of a —
+bisect each other
+Parallelogram
+
+bisect each other
+are perpendicular
+to each other
+
+
+bisect each other
+are perpendicular to
+each other
+are equal
+Rhombus
+Rectangle
+Square
+
+
+are equal
+bisect each other
+12/04/18
+
+
+
+Example 21 :
+  is a simple closed curve.
+Solution
+: False.
+Example 22 :
+ is a concave polygon.
+Solution
+: True.
+Example 23 : A triangle is not a polygon.
+Solution
+: False.
+Example 24 : The sides AB and CD of a quadrilateral ABCD
+are extended to points P and Q respectively. Is
+∠ADQ + ∠CBP = ∠A + ∠C? Give reason.
+Solution
+: Join AC, then
+∠CBP = ∠BCA  + ∠BAC and
+∠ADQ = ∠ACD + ∠DAC
+(Exterior angles of triangles)
+Therefore,
+∠CBP + ∠ADQ = ∠BCA + ∠BAC + ∠ACD + ∠DAC
+= (∠BCA + ∠ACD) + (∠BAC + ∠DAC)
+= ∠C + ∠A
+Angles in a Quadrilateral
+A diagonal of a quadrilateral is a segment that joins two vertices of the
+quadrilateral but is not a side. You can use a diagonal of a quadrilateral
+to show that the sum of the angle measures in a quadrilateral is 360°.
+Cut a quadrilateral
+along a diagonal to
+form two triangles.
+The sum of the angle
+measures in each
+triangle is 180°.
+Quadrilateral with
+2 pairs of parallel
+sides.
+D
+Q
+A
+C
+B
+P
+12/04/18
+
+
+
+Example 25 : If AM and CN are perpendiculars on the diagonal BD of a
+parallelogram ABCD, Is ∆AMD ≅ ∆CNB? Give reason.
+Solution
+:
+In triangles AMD and CNB,
+AD = BC (opposite sides of parallelogram)
+∠AMB = ∠CNB = 900
+∠ADM = ∠NBC (AD || BC and BD is transversal.)
+So, ∆AMD ≅ ∆CNB (AAS)
+Example 26 : Construct a quadrilateral ABCD in which AB = AD =
+5cm, BC = CD = 7cm and BD = 6cm. What type of
+quadrilateral is this?
+Solution
+: Looking at the rough figure, draw a line segment BD =
+6cm. Taking B and D as centres and 5 cm radius, draw
+arcs to intersect at the point A, then taking B and D as
+centres and 7 cm radius, draw arcs in the opposite side
+of A to intersect at the point C. Join AB, AD and BC, DC.
+Then ABCD is the required quadrilateral. It is a kite.
+12/04/18
+
+
+
+Example 27 : Find x in the following figure.
+Solution
+: In the given figure ∠1 + 90° = 180° (linear pair)
+∠1 = 90°
+Now, sum of exterior angles of a polygon is 360°,
+therefore, x + 60° + 90° + 90° + 40° = 360°
+x + 280° = 360°
+x = 80°
+ Classifying Plane Figures
+Triangle
+Trapezoid
+Parallelogram
+Closed figure with 3
+straight sides that
+connect 3 points
+Quadrilateral with
+1 pair of parallel
+sides
+Quadrilateral with
+2 pairs of parallel
+sides
+Parallelogram
+with 4 sides of
+equal length
+Parallelogram
+with 4 right
+angles
+Parallelogram
+with 4 sides of
+equal length and
+4 right angles
+Set of all points
+in a plane that
+are at the same
+distance from a
+fixed point
+Rhombus
+Rectangle
+Square
+Circle
+12/04/18
+
+
+
+Example 28 : Two adjacent angles of a parallelogram are in the ratio
+4:5. Find their measures.
+Solution
+: Let the angles be 4x and 5x.
+Then, 4x + 5x = 180°
+9x = 180°
+x = 20°
+So, angles are 4 × 20° = 80° and 5 × 20° =100°.
+Example 29 : The four angles of a quadrilateral are in the ratio 3 : 4 : 5 : 6.
+Find the angles.
+Solution
+: Let angles be 3x, 4x, 5x, 6x.
+Thus, 3x + 4x + 5x + 6x = 360° since sum of the angles of
+a quadrilateral is 360°.
+So, 18x = 360°
+or, x = 20°
+Thus, angles are 60°, 80°, 100°, 120°.
+Example 30 : In a parallelogram PQRS, the
+bisectors of ∠P and ∠Q meet at
+O. Find ∠POQ.
+Solution
+: Since OP and OQ are the
+bisectors of ∠P and ∠Q
+respectively (see figure on the
+right),
+so, ∠OPQ = 
+1
+2 ∠P and ∠OQP = 
+1
+2 ∠Q
+In ∆POQ,
+∠OPQ + ∠PQO + ∠POQ = 180° (Angle sum property)
+i.e. 1
+2 ∠P + ∠POQ + 1
+2 ∠Q = 180°
+i.e. ∠POQ
+= 180° – 1
+2 (∠P + ∠Q)
+= 180° – 1
+2 × 180°
+= 90°
+12/04/18
+
+
+
+Example 31 : Three angles of a quadrilateral are 50°, 40° and 123°.
+Find its fourth angle.
+Solution
+: Let fourth angle be x. Then 500 + 400 + 1230 + x = 3600.
+or x = 3600 – 500 – 400 – 1230
+       = 3600 – 2130 = 1470.
+A quadrilateral is a closed plane figure with four sides that are line
+segments. The figures below are special types of quadrilaterals.
+Special Quadrilaterals
+Diagram
+Trapezium
+A trapezium is a quadrilateral with exactly
+1 pair of parallel sides.
+Parallelogram
+A Parallelogram is a quadrilateral with
+2 pairs of parallel sides.
+Rhombus
+A rhombus is a parallelogram with
+4 sides of equal length.
+Rectangle
+A rectangle is a parallelogram with
+4 right angles.
+Square
+A square is a parallelogram with 4 sides of
+equal length and 4 right angles.
+Example 32 : The ratio of exterior angle to interior angle of a regular
+polygon is 1:4. Find the number of sides of the polygon.
+Solution
+: Let the exterior angle of the polygon be x
+Then, the interior angle of polygon = 180° – x
+According to question,
+12/04/18
+
+
+
+1
+180
+4
+x
+x 
+
+or, 4x = 180° – x
+or, 5x = 180°
+or, x = 180
+5
+
+So, x = 36°
+Number of sides of polygon = 
+360
+exterior angle
+
+= 
+360
+36
+
+ = 10
+Example 33 : Each interior angle of a polygon is 108°. Find the number
+of sides of the polygon.
+Solution
+: Since interior angle = 108°
+so, exterior angle = 1800 – 1080 = 72°
+Number of sides = 
+0
+0
+360
+360
+5
+exterior angle
+72
+
+
+
+Example 34 : Construct a rhombus PAIR, given that PA = 6 cm and
+angle ∠A = 110°.
+Solution
+:  
+Since in a rhombus, all sides are equal so, PA = AI = IR =
+RP = 6cm
+Also, rhombus is a parallelogram
+so, adjacent angle, ∠I = 180° – 110° = 70°
+12/04/18
+
+
+
+Steps of construction
+1. Draw AI = 6 cm
+2. Draw ray AX
+ such that ∠IAX = 110° and draw IY
+
+such that ∠AIY = 70°.
+3. With A and I as centres and radius 6cm draw arcs
+intersecting AX and IY at P and R respectively.
+4. Join PR.
+Thus, PAIR is the required rhombus.
+Example 35 : One of the diagonals of a rhombus and its sides are equal.
+Find the angles of the rhombus.
+Solution
+: Let PQRS be a rhombus such that its diagonal PR is
+equal to its side, that is, PQ = QR = RS = PS = PR
+So, ∆PRS and ∆PQR are equilateral.
+∠S = ∠Q = 60° [Each angle of an equilateral triangle is 60°.]
+and
+∠P = ∠1 + ∠2 = 60° + 60° = 120° = ∠R
+Hence ∠S = ∠Q = 60° and ∠P = ∠R = 120°
+Example 36 : In the figure, HOPE is a rectangle. Its diagonals meet at
+G. If HG = 5x + 1 and EG = 4x + 19, find x.
+Solution
+:
+Since diagonals of a rectangle bisect each other,
+HP = 2HG = 2 (5x + 1) = 10x +2
+12/04/18
+
+
+
+  and
+OE = 2EG = 2(4x +19) = 8x + 38
+Diagonals of a rectangle are equal. So HP = OE
+or 10x + 2 = 8x + 38
+or  2x = 36 or x = 18
+Example 37 : Application on the problem strategy
+RICE is a rhombus. Find x, y, z.
+Justify your findings. Hence, find the
+perimeter of the rhombus.
+Solution
+: Understand and explore the problem
+We have to find the values of x, y, z.
+i.e. OE, OY and side IR of the rhombus
+and perimeter of the rhombus.
+What do we know?
+RICE is a rhombus and
+OC = 12, OE = 5, OI = x + 2, OR = x + y
+Plan a strategy
+(1) We have to find the parts of the diagonal. Use
+diagonals of a rhombus bisect each other.
+(2) We have to find the side of the rhombus. We use
+diagonals intersect at right angles and apply
+pythagoras theorem.
+(3) Since all sides of a rhombus are equal, perimeter of
+the rhombus = 4 × side.
+Solve
+Step 1.
+ OI = OE ⇒ x + 2 = 5 or x = 5 – 2 = 3.
+OC = OR ⇒ 12 = y + x or y = 12 – x
+12 – 3 = 9
+Step 2.
+EOR is a right triangle
+ER2 = OE2 + OR2
+= 52 + 122
+= 25 + 144 = 169
+12
+5
+O
+C
+E
+l
+x+2
+y  x
++
+z
+R
+12/04/18
+
+
+
+ER = 169 = 13cm
+Step 3.
+Since all sides of a rhombus are equal.
+∴ RE = RI = IC = CE = 13 cm.
+Perimeter of RICE = 4 × RE = 4 × 13 cm
+= 52 cm
+Revise
+We have been asked to find x, y and z and we have found
+that.
+Checking
+x + 2 = 5 and x = 3 ⇒ 3 + 2 = 5
+Hence value of x is correct.
+x + y = 12
+ x = 3 and y = 9
+and 3 + 9 = 12 ⇒ value of y is correct.
+Perimeter of rhombus = 
+2
+2
+2 d1 + d2 (where d1 and d2
+       are diagonals)
+= 
+2
+2
+2 24 + 10
+= 2 576+ 100
+= 2 676 = 52 cm
+
+(i) If RICE is a parallelogram, not a rhombus can you find x, y and z ?
+(ii) If RICE is a rhombus with EC = 20 cm and OC = 12 cm, can you
+find x, y, z ?
+Example 38 : Application on the problem solution strategy
+Construct a rhombus with side 4.5cm and diagonal 6cm.
+Solution :
+Understand and explore the problem
+What do you know?
+Here, side of rhombus = 4.5 cm.
+Diagonal of rhombus = 6 cm.
+12/04/18
+
+
+
+What do we need to make rhombus?
+4 sides and its one diagonal
+Plan a strategy
+(1) Use 
+property 
+of
+rhombus— all sides are
+equal.
+(2) Make a free hand rough
+sketch and name it
+ABCD.
+Solve
+Step-1.
+Draw AB = 4.5 cm.
+Step-2.
+With A as centre and radius
+6 cm draw an arc  above AB.
+Step-3.
+With B as centre draw an
+arc to cut the arc drawn
+in step 2 at pt C.
+Step-4.
+Join AC and BC.
+Step-5.
+With A and C as centre
+and radius 4.5 cm draw
+arcs to intersect each
+other at D.
+Step-6.
+ABCD is required
+rhombus.
+Checking:
+Verify your figure by
+adopting some other
+property of rhombus.
+Step 1. Join BD to intersect AC as O.
+Step 2. Measure ∠AOB. Is it 90°?
+Step 3. Measure OA and OC. Are they equal?
+Step 4. Measure OB and OD. Are they equal?
+If your answer to 2, 3, 4 is yes it means what
+you have constructed is a right angle.
+12/04/18
+
+
+
+
+
+In questions 1 to 52, there are four options, out of which one is correct.
+Write the correct answer.
+1. If three angles of a quadrilateral are each equal to 75°, the fourth
+angle is
+(a) 150°
+(b)
+135°
+(c)
+45°
+(d)
+75°
+2.
+For which of the following, diagonals bisect each other?
+(a) Square
+(b) Kite
+(c) Trapezium
+(d) Quadrilateral
+3.
+For which of the following figures, all angles are equal?
+(a) Rectangle
+(b) Kite
+(c) Trapezium
+(d) Rhombus
+4.
+For which of the following figures, diagonals are perpendicular to
+each other?
+(a) Parallelogram
+(b) Kite
+(c) Trapezium
+(d) Rectangle
+5.
+For which of the following figures, diagonals are equal?
+(a) Trapezium
+(b) Rhombus
+(c) Parallelogram
+(d) Rectangle
+6.
+Which of the following figures satisfy the following properties?
+- All sides are congruent.
+- All angles are right angles.
+- Opposite sides are parallel.
+
+1.
+Can you draw this rhombus by using some other property?
+2.
+Can you draw a parallelogram with given measurement?
+3.
+How will you construct this rhombus if instead of side 4.5 cm diagonal
+4.5 cm is given?
+12/04/18
+
+
+
+(a) P
+(b) Q
+(c) R
+(d) S
+7.
+Which of the following figures satisfy the following property?
+- Has two pairs of congruent adjacent sides.
+ 
+(a) P
+(b) Q
+       (c) R
+(d) S
+8.
+Which of the following figures satisfy the following property?
+- Only one pair of sides are parallel.
+(a) P
+(b) Q
+(c) R
+(d) S
+9.
+Which of the following figures do not satisfy any of the following
+properties?
+- All sides are equal.
+- All angles are right angles.
+- Opposite sides are parallel.
+(a) P
+(b) Q
+(c) R
+(d) S
+10. Which of the following properties describe a trapezium?
+(a) A pair of opposite sides is parallel.
+12/04/18
+
+
+
+(b) The diagonals bisect each other.
+(c) The diagonals are perpendicular to each other.
+(d) The diagonals are equal.
+11.
+Which of the following is a property of a parallelogram?
+(a) Opposite sides are parallel.
+(b) The diagonals bisect each other at right angles.
+(c) The diagonals are perpendicular to each other.
+(d) All angles are equal.
+12.
+What is the maximum number of obtuse angles that a quadrilateral
+can have ?
+(a) 1
+(b) 2
+(c) 3
+(d) 4
+13.
+How many non-overlapping triangles can we make in a n-gon
+(polygon having n sides), by joining the vertices?
+(a) n –1
+(b) n –2
+(c) n –3
+(d) n –4
+14.
+What is the sum of all the angles of a pentagon?
+(a) 180°
+(b) 360°
+(c) 540°
+(d) 720°
+15.
+What is the sum of all angles of a hexagon?
+(a) 180°
+(b) 360°
+(c) 540°
+(d) 720°
+16.
+If two adjacent angles of a parallelogram are (5x – 5)° and (10x +
+35)°, then the ratio of these angles is
+(a) 1 : 3
+(b) 2 : 3
+(c) 1 : 4
+(d) 1 : 2
+17.
+A quadrilateral whose all sides are equal, opposite angles are equal
+and the diagonals bisect each other at right angles is a __________.
+(a) rhombus
+(b) parallelogram
+(c) square
+ (d) rectangle
+18.
+A quadrialateral whose opposite sides and all the angles are equal is a
+(a) rectangle
+(b) parallelogram
+(c) square
+ (d) rhombus
+19.
+A quadrilateral whose all sides, diagonals and angles are equal is a
+(a) square
+(b) trapezium
+(c) rectangle (d) rhombus
+12/04/18
+
+
+
+20.
+How many diagonals does a hexagon have?
+(a) 9
+(b) 8
+(c) 2
+(d) 6
+21.
+If the adjacent sides of a parallelogram are equal then parallelogram
+is a
+(a) rectangle
+(b) trapezium
+(c) rhombus
+(d) square
+22.
+If the diagonals of a quadrilateral are equal and bisect each other,
+then the quadrilateral is a
+(a) rhombus
+(b) rectangle
+(c) square
+(d)  parallelogram
+23.
+The sum of all exterior angles of a triangle is
+(a) 180°
+(b) 360°
+(c) 540°
+(d) 720°
+24.
+Which of the following is an equiangular and equilateral polygon?
+(a) Square
+(b) Rectangle
+(c) Rhombus
+(d) Right triangle
+25.
+Which one has all the properties of a kite and a parallelogram?
+(a) Trapezium (b) Rhombus
+(c) Rectangle
+(d) Parallelogram
+26.
+The angles of a quadrilateral are in the ratio 1 : 2 : 3 : 4. The
+smallest angle is
+(a) 72°
+(b) 144°
+(c) 36°
+(d) 18°
+27.
+In the trapezium ABCD, the measure of ∠D is
+(a) 55°
+(b) 115°
+(c) 135°
+(d) 125°
+28.
+A quadrilateral has three acute angles. If each measures 80°, then
+the measure of the fourth angle is
+(a) 150°
+(b) 120°
+(c) 105°
+(d) 140°
+29.
+The number of sides of a regular polygon where each exterior angle
+has a measure of 45° is
+(a) 8
+(b) 10
+(c) 4
+(d) 6
+12/04/18
+
+
+
+30.
+In a parallelogram PQRS, if ∠P = 60°, then other three angles are
+(a) 45°, 135°, 120°
+(b) 60°, 120°, 120°
+(c) 60°, 135°, 135°
+(d) 45°, 135°, 135°
+31.
+If two adjacent angles of a parallelogram are in the ratio 2 : 3, then
+the measure of angles are
+(a) 72°, 108°
+(b) 36°, 54°
+(c) 80°, 120° (d) 96°, 144°
+32.
+If PQRS is a parallelogram, then ∠P – ∠R is equal to
+(a) 60°
+(b) 90°
+(c) 80°
+(d) 0°
+33.
+The sum of adjacent angles of a parallelogram is
+(a) 180°
+(b) 120°
+(c) 360°
+(d) 90°
+34.
+The angle between the two altitudes of a parallelogram through the
+same vertex of an obtuse angle of the parallelogram is 30°. The
+measure of the obtuse angle is
+(a) 100°
+(b) 150°
+(c) 105°
+(d) 120°
+35.
+In the given figure, ABCD and BDCE are parallelograms with
+common base DC. If BC ⊥ BD, then ∠BEC =
+(a) 60°
+(b) 30°
+(c) 150°
+(d) 120°
+36.
+Length of one of the diagonals of a rectangle whose sides are 10 cm
+and 24 cm is
+(a) 25 cm
+(b) 20 cm
+(c) 26 cm
+(d) 3.5 cm
+37.
+If the adjacent angles of a parallelogram are equal, then the
+parallelogram is a
+(a) rectangle
+(b) trapezium
+(c) rhombus
+(d) any of the three
+38.
+Which of the following can be four interior angles of a quadrilateral?
+(a) 140°, 40°, 20°, 160°
+(b) 270°, 150°, 30°, 20°
+(c) 40°, 70°, 90°, 60°
+(d) 110°, 40°, 30°, 180°
+12/04/18
+
+
+
+39.
+The sum of angles of a concave quadrilateral is
+(a) more than 360°
+(b) less than 360°
+(c) equal to 360°
+(d) twice of 360°
+40.
+Which of the following can never be the measure of exterior angle of
+a regular polygon?
+(a) 22°
+(b) 36°
+(c) 45°
+(d) 30°
+41.
+In the figure, BEST is a rhombus, Then the value of y – x is
+(a) 40°
+(b) 50°
+(c) 20°
+(d) 10°
+42.
+The closed curve which is also a polygon is
+(a) 
+(b) 
+(c) 
+(d) 
+43.
+Which of the following is not true for an exterior angle of a regular
+polygon with n sides?
+(a) Each exterior angle = 
+n
+360°
+(b) Exterior angle = 180° – interior angle
+(c) 
+360
+exterior angle
+n
+°
+=
+(d) Each exterior angle = n
+n
+(
+– 2) 180
+×
+°
+44.
+PQRS is a square. PR and SQ intersect at O. Then ∠POQ is a
+(a) Right angle
+(b) Straight angle
+(c) Reflex angle
+(d) Complete angle
+12/04/18
+
+
+
+45.
+Two adjacent angles of a parallelogram are in the ratio 1:5. Then all
+the angles of the parallelogram are
+(a) 30°, 150°, 30°, 150°
+(b) 85°, 95°, 85°, 95°
+(c) 45°, 135°, 45°, 135°
+(d) 30°, 180°, 30°, 180°
+46.
+A parallelogram PQRS is constructed with sides QR = 6 cm, PQ = 4
+cm and ∠PQR = 90°. Then PQRS is a
+(a) square
+(b) rectangle
+         (c) rhombus         (d) trapezium
+47.
+The angles P, Q, R and S of a quadrilateral are in the ratio 1:3:7:9.
+Then PQRS is a
+(a) parallelogram
+(b) trapezium with PQ || RS
+(c) trapezium with QR||PS
+(d) kite
+48.
+PQRS is a trapezium in which PQ||SR and ∠P=130°, ∠Q=110°.
+Then ∠R is equal to:
+(a) 70°
+(b) 50°
+(c) 65°
+(d) 55°
+49.
+The number of sides of a regular polygon whose each interior angle
+is of 135° is
+(a) 6
+(b) 7
+(c) 8
+(d) 9
+50.
+If a diagonal of a quadrilateral bisects both the angles, then it is a
+(a) kite
+(b) parallelogram
+(c) rhombus
+(d) rectangle
+51.
+To construct a unique parallelogram, the minimum number of
+measurements required is
+(a) 2
+(b) 3
+(c) 4
+(d) 5
+52.
+To construct a unique rectangle, the minimum number of
+measurements required is
+(a) 4
+(b) 3
+(c) 2
+(d) 1
+In questions 53 to 91, fill in the blanks to make the statements true.
+53.
+In quadrilateral HOPE, the pairs of opposite sides are __________.
+54.
+In quadrilateral ROPE, the pairs of adjacent angles are __________.
+55.
+In quadrilateral WXYZ, the pairs of opposite angles are __________.
+12/04/18
+
+
+
+56.
+The diagonals of the quadrilateral DEFG are __________ and
+__________.
+57.
+The sum of all __________ of a quadrilateral is 360°.
+58.
+The measure of each exterior angle of a regular pentagon is __________.
+59.
+Sum of the angles of a hexagon is __________.
+60.
+The measure of each exterior angle of a regular polygon of 18 sides
+is __________.
+61.
+The number of sides of a regular polygon, where each exterior angle
+has a measure of 36°, is __________.
+62.
+ 
+is a closed curve entirely made up of line segments. The
+another name for this shape is __________.
+63.
+A quadrilateral that is not a parallelogram but has exactly two
+opposite angles of equal measure is __________.
+64.
+The measure of each angle of a regular pentagon is __________.
+65.
+The name of three-sided regular polygon is __________.
+66.
+The number of diagonals in a hexagon is __________.
+67.
+A polygon is a simple closed curve made up of only __________.
+68.
+A regular polygon is a polygon whose all sides are equal and all
+__________ are equal.
+69.
+The sum of interior angles of a polygon of n sides is __________right
+angles.
+70.
+The sum of all exterior angles of a polygon is __________.
+71.
+__________ is a regular quadrilateral.
+72.
+A quadrilateral in which a pair of opposite sides is parallel is
+__________.
+73.
+If all sides of a quadrilateral are equal, it is a __________.
+74.
+In a rhombus diagonals intersect at __________ angles.
+75.
+__________ measurements can determine a quadrilateral uniquely.
+12/04/18
+
+
+
+76.
+A quadrilateral can be constructed uniquely if its three sides and
+__________ angles are given.
+77.
+A rhombus is a parallelogram in which __________ sides are equal.
+78.
+The measure of __________ angle of concave quadrilateral is more
+than 180°.
+79.
+A diagonal of a quadrilateral is a line segment that joins two __________
+vertices of the quadrilateral.
+80.
+The number of sides in a regular polygon having measure of an
+exterior angle as 72° is __________.
+81.
+If the diagonals of a quadrilateral bisect each other, it is a __________.
+82.
+The adjacent sides of a parallelogram are 5 cm and 9 cm. Its perimeter
+is __________.
+83.
+A nonagon has __________ sides.
+84.
+Diagonals of a rectangle are __________.
+85.
+A polygon having 10 sides is known as __________.
+86.
+A rectangle whose adjacent sides are equal becomes a __________.
+87.
+If one diagonal of a rectangle is 6 cm long, length of the other diagonal
+is __________.
+88.
+Adjacent angles of a parallelogram are __________.
+89.
+If only one diagonal of a quadrilateral bisects the other, then the
+quadrilateral is known as __________.
+90.
+In trapezium ABCD with AB||CD, if ∠A = 100°, then ∠D = __________.
+91.
+The polygon in which sum of all exterior angles is equal to the sum
+of interior angles is called __________.
+In questions 92 to 131 state whether the statements are true (T) or (F)
+false.
+92.
+All angles of a trapezium are equal.
+93.
+All squares are rectangles.
+94.
+All kites are squares.
+95.
+All rectangles are parallelograms.
+12/04/18
+
+
+
+96.
+All rhombuses are squares.
+97.
+Sum of all the angles of a quadrilateral is 180°.
+98.
+A quadrilateral has two diagonals.
+99.
+Triangle is a polygon whose sum of exterior angles is double the
+sum of interior angles.
+100. 
+ is a polygon.
+101. A kite is not a convex quadrilateral.
+102. The sum of interior angles and the sum of exterior angles taken in
+an order are equal in case of quadrilaterals only.
+103. If the sum of interior angles is double the sum of exterior angles
+taken in an order of a polygon, then it is a hexagon.
+104. A polygon is regular if all of its sides are equal.
+105. Rectangle is a regular quadrilateral.
+106. If diagonals of a quadrilateral are equal, it must be a rectangle.
+107. If opposite angles of a quadrilateral are equal, it must be a
+parallelogram.
+108. The interior angles of a triangle are in the ratio 1:2:3, then the ratio
+of its exterior angles is 3:2:1.
+109. 
+ is a concave pentagon.
+110. Diagonals of a rhombus are equal and perpendicular to each other.
+111. Diagonals of a rectangle are equal.
+112. Diagonals of rectangle bisect each other at right angles.
+113. Every kite is a parallelogram.
+12/04/18
+
+
+
+114. Every trapezium is a parallelogram.
+115. Every parallelogram is a rectangle.
+116. Every trapezium is a rectangle.
+117. Every rectangle is a trapezium.
+118. Every square is a rhombus.
+119. Every square is a parallelogram.
+120. Every square is a trapezium.
+121. Every rhombus is a trapezium.
+122. A quadrilateral can be drawn if only measures of four sides are given.
+123. A quadrilateral can have all four angles as obtuse.
+124. A quadrilateral can be drawn if all four sides and one diagonal is
+known.
+125. A quadrilateral can be drawn when all the four angles and one side
+is given.
+126. A quadrilateral can be drawn if all four sides and one angle is known.
+127. A quadrilateral can be drawn if three sides and two diagonals are
+given.
+128. If diagonals of a quadrilateral bisect each other, it must be a
+parallelogram.
+129. A quadrilateral can be constructed uniquely if three angles and any
+two sides are given.
+130. A parallelogram can be constructed uniquely if both diagonals and
+the angle between them is given.
+131. A rhombus can be constructed uniquely if both diagonals are given.
+Solve the following :
+132. The diagonals of a rhombus are 8 cm and 15 cm. Find its side.
+133. Two adjacent angles of a parallelogram are in the ratio 1:3. Find its
+angles.
+134. Of the four quadrilaterals— square, rectangle, rhombus and
+trapezium— one is somewhat different from the others because of its
+design. Find it and give justification.
+12/04/18
+
+
+
+135. In a rectangle ABCD, AB = 25 cm and BC = 15. In what ratio does
+the bisector of ∠C divide AB?
+136. PQRS is a rectangle. The perpendicular ST from S on PR divides ∠S
+in the ratio 2:3. Find ∠TPQ.
+137. A photo frame is in the shape of a quadrilateral. With one diagonal
+longer than the other. Is it a rectangle? Why or why not?
+138. The adjacent angles of a parallelogram are (2x – 4)° and (3x – 1)°.
+Find the measures of all angles of the parallelogram.
+139. The point of intersection of diagonals of a quadrilateral divides one
+diagonal in the ratio 1:2. Can it be a parallelogram? Why or why
+not?
+140. The ratio between exterior angle and interior angle of a regular
+polygon is 1:5. Find the number of sides of the polygon.
+141. Two sticks each of length 5 cm are crossing each other such that
+they bisect each other. What shape is formed by joining their end
+points? Give reason.
+142. Two sticks each of length 7 cm are crossing each other such that
+they bisect each other at right angles. What shape is formed by
+joining their end points? Give reason.
+143. A playground in the town is in the form of a kite. The perimeter is
+106 metres. If one of its sides is 23 metres, what are the lengths of
+other three sides?
+144. In rectangle READ, find ∠EAR, ∠RAD and ∠ROD
+60° 
+D
+A
+E
+R
+O
+12/04/18
+
+
+
+145. In rectangle PAIR, find ∠ARI, ∠RMI and ∠PMA.
+146. In parallelogram ABCD, find ∠B, ∠C and ∠D.
+147. In parallelogram PQRS, O is the mid point of SQ. Find ∠S, ∠R, PQ,
+QR and diagonal PR.
+R
+Q
+P
+S
+O
+6 cm
+Y
+60°
+11 cm
+15 cm
+148. In rhombus BEAM, find ∠AME and ∠AEM.
+149. In parallelogram FIST, find ∠SFT, ∠OST and ∠STO.
+12/04/18
+
+
+
+150. In the given parallelogram YOUR, ∠RUO = 120° and OY is extended
+to  point S such that ∠SRY = 50°. Find ∠YSR.
+151. In kite WEAR, ∠WEA = 70° and ∠ARW = 80°. Find the remaining
+two angles.
+152. A rectangular MORE is shown below:
+Answer the following questions by giving appropriate reason.
+(i)
+Is RE = OM?
+(ii)
+Is ∠MYO = ∠RXE?
+(iii)
+Is ∠MOY = ∠REX?
+(iv) Is ∆MYO ≅ ∆RXE?
+(v)
+Is MY = RX?
+12/04/18
+
+
+
+153. In parallelogram LOST, SN⊥OL and SM⊥LT. Find ∠STM, ∠SON and
+∠NSM.
+154. In trapezium HARE, EP and RP are bisectors of ∠E and ∠R
+respectively. Find ∠HAR and ∠EHA.
+E
+R
+30°
+25°
+H
+A
+P
+155. In parallelogram MODE, the bisector of ∠M and ∠O meet at Q, find
+the measure of ∠MQO.
+156. A playground is in the form of a rectangle ATEF. Two players are
+standing at the points F and B where EF = EB. Find the values of x
+and y.
+157. In the following figure of a ship, ABDH and CEFG are two
+parallelograms. Find the value of x.
+12/04/18
+
+
+
+158. A Rangoli has been drawn on a flor of a house. ABCD and PQRS
+both are in the shape of a rhombus. Find the radius of semicircle
+drawn on each side of rhombus ABCD.
+159. ABCDE is a regular pentagon.  The bisector of angle A meets the
+side CD at M. Find ∠AMC
+160. Quadrilateral EFGH is a rectangle in which J is the point of
+intersection of the diagonals. Find the value of x if JF = 8x + 4 and
+EG =  24x – 8.
+161. Find the values of x and y in the following parallelogram.
+12/04/18
+
+
+
+162. Find the values of x and y in the following kite.
+163. Find the value of x in the trapezium ABCD given below.
+164. Two angles of a quadrilateral are each of measure 75° and the other
+two angles are equal. What is the measure of these two angles? Name
+the possible figures so formed.
+165. In a quadrilateral PQRS, ∠P = 50°, ∠Q = 50°, ∠R = 60°. Find ∠S. Is
+this quadrilateral convex or concave?
+166. Both the pairs of opposite angles of a quadrilateral are equal and
+supplementary. Find the measure of each angle.
+167. Find the measure of each angle of a regular octagon.
+168. Find the measure of an are exterior angle of a regular pentagon and
+an exterior angle of a regular decagon. What is the ratio between
+these two angles?
+169. In the figure, find the value of x.
+12/04/18
+
+
+
+170. Three angles of a quadrilateral are equal. Fourth angle is of measure
+120°. What is the measure of equal angles?
+171. In a quadrilateral HOPE, PS and ES are bisectors of ∠P and ∠E
+respectively. Give reason.
+172. ABCD is a parallelogram. Find the value of x, y and z.
+173. Diagonals of a quadrilateral are perpendicular to each other. Is such
+a quadrilateral always a rhombus? Give a figure to justify your answer.
+174. ABCD is a trapezium such that AB||CD, ∠A : ∠D = 2 :1, ∠B : ∠C =
+7 : 5. Find the angles of the trapezium.
+175. A line l is parallel to line m and a transversal p interesects them at X,
+Y respectively. Bisectors of interior angles at X and Y interesct at P
+and Q. Is PXQY a rectangle? Given reason.
+176. ABCD is a parallelogram. The bisector of angle A intersects CD at X
+and bisector of angle C intersects AB at Y. Is AXCY a parallelogram?
+Give reason.
+177. A diagonal of a parallelogram bisects an angle. Will it also bisect the
+other angle? Give reason.
+178. The angle between the two altitudes of a parallelogram through the
+vertex of an obtuse angle of the parallelogram is 45°. Find the angles
+of the parallelogram.
+179. ABCD is a rhombus such that the perpendicular bisector of AB passes
+through D. Find the angles of the rhombus.
+Hint: Join BD. Then ∆ ABD is equilateral.
+180. ABCD is a parallelogram. Points P and Q are taken on the sides AB
+and AD respectively and the parallelogram PRQA is formed. If ∠C =
+45°, find ∠R.
+12/04/18
+
+
+
+181. In parallelogram ABCD, the angle bisector of ∠A bisects BC. Will
+angle bisector of B also bisect AD? Give reason.
+182. A regular pentagon ABCDE and a square ABFG are formed on
+opposite sides of AB. Find ∠BCF.
+183. Find maximum number of acute angles which a convex, a
+quadrilateral, a pentagon and a hexagon can have. Observe the
+pattern and generalise the result for any polygon.
+184. In the following figure, FD||BC||AE and AC||ED. Find the value of x.
+185. In the following figure, AB||DC and AD = BC. Find the value of x.
+186. Construct a trapezium ABCD in which AB||DC, ∠A = 105°, AD =
+3 cm, AB = 4 cm and CD = 8 cm.
+187. Construct a parallelogram ABCD in which AB = 4 cm, BC = 5 cm
+and ∠B = 60°.
+188. Construct a rhombus whose side is 5 cm and one angle is of 60°.
+189. Construct a rectangle whose one side is 3 cm and a diagonal equal
+to 5 cm.
+190. Construct a square of side 4 cm.
+191. Construct a rhombus CLUE in which CL = 7.5 cm and LE = 6 cm.
+192. Construct a quadrilateral BEAR in which BE = 6 cm, EA = 7 cm,
+RB = RE = 5 cm and BA = 9 cm. Measure its fourth side.
+12/04/18
+
+
+
+193. Construct a parallelogram POUR in which, PO=5.5 cm, OU = 7.2 cm
+and ∠O = 70°.
+194. Draw a circle of  radius 3 cm and draw its diameter and label it as AC.
+Construct its perpendicular bisector and let it intersect the circle at B
+and D. What type of quadrilateral is ABCD? Justify your answer.
+195. Construct a parallelogram HOME with HO = 6 cm, HE = 4 cm and
+OE = 3 cm.
+196. Is it possible to construct a quadrilateral ABCD in which AB = 3 cm,
+BC = 4 cm, CD = 5.4 cm, DA = 5.9 cm and diagonal AC = 8 cm? If
+not, why?
+197. Is it possible to construct a quadrilateral ROAM in which RO=4 cm,
+OA = 5 cm, ∠O = 120°, ∠R = 105° and ∠A = 135°? If not, why?
+198. Construct a square in which each diagonal is 5cm long.
+199. Construct a quadrilateral NEWS in which NE = 7cm, EW = 6 cm, ∠N
+= 60°, ∠E = 110° and ∠S = 85°.
+200. Construct a parallelogram when one of its side is 4cm and its two
+diagonals are 5.6 cm and 7cm. Measure the other side.
+201. Find the measure of each angle of a regular polygon of 20 sides?
+202. Construct a trapezium RISK in which RI||KS, RI = 7 cm, IS = 5 cm,
+RK=6.5 cm and ∠I = 60°.
+203. Construct a trapezium ABCD where AB||CD, AD = BC = 3.2cm, AB
+= 6.4 cm and CD = 9.6 cm. Measure ∠B  and  ∠A.
+[Hint : Difference of two parallel sides gives an equilateral triangle.]
+12/04/18
+
+
+
+
+1 : Constructing a Tessellation
+Tessellation: A tessellation is created when a shape is repeated over and
+over again covering a plane surface without any gaps or overlaps.
+Regular Tesselations : It means a tessellation made up of congruent regular
+polygons. For example:
+A tessellation of triangles
+This arrangement can be extended to complete tiling of a floor (or tessellation).
+Rules for Regular Tessellation:
+(i)
+In tessellation there should be no overlappings/gaps between tiles.
+(ii)
+The tiles must be regular polygons.
+(iii)
+Design at each vertex must look the same.
+Caution
+Will pentagons work?
+The interior angle of a pentagon is 1080 . . .
+1800 + 1080 + 1080 = 3240 degrees . . .  No!
+Thus, since the regular polygons must fill the plane at each vertex, the
+interior angle must be an exact divisor of 360°.
+12/04/18
+
+
+
+Now, find the regular polygon that can tessellate by trying a sample
+in table below.
+Polygon
+Tessellation
+1. Triangle
+                
+2.
+Square
+3. Regular Pentagon
+4. Regular Hexagon
+5.
+Regular Heptagon
+6. Regular Octagon
+Conclusion
+Thus, only regular polygons that can tessellate are
+1. ______________________
+2. ______________________
+3. ______________________
+Assignment
+1. You can construct a tessellation on computer using following steps:
+-
+Hold down a basic images and copy it to paintbrush.
+-
+Keep on moving and pasting by positioning each to see a
+tessellation.
+12/04/18
+
+
+
+2. Semi Regular Tessellation : These are made by using two or more
+different regular polygons. Every vertex must have the same
+configuration, e.g.:
+Y - yellow
+B - Blue
+G - Green
+R - Red
+Now discover same more tessellation of this type .
+2
+Constructing a TANGRAM
+Cut the pieces of given square as shown on next page and make
+different shapes as shown below.
+Different shapes can be made of Tangram Pieces
+Try to form a story using different shapes of animals.
+Required Square
+3
+Motivate the students to participate
+Read the following description of a square before the students and
+let them draw what you have described.
+Descriptions: My quadrilateral has opposite sides equal.
+12/04/18
+
+
+
+Let students compare their drawings with each other and with your
+square. Let students discuss what all their drawings have in common
+(they are all parallelograms) and what additional information is
+necessary to guarantee that they all would draw a square.
+(e.g. All 4 sides equal and one right angle.)
+4: Place ‘’ or ‘’ in the appropriate spaces according to the property of
+different quadrilaterals.
+Parallelogram Rectangle Rhombus Square Trapezium Trapezium Kite
+with non
+parallel
+sides equal
+Opposite
+sides
+          
+
+
+
+
+
+
+parallel
+Opposite
+sides
+equal
+Opposite
+angles
+equal
+Diagonal
+forms
+congruent
+triangles
+Diagonals
+bisect each
+other
+Diagonals
+are perpen-
+dicular
+Diagonals
+are equal
+Diagonals
+bisect
+opposite
+angles
+All angles
+are right
+All sides
+are equal
+12/04/18
+
+
+
+Use the quadrilateral chart at Page 167 to do the following activity and
+answer the following questions.
+(a)
+How can you use the properties shown in the quadrilateral chart to
+make a statement that you believe is true about all parallelograms?
+(b) How can you use the properties shown in the quadrilateral chart to
+make a statement that you believe is true about all rhombuses?
+(c)
+How can you use the properties shown in the quadrilateral chart to
+make a statement that you believe is true about all rhombuses, but
+not parallelograms?
+(d) How can you use the properties shown in the quadrilateral chart to
+make a statement that you believe is true about only rhombuses?
+(e) How are the properties of rhombuses like the properties of
+parallelograms in general?
+(f) How are the properties of rhombuses different from the properties
+of parallelograms?
+(g) Which quadrilaterals have exactly one line of symmetry? Exactly
+two? Exactly three? Exactly four?
+(h) Make a ‘Family Tree’ to show the relationship among the
+quadrilaterals you have been investigating.
+5: Have students take each of the quadrilateral named below, join, in
+order, the mid points of the sides and describe the special kind of
+quadrilaterals they get each time:
+(a) Rhombus.
+(b) Rectangle.
+(c)
+Trapezium with non-parallel sides equal.
+(d) Trapezium with non-parallel sides unequal.
+(e)
+Kite.
+12/04/18
+
+
+
+6: Crossword Puzzle
+Solve the given crossword and then fill up the given boxes (on the next
+page). Clues are given below for across as well as downward filling. Also,
+for across and down clues, clue number is written at the corner of the
+boxes. Answers of clues have to be filled up in their respective boxes.
+Clues
+Across
+1.
+A quadrilateral with pair of parallel sides.
+2.
+A simple closed curve made up of only line segments.
+3.
+A quadrilateral which has exactly two distinct consecutive pairs of
+sides of equal length.
+4.
+A line segment connecting two non-consecutive vertices of a polygon.
+5.
+The diagonals of a rhombus are _________ bisectors of one another.
+6.
+The ___________ sides of a parallelogram are of equal length.
+7.
+The number of sides of a regular polygon whose each exterior angle
+has a measure of 450.
+8.
+The sum of measure of the three angles of a _________________ is 1800.
+9.
+A polygon which is both equiangular and equilateral is called a
+_________ polygon.
+10. Number of sides of a nonagon.
+Down
+11. Name of the figure
+12. The ___________ angles of a parallelogram are supplementary.
+13. A ______________ is a quadrilateral whose pair of opposite sides are
+parallel.
+14. The diagonals of a rectangle are of _______________ length.
+15. A five sided polygon.
+16. The diagonals of a parallelogram _____________ each other.
+17. A quadrilateral having all the properties of a parallelogram and also
+that of a kite.
+12/04/18
+
+170    EXEMPLAR PROBLEMS
+MATHEMATICS
+12/04/18

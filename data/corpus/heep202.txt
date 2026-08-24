@@ -1,0 +1,1729 @@
+
+
+
+
+
+
+
+• The information collected in term of numbers is called data.
+• Data are represented graphically to have a quick glance on them.
+• Data available in an unorganised form are called raw data.
+• The number of times a particular observation occurs in a given
+data is called its frequency.
+• When the data are large, they can be arranged in groups and each
+group is known as Class Interval or Class.
+• A table showing the frequencies of various observations or class
+intervals of a given data is called a Frequency Distribution table.
+• The upper value of a class interval is called its Upper Class Limit
+and the lower value of the class interval is called its Lower Class
+Limit.
+• The difference between the upper class limit and lower class limit
+of a class is called the Width or Size of the class.
+• The difference between the lowest and the highest observation in a
+given data is called its Range.
+• Grouped data can be represented by a histogram.
+• Histogram is a type of bar diagram, where the class intervals are
+shown on the horizontal axis and the heights of the bars
+(rectangles) show the frequency of the class interval, but there is
+no gap between the bars as there is no gap between the class
+intervals.
+• Data can also be represented using a pie chart (circle graph). It
+shows the relationship between a whole and its parts.
+12/04/18
+
+
+
+Sports
+25%
+Entertainment
+50%
+Informative
+10%
+News
+15%
+• There are certain experiments whose outcomes have an equal
+chance of occurring. Such outcomes are said to be equally likely.
+• Probability of an event =
+Number of outcomes that make an event
+,
+Total number of outcomes of the experiment
+when the outcomes are equally likely.
+
+
+In examples 1 to 6, there are four options given out of which one is
+correct. Choose the correct answer.
+Example 1
+: The range of the data– 9, 8, 4, 3, 2, 1, 6, 4, 8, 10, 12, 15,
+4, 3 is
+(a) 15
+(b) 14
+(c) 12
+(d) 10
+Solution
+: The correct answer is (b).
+Example 2
+: The following data : 2, 5, 15, 25, 20, 12, 8, 7, 6, 16, 21,
+17, 30, 32, 23, 40, 51, 15, 2, 9, 57, 19, 25 is grouped in
+the classes 0 –5, 5 –10, 10 –15 etc. Find the frequency of
+the class 20 –25.
+(a) 5
+(b) 4
+(c) 3
+(d) 2
+Solution
+: The correct answer is (c).
+Example 3
+: The pie chart depicts the information of viewers watching
+different type of channels on TV. Which type of
+programmes are viewed the most?
+(a) News
+(b) Sports
+(c) Entertainment
+(d) Informative.
+Solution
+: The correct answer is (c).
+12/04/18
+
+
+
+Example 4
+:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+125
+0
+130 135 140
+145 150 160
+Heights in cm 
+No. of girls in class VIII 
+Observe the histogram given above. The number of girls
+having height 145 cm and above is
+(a) 5
+(b) 10
+(c) 17
+(d) 19
+Solution
+: The correct answer is (b).
+Example 5
+: A dice is thrown two times and sum of the numbers
+appearing on the dice are noted. The number of possible
+outcomes is
+(a) 6
+(b) 11
+(c) 18
+(d) 36
+Solution
+: The correct answer is (b).
+[Possible sums are 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].
+Example 6
+: The probability of getting a multiple of 2 when a dice is
+rolled is
+(a)
+1
+6
+(b) 1
+3
+(c)
+1
+2
+(d) 2
+3
+Solution
+: The correct answer is (c).
+In examples 7 to 9 fill in the blanks to make statements true.
+Example 7
+: The fourth class interval for a grouped data whose first
+and second class intervals are 10 –15 and 15 –20
+respectively is __________.
+ Solution
+: 25 – 30
+12/04/18
+
+
+
+Example 8
+: In the class interval 250 – 275, 250 is known as the
+_________.
+Solution
+: Lower class limit.
+Example 9
+: The number of times a particular observation occurs in
+the given data is called its __________.
+Solution
+: Frequency.
+In examples 10 to 12, state whether the statements are true (T) or false (F).
+Example 10 : The central angle of the sectors in a pie chart will be a
+fraction of 360°.
+Solution
+: True.
+Example 11 : On throwing a dice, the probability of occurrence of an
+odd number is 1
+2 .
+Solution
+: True.
+Example 12 : A pie chart is also called a pictograph.
+Solution
+: False .
+Example 13 : The weekly wages (in Rs.) of 30 workers in a factory are
+830, 835, 890, 810, 835, 836, 869, 845, 898, 890, 820,
+860, 832, 833, 855, 845, 804, 808, 812, 840, 885, 835,
+835, 836, 878, 840, 868, 890, 806, 840.
+Using tally marks, make a frequency distribution table
+with class intervals 800 – 810, 810 – 820 and so on.
+Solution
+:
+Class interval
+Tally marks
+Frequency
+800 – 810
+|||
+3
+810 – 820
+||
+2
+820 – 830
+|
+1
+830 – 840
+||||||||
+9
+840 – 850
+||||
+5
+850 – 860
+|
+1
+860 – 870
+|||
+3
+870 – 880
+|
+1
+880 – 890
+|
+1
+890 – 900
+||||
+4
+Total
+30
+12/04/18
+
+
+
+Example 14 : The pie chart gives the marks scored in an examination
+by a student in different subjects. If the total marks
+obtained were 540, answer the following questions–
+(i) In which subject did the student score 105 marks?
+(ii) How many more marks were obtained by the
+student in Mathematics than in Hindi?
+Solution
+: (i) For 540 marks, central angle = 360°
+For 1 mark, central angle = 
+360
+540
+
+For 105 marks, central angle = 
+360
+105
+540
+
+= 70°
+Hence the student scored 105 marks in Hindi.
+(ii) Central angle = 360° for 540 marks,
+For 1 mark, central angle = 
+°
+360
+540
+For 90 marks, central angle = 
+540
+360 × 90 marks
+     = 135 marks.
+Thus, the student gets 135 marks in Mathematics.
+From part (i) we get that the student gets 105 marks
+in Hindi.
+Difference in marks = 135 – 105 = 30
+Hence, the student gets 30 more marks in
+Mathematics than in Hindi.
+12/04/18
+
+
+
+Example 15 : Draw a pie chart for the given data.
+Favourite food
+Number of people
+North Indian
+30
+South Indian
+40
+Chinese
+25
+Others
+25
+Solution
+: Total number of people = 120
+We find the central angle for each sector.
+Favourite food
+Number of people
+In fraction
+Central angle
+North Indian
+30
+30
+120 = 1
+4
+1
+4 × 360°=90°
+South Indian
+40
+40
+120 =
+1
+3
+1
+3 × 360°=120°
+Chinese
+25
+25
+120 =
+5
+24
+5
+24 × 360°=75°
+Others
+25
+25
+120 = 5
+24
+5
+24 × 360°=75°
+Line graph
+Bar graph
+Cricle graph
+Histogram
+Type of Graph
+Shows change in data over time.
+Shows relationship or comparisons between groups.
+Compares parts to a whole.
+Shows the frequency of data divided into equal
+groups.
+Try to write a formula for the probability of finding a paper.
+Data can be represented in several different ways, depending on the type of
+data and the message to be conveyed.
+The pie chart is
+drawn adjacently.
+12/04/18
+
+
+
+Example 16 : Draw a histogram for the frequency distribution table
+given in Example 13 and answer the following questions.
+(i) Which class interval has the maximum number of
+workers?
+(ii) How many workers earn Rs. 850 and more?
+(iii) How many workers earn less than Rs. 850?
+(iv) How many workers earn Rs. 820 or more but less
+than Rs. 880?
+Solution
+:
+(i) 830 – 840
+(ii) 10
+(iii) 20
+(iv) 20
+Example 17 : Read the frequency distribution table given below and
+answer the questions that follow:
+Class Interval
+Frequency
+25 – 35
+1
+35 – 45
+5
+45 – 55
+5
+55 – 65
+4
+65 – 75
+0
+75 – 85
+8
+85 – 95
+2
+Total
+25
+12/04/18
+
+
+
+(i) Class interval which has the lowest frequency.
+(ii) Class interval which has the highest frequency.
+(iii) What is the class size of the intervals?
+(iv) What is the upper limit of the fifth class?
+(v) What is the lower limit of the last class?
+Solution
+: (i) 65 – 75
+(ii) 75 – 85
+(iii) 10
+(iv) 75
+(v) 85
+Example 18 : Application on problem solving strategy
+Given below is a pie chart depicting the reason given by
+people who had injured their lower back.
+Study the pie chart
+and 
+find 
+the
+number of people
+who injured their
+back while either
+bending and lifting.
+A total of 600 people
+were surveyed.
+Solution
+: Understand and explore the problem
+•
+What information is given in the question?
+The percentages of the most common reasons given
+by 600 people.
+•
+What are you trying to find?
+The total number of people out of 600 who have
+injured their back while bending and lifting.
+•
+Is there any information that is not needed?
+The percentages of other reasons except bending and
+lifting are not required.
+Plan a strategy
+•
+You have learnt to solve questions dealing with
+percentages in earlier classes. Use the same method
+to solve this question.
+1.
+Lifting
+2.
+Twisting
+3.
+Bending
+4.
+Pulling
+5.
+Others
+49%
+12%
+18%
+9%
+12%
+(1)
+(4)
+(3)
+(5)
+(2)
+12/04/18
+
+
+
+•
+18% have injured their back while bending and
+49% have injured their back while lifting so–
+To find
+The total number of people can be found by finding
+(18% + 49%) = 67% of 600.
+Solve
+Total percentage of people who injured their back while
+bending and lifting = 18% +49% = 67%.
+Number of people who injured their back while bending
+and lifting
+= 67% of 600
+= 
+×
+67
+600
+100
+= 402
+Hence, 402 people injured their back while bending and
+lifting.
+Revise
+You can check the answer by finding the total number of
+people who injured their backs for reasons other than
+bending and lifting and then subtracting the answer from
+the total number of people.
+Total percentage of people who injured their backs for
+reasons other than bending and lifting = 12% +12% + 9%
+= 33%
+Number of such people = 33% of 600  = 33
+600
+100 ×
+= 198
+So, 600 –198 should give us the answer for our original
+question, and 600 –198 = 402 which is same as our
+answer. Hence our answer is correct.
+
+(i) If the total angle covered by all sectors is 3600, find the angle covered
+by the sector representing the people who injured their back by
+pulling only.
+(ii) If the number of people surveyed is doubled, would the number of
+people who injured their back by bending and lifting also be doubled?
+12/04/18
+
+
+
+
+In questions 1 to 35 there are four options given, out of which one is
+correct. Choose the correct answer.
+1. The height of a rectangle in a histogram shows the
+(a) Width of the class
+(b) Upper limit of the class
+(c) Lower limit of the class
+(d) Frequency of the class
+2. A geometric representation showing the relationship between a whole
+and its parts is a
+(a) Pie chart
+(b) Histogram
+(c) Bar graph
+(d) Pictograph
+3. In a pie chart, the total angle at the centre of the circle is
+(a) 180°
+(b) 360°
+(c) 270°
+(d) 90°
+4. The range of the data 30, 61, 55, 56, 60, 20, 26, 46, 28, 56 is
+(a) 26
+(b) 30
+(c) 41
+(d) 61
+5. Which of the following is not a random experiment?
+(a) Tossing a coin
+(b) Rolling a dice
+(c) Choosing a card from a deck of 52 cards
+(d) Thowing a stone from a roof of a building
+6. What is the probability of choosing a vowel from the alphabets?
+(a)
+21
+26
+(b)
+5
+26
+(c)
+1
+26
+(d)
+3
+26
+7. In a school only, 3 out of 5 students can participate in a competition.
+What is the probability of the students who do not make it to the
+competition?
+(a) 0.65
+(b) 0.4
+(c) 0.45
+(d) 0.6
+Students of a class voted for their favourite
+colour and a pie chart was prepared based on
+the data collected.
+Observe the pie chart given below and answer
+questions 8 –10 based on it.
+8. Which colour received 1
+5 of the votes?
+(a) Red
+(b) Blue
+(c) Green
+(d)
+Yellow
+12/04/18
+
+
+
+9. If 400 students voted in all, then how many did vote ‘Others’ colour
+as their favourite?
+(a) 6
+(b) 20
+(c) 24
+(d) 40
+10. Which of the following is a reasonable conclusion for the given data?
+(a)
+1
+20 th student voted for blue colour
+(b) Green is the least popular colour
+(c) The number of students who voted for red colour is two times
+the number of students who voted for yellow colour
+(d) Number of students liking together yellow and green colour is
+approximately the same as those for red colour.
+11. Listed below are the temperature in °C for 10 days.
+–6, –8, 0, 3, 2, 0, 1, 5, 4, 4
+What is the range of the data?
+(a) 8
+(b) 13°C
+(c) 10°C
+(d) 12°C
+12. Ram put some buttons on the table. There were 4 blue, 7 red, 3
+black and 6 white buttons in all. All of a sudden, a cat jumped on
+the table and knocked out one button on the floor. What is the
+probability that the button on the floor is blue?
+(a)
+7
+20
+(b)
+3
+5
+(c)
+1
+5
+(d)
+1
+4
+13. Rahul, Varun and Yash are playing a game of spinning a coloured
+wheel. Rahul wins if spinner lands on red. Varun wins if spinner
+lands on blue and Yash wins if it lands on green. Which of the
+following spinner should be used to make the game fair?
+Red
+Green
+Red
+Blue
+Red
+Green
+Green
+Blue
+B
+R
+G
+B
+R
+G
+Green
+Blue
+Green
+Blue
+Red
+Blue
+(i)
+(ii)
+(iii)
+(iv)
+(a) (i)
+(b) (ii)
+(c) (iii)
+(d) (iv)
+12/04/18
+
+
+
+14. In a frequency distribution with classes 0 –10, 10 –20 etc., the size of
+the class intervals is 10. The lower limit of fourth class is
+(a) 40
+(b) 50
+(c) 20
+(d) 30
+15. A coin is tossed 200 times and head appeared 120 times. The
+probability of getting a head in this experiment is
+(a)
+2
+5
+(b)
+3
+5
+(c)
+1
+5
+(d)
+4
+5
+16. Data collected in a survey shows that 40% of the buyers are interested
+in buying a particular brand of toothpaste. The central angle of the
+sector of the pie chart representing this information is
+(a) 120°
+(b) 150°
+(c) 144°
+(d) 40°
+17. Monthly salary of a person is Rs. 15000. The central angle of the
+sector representing his expenses on food and house rent on a pie
+chart is 60°. The amount he spends on food and house rent is
+(a) Rs. 5000
+(b) Rs. 2500
+(c) Rs. 6000
+(d) Rs. 9000
+18. The following pie chart gives the distribution
+of constituents in the human body. The central
+angle of the sector showing the distribution of
+protein and other constituents is
+(a) 108°
+(b) 54°
+(c)
+30°
+(d) 216°
+
+Which graph is a better display of the data on students volunteering
+for some work?
+The data shows how groups of people who responded to the survey compare
+to the whole. The circle graph is the better representation.
+Less than
+20 hours
+15%
+More than
+80 hours
+30%
+20 – 39
+hours
+35%
+60 – 80
+hours
+7%
+40 – 59
+hours
+13%
+Yearly Student Volunteer Work
+Yearly Student
+Volunteer Work
+Per cent of students
+Hours
+Less than
+20
+20 – 39
+40 – 59
+60–80
+More than
+80
+Water
+          70%
+Protein
+  16%
+of the dry 
+elements
+       14%
+12/04/18
+
+
+
+19. Rohan and Shalu are playing with 5 cards
+as shown in the figure. What is the
+probability of Rohan picking a card without
+seeing, that has the number 2 on it?
+(a)
+2
+5
+(b)
+1
+5
+(c)
+3
+5
+(d) 
+4
+5
+20. The following pie chart represents the
+distribution of proteins in parts of a human
+body. What is the ratio of distribution of
+proteins in the muscles to that of proteins in
+the bones?
+(a) 3 : 1
+(b) 1 : 2
+(c)
+1 : 3
+(d) 2 : 1
+21. What is the central angle of the sector (in the above
+pie chart) representing skin and bones together?
+(a) 36°
+(b) 60°
+(c) 90°
+(d) 96°
+22. What is the central angle of the sector (in the above pie chart)
+representing hormones enzymes and other proteins.
+(a) 120°
+(b) 144°
+(c) 156°
+(d) 176°
+23. A coin is tossed 12 times and the outcomes are observed as shown below:
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+The chance of occurrence of Head is
+(a)
+1
+2
+(b)
+5
+12
+(c)
+7
+12
+(d)
+5
+7
+24. Total number of outcomes, when a ball is drawn from a bag which
+contains 3 red, 5 black and 4 blue balls is
+(a) 8
+(b) 7
+(c) 9
+(d) 12
+25. A graph showing two sets of data simultaneously is known as
+(a) Pictograph
+(b) Histogram
+(c) Pie chart
+(d) Double bar graph
+12/04/18
+
+
+
+26. Size of the class 150 –175 is
+(a) 150
+(b) 175
+(c) 25
+(d) –25
+27. In a throw of a dice, the probability of getting the number 7 is
+(a)
+1
+2
+(b)
+1
+6
+(c) 1
+(d) 0
+28. Data represented using circles is known as
+(a)Bar graph
+(b) Histogram
+(c) Pictograph
+(d) Pie chart
+29. Tally marks are used to find
+(a) Class intervals
+(b) Range
+(c) Frequency
+(d) Upper limit
+30. Upper limit of class interval 75 –85 is
+(a) 10
+(b) –10
+(c) 75
+(d) 85
+31. Numbers 1 to 5 are written on separate slips, i.e one number on one
+slip and put in a box. Wahida pick a slip from the box without looking
+at it. What is the probability that the slip bears an odd number?
+(a)
+1
+5
+(b)
+2
+5
+(c)
+3
+5
+(d)
+4
+5
+32. A glass jar contains 6 red, 5 green, 4 blue and 5 yellow
+marbles of same size. Hari takes out a marble from
+the jar at random. What is the probability that the
+chosen marble is of red colour?
+(a)
+7
+10
+(b)
+3
+10
+(c)
+4
+5
+(d) 2
+5
+33. A coin is tossed two times. The number of possible outcomes is
+(a) 1
+(b) 2
+(c) 3
+(d) 4
+34. A coin is tossed three times. The number of possible outcomes is
+(a) 3
+(b) 4
+(c) 6
+(d) 8
+35. A diece is tossed two times. The number of possible outcomes is
+(a) 12
+(b) 24
+(c) 36
+(d) 30
+12/04/18
+
+
+
+In questions 36 to 58, fill in the blanks to make the statements true.
+36. Data available in an unorganised form is called __________ data.
+37. In the class interval 20 – 30, the lower class limit is __________.
+38. In the class interval 26 – 33, 33 is known as __________.
+39. The range of the data 6, 8, 16, 22, 8, 20, 7, 25 is __________.
+40. A pie chart is used to compare __________ to  a whole.
+41. In the experiment of tossing a coin one time, the outcome is either
+__________ or __________.
+42. When a dice is rolled, the six possible outcomes are __________.
+43. Each outcome or a collection of outcomes in an experiment makes
+an __________.
+44. An experiment whose outcomes cannot be predicted exactly in advance
+is called a __________ experiment.
+45. The difference between the upper and lower limit of a class interval is
+called the __________ of the class interval.
+46. The sixth class interval for a grouped data
+whose first two class intervals are 10 – 15
+and 15 – 20 is __________.
+Histogram given on the right shows the
+number of people owning the different
+number of books. Answer 47 to 50 based
+on it.
+47. The total number of people surveyed is
+__________.
+48. The number of people owning books more
+than 60 is __________.
+49. The number of people owning books less than 40 is __________.
+50. The number of people having books more than 20 and less than 40
+is __________.
+51. The number of times a particular observation occurs in a given data
+is called its __________.
+12/04/18
+
+
+
+52. When the number of observations is large, the observations are usually
+organised in groups of equal width called __________.
+53. The total number of outcomes when a coin is tossed is __________.
+54. The class size of the interval 80 – 85 is __________.
+55. In a histogram __________ are drawn with width equal to a class
+interval without leaving any gap in between.
+56. When a dice is thrown, outcomes 1, 2, 3, 4, 5, 6 are equally __________.
+57. In a histogram, class intervals and frequencies are taken along
+__________ axis and __________ axis.
+58. In the class intervals 10 –20, 20 –30, etc., respectively, 20 lies in the
+class __________.
+In questions 59 to 81, state whether the statements are true (T) or
+false (F).
+59. In a pie chart a whole circle is divided into sectors.
+60. The central angle of a sector in a pie chart cannot be more than
+180°.
+61. Sum of all the central angles in a pie chart is 360°.
+62. In a pie chart two central angles can be of 180°.
+63. In a pie chart two or more central angles can be equal.
+64. Getting a prime number on throwing a die is an event.
+Using the following frequency table, answer question 65-68
+Marks (obtained out of 10)
+4
+5
+7
+8
+9
+10
+Frequency
+5
+10
+8
+6
+12
+9
+65. 9 students got full marks.
+66. The frequency of less than 8 marks is 29.
+67. The frequency of more than 8 marks is 21.
+68. 10 marks the highest frequency.
+69. If the fifth class interval is 60 – 65, fourth class interval is 55 – 60,
+then the first class interval is 45 –50.
+12/04/18
+
+
+
+70. From the histogram given on the
+right, we can say that 1500 males
+above the age of 20 are literate.
+71. The class size of the class interval
+60 – 68 is 8.
+72. If a pair of coins is tossed, then the
+number of outcomes are 2.
+73. On throwing a dice once, the
+probability of occurence of an even
+number is 1
+2 .
+74. On throwing a dice once, the probability of occurence of a composite
+number is 1
+2 .
+75. From the given pie chart, we can infer that production of Manganese
+is least in state B.
+76. One or more outcomes of an experiment make an event.
+77. The probability of getting number 6 in a throw of a dice is 1
+6 . Similarly
+the probability of getting a number 5 is 
+1
+5 .
+78. The probability of getting a prime number is the same as that of a
+composite number in a throw of a dice.
+79. In a throw of a dice, the probability of getting an even number is the
+same as that of getting an odd number.
+12/04/18
+
+
+
+80. To verify pythagoras theorem is a random experiment.
+81. The following pictorial representation of data is a histogram.
+82. Given below is a frequency distribution table. Read it and answer
+the questions that follow:
+Class Interval
+Frequency
+10 – 20
+5
+20 – 30
+10
+30 – 40
+4
+40 – 50
+15
+50 – 60
+12
+(a) What is the lower limit of the second class interval?
+(b) What is the upper limit of the last class interval?
+(c) What is the frequency of the third class?
+(d) Which interval has a frequency of 10?
+(e) Which interval has the lowest frequency?
+(f) What is the class size?
+12/04/18
+
+
+
+83. The top speeds of thirty different land animals have been organised
+into a frequency table. Draw a histogram for the given data.
+Maximum Speed (km/h)
+Frequency
+10 – 20
+5
+20 – 30
+ 5
+30 – 40
+10
+40 – 50
+ 8
+50 – 60
+  0
+60 – 70
+  2
+84. Given below is a pie chart showing the time spend by a group of 350
+children in different games. Observe it and answer the questions
+thatfollow.
+(a) How many children spend at least one hour in playing games?
+(b) How many children spend more than 2 hours in playing games?
+(c) How many children spend 3 or lesser hours in playing games?
+(d) Which is greater — number of children who spend 2 hours or
+more per day or number of children who play for less than one
+hour?
+85. The pie chart on the right shows the result of a
+survey carried out to find the modes of travel used
+by the children to go to school. Study the pie
+chart and answer the questions that follow.
+Bus
+Walk
+Cycle
+90°
+120°
+60°
+Car
+60°
+Taxi
+12/04/18
+
+
+
+(a) What is the most common mode of transport?
+(b) What fraction of children travel by car?
+(c) If 18 children travel by car, how many children took part in the
+survey?
+(d) How many children use taxi to travel to school?
+(e) By which two modes of transport are equal number of children
+travelling?
+86. A dice is rolled once. What is the probability that the number on top
+will be
+(a) Odd
+(b) Greater than 5
+(c) A multiple of 3
+(d) Less than 1
+(e) A factor of 36
+(f) A factor of 6
+87. Classify the following statements under appropriate headings.
+(a) Getting the sum of angles of a triangle as 180°.
+(b) India winning a cricket match against Pakistan.
+(c) Sun setting in the evening.
+(d) Getting 7 when a die is thrown.
+(e) Sun rising from the west.
+(f) Winning a racing competition by you.
+Certain to happen
+Impossible to happen
+May or may not happen
+88. Study the pie chart given below depicting the marks scored by a
+student in an examination out of 540. Find the marks obtained by
+him in each subject.
+89. Ritwik draws a ball from a bag that contains white and yellow balls.
+The probability of choosing a white ball is 
+2
+9 . If the total number of
+balls in the bag is 36, find the number of yellow balls.
+12/04/18
+
+
+
+90. Look at the histogram below and answer the questions that follow.
+(a) How many students have height more than or equal to 135 cm
+but less than 150 cm?
+(b) Which class interval has the least number of students?
+(c) What is the class size?
+(d) How many students have height less than 140 cm?
+91. Following are the number of members in 25 families of a village:
+6, 8, 7, 7, 6, 5, 3, 2, 5, 6, 8, 7, 7, 4, 3, 6, 6, 6, 7, 5, 4, 3, 3, 2, 5.
+Prepare a frequency distribution table for the data using class intervals
+0 –2, 2 –4, etc.
+92. Draw a histogram to represent the frequency distribution in question
+91.
+93. The marks obtained (out of 20) by 30 students of a class in a test are
+as follows:
+14, 16, 15, 11, 15, 14, 13, 16, 8, 10, 7, 11, 18, 15, 14, 19, 20, 7, 10,
+13, 12, 14, 15, 13, 16, 17, 14, 11, 10, 20.
+Prepare a frequency distribution table for the above data using class
+intervals of equal width in which one class interval is 4 –8 (excluding
+8 and including 4).
+94. Prepare a histogram from the frequency distribution table obtained
+in question 93.
+12/04/18
+
+
+
+95. The weights (in kg) of 30 students of a class are:
+39, 38, 36, 38, 40, 42, 43, 44, 33, 33, 31, 45, 46, 38, 37, 31, 30, 39,
+41, 41, 46, 36, 35, 34, 39, 43, 32, 37, 29, 26.
+Prepare a frequency distribution table using one class interval as (30
+– 35), 35 not included.
+(i) Which class has the least frequency?
+(ii) Which class has the maximum frequency?
+96. Shoes of the following brands are sold in Nov. 2007 at a shoe store.
+Construct a pie chart for the data.
+Brand
+Number of pair of shoes sold
+A
+130
+B
+120
+C
+90
+D
+40
+E
+20
+97. The following pie chart depicts the expenditure
+of a state government under different heads.
+(i) If the total spending is 10 crores, how much
+money was spent on roads?
+(ii) How many times is the amount of money
+spent on education compared to the amount
+spent on roads?
+(iii) What fraction of the total expenditure is spent on both roads
+and public welfare together?
+98. The following data represents the different number of animals in a
+zoo. Prepare a pie chart for the given data.
+Animals
+Number of animals
+Deer
+42
+Elephant
+15
+Giraffe
+26
+Reptiles
+24
+Tiger
+13
+12/04/18
+
+
+
+99. Playing cards
+(a) From a pack of cards the following cards are kept face down:
+Suhail wins if he picks up a face card. Find the probability of
+Suhail winning?
+(b) Now the following cards are added to the above cards:
+What is the probability of Suhail winning now? Reshma wins if
+she picks up a 4. What is the probability of Reshma winning?
+[Queen, King and Jack cards are called face cards.]
+100. Construct a frequency distribution table for the following weights (in
+grams) of 35 mangoes, using the equal class intervals, one of them is
+40 – 45 (45 not included).
+30, 40, 45, 32, 43, 50, 55, 62, 70, 70, 61, 62, 53, 52, 50, 42, 35, 37, 53,
+55, 65, 70, 73, 74, 45, 46, 58, 59, 60, 62, 74, 34, 35, 70, 68.
+(a) How many classes are there in the frequency distribution table?
+(b) Which weight group has the highest frequency?
+12/04/18
+
+
+
+101. Complete the following table:
+Weights
+Tally Marks
+Frequency
+(in kg.)
+(Number of persons)
+40 – 50
+||||||||||
+50 – 60
+||||||||||||
+60 – 70
+|
+||||
+70 – 80
+||
+80 – 90
+|
+Find the total number of persons whose weights are given in the
+above table.
+102. Draw a histogram for the following data.
+Class
+10–15
+15–20
+20–25
+25–30
+30–35
+35–40
+interval
+Frequency
+30
+98
+80
+58
+29
+50
+103. In a hypothetical sample of 20 people, the amount of money (in
+thousands of rupees) with each was found to be as follows:
+114, 108, 100, 98, 101, 109, 117, 119, 126, 131, 136, 143, 156,
+169, 182, 195, 207, 219, 235, 118.
+Draw a histogram of the frequency distribution, taking one of the
+class intervals as 50–100.
+104. The below histogram shows the number of literate females in the age
+group of 10 to 40 years in a town.
+(a) Write 
+the 
+classes
+assuming all the classes
+are of equal width.
+(b) What is the classes
+width?
+(c) In which age group are
+literate females the
+least?
+(d) In which age group is
+the number of literate
+females the highest?
+12/04/18
+
+
+
+105. The following histogram shows the frequency distribution of teaching
+experiences of 30 teachers in various schools:
+(a) What is the class width?
+(b) How many teachers are having the maximum teaching experience
+and how many have the least teaching experience?
+(c) How many teachers have teaching experience of 10 to 20 years?
+106. In a district, the number of branches of different banks is given below:
+Bank
+  State Bank
+Bank
+Punjab
+Canara Bank
+  of India
+ of Baroda National Bank
+Number of
+30
+17
+15
+10
+Branches
+Draw a pie chart for this data.
+107. For the development of basic infrastructure in a district, a project of
+Rs 108 crore approved by Development Bank is as follows:
+Item Head
+Road
+Electricity
+Drinking water
+Sewerage
+Amount
+43.2
+16.2
+27.00
+21.6
+in crore (Rs.)
+Draw a pie chart for this data.
+108. In the time table of a school, periods allotted per week to different
+teaching subjects are given below:
+Subject
+Hindi English Maths Science
+Social Computer Sanskrit
+Science
+Periods
+7
+8
+8
+8
+7
+4
+3
+Allotted
+Draw a pie chart for this data.
+109. A survey was carried out to find the favourite beverage preferred by a
+certain group of young people. The following
+pie chart shows the findings of this survey.
+From this pie chart answer the following:
+(i) Which type of beverage is liked by the
+maximum number of people.
+(ii) If 45 people like tea, how many people were
+surveyed?
+12/04/18
+
+
+
+110. The following data represents the approximate percentage of water
+in various oceans. Prepare a pie chart for the given data.
+Pacific
+40%
+Atlantic
+30%
+Indian
+20%
+Others
+10%
+111. At a Birthday Party, the children spin a
+wheel to get a gift. Find the probability of
+(a) getting a ball
+(b) getting a toy car
+(c) any toy except a chocolate
+112. Sonia picks up a card from the given cards.
+Calculate the probability of getting
+(a) an odd number
+(b) a Y card
+(c) a G card
+(d) B card bearing number > 7
+113. Identify which symbol should appear in each sector in 113, 114.
+32%
+18%
+22%
+28%
+800
+700
+550
+450
+–
+–
+–
+–
+12/04/18
+
+
+
+114.
+115. A financial counselor gave a client this pie chart describing how to
+budget his income. If the client brings home Rs. 50,000 each month,
+how much should he spend in each category?
+116. Following is a pie chart showing the amount spent in rupees (in
+thousands) by a company on various modes of advertising for a product.
+Now answer the following questions.
+1. Which type of media
+advertising is the
+greatest amount of the
+total?
+2. Which type of media
+advertising is the
+least amount of the
+total?
+12/04/18
+
+
+
+3. What per cent of the total advertising amount is spent on direct
+mail campaigns?
+4. What per cent of the advertising amount is spent on newspaper
+and magazine advertisements?
+5. What media types do you think are included in miscellaneous?
+Why aren’t those media types given their own category?
+
+1
+Card Activity
+Have you ever
+seen a pack
+of cards?
+No didi.
+Then, take a
+pack of cards
+and try to
+complete the table
+given below.
+It will
+be fun didi.
+Spade
+K
+Q
+J
+10 9
+8
+7
+6
+5
+4
+3
+2
+Total
+Face Cards
+Number Cards
+Total
+Heart
+Diamond
+Club
+A
+Did you have
+a look at
+all the cards
+carefully?
+Yes Didi.
+But what do the
+alphabets A, K, Q
+and J stand for?
+12/04/18
+
+
+
+Ok
+A stands for Ace,
+K stands for King,
+Q stands for Queen
+and
+J stands for Jack.
+I will
+try didi.
+Now, try to
+answer some
+questions.
+1. How many colours can you observe?
+2. How many cards are there in all?
+3. How many cards of one type are there?
+4. How many types of cards can you observe? Name them.
+5. How many black cards are there in all?
+6. How many red cards are there in all?
+7. How many face cards of each type are there?
+8. How many picture cards are there in all?
+What is the fraction
+of number of red
+cards to total
+number of cards?
+Really didi.
+So now, I can
+calculate the
+probabilities also.
+Do you know
+this fraction
+is also the probability
+of getting a red
+card out of the pack
+of cards?
+Number of red cards
+is 26.
+Total cards are 52.
+So fraction becomes
+26
+52
+Let us see
+if you can
+answer these
+questions?
+12/04/18
+
+
+
+9. From a pack of well-shuffled cards, what is the probability of getting
+(i) a black face card
+(ii) a red jack
+iii) a 4 of spade
+iv) a picture card
+(v) a red card of ace
+(vi) a black king
+(vii) an ordinary card
+(viii) a picture card of heart
+(ix) an ace of club
+(x) a king
+(xi) a card of diamond
+(xii) a black ordinary card
+2
+Playing with dice
+(a)
+Complete the table given below and answer the questions that follow:
+Dice 1 Dice 2
+Out-
+comes
+Out-
+comes
+Sum
+Dice 1 Dice 2
+Sum
+(1,1)
+(1,2)
+(1,3)
+(1,4)
+2
+3
+4
+5
+A
+B
+12/04/18
+
+
+
+
+Pratibha’s desk has 8 drawers. When
+she receives a paper, she usually
+chooses a drawer at random to put it
+in. However, 2 out of 10 times she
+forgets to put the paper away, and it
+gets lost.
+The probability that a paper will get
+lost is 2
+10 , or 1
+5 .
+•
+What is the probability that a
+paper will be put into a drawer?
+•
+If all drawers are equally likely to
+be chosen, what is the probability that a paper will be put in drawer 3?
+When Pratibha needs a document, she looks first in drawer 1 and then
+checks each drawer in order until the paper is found or until she has
+looked in all the drawers.
+1. If Pratibha checked drawer 1 and didn’t find the paper she was looking
+for, what is the probability that the paper will be found in one of the
+remaining 7 drawers?
+2. If Pratibha checked drawers 1, 2 and 3, and didn’t find the paper she
+was looking for, what is the probability that the paper will be found in
+one of the remaining 5 drawers?
+3. If Pratibha checked drawers 1–7 and didn’t find the paper she was
+looking for, what is the probability that the paper will be found in the
+last drawer?
+12/04/18
+
+
+
+(b) Complete the table given below.
+Sum of dots
+Tally
+Number of
+Probability
+on both the dice
+marks
+outcomes
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Two dice are rolled together, using the above table find the probability of—
+(i) sum of digits to be more than 6.
+(ii) sum of digits to be less than 3.
+(iii) sum of digits to be either 5 or 6.
+(iv) sum of digits to be 12.
+(v) sum of digits to be less than 9 but more than 5.
+3 DATA COLLECTION
+Read the paragraph given below and complete the tables given.
+All of us have some concept of statistics because magazines,
+newspapers, radio and TV advertisements are full of statistics or
+numerical data. Existence of the practice of collecting numerical
+data in ancient India is evident from the fact that during the reign
+of Chandragupta Maurya, there was a good system of collecting
+such data especially with regard to births and deaths. During
+Akbar’s reign, Raja Todarmal, the Land and Revenue Minister,
+maintained good records of land and agricultural statistics. In Ain-
+i-Akbari written by Abul Fazal, a detailed account of the
+administrative and statistical surveys conducted during that period
+can be found.
+12/04/18
+
+
+
+From the paragraph given on the previous page prepare the frequency
+table of all the letters of the English alphabet and answer the questions
+that follow.
+1. Frequency table for each letter of the alphabet.
+Letter
+Tally marks
+Frequency
+A
+B
+C
+-
+-
+-
+Z
+(a) Which is the least frequently occuring letter?
+(b) Which vowel is most commonly used?
+(c) Which consonant is most commonly used?
+(d) Find the ratio of vowels to that of consonants.
+2. Frequecy table for words with two or more letters.
+Number of words with
+Tally marks
+Frequency
+2 letters
+3 letters
+4 letters
+5 letters
+6 letters
+more than 6 letters
+(a) How many two letter words are used in the paragraph?
+(b) How many words are used in all?
+(c) How many words have five letters or more?
+(d) What is the ratio of three letter words and five letter words?
+4 Fun Activity
+Take a packet which has different colours of toffees/candies in it.
+Count the number of toffees of each colour and fill the data in the
+table given below. Also draw a pie chart to depict the data.
+12/04/18
+
+
+
+Colour of candies
+Number
+Fraction
+Fraction of 360°
+Red
+Green
+5 Conducting Survey
+Conduct a class survey to know the favourite T.V. channels and note
+the responses in the following table.
+Channels
+Number Fraction of Estimated per cent Caculated per cent
+of Votes Total Votes
+of Total Votes
+of Total Votes
+News
+Movies
+         History and Nature
+Cartoon
+Sports
+How accurate is your estimation?
+Now, take a strip of thick chart paper, 1 cm wide and divide it into
+equal-sized rectangles – one for each student of your class. The entire
+strip represents your whole class, or 100% of the votes. On your
+strip, colour groups of rectangles according to the number of votes
+each choice received. Use a different colour for each choice. For
+example, if 5 students voted for movie, colour the first 5 rectangles
+blue. If 7 choose cartoon, colour the next 7 rectangle green. When
+you are finished, all the rectangles should be coloured.
+movie
+cartoon
+Now create a circle graph as shown below.
+– Tape the ends of your strip together,
+with no overlap, to form a loop with
+the coloured rectangles inside.
+– Tape four copies of the quarter-circle
+template together to form a circle.
+Movie
+12/04/18
+
+
+
+– Place your above loop around the
+circle. On the edge of the circle, mark
+where each colour begins and ends.
+– Remove the loop, and use a ruler to
+connect each mark you made to the
+centre of the circle.
+– Colour the sections of your graph.
+Label each section with the channels
+name and the fraction of votes that
+channel received. For example, your
+circle graph known as pie chart might
+look like this.
+Circle graphs in books, magazines, and
+newspapers are often labeled with per
+cents. Add per cent labels to your pie
+chart.
+6 Marble Game
+Pramod is babysitting his little sister Monika and her two friends,
+Puja and Jyoti. Monika is wearing red, Puja is wearing blue and
+Jyoti is wearing green coloured clothes.
+Pramod fills a bucket with 12 red (R) marbles, 8 blue (B) marbles
+and 4 green (G) marbles. He tells the girls that they will play a
+game. He will reach into the bucket and pull out a marble at random.
+The girl whose clothes match the colour of the marble scores 1
+point.
+Movie
+Cartoon
+12/04/18
+
+
+
+a. What is the probability of each girl scoring 1 point on the first
+draw?
+Monika :
+Puja :
+Jyoti :
+b. What is the probability of not drawing a green marble on the
+first draw?
+c. If two marbles of each colour are added to the bucket, do the
+probabilities in part (a) change? Explain your answer.
+d. If the number of each colour is doubled, do the probabilities in
+part (a) change? Explain why or why not.
+7 Crossword Puzzle
+Solve the crossword (given on the next page) and then fill up the
+given boxes. Clues are given below for across as well as downward
+filling. Also, for across and down clues, due number is written at
+the corner of the boxes. Answer of clues have to be filled in their
+respective boxes.
+Across
+1. Another name for a circle graph is ____________.
+5. Class width of the interval 10-15 is ____________.
+7. Difference of highest and lowest observations in a given data is
+called ____________.
+8. Each outcome or a collection of outcomes in an experiment is known
+as ____________.
+9. Pie chart represents the comparison of parts to a ____________.
+10.
+Probability of sun rising in the east  is ____________.
+12.
+Probability of getting a head or a tail on tossing a coin once is
+____________.
+12/04/18
+
+
+
+ Down
+2. Representation of grouped data graphically is called ____________.
+3. Unorganised and ungrouped data are called ____________.
+4.
+Difference between upper and lower class limit is known as
+____________.
+6. The number of times a particular observation occurs in the given
+data is called ____________.
+11. If today is Saturday, then the probability of two days after tomorrow
+being a Monday is ____________.
+12/04/18
+
+70    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18
+
+DATA HANDLING  71
+UNIT-2
+Rough Work
+12/04/18
+
+72    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18

@@ -1,0 +1,532 @@
+(A) Main Concepts and Results
+•
+Cuboid whose length = l, breadth = b and height = h
+(a) Volume of cuboid = lbh
+(b) Total surface area of cuboid = 2 ( lb + bh + hl )
+(c) Lateral surface area of cuboid = 2 h (l + b)
+(d) Diagonal of cuboid = 
+2
+2
+2
+l
+b
+h
++
++
+•
+Cube whose edge = a
+(a) Volume of cube = a3
+(b) Lateral Surface area = 4a2
+(c) Total surface area of cube = 6a2
+(d) Diagonal of cube = a
+3
+•
+Cylinder whose radius = r, height = h
+(a) Volume of cylinder = πr2h
+(b) Curved surface area of cylinder = 2πrh
+(c) Total surface area of cylinder = 2πr (r + h)
+•
+Cone having height = h, radius = r and slant height = l
+(a) Volume of cone = 
+2
+1
+3 r h
+π
+(b) Curved surface area of cone = πrl
+SURFACE  AREAS  AND  VOLUMES
+CHAPTER 13
+16/04/18
+16/04/18
+
+122
+EXEMPLAR PROBLEMS
+(c) Total surface area of cone =  πr (l + r)
+(d) Slant height of cone (l) = 
+2
+2
+h
+r
++
+•
+Sphere whose radius = r
+(a) Volume of sphere = 
+3
+4
+3
+r
+π
+(b) Surface area of sphere = 4πr2
+•
+Hemisphere whose radius = r
+(a) Volume of  hemisphere = 
+3
+2
+3
+r
+π
+(b) Curved surface area of hemisphere = 2πr2
+(c) Total surface area of hemisphere = 3πr2
+(B) Multiple Choice Questions
+Write the correct answer
+Sample Question 1 : In a cylinder, if radius is halved and height is doubled, the
+volume will be
+(A)
+same
+(B)
+doubled
+(C)
+halved
+(D)
+four times
+Solution:  Answer (C)
+EXERCISE 13.1
+Write the correct answer in each of the following :
+1.
+The radius of a sphere is 2r, then its volume will be
+(A)
+3
+4
+3
+r
+π
+(B)
+4πr3
+(C)
+3
+8
+3
+r
+π
+(D)
+3
+32
+3
+r
+π
+2.
+The total surface area of a cube is 96 cm2. The volume of the cube is:
+(A)
+8 cm3
+(B)
+512 cm3
+(C)
+64 cm3
+(D)
+27 cm3
+3.
+A cone is 8.4 cm high and the radius of its base is 2.1 cm. It is melted and recast
+into a sphere. The radius of the sphere is :
+(A)
+4.2 cm
+(B)
+2.1 cm
+(C)
+2.4 cm
+(D)
+1.6 cm
+4.
+In a cylinder, radius is doubled and height is halved, curved surface area will be
+16/04/18
+16/04/18
+
+SURFACE AREAS AND VOLUMES
+123
+(A)
+halved
+(B)
+doubled
+(C)
+same
+(D)
+four times
+5.
+The total surface area of a cone whose radius is 2
+r and slant height 2l is
+(A)
+2πr (l + r)
+(B)
+πr (l + 4
+r
+) (C)
+πr (l + r)
+(D)
+2πrl
+6.
+The radii of two cylinders are in the ratio of 2:3 and their heights are in the ratio of
+5:3. The ratio of their volumes is:
+(A)
+10 : 17
+(B)
+20 : 27
+(C)
+17 : 27
+(D)
+20 : 37
+7.
+The lateral surface area of a cube is 256 m2. The volume of the cube is
+(A)
+512 m3
+(B)
+64 m3
+(C)
+216 m3
+(D)
+256 m3
+8.
+The number of planks of dimensions (4 m × 50 cm × 20 cm) that can be stored in
+a pit which is 16 m long, 12m wide and 4 m deep is
+(A)
+1900
+(B)
+1920
+(C)
+1800
+(D)
+1840
+9.
+The length of the longest pole that can be put in a room of dimensions
+(10 m × 10 m × 5m) is
+(A)
+15 m
+(B)
+16 m
+(C)
+10 m
+(D)
+12 m
+10. The radius of a hemispherical balloon increases from 6 cm to 12 cm as air is being
+pumped into it. The ratios of the surface areas of the balloon in the two cases is
+(A)    1 : 4
+(B)   1 : 3
+(C)   2 : 3
+(D)
+ 2 : 1
+(C) Short Answer Questions  with Reasoning
+Write True or False and justify your answer.
+Sample Question 1 : A right circular cylinder just encloses a sphere
+of radius r as shown in Fig 13.1. The surface area of the sphere is
+equal to the curved surface area of the cylinder.
+Solution : True.
+Here, radius of the sphere = radius of the cylinder = r
+Diameter of the sphere = height of the cylinder = 2r
+Surface area of the sphere = 4πr2
+Curved surface area of the cylinder = 2πr (2r)  = 4πr2
+Sample Question 2 : An edge of a cube measures r cm. If the largest possible right
+circular cone is cut out of this cube, then the volume of the cone (in cm3) is 
+3
+1
+.
+6 r
+π
+Fig. 13.1
+16/04/18
+16/04/18
+
+124
+EXEMPLAR PROBLEMS
+Solution : False.
+Height of the cone = r cm.
+Diameter of  the base = r cm.
+Therefore, volume of the cone  =  1
+3π
+2
+.
+2
+r
+r
+
+
+
+
+
+
+                                               = 
+3
+1
+12
+r
+π
+EXERCISE 13.2
+Write True or False and justify your answer in each of the following :
+1.
+The volume of a sphere is equal to two-third of the volume of a cylinder whose
+height and diameter are equal to the diameter of the sphere.
+2.
+If the radius of a right circular cone is halved and height is doubled, the volume will
+remain unchanged.
+3.
+In a right circular cone, height, radius and slant height do not always be sides of a
+right triangle.
+4.
+If the radius of a cylinder is doubled and its curved surface area is not changed,
+the height must be halved.
+5.
+The volume of the largest right circular cone that can be fitted in a cube whose
+edge is 2r equals to the volume of a hemisphere of radius r.
+6.
+A cylinder and a right circular cone are having the same base and same height.
+The volume of the cylinder is three times the volume of the cone.
+7.
+A cone, a hemisphere and a cylinder stand on equal bases and have the same
+height. The ratio of their volumes is 1 : 2 : 3.
+8.
+If the length of the diagonal of a cube is 6 3 cm, then the length of the edge of
+the cube is 3 cm.
+9.
+If a sphere is inscribed in a cube, then the ratio of the volume of the cube to the
+volume of the sphere will be 6 : π.
+10. If the radius of a cylinder is doubled and height is halved, the volume will be
+doubled.
+16/04/18
+16/04/18
+
+SURFACE AREAS AND VOLUMES
+125
+(D) Short Answer Questions
+Sample Question 1: The surface area of a sphere of radius 5 cm is five times the
+area of the curved surface of a cone of radius 4 cm. Find the height and the volume of
+the cone (taking 
+22
+7
+π =
+).
+Solution: Surface area of the sphere = 4π × 5 × 5 cm2.
+Curved surface area of the cone = π × 4 × l cm2,
+where l is the slant height of the cone.
+According to the statement
+4π × 5 × 5 = 5 × π × 4 × l
+or
+l  = 5 cm.
+Now,
+ l 2 = h2 + r2
+Therefore,
+(5) 2  = h2 + (4)2
+where h is the height of the cone
+or
+(5)2 – (4)2 = h 2
+or
+(5 + 4) (5 – 4) = h 2
+or
+9 = h 2
+or
+h = 3 cm
+Volume of Cone = 
+2
+1
+3 r h
+π
+ = 1
+22
+4
+4
+3
+3
+7
+×
+×
+×
+×
+cm3
+ = 22
+16
+7
+×
+ cm3
+ = 352
+7 cm3 = 50.29 cm3 (approximately)
+Sample Question 2: The radius of a sphere is increased by 10%. Prove that the
+volume will be increased by 33.1% approximately.
+Solution: The volume of a sphere = 
+3
+4
+3 r
+π
+16/04/18
+16/04/18
+
+126
+EXEMPLAR PROBLEMS
+10% increase in radius = 10% r
+Increased radius = r + 1
+10 r = 11
+10 r
+The volume of the sphere now becomes
+3
+4
+11
+3
+10 r
+
+
+π
+
+
+ =
+3
+4
+1331
+3
+1000 r
+π×
+=
+3
+4
+1.331
+3
+r
+π×
+Increase in volume = 
+3
+3
+4
+4
+1.331
+3
+3
+r
+r
+π×
+−
+π
+= 
+3
+4
+(1.331–1)
+3 r
+π
+ = 
+3
+4
+.331
+3 r
+π
+×
+Percentage increase in volume=  
+3
+3
+4
+.331
+3
+100
+4
+3
+r
+r
+
+
+π
+×
+
+
+×
+
+
+
+
+π
+
+
+ = 33.1
+EXERCISE 13.3
+1.
+Metal spheres, each of radius 2 cm, are packed into a rectangular box of internal
+dimensions 16 cm × 8 cm × 8 cm. When 16 spheres are packed the box is filled
+with preservative liquid. Find the volume of this liquid. Give your answer to the
+nearest integer. [
+]
+Use
+3.14
+π=
+2.
+A storage tank is in the form of a cube. When it is full of water, the volume of
+water is 15.625 m3.If the present depth of water is 1.3 m, find the volume of water
+already used from the tank.
+3.
+Find the amount of water displaced by a solid spherical ball of diameter 4.2 cm,
+when it is completely immersed in water.
+4.
+How many square metres of canvas is required for a conical tent whose height is
+3.5 m and the radius of the base is 12 m?
+16/04/18
+16/04/18
+
+SURFACE AREAS AND VOLUMES
+127
+5.
+Two solid spheres made of the same metal have weights 5920 g and 740 g,
+respectively. Determine the radius of the larger sphere, if the diameter of the
+smaller one is 5 cm.
+6.
+A school provides milk to the students daily in a cylindrical glasses of diameter
+7 cm. If the glass is filled with milk upto an height of 12 cm, find how many litres
+of milk is needed to serve 1600 students.
+7.
+A cylindrical roller 2.5 m in length, 1.75 m in radius when rolled on a road was
+found to cover the area of 5500 m2. How many revolutions did it make?
+8.
+A small village, having a population of 5000, requires 75 litres of water per head per
+day. The village has got an overhead tank of measurement 40 m × 25 m × 15 m. For
+how many days will the water of this tank last?
+9.
+A shopkeeper has one spherical laddoo of radius 5cm. With the same amount of
+material, how many laddoos of radius 2.5 cm can be made?
+10. A right triangle with sides 6 cm, 8 cm and 10 cm is revolved about the side 8 cm.
+Find the volume and the curved surface of the solid so formed.
+(E) Long Answer Questions
+Sample Question 1: Rain water which falls on a flat rectangular surface of length 6 m
+and breadth 4 m is transferred into a cylindrical vessel of internal radius 20 cm. What will
+be the height of water in the cylindrical vessel if the rain fall is 1 cm. Give your answer
+to the nearest integer. (Take π = 3.14)
+Solution : Let the height of the  water level in the cylindrical vessel be h cm
+Volume of the rain water = 600 × 400 × 1 cm3
+Volume of water in the cylindrical vessel = π (20)2 × h cm3
+According to statement
+600 × 400 × 1 = π (20)2 × h
+or
+h = 600
+3.14 cm = 191 cm
+EXERCISE 13.4
+1.
+A cylindrical tube opened at both the ends is made of iron sheet which is 2 cm
+thick. If the outer diameter is 16 cm and its length is 100 cm, find how many cubic
+centimeters of iron has been used in making the tube ?
+2.
+A semi-circular sheet of metal of diameter 28cm is bent to form an open conical
+cup. Find the capacity of the cup.
+16/04/18
+16/04/18
+
+128
+EXEMPLAR PROBLEMS
+3.
+A cloth having an area of 165 m2  is shaped into the form of a conical tent of radius
+5 m
+(i)
+How many students can sit in the tent if a student, on an average, occupies
+2
+5
+7 m on the ground?
+(ii)
+ Find the volume of the cone.
+4.
+The water for a factory is stored in a hemispherical tank whose internal diameter
+is 14 m. The tank contains 50 kilolitres of water. Water is pumped into the tank to
+fill to its capacity. Calculate the volume of water pumped into the tank.
+5.
+The volumes of the two spheres are in the ratio 64 : 27. Find the ratio of their
+surface areas.
+6.
+A cube of side 4 cm contains a sphere touching its sides. Find the volume of the gap in
+between.
+7.
+A sphere and a right circular cylinder of the same radius have equal volumes. By
+what percentage does the diameter of the cylinder exceed its height ?
+8.
+30 circular plates, each of radius 14 cm and thickness 3cm are placed one above
+the another to form a cylindrical solid. Find :
+(i)
+the total surface area
+(ii)
+volume of the cylinder so formed.
+16/04/18
+16/04/18

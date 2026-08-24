@@ -1,0 +1,1657 @@
+(A) Main Concepts and Results
+Statistics
+Measures of Central Tendency
+(a) Mean of Grouped Data
+(i)
+To find the mean of grouped data, it is assumed that the frequency of each
+class interval is centred around its mid-point.
+(ii)
+Direct Method
+Mean ( x ) = 
+i
+i
+i
+f x
+f
+ 
+ 
+,
+where the xi (class mark) is the mid-point of the ith class interval and fi is
+the corresponding frequency.
+(iii)
+Assumed Mean Method
+Mean ( x ) = 
+i
+i
+i
+f d
+a
+f
++ 
+ 
+,
+a is the assumed mean and di = xi – a are the deviations of xi from a for
+each i.
+STATISTICS  AND  PROBABILITY
+CHAPTER 13
+03/05/18
+
+154
+EXEMPLAR PROBLEMS
+(iv)
+Step-deviation Method
+Mean ( x ) = 
+i
+i
+i
+f u
+a
+h
+f
+ 
+ 
++
+ 
+ 
+ 
+ 
+ 
+ 
+,
+where a is the assumed mean, h is the class size and 
+–
+i
+i
+x
+a
+u
+h
+=
+.
+(v)
+If the class sizes are unequal, the formula in (iv) can still be applied by
+taking h to be a suitable divisor of all the di’s.
+(b) Mode of Grouped Data
+(i)
+In a grouped frequency distribution, it is not possible to determine the mode
+by looking at the frequencies. To find the mode of grouped data, locate the
+class with the maximum frequency. This class is known as the modal class.
+The mode of the data is a value inside the modal class.
+(ii)
+Mode of the grouped data can be calculated by using the formula
+Mode = 
+1
+0
+1
+0
+2
+2
+f
+f
+l
+h
+f
+f
+f
+ 
+ 
+−
++
+×
+ 
+ 
+−
+−
+ 
+ 
+,
+where l is the lower limit of the modal class, h is the size of the class,
+f1 is frequency of the modal class and  f0 and f2 are the frequencies of the
+classes preceding and succeeding the modal class, respectively.
+(c) Median of Grouped Data
+(i)
+Cumulative frequency table – the less than type and the more than type of
+the grouped frequency distribution.
+(ii)
+If n is the total number of observations, locate the class whose cumulative
+frequency is greater than (and nearest to) 2
+n . This class is called the median
+class.
+(iii)
+Median of the grouped data can be calculated by using the formula :
+Median = 
+cf
+2
+n
+l
+h
+f
+
+
+−
+
+
++ 
+
+
+
+
+
+
+
+,
+03/05/18
+
+STATISTICS AND PROBABILITY
+155
+where l is the lower limit of the median class, n is the number of observations,
+h is the class size, cf is the cumulative frequency of the class preceding the
+median class and f is the frequency of the median class.
+(d) Graphical Representation of Cumulative Frequency Distribution (Ogive)
+– Less than type and more than type.
+(i)
+To find median from the graph of cumulative frequency distribution (less
+than type) of a grouped data.
+(ii)
+To find median from the graphs of cumulative frequency distributions (of
+less than type and more than type) as the abscissa of the point of intersection
+of the graphs.
+Probability
+•
+Random experiment, outcome of an experiment, event, elementary events.
+•
+Equally likely outcomes.
+•
+The theoretical (or classical) probability of an event E [denoted by P(E)] is
+given by
+P(E) = 
+Number of outcomes favourable to E
+Number of all possible outcomes of the experiment
+where the outcomes of the experiment are equally likely.
+•
+The probability of an event can be any number between 0 and 1. It can also
+be 0 or 1 in some special cases.
+•
+The sum of the probabilities of all the elementary events of an experiment is 1.
+•
+For an event E, P(E) + P( E ) = 1,
+where E is the event ‘not E’. E is called the complement of the event E.
+•
+Impossible  event, sure or a certain event
+(B) Multiple Choice Questions
+Choose the correct answer from the given four options:
+Sample Question 1 : Construction of a cumulative frequency table is useful in
+determining the
+(A)
+mean
+(B)
+median
+(C)
+mode
+(D)
+all the above three measures
+Solution : Answer  (B)
+03/05/18
+
+156
+EXEMPLAR PROBLEMS
+Sample Question 2 :  In the following distribution :
+Monthly income range (in Rs)
+Number of families
+Income more than Rs 10000
+100
+Income more than Rs 13000
+85
+Income more than Rs 16000
+69
+Income more than Rs 19000
+50
+Income more than Rs 22000
+33
+Income more than Rs 25000
+15
+      the number of families having income range (in Rs) 16000 – 19000 is
+(A)
+15
+(B)
+16
+(C)
+17
+(D)
+19
+Solution : Answer  (D)
+Sample Question 3 : Consider the following frequency distribution of the heights of
+60 students of a class :
+Height (in cm)
+Number of students
+150-155
+15
+155-160
+13
+160-165
+10
+165-170
+8
+170-175
+9
+175-180
+5
+The sum of the lower limit of the modal class and upper limit of the median class is
+(A)
+310
+(B)
+315
+(C)
+320
+(D)
+330
+Solution : Answer (B)
+Sample Question 4 : Which of the the following can be the probability of an event?
+(A)
+– 0.04
+(B)
+1.004
+(C)
+18
+23
+(D)
+8
+7
+Solution : Answer (C)
+03/05/18
+
+STATISTICS AND PROBABILITY
+157
+Sample Question 5 : A card is selected at random from a well shuffled deck of 52
+playing cards. The probability of its being a face card is
+(A)
+3
+13
+(B)
+4
+13
+(C)
+6
+13
+(D)
+9
+13
+Solution : Answer (A)
+Sample Question 6 : A bag contains 3 red balls, 5 white balls and 7 black balls. What
+is the probability that a ball drawn from the bag at random will be neither red nor black?
+(A)
+1
+5
+(B)
+1
+3
+(C)
+7
+15
+(D)
+8
+15
+Solution : Answer (B)
+ EXERCISE 13.1
+Choose the correct answer from the given four options:
+1.
+In the formula
+x = 
+i
+i
+i
+f d
+a
+f
++ 
+ 
+,
+for finding the mean of grouped data  di’s are deviations from a of
+(A)
+lower limits of the classes
+(B)
+upper limits of the classes
+(C)
+mid points of the classes
+(D)
+frequencies of the class marks
+2.
+While computing mean of grouped data, we assume that the frequencies are
+(A)
+evenly distributed over all the classes
+(B)
+centred at the classmarks of the classes
+(C)
+centred at the upper limits of the classes
+(D)
+centred at the lower limits of the classes
+3.
+If xi’s are the mid points of the class intervals of  grouped data,  fi’s are the
+corresponding frequencies and x is the mean, then 
+(
+)
+−
+ 
+i
+i
+f x
+x is equal to
+(A)  0
+(B)  –1
+(C)  1
+(D)  2
+4.
+In the formula 
+  +  
+i
+i
+i
+f u
+x
+a
+h
+f
+ 
+ 
+=
+ 
+ 
+ 
+ 
+ 
+ 
+, for finding the mean of grouped frequency
+distribution, ui =
+(A)   
+ix
+a
+h
++
+(B)   h (xi – a)    (C)
+–
+ix
+a
+h
+   (D)
+–
+i
+a
+x
+h
+03/05/18
+
+158
+EXEMPLAR PROBLEMS
+5.
+The abscissa of the point of intersection of the less than type and of the more than
+type cumulative frequency curves of a grouped data gives its
+(A)
+mean
+(B)
+median
+(C)
+mode
+(D)
+all the three above
+6.
+For the following distribution :
+Class
+0-5
+5-10
+10-15
+15-20
+20-25
+Frequency
+10
+15
+12
+20
+9
+the sum of lower limits of the median class and modal class is
+(A)
+15
+(B)
+25
+(C)
+30
+(D)
+35
+7.
+Consider the following frequency distribution :
+Class
+0-5
+6-11
+12-17
+18-23
+24-29
+Frequency
+13
+10
+15
+8
+11
+The upper limit of the median class is
+(A)
+17
+(B)
+17.5
+(C)
+18
+(D)
+18.5
+8.
+For the following distribution :
+Marks
+Number of students
+Below 10
+3
+Below 20
+12
+Below 30
+27
+Below 40
+57
+Below 50
+75
+Below 60
+80
+the modal class is
+(A)
+10-20
+(B)
+20-30
+(C)
+30-40
+(D)
+50-60
+9.
+Consider the data :
+Class
+65-85
+85-105
+105-125 125-145 145-165 165-185 185-205
+Frequency
+4
+5
+13
+20
+14
+7
+4
+03/05/18
+
+STATISTICS AND PROBABILITY
+159
+The difference of the upper limit of the median class and the lower limit of the
+modal class is
+(A)
+0
+(B)
+19
+(C)
+20
+(D)
+38
+10. The times, in seconds, taken by 150 atheletes to run a 110 m hurdle race are
+tabulated below :
+Class
+13.8-14
+14-14.2
+14.2-14.4
+14.4-14.6 14.6-14.8
+14.8-15
+Frequency
+2
+4
+5
+71
+48
+20
+The number of atheletes who completed the race in less then 14.6 seconds is :
+(A)
+11
+(B)
+71
+(C)
+82
+(D)
+130
+11. Consider the following distribution :
+Marks obtained
+Number of students
+More than or equal to 0
+63
+More than or equal to 10
+58
+More than or equal to 20
+55
+More than or equal to 30
+51
+More than or equal to 40
+48
+More than or equal to 50
+42
+the frequency of the class 30-40 is
+(A)
+3
+(B)
+4
+(C)
+48
+(D)
+51
+12. If an event cannot occur, then its probability is
+(A)
+1
+(B)
+3
+4
+(C)
+1
+2
+(D)
+0
+13. Which of the following cannot be the probability of an event?
+(A)
+1
+3
+(B)
+0.1
+(C)
+3%
+(D)
+17
+16
+14. An event is very unlikely to happen. Its probability is closest to
+(A)
+0.0001
+(B)
+0.001
+(C)
+0.01
+(D)
+0.1
+15. If the probability of an event is p, the probability of its complementary event will be
+(A)
+p – 1
+(B)
+p
+(C)
+1 – p
+(D)
+1
+1 
+ p
+−
+03/05/18
+
+160
+EXEMPLAR PROBLEMS
+16. The probability expressed as a percentage of a particular occurrence can never be
+(A)
+less than 100
+(B)
+less than 0
+(C)
+greater than 1
+(D)
+anything but a whole number
+17. If P(A) denotes the probability of an event A, then
+(A)
+P(A) < 0
+(B) P(A) > 1
+(C)
+0 ≤ P(A) ≤ 1
+(D) –1 ≤ P(A) ≤ 1
+18. A card is selected from a deck of 52 cards. The probability of its being a red face card is
+(A)
+3
+26
+(B)
+3
+13
+(C)
+2
+13
+(D)
+1
+2
+19. The probability that a non leap year selected at random will contain 53 sundays is
+(A)
+1
+7
+(B)
+2
+7
+(C)
+3
+7
+(D)
+5
+7
+20. When a die is thrown, the probability of getting an odd number less than 3 is
+(A)
+1
+6
+(B)
+1
+3
+(C)
+1
+2
+(D)
+0
+21. A card is drawn from a deck of 52 cards. The event E is that card is not an ace of
+hearts. The number of outcomes favourable to E is
+(A)
+4
+(B)
+13
+(C)
+48
+(D)
+51
+22. The probability of getting a bad egg in a lot of 400 is 0.035. The number of bad
+eggs in the lot is
+(A)
+7
+(B)
+14
+(C)
+21
+(D)
+28
+23. A girl calculates that the probability of her winning the first prize in a lottery is 0.08.
+If 6000 tickets are sold, how many tickets has she bought?
+(A)
+40
+(B)
+240
+(C)
+480
+(D)
+750
+24. One ticket is drawn at random from a bag containing tickets numbered 1 to 40.
+The probability that the selected ticket has a number which is a multiple of 5 is
+(A)
+1
+5
+(B)
+3
+5
+(C)
+4
+5
+(D)    1
+3
+25. Someone is asked to take a number from 1 to 100. The probability that it is a
+prime is
+(A)
+1
+5
+(B)
+6
+25
+(C)
+1
+4
+(D)
+13
+50
+03/05/18
+
+STATISTICS AND PROBABILITY
+161
+26. A school has five houses A, B, C, D and E. A class has 23 students, 4 from house
+A, 8 from house B, 5 from house C, 2 from house D and rest from house E. A
+single student is selected at random to be the class monitor. The probability that the
+selected student is not from A, B and C is
+(A)
+4
+23
+(B)
+6
+23
+(C)
+8
+23
+(D)
+17
+23
+(C) Short Answer Questions with Reasoning
+Sample Question 1: The mean of  ungrouped data and the mean calculated when the
+same data is grouped are always the same. Do you agree with this statement? Give
+reason for your answer.
+Solution : The statement is not true. The reason is that when we calculated mean of
+a grouped data, it is assumed that frequency of each class is centred at the mid-point of
+the class. Because of this, two values of the mean, namely, those from ungrouped and
+grouped data are rarely the same.
+Sample Question 2 :  Is it correct to say that an ogive is a graphical representation of
+a frequency distribution? Give reason.
+Solution : Graphical representation of a frequency distribution may not be an ogive. It
+may be a histogram. An ogive is a graphical representation of cumulative frequency
+distribution.
+Sample Question 3 :  In any situation that has only two possible outcomes, each
+outcome will have probability 1
+2 . True or false? Why?
+Solution : False, because the probability of each outcome will be 1
+2 only when the
+two outcomes are equally likely otherwise not.
+ EXERCISE 13.2
+1.
+The median of an ungrouped data and the median calculated when the same data
+is grouped are always the same. Do you think that this is a correct statement? Give
+reason.
+2.
+In calculating the mean of grouped data, grouped in classes of equal width, we
+may use the formula
+x = 
+i
+i
+i
+f d
+a
+f
++ 
+ 
+03/05/18
+
+162
+EXEMPLAR PROBLEMS
+where a is the assumed mean.  a must be one of the mid-points of the classes. Is
+the last statement correct? Justify your answer.
+3.
+Is it true to say that the mean, mode and median of grouped data will always be
+different? Justify your answer.
+4.
+Will the median class and modal class of grouped data always be different? Justify
+your answer.
+5.
+In a family having three children, there may be no girl, one girl, two girls or three
+girls. So, the probability of each is 1
+4 . Is this correct? Justify your answer.
+6.
+A game consists of spinning an arrow which comes to rest pointing at one of the
+regions (1, 2 or 3) (Fig. 13.1). Are the outcomes 1, 2 and 3 equally likely to occur?
+Give reasons.
+7.
+Apoorv throws two dice once and computes the product of the numbers appearing
+on the dice. Peehu throws one die and squares the number that appears on it. Who
+has the better chance of getting the number 36? Why?
+8.
+When we toss a coin, there are two possible outcomes - Head or Tail. Therefore,
+the probability of each outcome is 1
+2 . Justify your answer.
+9.
+A student says that if you throw a die, it will show up 1 or not 1. Therefore, the
+probability of getting 1 and the probability of getting ‘not 1’ each is equal to  1
+2 . Is
+this correct? Give reasons.
+10. I toss three coins together. The possible outcomes are no heads, 1 head, 2 heads
+and 3 heads. So, I say that probability of no heads is 1
+4 . What is wrong with this
+conclusion?
+11. If you toss a coin 6 times and it comes down heads on each occasion. Can you say
+that the probability of getting a head is 1? Give reasons.
+03/05/18
+
+STATISTICS AND PROBABILITY
+163
+12. Sushma tosses a coin 3 times and gets tail each time. Do you think that the outcome
+of next toss will be a tail? Give reasons.
+13. If I toss a coin 3 times and get head each time, should I expect a tail to have a
+higher chance in the 4th toss? Give reason in support of your answer.
+14. A bag contains slips numbered from 1 to 100. If Fatima chooses a slip at random
+from the bag, it will either be an odd number or an even number. Since this situation
+has only two possible outcomes, so, the probability of each is 1
+2 . Justify.
+(D) Short Answer Questions
+Sample Question 1 : Construct the cumulative frequency distribution of the following
+distribution :
+Class
+12.5-17.5
+17.5-22.5
+22.5-27.5
+27.5-32.5
+32.5-37.5
+Frequency
+2
+22
+19
+14
+13
+Solution : The required cumulative frequency distribution of the given distribution is
+given below :
+Class
+Frequency
+Cumulative frequency
+12.5-17.5
+2
+2
+17.5-22.5
+22
+24
+22.5-27.5
+19
+43
+27.5-32.5
+14
+57
+32.5-37.5
+13
+70
+Sample Question 2 :  Daily wages of 110 workers, obtained in a survey, are tabulated below :
+Daily wages (in Rs)
+Number of workers
+100-120
+10
+120-140
+15
+140-160
+20
+160-180
+22
+180-200
+18
+200-220
+12
+220-240
+13
+Compute the mean daily wages of these workers.
+03/05/18
+
+164
+EXEMPLAR PROBLEMS
+Solution : We first find the classmark, xi, of each class and then proceed as follows:
+Daily wages
+Class marks
+Number of workers
+fixi
+(in Rs)
+(xi)
+(fi)
+Classes
+100-120
+110
+10
+1100
+120-140
+130
+15
+1950
+140-160
+150
+20
+3000
+160-180
+170
+22
+3740
+180-200
+190
+18
+3420
+200-220
+210
+12
+2520
+220-240
+230
+13
+2990
+if
+ 
+ = 110,
+i
+i
+f x
+ 
+ = 18720
+Therefore, Mean = x = 
+i
+i
+i
+f x
+f
+ 
+ 
+ = 18720
+110 = 170.20
+Hence, the mean daily wages of the workers is Rs 170.20.
+Note : Mean daily wages can also be calculated by the assumed mean method or step
+deviation method.
+Sample Question 3 : The percentage of marks obtained by 100 students in an
+examination are given below:
+Marks
+30-35
+35-40
+40-45
+45-50
+50-55
+55-60
+60-65
+Frequency
+14
+16
+18
+23
+18
+8
+3
+Determine the median percentage of marks.
+Solution :
+Marks
+Number of Students
+Cumulative frequency
+(Class)
+(Frequency)
+30-35
+14
+14
+35-40
+16
+30
+40-45
+18
+48
+45-50
+23
+71
+← Median class
+50-55
+18
+89
+55-60
+8
+97
+60-65
+3
+100
+03/05/18
+
+STATISTICS AND PROBABILITY
+165
+Here, n = 100.
+Therefore, 2
+n = 50, This observation lies in the class 45-50.
+l (the lower limit of the median class) = 45
+cf (the cumulative frequency of the class preceding the median class) = 48
+f (the frequency of the median class) = 23
+h (the class size) = 5
+Median
+= 
+cf
+2
+ + 
+n
+l
+h
+f
+
+
+−
+
+
+
+
+
+
+
+
+= 
+50 48
+45 + 
+5
+23
+−
+
+×
+
+
+
+
+= 
+10
+45 + 
+ = 45.4 
+23
+So, the median percentage of marks is 45.4.
+Sample Question 4 : The frequency distribution table of agricultural holdings in a
+village is given below :
+Area of land
+(in hectares)
+1-3
+3-5
+5-7
+7-9
+9-11
+11-13
+Number of
+families
+20
+45
+80
+55
+40
+12
+Find the modal agricultural holdings of the village.
+Solution : Here the maximum class frequency is 80, and the class corresponding to
+this frequency is 5-7.
+So, the modal class is 5-7.
+l ( lower limit of modal class) = 5
+f1 (frequency of the modal class) = 80
+03/05/18
+
+166
+EXEMPLAR PROBLEMS
+f0 (frequency of the class preceding the modal class) = 45
+f2 (frequency of the class succeeding the modal class) = 55
+h (class size) = 2
+Mode = l + 
+1
+0
+1
+0
+2
+2
+f
+f
+h
+f
+f
+f
+ 
+ 
+−
+×
+ 
+ 
+−
+−
+ 
+ 
+= 
+80 – 45
+5 
+ 
+2
+2(80)
+45
+55
+ 
+ 
++
+×
+ 
+ 
+−
+−
+ 
+ 
+= 5 + 35 
+ 2
+60 ×
+ = 5 + 35
+30
+= 5 + 1.2 = 6.2
+Hence, the modal agricultural holdings of the village is 6.2 hectares.
+ EXERCISE 13.3
+1.
+Find the mean of the distribution :
+Class
+1-3
+3-5
+5-7
+7-10
+Frequency
+9
+22
+27
+17
+2.
+Calculate the mean of the scores of 20 students in a mathematics test :
+Marks
+10-20
+20-30
+30-40
+40-50
+50-60
+Number of
+students
+2
+4
+7
+6
+1
+3.
+Calculate the mean of the following data :
+Class
+4 – 7
+8 –11
+12– 15
+16 –19
+Frequency
+5
+4
+9
+10
+03/05/18
+
+STATISTICS AND PROBABILITY
+167
+4.
+The following table gives the number of pages written by Sarika for completing her
+own book for 30 days :
+Number of  pages
+written per day
+16-18
+19-21
+22-24
+25-27
+28-30
+Number of
+days
+1
+3
+4
+9
+13
+Find the mean number of pages written per day.
+5.
+The daily income of a sample of 50 employees are tabulated as follows :
+Income
+(in Rs)
+1-200
+201-400
+401-600
+601-800
+Number of
+employees
+14
+15
+14
+7
+Find the mean daily income of employees.
+6.
+An aircraft has 120 passenger seats. The number of seats occupied during 100
+flights is given in the following table :
+Number of seats 100-104
+104-108
+108-112
+112-116
+116-120
+Frequency
+15
+20
+32
+18
+15
+Determine the mean number of seats occupied over the flights.
+7.
+The weights (in kg) of 50 wrestlers are recorded in the following table :
+Weight (in kg)
+100-110
+110-120
+120-130
+130-140
+140-150
+Number of
+wrestlers
+4
+14
+21
+8
+3
+Find the mean weight of the wrestlers.
+8.
+The mileage (km per litre) of 50 cars of the same model was tested by a
+manufacturer and details are tabulated as given below :
+03/05/18
+
+168
+EXEMPLAR PROBLEMS
+Mileage
+(km/l)
+10-12
+12-14
+14-16
+16-18
+Number of cars
+7
+12
+18
+13
+Find the mean mileage.
+The manufacturer claimed that the mileage of the model was 16 km/litre. Do you
+agree with this claim?
+9.
+The following is the distribution of weights (in kg) of 40 persons :
+Weight (in kg) 40-45 45-50 50-55 55-60 60-65 65-70 70-75 75-80
+Number of
+persons
+4
+4
+13
+5
+6
+5
+2
+1
+Construct a cumulative frequency distribution (of the less than type) table for the
+data above.
+10. The following table shows the cumulative frequency distribution of marks of 800
+students in an examination:
+Marks
+Number of students
+Below 10
+10
+Below 20
+50
+Below 30
+130
+Below 40
+270
+Below 50
+440
+Below 60
+570
+Below 70
+670
+Below 80
+740
+Below 90
+780
+Below 100
+800
+Construct a frequency distribution table for the data above.
+03/05/18
+
+STATISTICS AND PROBABILITY
+169
+11. Form the frequency distribution table from the following data :
+Marks (out of 90)
+Number of candidates
+More than or equal to  80
+4
+More than or equal to  70
+6
+More than or equal to  60
+11
+More than or equal to  50
+17
+More than or equal to  40
+23
+More than or equal to  30
+27
+More than or equal to  20
+30
+More than or equal to  10
+32
+More than or equal to  0
+34
+12. Find the unknown entries a, b, c, d, e, f  in the following distribution of heights of
+students in a class :
+Height
+Frequency
+Cumulative frequency
+(in cm)
+150-155
+12
+a
+155-160
+b
+25
+160-165
+10
+c
+165-170
+d
+43
+170-175
+e
+48
+175-180
+2
+f
+Total
+50
+13. The following are the ages of 300 patients getting medical treatment in a hospital
+on a particular day :
+Age (in years)
+10-20
+20-30
+30-40
+40-50
+50-60
+60-70
+Number of
+patients
+60
+42
+55
+70
+53
+20
+03/05/18
+
+170
+EXEMPLAR PROBLEMS
+Form:
+(i)
+Less than type cumulative frequency distribution.
+(ii)
+More than type cumulative frequency distribution.
+14. Given below is a cumulative frequency distribution showing the marks secured by
+50 students of a class :
+Marks
+Below 20
+Below 40
+Below 60
+Below 80 Below 100
+Number of
+students
+17
+22
+29
+37
+50
+Form the frequency distribution table for the data.
+15. Weekly income of 600 families is tabulated below :
+Weekly income
+Number of families
+(in Rs)
+     0-1000
+250
+1000-2000
+190
+2000-3000
+100
+3000-4000
+40
+4000-5000
+15
+5000-6000
+5
+Total
+600
+Compute the median income.
+16. The maximum bowling speeds, in km per hour, of 33 players at a cricket coaching
+centre are given as follows :
+Speed (km/h)
+85-100
+100-115
+115-130
+130-145
+Number of
+players
+11
+9
+8
+5
+Calculate the median bowling speed.
+03/05/18
+
+STATISTICS AND PROBABILITY
+171
+17. The monthly income of 100 families are given as below :
+Income (in Rs)
+Number of families
+0-5000
+8
+5000-10000
+26
+10000-15000
+41
+15000-20000
+16
+20000-25000
+3
+25000-30000
+3
+30000-35000
+2
+35000-40000
+1
+Calculate the modal income.
+18. The weight of coffee in 70 packets are shown in the following table :
+Weight (in g)
+Number of packets
+200-201
+12
+201-202
+26
+202-203
+20
+203-204
+9
+204-205
+2
+205-206
+1
+Determine the modal weight.
+19. Two dice are thrown at the same time. Find the probability of getting
+(i)
+same number on both dice.
+(ii)
+different numbers on both dice.
+20. Two dice are thrown simultaneously. What is the probability that the sum of the
+numbers appearing on the dice is
+(i)
+7?
+(ii)
+a prime number?
+(iii)
+1?
+03/05/18
+
+172
+EXEMPLAR PROBLEMS
+21. Two dice are thrown together. Find the probability that the product of the numbers
+on the top of the dice is
+(i)
+6
+(ii)
+12
+(iii)
+7
+22. Two dice are thrown at the same time and the product of numbers appearing on
+them is noted. Find the probability that the product is less than 9.
+23. Two dice are numbered 1, 2, 3, 4, 5, 6 and 1, 1, 2, 2, 3, 3, respectively. They are
+thrown and the sum of the numbers on them is noted. Find the probability of getting
+each sum from 2 to 9 separately.
+24. A coin is tossed two times. Find the probability of getting at most one head.
+25. A coin is tossed 3 times. List the possible outcomes. Find the probability of getting
+(i)
+all heads
+(ii)
+at least 2 heads
+26. Two dice are thrown at the same time. Determine the probabiity that the difference
+of the numbers on the two dice is 2.
+27. A bag contains 10 red, 5 blue and 7 green balls. A ball is drawn at random. Find the
+probability of this ball being a
+(i)
+red ball
+(ii)
+green ball
+(iii)
+not a blue ball
+28. The king, queen and jack of clubs are removed from a deck of 52 playing cards
+and then well shuffled. Now one card is drawn at random from the remaining
+cards. Determine the probability that the card is
+(i)
+a heart
+(ii)
+a king
+29. Refer to Q.28. What is the probability that the card is
+(i)
+a club
+(ii)
+10 of hearts
+30. All the jacks, queens and kings are removed from a deck of 52 playing cards. The
+remaining cards are well shuffled and then one card is drawn at random. Giving
+ace a value 1 similar value for other cards, find the probability that the card
+has a value
+(i)
+7
+(ii)
+greater than 7
+(iii)
+less than 7
+31. An integer is chosen between 0 and 100. What is the probability that it is
+(i)
+divisible by 7?
+(ii)
+not divisible by 7?
+32. Cards with numbers 2 to 101 are placed in a box. A card is selected at random.
+Find the probability that the card has
+(i)
+an even number
+(ii)
+a square number
+03/05/18
+
+STATISTICS AND PROBABILITY
+173
+33. A letter of English alphabets is chosen at random. Determine the probability that
+the letter is a consonant.
+34. There are 1000 sealed envelopes in a box, 10 of them contain a cash prize of
+Rs 100 each, 100 of them contain a cash prize of Rs 50 each and 200 of them
+contain a cash prize of Rs 10 each and rest do not contain any cash prize. If they
+are well shuffled and an envelope is picked up out, what is the probability that it
+contains no cash prize?
+35. Box A contains 25 slips of which 19 are marked Re 1 and other are marked Rs 5
+each. Box B contains 50 slips of which 45 are marked Re 1 each and others are
+marked Rs 13 each. Slips of both boxes are poured into a third box and resuffled.
+A slip is drawn at random. What is the probability that it is marked other than Re 1?
+36. A carton of 24 bulbs contain 6 defective bulbs. One bulbs is drawn at random.
+What is the probability that the bulb is not defective? If the bulb selected is defective
+and it is not replaced and a second bulb is selected at random from the rest, what
+is the probability that the second bulb is defective?
+37. A child’s game has 8 triangles of which 3 are blue and rest are red, and 10 squares
+of which 6 are blue and rest are red. One piece is lost at random. Find the probability
+that it is a
+(i)
+triangle
+(ii)
+square
+(iii)
+square of blue colour
+(iv)
+triangle of red colour
+38. In a game, the entry fee is Rs 5. The game consists of a tossing a coin 3 times. If
+one or two heads show, Sweta gets her entry fee back. If she throws 3 heads, she
+receives double the entry fees. Otherwise she will lose. For tossing a coin three
+times, find the probability that she
+(i)
+loses the entry fee.
+(ii)
+gets double entry fee.
+(iii)
+just gets her entry fee.
+39. A die has its six faces marked 0, 1, 1, 1, 6, 6. Two such dice are thrown together
+and the total score is recorded.
+(i)
+How many different scores are possible?
+(ii)
+What is the probability of getting a total of 7?
+40. A lot consists of 48 mobile phones of which 42 are good, 3 have only minor defects
+and 3 have major defects. Varnika will buy a phone if it is good but the trader will
+only buy a mobile if it has no major defect. One phone is selected at random from
+the lot. What is the probability that it is
+03/05/18
+
+174
+EXEMPLAR PROBLEMS
+(i)
+acceptable to Varnika?
+(ii)
+acceptable to the trader?
+41. A bag contains 24 balls of which x are red, 2x are white and 3x are blue. A ball is
+selected at random. What is the probability that it is
+(i)
+not red?
+(ii)
+white?
+42. At a fete, cards bearing numbers 1 to 1000, one number on one card, are put in a
+box. Each player selects one card at random and that card is not replaced. If the
+selected card has a perfect square greater than 500, the player wins a prize. What
+is the probability that
+(i)
+the first player wins a prize?
+(ii)
+the second player wins a prize, if the first has won?
+(E) Long Answer Questions
+Sample Question 1: The following is the cumulative frequency distribution (of less
+than type) of 1000 persons each of age 20 years and above. Determine the mean age.
+Age below
+(in years)
+30
+40
+50
+60
+70
+80
+Number of
+persons
+100
+220
+350
+750
+950
+1000
+Solution : First, we make the frequency distribution of the given data and then proceed
+to calculate mean by computing class marks (xi), ui’s and fiui’s as follows :
+Class
+Frequency
+Class mark
+– 45
+10
+i
+i
+x
+u = 
+ 
+ 
+ 
+fiui
+(fi)
+(xi)
+20-30
+100
+25
+–2
+–200
+30-40
+120
+35
+–1
+–120
+40-50
+130
+45
+0
+0
+50-60
+400
+55
+1
+400
+60-70
+200
+65
+2
+400
+70-80
+50
+75
+3
+150
+1000
+if =
+ 
+630
+i
+i
+f u =
+ 
+03/05/18

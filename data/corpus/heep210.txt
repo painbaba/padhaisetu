@@ -1,0 +1,1298 @@
+
+
+
+
+
+
+
+
+
+
+
+
+• Two quantities x and y are said to be in direct proportion if they
+increase or decrease together in such a manner that the ratio of
+their corresponding values remains constant. That is, x
+y = k  where
+k is a positive number, if x and y are in direct proportion or vary
+directly. In case of direct proportion, if y1, y2 are the values of y
+corresponding to the values x1, x2 of x respectively, then 
+1
+2
+1
+2
+x
+x
+y
+y
+
+.
+• Two quantities x and y are said to be in inverse proportion if an
+increase in x causes a proportional decrease in y and vice-versa, in
+such a manner that the product of their corresponding values
+remains constant. That is, xy = k where k is a positive number, if x
+and y are in inverse proportion. In this case, if y1, y2 are the values
+of y corresponding to the values x1, x2 of x respectively, then x1 y1=
+x2 y2 or 
+x
+y
+x
+y
+1
+1
+2
+2
+
+• Quantities increasing or decreasing together need not always be
+in direct proportion, same in the case of inverse proportion.
+• When two quantities x and y are in direct proportion (or vary directly),
+they are written as x ∝ y. Symbol “∝” stands for ‘is proportional to’.
+12/04/18
+
+
+
+• When two quantities x and y are in inverse proportion (or vary
+inversely) they are written as x ∝1
+y
+.
+
+
+In examples 1 to 3, there are four options out of which one is correct.
+Choose the correct answer,
+Example 1
+: If x and y are directly proportional and when x = 13,
+y = 39, which of the following is not a possible pair of
+corresponding values of x and y ?
+(a) 1 and 3
+(b) 17 and 51
+(c) 30 and 10
+(d) 6 and 18
+Solution
+: The correct answer is (c).
+Example 2
+: A car covers a distance in 40 minutes with an average
+speed of 60 km per hour. The average speed to cover the
+same distance in 30 minutes is
+(a) 80 km/h
+(b)
+45 km/h
+2
+(c) 70 km/h
+(d) 45 km/h
+Solution
+: The correct answer  is (a).
+Example 3
+: Which of the following is in direct proportion?
+(a) One side of a cuboid and its volume.
+(b) Speed of a vehicle and the distance travelled in a
+fixed time interval.
+(c)  Change in weight and height among individuals.
+(d) Number of pipes to fill a tank and the time required
+to fill the same tank.
+Solution
+: The correct answer is (b).
+[Because, in a fixed time interval, as the speed of a vehicle
+increases, the distance travelled by it also increases in
+the same ratio.]
+12/04/18
+
+
+
+In examples 4 to 6, fill in the blanks to make the statements true.
+Example 4
+: Amrita takes 18 hours to travel 720 kilometres. Time
+taken by her to travel 360 kilometres is _______.
+Solution
+: 9 hours.
+Example 5
+: If x and y are inversely proportional then _____ = k where
+k is positive constant.
+Solution
+: xy.
+Example 6
+: Side of a rhombus and its perimeter are in ______
+proportion.
+Solution
+: Direct.
+In examples 7 to 9, state whether the statements are true (T) or false (F):
+Example 7
+: When two quantities x and y are in inverse proportion,
+then 
+x
+y is a constant.
+Solution
+: False.
+Example 8
+: If the cost of 10 pencils is Rs 90, then the cost of 19
+pencils is Rs 171.
+Solution
+: True.
+Example 9
+: If 5 persons can finish a job in 10 days then one person
+will finish it in 2 days.
+Solution
+: False.
+Example 10 : In a scout camp, there is food provision for 300 cadets
+for 42 days. If 50 more persons join the camp, for how
+many days will the provision last?
+Solution
+: More the persons, the sooner would be the provision
+exhausted. So, this is a case of inverse proportion.
+Let the required number of days be x.
+Hence, 300 × 42 = (300 + 50) × x
+300 × 42 = 350 × x
+300
+42
+350
+
+x
+x = 36
+12/04/18
+
+
+
+Example 11 : If two cardboard boxes occupy 500 cubic centimetres
+space, then how much space is required to keep 200 such
+boxes?
+Solution
+: As the number of boxes increases, the space required to
+keep them also increases.
+So, this is a case of direct proportion.
+Number of boxes
+  2
+200
+Space occupied
+500
+  x
+(in cubic centimetres)
+So∴ 
+x
+2
+200
+500 
+2x = 500 × 200
+x = x
+500
+200
+2
+
+
+x = 50,000
+Thus,  the required space is 50,000 cubic centimetres.
+Example 12 : Under the condition that the temperature remains
+constant, the volume of gas is inversely proportional to
+its pressure. If the volume of gas is 630 cubic centimetres
+at a pressure of 360 mm of mercury, then what will be
+the pressure of the gas if its volume is 720 cubic
+centimetres at the same temperature?
+Solution
+: Given that, at constant temperature pressure and volume
+of a gas are inversely proportional. Let the required
+pressure be x.
+Volume of gas
+  630
+720
+(in cubic centimetres)
+Pressure of gas
+  360
+  x
+(in mm)
+Then,      630 × 360 = 720 × x
+x
+630
+360
+720
+
+
+x = 315
+         Therefore, the required pressure is 315 mm of mercury.
+12/04/18
+
+
+
+The time t  required to download a 4-megabyte
+music file from an internet music seller is
+inversely proportional to the rate r at which
+data is transferred to the receiving computer.
+a. How long will it take to download a 4-
+megabyte file if the transmission occurs at
+a rate of 2.5 megabytes per minute? How
+long if the transmission rate is 0.8
+megabytes per minute?
+b. How can the relationship of t and r be expressed in symbolic form?
+c. How does the value of t change as the value of r increases steadily?
+How is this pattern of change related to the constant of proportionality?
+
+Understand and Explore the problem
+•
+Rewrite given equation in your own words.
+30 men can reap a field in 17 days. If the field is to be reaped
+in 10 days then how many men will be required? How many
+extra men are to be employed?
+•
+What do you know?
+30 men can reap a field in 17 days.
+Plan a Strategy
+•
+Think that 30 men are reaping the field in 17 days, so to reap
+the field in 10 days, i.e. in less number of days, men required
+will be more or less?
+•
+No. of days has reduced so men to be employed will increase.
+Therefore we will use indirect variation.
+•
+Find difference between no. of men required and the number 30.
+Solve
+•
+Let number of men required to finish the job in 10 days be x
+Example 13:
+Lemons were bought at Rs 60 a dozen and sold at the
+rate of Rs 40 per 10. Find the gain or loss per cent.
+12/04/18
+
+
+
+
+1.
+What will happen if question is:
+If 30 men can reap a field in 17 days, then 10 men reap the field in how
+many days?
+2.
+In the questions of men and work we always use indirect variation.
+Now think of some situation related to men where direct variation will
+be used, e.g. If maximum 15 men can travel by three cars, then find
+minimum maximum number of cars required for (a) 25 men (b) 38
+men.
+•
+No. of days
+17 decrease 10
+No. of men
+30 increase x
+•
+No. of days has decreased so number of men will increase.
+Hence we will use inverse variation.
+Hence 30 × 17 = x × 10
+                     x = 30
+17
+51
+10
+×
+=
+51 men will be required.
+Extra number of men required = 51 – 30 = 21 men.
+Revise
+•
+Verify your answer by adopting some other method e.g. Here
+instead of using variation we can use unitary method.
+e.g.
+No. of days
+No. of men
+17
+30
+1
+?
+10
+x
+No. of men required to complete the job in 17 days = 30
+No. of men required to complete the job in 1 day = 30 × 17
+No. of men required to complete the job in 10 days =
+30
+17
+51
+10
+×
+=
+No. of extra men required = 51 – 30 = 21 men.
+Hence verified.
+12/04/18
+
+
+
+
+
+In questions 1 to 16, there are four options out of which one is correct.
+Write the correct answer.
+1. Both u and v vary directly with each other. When u is 10, v is 15,
+which of the following is not a possible pair of corresponding values of
+u and v?
+(a)
+2 and 3
+(b) 8 and 12
+(c) 15 and 20
+(d) 25 and 37.5
+2. Both x and y vary inversely with each other. When x is 10, y is 6,
+which of the following is not a possible pair of corresponding values of
+x and y?
+(a) 12 and 5
+(b) 15 and 4
+(c) 25 and 2.4
+(d) 45 and 1.3
+3. Assuming land to be uniformly fertile, the area of land and the yield
+on it vary
+(a) directly with each other.
+(b) inversely with each other.
+(c) neither directly nor inversely with each other.
+(d) sometimes directly and sometimes inversely with each other.
+4. The number of teeth and the age of a person vary
+(a)
+directly with each other.
+(b) inversely with each other.
+(c)
+neither directly nor inversely with each other.
+(d) sometimes directly and sometimes inversely with each other.
+Direct Variation: If the relationship of variables y and x can be expressed
+in the form:
+y = kx for some constant k,
+then we say that y varies directly with x or that y is directly proportional to x.
+The number k is called the constant of proportionality for the relationship.
+The close connection between multiplication and division of numbers
+implies that if y is directly proportional to x, then 
+y
+k
+x
+=
+. The symbolic
+form  y
+k
+x
+=
+ shows that the ratio of y to x is constant, for any corresponding
+values of y and x.
+12/04/18
+
+
+
+5. A truck needs 54 litres of diesel for covering a distance of 297 km.
+The diesel required by the truck to cover a distance of 550 km is
+(a) 100 litres
+(b) 50 litres
+(c)
+25.16 litres (d) 25 litres
+6. By travelling at a speed of 48 kilometres per hour, a car can finish a
+certain journey in 10 hours. To cover the same distance in 8 hours,
+the speed of the car should be
+(a)
+60 km/h
+(b)
+80 km/h
+(c)
+30 km/h
+(d) 40 km/h
+7. In which of the following case, do the quantities vary directly with
+each other?
+(a)
+x
+0.5
+2
+8
+32
+y
+2
+8
+32
+128
+(b)
+p
+12
+22
+32
+42
+q
+13
+23
+33
+43
+(c)
+r
+2
+5
+10
+25
+50
+s
+25
+10
+5
+2
+0.5
+(d)
+u
+2
+4
+6
+9
+12
+v
+18
+9
+6
+4
+3
+8. Which quantities in the previous question vary inversely with each
+other?
+(a)
+x and y
+(b)
+p and q
+(c)
+r and s
+(d) u and v
+9. Which of the following vary inversely with each other?
+(a)
+speed and distance covered.
+(b) distance covered and taxi fare.
+(c)
+distance travelled and time taken.
+(d) speed and time taken.
+10.
+Both x and y are in direct proportion, then x
+1 and y
+1
+ are
+(a)
+in indirect proportion.
+(b) in inverse proportion.
+(c)
+neither in direct nor in inverse proportion.
+(d) sometimes in direct and sometimes in inverse proportion.
+12/04/18
+
+
+
+11.
+Meenakshee cycles to her school at an average speed of 12 km/h
+and takes 20 minutes to reach her school. If she wants to reach her
+school in 12 minutes, her average speed should be
+(a)
+20
+3 km/h
+(b)
+16 km/h
+(c)
+20 km/h
+(d)
+15 km/h
+12.
+100 persons had food provision for 24 days. If 20 persons left the
+place, the provision will last for
+(a)
+30 days
+(b)
+96
+5 days
+(c)
+120 days
+(d)
+40 days
+13.
+If two quantities x and y vary directly with each other, then
+(a)
+x
+y remains constant.
+(b)
+x – y remains constant.
+(c)
+x + y remains constant.
+(d)
+x × y remains constant.
+14.
+If two quantities p and q vary inversely with each other, then
+(a)
+p
+q remains constant.
+(b)
+p + q remains constant.
+(c)
+p × q remains constant.
+(d)
+p – q remains constant.
+15.
+If the distance travelled by a rickshaw in one hour is 10 km, then
+the distance travelled by the same rickshaw with the same speed in
+one minute is
+(a)
+250
+9
+m
+(b)
+500
+9
+m
+(c)
+1000 m
+(d)
+500
+3
+m
+Inverse Variation: If the relationship of variables y and x can be expressed
+in the form.
+y = 
+k
+x for some constant k,
+then we say that y varies directly with x or that y is inversely proportional
+to x. The number k is called the constant of proportionality for the
+relationship.
+Once again, the close connection between multiplication and division of
+numbers implies that if y is inversely proportional to x, then xy = k. The
+symbolic form xy = k shows that the product of y and x is constant, for any
+corresponding values of x and y.
+12/04/18
+
+
+
+16.
+Both x and y vary directly with each other and when x is 10, y is 14,
+which of the following is not a possible pair of corresponding values
+of x and y?
+(a)
+25 and 35
+(b) 35 and 25
+(c)
+35 and 49
+(d) 15 and 21
+In questions 17 to 42, fill in the blanks to make the statements true:
+17.
+If x = 5y, then x and y vary ______ with each other.
+18.
+If xy = 10, then x and y vary ______ with each other.
+19.
+When two quantities x and y are in ______ proportion or vary  ______
+they are written as x ∝ y.
+20.
+When two quantities x and y are in _______ proportion or vary ______
+they are written as x ∝y
+1
+.
+21.
+Both x and y are said to vary ______ with each other if for some
+positive number k, xy = k.
+22.
+x and y are said to vary directly with each other if for some positive
+number k, ______ =k.
+23.
+Two quantities are said to vary ______ with each other if they increase
+(decrease) together in such a manner that the ratio of their
+corresponding values remains constant.
+24.
+Two quantities are said to vary ______ with each other if an increase
+in one causes a decrease in the other in such a manner that the
+product of their corresponding values remains constant.
+25.
+If 12 pumps can empty a reservoir in 20 hours, then time required
+by 45 such pumps to empty the same reservoir is ______ hours.
+   Understand the problem
+•
+If you write a problem in your own words, you may
+understand it better. Before writing a problem in your own
+words, you may need to read it over several times – perhaps
+aloud, so that you can hear yourself say the words.
+•
+Once you have written the problem in your own words, you
+may want to make sure you have included all of the
+necessary information to solve the problem.
+12/04/18
+
+
+
+26.
+If x varies inversely as y, then
+x      –      60
+y      2     10
+27.
+If x varies directly as y, then
+x      12      6
+y      48     –
+28.
+When the speed remains constant, the distance travelled is ______
+proportional to the time.
+29.
+On increasing a, b increases in such a manner that b
+a remains______
+and positive, then a and b are said to vary directly with each other.
+30.
+If on increasing a, b decreases in such a manner that _______ remains
+______ and positive, then a and b are said to vary inversely with each
+other.
+31.
+If two quantities x and y vary directly with each other, then ______ of
+their corresponding values remains constant.
+32.
+If two quantities p and q vary inversely with each other then ______
+of their corresponding values remains constant.
+33.
+The perimeter of a circle and its diameter vary _______ with each
+other.
+34.
+A car is travelling 48 km in one hour. The distance travelled by the
+car in 12 minutes is _________.
+35.
+An auto rickshaw takes 3 hours to cover a distance of 36 km. If its
+speed is increased by 4 km/h, the time taken by it to cover the same
+distance is __________.
+36.
+If the thickness of a pile of 12 cardboard sheets is 45 mm, then the
+thickness of a pile of 240 sheets is _______ cm.
+37.
+If x varies inversely as y and x = 4 when y = 6, then when x = 3 the
+value of y is _______.
+38.
+In direct proportion, 
+1
+1
+a
+b _______ 
+2
+2
+a
+b
+12/04/18
+
+
+
+39.
+In case of inverse proportion, 
+2
+a
+−=
+2
+b
+−
+40.
+If the area occupied by 15 postal stamps is 60 cm2, then the area
+occupied by 120 such postal stamps will be _______.
+41.
+If 45 persons can complete a work in 20 days, then the time taken
+by 75 persons will be ______ hours.
+42.
+Devangi travels 50 m distance in 75 steps, then the distance travelled
+in 375 steps is _______ km.
+In questions from 43  to 59, state whether the statements are true (T)
+or false (F).
+43.
+Two quantities x and y are said to vary directly with each other if for
+some rational number k, xy = k.
+44.
+When the speed is kept fixed, time and distance vary inversely with
+each other.
+45.
+When the distance is kept fixed, speed and time vary directly with
+each other.
+46.
+Length of a side of a square and its area vary directly with each
+other.
+47.
+Length of a side of an equilateral triangle and its perimeter vary
+inversely with each other.
+ Plan a strategy
+•
+Concept maps are visual tools for organising information. A
+concept map shows how key concepts are related and can
+help you summarise and analyse information in lessons or
+chapters.
+  Create a Concept Map
+•
+Give your concept map a title;
+•
+Identify the main idea of your concept map;
+•
+List the key concepts:
+•
+Link the concepts to show the relationships between the
+concepts and the main idea.
+12/04/18
+
+
+
+48.
+If d varies directly as t2, then we can write dt2 = k, where k is some
+constant.
+49.
+If a tree 24 m high casts a shadow of 15 m, then the height of a pole
+that casts a shadow of 6 m under similar conditions is 9.6 m.
+50.
+If x and y are in direct proportion, then (x – 1) and (y – 1) are also in
+direct proportion.
+51.
+If x and y are in inverse proportion, then  (x + 1) and (y + 1) are also
+in inverse proportion.
+52.
+If p and q are in  inverse variation then  (p + 2) and (q – 2) are also in
+inverse proportion.
+53.
+If one angle of a triangle is kept fixed then the measure of the
+remaining two angles vary inversely with each other.
+54.
+When two quantities are related in such a manner that, if one
+increases, the other also increases, then they always vary directly.
+55.
+When two quantities are related in such a manner that if one
+increases and the other decreases, then they always vary inversely.
+56.
+If x varies inversely as y and when x = 6, y = 8, then for x = 8 the
+value of y is 10.
+57.
+The number of workers and the time to complete a job is a case of
+direct proportion.
+58.
+For fixed time period and rate of interest, the simple interest is directly
+proportional to the principal.
+59.
+The area of cultivated land and the crop harvested is a case of direct
+proportion.
+In questions 60 to 62, which of the following vary directly and which
+vary inversely with each other and which are neither of the two?
+60.
+(i) The time taken by a train to cover a fixed distance and the speed
+of the train.
+(ii) The distance travelled by CNG bus and the amount of CNG
+used.
+(iii) The number of people working and the time to complete a given
+work.
+12/04/18
+
+
+
+(iv) Income tax and the income.
+(v) Distance travelled by an auto-rickshaw and time taken.
+61.
+(i) Number of students in a hostel and consumption of food.
+(ii) Area of the walls of a room and the cost of white washing the
+walls.
+(iii) The number of people working and the quantity of work.
+(iv) Simple interest on a given sum and the rate of interest.
+(v) Compound interest on a given sum and the sum invested.
+62.
+(i) The quantity of rice and its cost.
+(ii) The height of a tree and the number of years.
+(iii) Increase in cost and number of shirts that can be purchased if
+the budget remains the same.
+(iv) Area of land and its cost.
+(v) Sales Tax and the amount of the bill.
+Solve the following :
+63.
+If x varies inversely as y and x = 20 when y = 600, find y when
+x = 400.
+64.
+The variable x varies directly as y and x = 80 when y is 160. What is
+y when x is 64?
+65.
+l varies directly as m and l is equal to 5, when m = 2
+3 . Find l when
+m = 16
+3 .
+66.
+If x varies inversely as y and y = 60 when x = 1.5. Find x. when
+y = 4.5.
+67.
+In a camp, there is enough flour for 300 persons for 42 days. How
+long will the flour last if 20 more persons join the camp?
+68.
+A contractor undertook a contract to complete a part of a stadium in
+9 months with a team of 560 persons. Later on, it was required to
+complete the job in 5 months. How many extra persons should he
+employ to complete the work?
+69.
+Sobi types 108 words in 6 minutes. How many words would she
+type in half an hour?
+12/04/18
+
+
+
+70.
+A car covers a distance in 40 minutes with an average speed of 60
+km/h. What should be the average speed to cover the same distance
+in 25 minutes?
+71.
+It is given that l varies directly as m.
+(i)
+Write an equation which relates l and m.
+(ii)
+Find the constant of proportion (k), when l is 6 then m is 18.
+(iii)
+Find l, when m is 33.
+(iv)
+Find m when l is 8.
+72.
+If a deposit of Rs 2,000 earns an interest of Rs 500 in 3 years, how
+much interest would a deposit of Rs 36,000 earn in 3 years with the
+same rate of simple interest?
+73.
+The mass of an aluminium rod varies directly with its length. If a
+16 cm long rod has a mass of 192 g, find the length of the rod whose
+mass is 105 g.
+74.
+Find the values of x and y if a and b are in inverse proportion:
+a.
+12 x 8
+b.
+30 5 y
+75.
+If Naresh walks 250 steps to cover a distance of 200 metres, find the
+distance travelled in 350 steps.
+76.
+A car travels a distance of 225 km in 25 litres of petrol. How many
+litres of petrol will be required to cover a distance of 540 kilometres
+by this car?
+77.
+From the following table, determine if x and y are in direct proportion
+or not.
+(i)
+x
+3
+6
+15
+20
+30
+y
+12
+24
+45
+60
+120
+(ii)
+x
+4
+7
+10
+16
+y
+24
+42
+60
+96
+(iii)
+x
+1
+4
+9
+20
+y
+1.5
+6
+13.5
+30
+12/04/18
+
+
+
+78.
+If a and b vary inversely to each other, then find the values of p, q, r ;
+x, y, z and l, m, n.
+(i)
+a
+6
+8
+q
+25
+b
+18
+p
+39
+r
+(ii)
+a
+2
+y
+6
+10
+b
+x
+12.5
+15
+z
+(iii)
+a
+l
+9
+n
+6
+b
+5
+m
+25
+10
+79.
+If 25 metres of cloth costs Rs 337.50, then
+(i)
+What will be the cost of 40 metres of the same type of cloth?
+(ii)
+What will be the length of the cloth bought for Rs 810?
+80.
+A swimming pool can be filled in 4 hours by 8 pumps of the same
+type. How many such pumps are required if the pool is to be filled in
+2
+2 3 hours?
+81.
+The cost of 27 kg of iron is Rs 1,080, what will be the cost of 120 kg
+of iron of the same quality?
+82.
+At a particular time, the length of the shadow of Qutub Minar whose
+height is 72 m is 80 m. What will be the height of an electric pole,
+the length of whose shadow at the same time is 1000 cm?
+83.
+In a hostel of 50 girls, there are food provisions for 40 days. If 30
+more girls join the hostel, how long will these provisions last?
+84.
+Campus and Welfare Committee of school is planning to develop a
+blue shade for painting the entire school building. For this purpose
+various shades are tried by mixing containers of blue paint and
+white paint. In each of the following mixtures, decide which is a
+lighter shade of blue and also find the lightest blue shade among all
+of them.
+12/04/18
+
+
+
+If one container has one litre paint and the building requires 105
+litres for painting, how many container of each type is required to
+paint the building by darkest blue shade?
+85.
+Posing a question
+Work with a partner to write at least five ratio statements about this
+quilt, which has white, blue, and purple squares.
+How many squares of each colour will be there in 12 such quilts?
+86. A packet of sweets was distributed among 10 children and each of
+them received 4 sweets. If it is distributed among 8 children, how
+many sweets will each child get?
+12/04/18
+
+
+
+87.
+44 cows can graze a field in 9 days. How many less/more cows will
+graze the same field in 12 days?
+88.
+30 persons can reap a field in 17 days. How many more persons
+should be engaged to reap the same field in 10 days?
+89.
+Shabnam takes 20 minutes to reach her school if she goes at a
+speed of 6 km/h. If she wants to reach school in 24 minutes, what
+should be her speed?
+90.
+Ravi starts for his school at 8:20 a.m. on his bicycle. If he travels at
+a speed of 10km/h, then he reaches his school late by 8 minutes
+but on travelling at 16 km/h he reaches the school 10 minutes
+early. At what time does the school start?
+91.
+Match each of the entries in Column I with the appropriate entry
+in Column II
+Column I
+Column II
+1.
+x and y vary inversely to each other
+A.
+x
+y = Constant
+2.
+Mathematical representation of inverse
+B.
+y will increase in proportion
+variation of quantities p and q
+3.
+Mathematical representation of
+C.
+xy = Constant
+direct variation of quantities
+m and n
+4.
+When x = 5, y = 2.5 and when
+D.
+p ∝1
+q
+y = 5, x = 10
+5.
+When x = 10 ,  y = 5 and when
+E.
+y will decrease in proportion
+x = 20, y = 2.5
+6.
+x and y vary directly with each other
+F.
+x and y  are directly proportional
+7.
+If x and y vary inversely then on
+G.
+m α n
+decreasing x
+8.
+If x and y vary directly then on
+H.
+x and y vary inversely
+decreasing x
+I.
+p α q
+J.
+m α 
+n
+1
+92.
+There are 20 grams of protein in 75 grams of sauted fish. How many
+grams of protein is in 225 gm of that fish?
+93.
+Ms. Anita has to drive from Jhareda to Ganwari. She measures a
+distance of 3.5 cm between these villages on the map. What is the
+actual distance between the villages if the map scale is 1 cm = 10 km?
+12/04/18
+
+
+
+94.
+A water tank casts a shadow 21 m long. A tree of height 9.5 m casts
+a shadow 8 m long at the same time. The lengths of the shadows are
+directly proprotional to their heights. Find the height of the tank.
+95.
+The table shows the time four elevators take to travel various
+distances. Find which elevator is fastest and which is slowest.
+Distance (m)
+Time (sec.)
+Elevator- A
+435
+29
+Elevator- B
+448
+28
+Elevator- C
+130
+10
+Elevator- D
+85
+5
+How much distance will be travelled by elevators B and C seperately
+in 140 sec? Who travelled more and by how much?
+96.
+A volleyball court is in a rectangular shape and its dimensions are
+directly proportional to the dimensions of the swimming  pool given
+below. Find the width of the pool.
+12/04/18
+
+
+
+97.
+A recipe for a particular type of muffins requires 1 cup of milk and
+1.5 cups of chocolates. Riya has 7.5 cups of chocolates. If she is
+using the recipe as a guide, how many cups of milk will she need to
+prepare muffins?
+98.
+Pattern B consists of four tiles like pattern A. Write a proportion
+involving red dots and blue dots in pattern A and B. Are they in
+direct proportion? If yes, write the constant of proportion.
+99.
+A bowler throws a cricket ball at a speed of 120 km/h. How long
+does this ball take to travel a distance of 20 metres to reach the
+batsman?
+100. The variable x is inversely proportional to y. If x increases by p%,
+then by what per cent will y decrease?
+101. Here is a key board of a harmonium:
+(a) Find the ratio of white keys to black keys on the keyboard.
+12/04/18
+
+
+
+(b) What is the ratio of black keys to all keys on the given keyboard.
+(c)
+This pattern of keys is repeated on larger keyboard. How many
+black keys would you expect to find on a keyboard with 14 such
+patterns.
+102. The following table shows the distance travelled by one of the new
+eco-friendly energy-efficient cars  travelled on gas.
+Litres of gas
+1
+0.5
+2
+2.5
+3
+5
+Distance (km)
+15
+7.5
+30
+37.5
+45
+75
+Which type of properties are indicated by the table? How much
+distance will be covered by the car in 8 litres of gas?
+103. Kritika is following this recipe for bread. She realises her sister used
+most of sugar syrup for her breakfast. Kritika has only 
+1
+6 cup of
+syrup, so she decides to make a small size of bread. How much of
+each ingredient shall she use?
+Bread recipe
+1 cup quick cooking oats
+2 cups bread flour
+1
+3 cup sugar syrup
+1 tablespoon cooking oil
+1
+13 cups water
+3 tablespoons yeast
+1 teaspoon salt.
+104. Many schools have a recommended students-teacher ratio as 35:1.
+Next year, school expects an increase in enrolment by 280 students.
+How many new teachers will they have to appoint to maintain the
+students-teacher ratio?
+105. Kusum always forgets  how to convert miles to kilometres and back
+again. However she remembers that her car’s speedometer shows
+both miles and kilometres. She knows that travelling 50 miles per
+hour is same as travelling 80 kilometres per hour. To cover a distance
+of 200 km, how many miles Kusum would have to go?
+12/04/18
+
+
+
+106. The students of Anju’s class sold posters to raise money. Anju wanted
+to create a ratio for finding the amount of money her class would
+make for different numbers of posters sold. She knew they could
+raise Rs 250 for every 60 posters sold.
+(a) How much money would Anju’s class make for selling 102
+posters?
+(b) Could Anju’s class raise exactly Rs 2,000? If so, how many
+posters would they need to sell? If not, why?
+
+1. Speed = 
+Distance Travelled
+Time Taken
+
+
+
+
+
+
+Calculate the speed for at least 10 students of your class by giving
+them a certain distance to walk. Measure the distance each student
+has walked and record the time taken by each to cover the distance.
+Then, complete the table given below:
+Name of the
+Distance walked
+Time taken
+Rate of speed
+student
+(in metres)
+(in minutes)
+(in m/min)
+1
+2
+Which student ran the fastest?
+2. Figures that have the same shape but not necessarily the same size
+are called similar figures. We can make rectangles with similar figures
+by increasing or decreasing its dimensions in the same ratio. Let us
+make similar figures using square tiles.
+What is the length of a similar rectangle where width is made up of
+12 tiles? Let us consider a rectangle having 10 square tiles along
+the length and 4 along the breadth as shown in the figure.
+12/04/18
+
+
+
+4
+10
+Use tiles to make a 10 × 4
+rectangles.
+Add tiles to increase width of
+the rectangle to 12 tiles.
+The width of the new rectangle
+is three times the width of the
+original rectangle. To keep the
+ratios of the lengths of two
+rectangles proportional, the
+length of this new rectangle
+must also be three times the
+length of the original rectangle.
+Add tiles to increase the length
+of the rectangle to 30 tiles.
+To check our answers, we can
+use the idea of direct proportion.
+4
+10
+4
+4
+12/04/18
+
+
+
+4
+10 = 
+12
+30
+or, 2
+5 = 2
+5
+Do yourself
+Use square tiles to make similar rectangles with given dimensions
+and find x.
+(a) The original rectangle is 8 tiles wide and 6 tiles long. The similar
+rectangle is 16 tiles wide and x tiles long.
+(b) The original rectangle is 3 tiles wide and 7 tiles long.
+The similar rectangle is 9 tiles wide and x tiles long.
+3 Inverse Variation
+Take four cylindrical containers of the same size each of radius 5
+cm. Fill the containers with different types of liquids with same mass
+(different density) like Mercury, Water, Alcohol, Oil.
+Note the height in each case at which the level of liquid stands.
+Tabulate this information in the following table and show that
+this is case of inverse proportion.
+12/04/18
+
+
+
+Density
+Mercury
+Water
+Alcohol
+Oil
+(g/cm3)
+13.6 (D1)
+.99 (D2)
+.78 (D3)
+.96 (D4)
+Height (cm)
+H1
+H2
+H3
+H4
+Density × Height = Constant.
+4. Crossword
+Across
+1.
+Two things are said to be varying __________ if they increase
+(decrease) together such that ratio of their corresponding values
+remains constant.
+4.
+Problems based on direct proportion can be solved using __________
+method.
+5.
+More the number of workers, ___________ the number of days to
+finish a job.
+7.
+Indirect ___________.
+9.
+Two quantities are said to be in inverse proportion if an increase in
+one quantity causes a proportional ___________ in other.
+Down
+2.
+Speed and time are in ____________ proportion to each other if
+distance remains the same.
+3.
+It is used to compare two ratios or make __________ fractions.
+6.
+‘k’ is called _________ of variation.
+7.
+In inverse proportion, ___________ of corresponding values remains
+constant.
+8.
+With an increase in quantity of milk, cost of milk also ___________.
+12/04/18
+
+334    EXEMPLAR PROBLEMS
+MATHEMATICS
+12/04/18
+
+DIRECT AND INVERSE PROPORTIONS  335
+UNIT-10
+Rough Work
+12/04/18
+
+336    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18

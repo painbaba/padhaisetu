@@ -1,0 +1,1122 @@
+Weightage and the distribution of marks over different dimensions of the question
+shall be as follows:
+(A) Weightage to Content/ Subject Units :
+S.No.
+Content Unit
+Marks
+1.
+Number Systems
+04
+2.
+Algebra
+20
+3.
+Trigonometry
+12
+4.
+Coordinate Geometry
+08
+5.
+Geometry
+16
+6.
+Mensuration
+10
+7.
+Statistics and Probability
+10
+                                               Total : 80
+(B) Weightage to Forms of Questions :
+S.No.
+Form of
+Marks for each
+Number of
+Total Marks
+Questions
+Question
+Questions
+1.
+MCQ
+01
+10
+10
+2.
+SAR
+02
+05
+10
+3.
+SA
+03
+10
+30
+DESIGN OF THE QUESTION PAPER
+Mathematics
+Class X
+Time : 3 Hours
+Maximum Marks : 80
+    4.
+LA
+  06
+   05
+   30
+      Total
+   30
+    80
+SET-II
+03/05/18
+
+220
+EXEMPLAR PROBLEMS
+(C) Scheme of Options
+All questions are compulsory, i.e., there is no overall choice. However, internal choices
+are provided in one question of 2 marks, three questions of 3 marks each and two
+questions of 6 marks each.
+(D) Weightage to Difficulty level of Questions
+  S.No.
+Estimated Difficulty
+Percentage of Marks
+Level of Questions
+  1.
+Easy
+20
+  2.
+Average
+60
+  3.
+Difficult
+20
+Note : A question may vary in difficulty level from individual to individual. As such, the
+assessment in respect of each will be made by the paper setter/ teacher on the basis of
+general anticipation from the groups as whole taking the examination. This provision is
+only to make the paper balanced in its weight, rather to determine the pattern of marking
+at any stage.
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+221
+BLUE PRINT
+MATHEMATICS
+CLASS X
+Form of Question
+Units
+
+
+
+
+
+Number Systems
+2(2)
+2(1)
+-
+-
+4(3)
+Algebra
+3(3)
+2(1)
+9(3)
+6(1)
+20(8)
+Polynomials, Pair of
+Linear Equations in
+Two Variables,
+Quadratic Equations,
+Arithmatic Progressions
+Trigonometry
+1(1)
+2(1)
+3(1)
+6(1)
+12(4)
+Introduction to Trigonometry,
+Some Applications of
+Trigonometry
+Coordinate Geometry
+1(1)
+4(2)
+3(1)
+-
+8(4)
+Geometry
+1(1)
+-
+9(3)
+6(1)
+16(5)
+Triangles, Circles,
+Constructions
+Mensuration
+1(1)
+-
+3(1)
+6(1)
+10(3)
+Areas related to Circles,
+Surface Areas and Volumes
+Statistics & Probability
+1(1)
+-
+3(1)
+6(1)
+10(3)
+Total
+10(10)
+10(5)
+30(10)
+30(5)
+80(30)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+03/05/18
+
+222
+EXEMPLAR PROBLEMS
+Mathematics
+Class X
+Maximum Marks : 80
+Time : 3 Hours
+General Instructions
+1.
+All questions are compulsory.
+2.
+The question paper consists of  30 questions divided into four sections A, B, C, and
+D.Section A contains 10 questions of 1 mark each, Section B contains 5 questions
+of 2 marks each, Section C contains 10 questions of 3 marks each and Section D
+contains 5 questions of 6 marks each.
+3.
+There is no overall choice. However, an internal choice has been provided in
+one question of 2 marks, three questions of 3 marks and two questions of 6
+marks each.
+4.
+In questions on construction, the drawing should be neat and exactly as per
+given measurements.
+5.
+Use of calculators is not allowed.
+Section  A
+1.
+The largest number which divides 318 and 739 leaving remainders 3 and 4,
+respectively is
+(A) 110
+(B) 7
+(C) 35
+(D) 105
+2.
+The number of zeroes lying between –2 to 2 of the polynomial f (x), whose graph
+is given below, is
+(A)  2
+(B)  3
+(C)  4
+(D)  1
+3.
+The discriminant of the quadratic equation 3
+3 x2 + 10x + 
+3 = 0 is
+(A) 8
+(B) 64
+(C) 
+1
+3 3
+−
+(D) 
+3
+−
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+223
+4.
+If 6
+5 , a, 4 are in AP, the value of a is
+(A) 1
+(B) 13
+(C) 13
+5
+(D) 26
+5
+5.
+If in the following figure, ∆ABC  ∆QPR, then the measure of ∠Q is
+(A) 60°
+(B) 90° (C) 70° (D) 50°
+   
+6.
+In the adjoining figure, ∆ABC is circumscribing a circle. Then, the length of BC is
+(A) 7 cm
+(B) 8 cm
+(C) 9 cm
+(D) 10 cm
+7.
+If sinθ = 1
+3 , then the value of (9 cot2θ + 9) is
+(A) 1
+(B) 81
+(C) 9
+(D) 1
+81
+03/05/18
+
+224
+EXEMPLAR PROBLEMS
+8.
+The radii of the ends of a frustum of a cone 40 cm high are 20 cm and 11 cm. Its
+slant height is
+(A) 41 cm               (B) 20
+5 cm
+(C) 49 cm
+(D) 
+521cm
+9.
+A bag contains 40 balls out of which some are red, some are blue and  remaining
+are black. If the probability of drawing a red ball is 11
+20 and that of blue ball is 1
+5 ,
+then the number of black balls is
+(A) 5
+(B) 25
+(C) 10
+(D) 30
+10. Two coins are tossed simultaneously. The probability of getting at most one head is
+(A) 1
+4
+(B) 1
+2
+(C) 3
+4
+(D) 1
+SECTION B
+11. Which of the following can be the nth term of an AP?
+3n + 1, 2n2 + 3, n3 + n.
+Give reasons.
+12. Are the points (–3, –3), (–3, 2) and (–3, 5) collinear? Give reasons.
+13. ABC and BDE are two equilateral triangles such that D is the mid point of BC.
+What is the ratio of the areas of triangles ABC and BDE? Justify your answer.
+14. cos (A + B) = 1
+2 and sin (A – B)= 1
+2 , 0° < A + B < 90° and A – B > 0°. What are
+the values of ∠A and ∠B? Justify your answer.
+15. A coin is tossed twice and the outcome is noted every time. Can you say that head
+must come once in two tosses? Justify your answer.
+OR
+A die is thrown once. The probability of getting a prime number is 2
+3 . Is it true?
+Justify your answer.
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+225
+SECTION C
+16. Show that square of an odd positive integer is of the form 8q + 1, for some positive
+integer q.
+OR
+Write the denominator of the rational number 357
+5000 in the form of 2m 5n , m, n are
+non-negative integers and hence write its decimal expansion, without actual division.
+17. If (x – 2) is a factor of x3+ax2+bx+16 and b = 4a, then find the values of a and b.
+18. The sum of reciprocals of a child’s age (in years) 3 years ago and 5 years from
+now is 1
+3 . Find his present age.
+OR
+Solve for x :    6 a2x2 – 7abx – 3b2 = 0, a ≠ 0, using the quadratic formula.
+19. Find the sum of all two digit natural numbers which are divisible by 7.
+20. Find the ratio in which the line x + 3y – 14 = 0 divides the line segment joining the
+points A (–2, 4) and B (3, 7).
+21. Find the area of the quadrilateral whose vertices in the same order are (–4, –2),
+(–3, –5), (3, –2) and (2, 3).
+22. Two tangents PA and PB are drawn to a circle with centre O from an  external
+point P. Prove that ∠APB = 2 ∠OAB. (see the following figure).
+03/05/18
+
+226
+EXEMPLAR PROBLEMS
+23. Construct a triangle with sides 3 cm, 5 cm and 7 cm and then construct another
+triangle whose sides are 5
+3 of the corresponding sides of the first triangle.
+24. Prove the identity (1 + cot + tan) (sin– cos) = 
+2
+sec
+cosec –
+2
+cosec
+sec 
+OR
+Find the value of
+2
+2
+2
+2
+cos 32°+ cos 58°
+sec 50°– cot 40° – 4 tan13° tan37° tan53° tan77°
+25. The area of an equilateral triangle is 49
+3 cm2. Taking each vertex as centre,
+circles are described with radius equal to half the length of the side of the triangle.
+Find the area of the part of the triangle not included in the circles. [Take
+22
+3 1.73, 
+7
+=
+]
+SECTION D
+26. In a bag containing white and red balls, half the number of white balls is equal to
+the one third the number of red balls. Twice the total number of balls exceeds three
+times the number of red balls by 8. How many balls of each type does the bag
+contain?
+27. Prove that in a right triangle, the square of the hypotenuse is equal to sum of
+squares of the other two sides.
+Using the above theorem, prove that in a triangle ABC, if AD is perpendicular to
+BC, then AB2 + CD2 = AC2 + BD2.
+28. A pole 5m high is fixed on the top of a tower. The angle of elevation of the top of
+the pole as observed from a point A on the ground is 60° and the angle of depression
+of point A from the top of the tower is 45°. Find the height of the tower. (Take 3
+= 1.73)
+29. The interior of a building is in the form of a cylinder of diameter 4 m and height
+3.5 m, surmounted by a cone of the same base with vertical angle as a right angle.
+Find the surface area (curved) and volume of the interior of the building.
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+227
+OR
+A vessel in the form of an open inverted cone of height 8 cm and radius of its top
+is 5 cm. It is filled with water up to the brim. When lead shots, each of radius 0.5
+cm are dropped into the vessel, one fourth of the water flows out. Find the number
+of lead shots dropped in the vessel.
+30. Find the mean, median and mode of the following frequency distribution:
+Class
+0-10
+10-20 20-30
+30-40
+40-50
+50-60
+60–70
+Frequency
+4
+5
+7
+10
+12
+8
+4
+OR
+The following distribution gives the daily income of 50 workers of a factory:
+Daily income
+100-120
+120-140
+140-160
+160-180
+180-200
+(in Rs)
+Number of workers
+12
+14
+8
+6
+10
+Convert the distribution above to a less than type cumulative frequency distribution,
+and draw its ogive. Find the median from this ogive.
+03/05/18
+
+228
+EXEMPLAR PROBLEMS
+MARKING  SCHEME
+SECTION  A
+MARKS
+1. (D)
+2. (A)
+3. (B)
+4. (C)
+5.   (A)
+6. (D)
+7. (B)
+8. (A)
+9. (C)
+10. (C)
+(1  × 
+ × 
+ × 
+ × 
+ × 10 = 10)
+SECTION B
+11. nth term is 3n +1,
+( 1
+2 )
+because, nth term of an AP can only be a linear relation in n.
+      ( 1
+12 )
+12. Yes,
+( 1
+2 )
+Since all the three points are on the line x = –3.
+( 1
+12 )
+13. 4 : 1
+( 1
+2 )
+ar ABC
+ar BDE = 
+2
+2
+BC
+BD = 
+2
+2
+BC
+1 (BC)
+2
+
+
+
+
+
+
+= 4
+1
+( 1
+12 )
+14. ∠A = 45°, ∠B = 15°
+( 1
+2 )
+A + B = 60° and A – B = 30°, solving, we get ∠A = 45°, ∠B = 15°
+( 1
+12 )
+15. No.
+( 1
+2 )
+Head may come and head may not come. In every toss, there are two
+equally likely outcomes.
+        ( 1
+12 )
+OR
+No.
+( 1
+2 )
+P (a pirme number) = P (2, 3, 5) = 3
+6 = 1
+2
+(1 1
+2 )
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+229
+SECTION C
+16. An odd positive integer can be of the form, 4n+1 or 4n+3
+(1)
+Therefore, (4n + 1)2 = 16n2 + 8n + 1 = 8 (2n2 + n) + 1 = 8q + 1.
+(1)
+     (4n + 3)2 = 16n2 + 24n + 9 = 8 (2n2 + 3n +1)+1 = 8q + 1.
+(1)
+OR
+357
+5000
+= 
+3
+4
+357
+2
+5
+×
+(1)
+= 
+4
+4
+357
+2
+2
+5
+×
+×
+ = 
+4
+714
+(10)
+ (1)
+= 0.0714
+           (1)
+17. (x–2) is a factor of x3 + ax2 + bx + 16
+Therefore, (2)3 + a(2)2 + b(2) + 16 = 0
+(1)
+4a + 2b + 24 = 0 or 2a + b + 12 = 0
+(1)
+Given b = 4a, so a = –2
+(1)
+and b = –8
+18. Let the present age be x years.
+(1)
+Therefore, 
+1
+3
+x −
+ + 
+1
+5
+x +
+ = 1
+3
+or 3 [(x + 5) + (x – 3)] = (x – 3) (x + 5)
+or 6x + 6 = x2 + 2x – 15.
+or x2 – 4x –21 = 0
+or (x – 7) (x + 3) = 0
+(1)
+i.e., x = 7, x = –3 (rejected)
+Therefore, present age = 7 years
+(1)
+OR
+6a2x2 – 7abx – 3b2 = 0
+B2 – 4AC = [(–7ab)2 – 4 (6a2) (–3b2)]
+   = 49a2b2 + 72a2b2 = 121a2b2
+(1)
+Therefore, x = 
+2
+–(–7
+) ± 11
+12
+ab
+ab
+a
+(1)
+03/05/18
+
+230
+EXEMPLAR PROBLEMS
+       = 
+2
+18
+12
+ab
+a or 
+2
+– 4
+12
+ab
+a
+       = 3
+2
+b
+a or 
+3
+b
+a
+−
+(1)
+19. Numbers are
+14, 21, ..., 98
+(1)
+98 = 14 + (n – 1) 7, i.e., n = 13
+(1)
+S13 = 13
+2 [14 + 98] = 728.
+(1)
+20. Let C (x, y) be the point where the line x + 3y – 14 = 0 divides the line segment in
+the ratio k:1.
+ So, x = 3 – 2
+ + 1
+k
+k
+, y = 7 + 4
+ + 1
+k
+k
+(1)
+and, 3 – 2
+7 + 4
++3.
+ + 1
+ + 1
+k
+k
+k
+k
+–14 = 0
+       ( 1
+2 )
+i.e.,  3k – 2 + 21k + 12 – 14k – 14 = 0,
+i.e., 10k – 4 = 0
+i.e., k = 4
+10 = 2
+5
+(1)
+Therefore, ratio is 2 : 5
+( 1
+2 )
+21. Area of ∆ABC
+=  1
+2 [– 4 (–5 + 2) – 3 (–2 + 2) + 3 (–2 + 5)]
+= 1
+2 [12 + 9] = 21
+2 sq.units
+(1)
+area of ∆ACD = 1
+2 [–4 (–2 –3) + 3(3 + 2) + 2(–2 + 2)]
+= 1
+2 [20 + 15] = 35
+2 sq. units
+(1)
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+231
+Therefore, area of  quadrilateral ABCD = 21
+35
+2
++
+ = 56
+2 = 28 sq. units
+     (1)
+22. AP = PB. So, ∠PAB = ∠PBA = 1
+2 [180º – ∠APB]
+= 90º – 1
+2 ∠APB
+(1)
+∠OAB = 90° – ∠PAB
+(1)
+= 90° – [90° – 1
+2 ∠APB] = 1
+2 ∠APB
+i.e., 2 ∠OAB = ∠APB
+(1)
+23. Correct construction of ∆ with sides 3, 5 and 7 cm
+           (1)
+Correct construction of similar triangle
+                       (2)
+24. LHS = 
+cos
+
+1+
++
+(sin
+sin
+
+
+
+
+
+
+
+                                 ( 1
+2 )
+= 
+2
+2
+(sin
+sin
+ = 
+3
+3
+sin 
+sin
+( 1
+12 )
+= 
+2
+sin 
+cos – 
+2
+cos 
+sin = 
+2
+sec
+cosec –
+2
+cosec
+sec 
+                       (1)
+OR
+2
+2
+2
+2
+cos 58° = sin 32°,
+tan 53° = cot37°
+sec 50° = cosec 40,
+tan 77° = cot13°
+                       (2)
+Given expression
+= 
+2
+2
+2
+2
+cos 32°  +  sin 32° – 4 tan13° tan 37° cot 37° cot 13°
+cosec 40° – cot 40°
+                             (1)
+= 1 – 4 = – 3
+03/05/18
+
+232
+EXEMPLAR PROBLEMS
+25. Area of ∆ABC = 49 3 cm2 = 
+3
+2
+4
+a
+So, a = 14 cm
+                                   (1)
+Area of one sector =  × 72 60
+360 = 49
+6
+             (1)
+Therefore, required area = 
+3 49
+22
+49 3 –
+6
+7
+×
+
+
+× 
+
+
+
+= 49 3 – 77
+= 84.77 – 77 = 7.77 cm2
+                                  (1)
+SECTION D
+26. Let the number of white balls be x and number of red balls be y
+Therefore, 1
+2 x = 1
+3 y , i.e.,  3x – 2y = 0
+        (I)
+                   (1 1
+2 )
+and 2 (x + y) = 3y + 8
+i.e., 2x – y = 8
+                    (II)
+                    (1 1
+2 )
+Solving (I) and (II), we get x = 16, y = 24
+                      (2)
+Therefore, number of white balls = 16
+Number of red balls = 24
+(1)
+27. For correct given, to prove, construction and proof
+           ( 1
+4
+2
+2 ×
+=
+)
+For correct proof
+                       (2)
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+233
+AD2 = AB2 – BD2
+                                 ( 1
+2 )
+and AD2 = AC2 – CD2
+( 1
+2 )
+i.e., AB2 – BD2 = AC2 – CD2
+                                ( 1
+2 )
+or  AB2 + CD2 = AC2 + BD2
+                                ( 1
+2 )
+28. For correct figure
+(1)
+Let height of tower be h metres and AB = x metres.
+( 1
+2 )
+Therefore, x
+h = cot 45° = 1
+                     (1)
+ i.e., x = h.
+                      ( 1
+2 )
+Also,   + 5
+tan60 = 3
+h
+x
+=
+°
+(1)
+ i.e.,  h + 5 = 
+3x = 
+3h
+                      ( 1
+2 )
+ i.e., (
+3 –1)h = 5
+h = 
+5
+3
+1
+−
+.
+3
+1
+3
+1
++
++
+( 1
+2 )
+   = 5( 3
+1)
+5(2.73)
+2
+2
++
+=
+   = 13.65
+2
+ = 6.825 m
+(1)
+03/05/18
+
+234
+EXEMPLAR PROBLEMS
+29. For correct figure
+( 1
+2 )
+Here, ∠Q = 45° , i.e.,  height of cone = radius = 2m (1)
+Therefore, surface area = rl + 2 rh
+= r ( l+ 2h)
+(1)
+=  × 2 × (2
+2 +7)
+( 1
+2 )
+= (14 + 4
+2 )  m2
+(1)
+Volume = 
+2
+1
+1
+3 r h + r2h
+( 1
+2 )
+= r2 
+1 + 
+3
+h
+h
+
+
+
+
+
+
+=
+2
+2
+10.5
+
+
+
+
+3
+3
++
+ 
+ 
+ 
+ 
+×
+×
++
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         ( 1
+2 )
+= 50
+3 m3
+           (1)
+OR
+Volume of water = 1
+3 × (5)2 × 8
+( 1
+2 )
+= 200
+3
+ cm3
+(1)
+1
+4 th volume = 50
+3
+π cm3
+(1)
+Volume of one lead shot = 
+3
+4
+0.5
+
+3
+3
+=
+cm3
+          ( 1
+12 )
+Let number of shots be n.
+Therefore, 0.5
+3
+n
+×
+ = 50
+3
+             (1)
+i.e., n = 100.
+             (1)
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+235
+30.
+CI
+0–10 10–20 20–30 30–40 40–50 50–60 60–70
+Total
+f i
+4
+5
+7
+10
+12
+8
+4
+50
+xi
+5
+15
+25
+35
+45
+55
+65
+u i
+–3
+–2
+–1
+0
+1
+2
+3
+fi ui
+–12
+–10
+–7
+0
+12
+16
+12
+11
+cf
+4
+9
+16
+26
+38
+46
+50
+if
+
+= 50
+
+i
+i
+f u
+= 11
+Mean = 35 + 11
+50 ×10 = 35 + 2.2 = 37.2
+(1)
+Median = 
+ – cf
+2
+ + 
+n
+l
+h
+f
+
+
+
+×
+
+
+
+
+
+
+( 1
+2 )
+= 30 + 25 –16 10
+10
+×
+ = 30 + 9 = 39
+(1)
+Mode = 
+1
+0
+1
+0
+2
+ – 
++
+ × 
+2 –  – 
+f
+f
+l
+h
+f
+f
+f
+( 1
+2 )
+= 
+12 – 10
+40 + 
+×10
+24 – 10 – 8
+( 1
+2 )
+= 40 + 20
+6 = 43.33
+(1)
+OR
+Writing as
+(1)
+Daily income (in Rs)
+cf
+Less than 120
+12
+Less than 140
+26
+Less than 160
+34
+Less than 180
+40
+Less than 200
+50
+(11
+2)
+03/05/18
+
+236
+EXEMPLAR PROBLEMS
+(5)
+Note: Full credit should be given for alternative correct solution.
+03/05/18

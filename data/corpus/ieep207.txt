@@ -1,0 +1,509 @@
+(A) Main Concepts and Results
+Triangles and their parts, Congruence of triangles, Congruence and correspondence of
+vertices, Criteria for Congruence of triangles: (i) SAS (ii) ASA (iii) SSS (iv) RHS
+AAS criterion for congruence of triangles as a particular case of ASA criterion.
+•
+Angles opposite to equal sides of a triangle are equal,
+•
+Sides opposite to equal angles of a triangle are equal,
+•
+A point equidistant from two given points lies on the perpendicular bisector of the
+line-segment joining the two points and its converse,
+•
+A point equidistant from two intersecting lines lies on the bisectors of the
+angles formed by the two lines,
+•
+In a triangle
+(i)
+side opposite to the greater angle is longer
+(ii)
+angle opposite the longer side is greater
+(iii)
+the sum of any two sides is greater than the third side.
+(B) Multiple Choice Questions
+Write the correct answer :
+Sample Question 1 : If ∆ ABC ≅ ∆ PQR and ∆ ABC is not congruent to ∆ RPQ,
+then which of the following is not true:
+(A)
+BC = PQ
+(B)
+AC = PR
+(C)
+QR = BC
+(D)
+AB = PQ
+Solution : Answer (A)
+TRIANGLES
+CHAPTER 7
+16/04/18
+16/04/18
+
+64
+EXEMPLAR PROBLEMS
+EXERCISE 7.1
+In each of the following, write the correct answer:
+1.
+Which of the following is not a criterion for congruence of triangles?
+(A)
+SAS
+(B)
+ASA
+(C)
+SSA
+(D)
+SSS
+2.
+If AB = QR, BC = PR and CA = PQ, then
+(A)
+∆ ABC ≅ ∆ PQR
+(B)
+∆ CBA ≅ ∆ PRQ
+(C)
+∆ BAC ≅ ∆ RPQ
+(D)
+∆ PQR ≅ ∆ BCA
+3.
+In ∆ ABC, AB = AC and ∠B = 50°. Then ∠C is equal to
+(A)
+40°
+(B)
+50°
+(C)
+80°
+(D)
+130°
+4.
+In ∆ ABC, BC = AB and ∠B = 80°. Then ∠A is equal to
+(A)
+80°
+(B)
+40°
+(C)
+50°
+(D)
+100°
+5.
+In ∆ PQR, ∠R = ∠P and QR = 4 cm and PR = 5 cm. Then the length of PQ is
+(A)
+4 cm
+(B)
+5 cm
+(C)
+2 cm
+(D)
+2.5 cm
+6.
+D is a point on the side BC of a ∆ ABC such that AD bisects ∠BAC. Then
+(A)
+BD = CD
+(B)
+BA > BD
+(C)
+BD > BA
+(D)
+CD > CA
+7.
+It is given that ∆ ABC ≅ ∆ FDE and AB = 5 cm, ∠B = 40° and ∠A = 80°. Then
+which of the following is true?
+(A)
+DF = 5 cm, ∠F = 60°
+(B)
+DF = 5 cm, ∠E = 60°
+(C)
+DE = 5 cm, ∠E = 60°
+(D)
+DE = 5 cm, ∠D = 40°
+8.
+Two sides of a triangle are of lengths 5 cm and 1.5 cm. The length of the third side
+of the triangle cannot be
+(A)
+3.6 cm
+(B)
+4.1 cm
+(C)
+3.8 cm
+(D)
+3.4 cm
+9.
+In ∆ PQR, if ∠R > ∠Q, then
+(A)
+QR > PR
+(B)
+PQ > PR
+(C)
+PQ < PR
+(D)
+QR < PR
+10. In triangles ABC and PQR, AB = AC, ∠C = ∠P and ∠B = ∠Q. The two triangles
+are
+(A)
+isosceles but not congruent
+(B)
+isosceles and congruent
+(C)
+congruent but not isosceles
+(D)
+neither congruent nor isosceles
+11. In triangles ABC and DEF, AB = FD and ∠A = ∠D. The two triangles will be
+congruent by SAS axiom if
+(A)
+BC = EF
+(B)
+AC = DE
+(C)
+AC = EF
+(D)
+BC = DE
+16/04/18
+16/04/18
+
+TRIANGLES
+65
+(C) Short Answer Questions with Reasoning
+Sample Question 1: In the two triangles ABC and DEF, AB = DE and AC = EF.
+Name two angles from the two triangles that must be equal so that the two triangles
+are congruent. Give reason for your answer.
+Solution: The required two angles are ∠A and ∠E. When ∠A = ∠E, ∆ ABC ≅ ∆ EDF
+by SAS criterion.
+Sample Question 2: In triangles ABC and DEF, ∠A = ∠D, ∠B = ∠E and AB = EF.
+Will the two triangles be congruent? Give reasons for your answer.
+Solution: Two triangles need not be congruent, because AB and EF are not
+corresponding sides in the two triangles.
+EXERCISE 7.2
+1.
+In triangles ABC and PQR, ∠A = ∠Q and ∠B = ∠R. Which side of ∆ PQR
+should be equal to side AB of ∆ ABC so that the two triangles are congruent?
+Give reason for your answer.
+2.
+In triangles ABC and PQR, ∠A = ∠Q and ∠B = ∠R. Which side of ∆ PQR
+should be equal to side BC of ∆ ABC so that the two triangles are congruent?
+Give reason for your answer.
+3.
+“If two sides and an angle of one triangle are equal to two sides and an angle of
+another triangle, then the two triangles must be congruent.” Is the statement true?
+Why?
+4.
+“If two angles and a side of one triangle are equal to two angles and a side of
+another triangle, then the two triangles must be congruent.” Is the statement true?
+Why?
+5.
+Is it possible to construct a triangle with lengths of its sides as 4 cm, 3 cm and
+7 cm? Give reason for your answer.
+6.
+It is given that ∆ ABC ≅ ∆ RPQ. Is it true to say that BC = QR? Why?
+7.
+If ∆ PQR ≅ ∆ EDF, then is it true to say that PR = EF? Give reason for your
+answer.
+8.
+In ∆ PQR, ∠P = 70° and ∠R = 30°. Which side of this triangle is the longest? Give
+reason for your answer.
+9.
+AD is a median of the triangle ABC. Is it true that AB + BC + CA > 2 AD? Give
+reason for your answer.
+10. M is a point on side BC of a triangle ABC such that AM is the bisector of ∠BAC.
+Is it true to say that perimeter of the triangle is greater than 2 AM? Give reason
+for your answer.
+16/04/18
+16/04/18
+
+66
+EXEMPLAR PROBLEMS
+11. Is it possible to construct a triangle with lengths of its sides as 9 cm, 7 cm and
+17 cm? Give reason for your answer.
+12. Is it possible to construct a triangle with lengths of its sides as 8 cm, 7 cm and
+4 cm? Give reason for your answer.
+(D) Short Answer Questions
+Sample Question 1 : In Fig 7.1, PQ = PR and
+∠Q = ∠R. Prove that ∆ PQS ≅ ∆ PRT.
+Solution : In ∆ PQS and ∆ PRT,
+PQ = PR
+(Given)
+∠Q = ∠R
+(Given)
+and
+∠QPS = ∠RPT (Same angle)
+Therefore,
+∆ PQS ≅∆ PRT
+(ASA)
+Sample Question 2 : In Fig.7.2, two lines AB
+and CD intersect each other at the point O such
+that BC || DA and BC = DA. Show that O is the mid-
+point of both the line-segments AB and CD.
+Solution : BC  ||  AD  (Given)
+Therefore,
+∠CBO = ∠DAO (Alternate interior angles)
+and
+∠BCO = ∠ADO (Alternate interior angles)
+Also,
+BC = DA
+(Given)
+So,
+∆ BOC ≅∆ AOD
+(ASA)
+Therefore,
+OB = OA and OC = OD, i.e., O is
+the mid-point of both AB and CD.
+Sample Question 3 : In Fig.7.3, PQ > PR and QS and RS are the bisectors of
+∠Q and ∠R, respectively. Show that SQ > SR.
+Solution : PQ > PR (Given)
+Therefore, ∠R > ∠Q(Angles opposite the longer side
+is greater)
+So,  ∠SRQ > ∠SQR(Half of each angle)
+Therefore, SQ > SR(Side opposite the greater angle
+will be longer)
+Fig. 7.1
+Fig. 7.2
+Fig. 7.3
+16/04/18
+16/04/18
+
+TRIANGLES
+67
+EXERCISE 7.3
+1.
+ABC is an isosceles triangle with AB = AC and
+BD and CE are its two medians. Show that
+BD = CE.
+2.
+In Fig.7.4, D and E are points on side BC of
+a ∆ ABC such that BD = CE and AD = AE.
+Show that ∆ ABD ≅ ∆ ACE.
+3.
+CDE is an equilateral triangle formed on a side
+CD of a square ABCD (Fig.7.5). Show that
+∆ ADE ≅ ∆ BCE.
+Fig. 7.5
+4.
+In Fig.7.6, BA ⊥ AC, DE ⊥ DF such that BA = DE
+and BF = EC. Show that ∆ ABC ≅ ∆ DEF.
+5.
+Q is a point on the side SR of a ∆ PSR such that
+PQ = PR. Prove that PS > PQ.
+6.
+S is any point on side QR of a ∆ PQR. Show that:
+PQ + QR + RP > 2 PS.
+7.
+D is any point on side AC of a ∆ ABC with AB = AC.
+Show that CD < BD.
+8.
+In Fig. 7.7, l || m and M is the mid-point of a line
+segment AB. Show that M is also the mid-point of
+any line segment CD, having its end points on l and
+m, respectively.
+9.
+Bisectors of the angles B and C of an isosceles
+triangle with AB = AC intersect each other at O.
+BO is produced to a point M. Prove that ∠MOC =
+∠ABC.
+Fig. 7.4
+Fig. 7.6
+Fig. 7.7
+E
+16/04/18
+16/04/18
+
+68
+EXEMPLAR PROBLEMS
+Fig. 7.8
+10. Bisectors of the angles B and C of an isosceles triangle ABC with AB = AC
+intersect each other at O. Show that external angle adjacent
+to ∠ABC is equal to ∠BOC.
+11. In Fig. 7.8, AD is the bisector of ∠BAC. Prove that AB > BD.
+(E) Long Answer Questions
+Sample Question 1: In Fig. 7.9, ABC is a right triangle and right
+angled at B such that ∠BCA = 2 ∠BAC. Show that
+hypotenuse AC = 2 BC.
+Solution: Produce CB to a point D such that BC = BD
+and join AD.
+In ∆ ABC and ∆ ABD, we have
+BC = BD
+(By construction)
+AB = AB
+(Same side)
+∠ABC = ∠ABD
+(Each of 90°)
+Therefore,
+∆ ABC ≅∆ ABD
+(SAS)
+So,
+∠CAB = ∠DAB
+(1)
+and
+AC = AD
+(2)
+Thus,
+∠CAD = ∠CAB + ∠BAD = x + x = 2x   [From (1)]
+(3)
+and
+∠ACD = ∠ADB = 2x
+[From (2), AC = AD]
+(4)
+That is, ∆ ACD is an equilateral triangle. [From (3) and (4)]
+or
+AC = CD, i.e.,  AC = 2 BC  (Since BC = BD)
+Sample Question 2 : Prove that if in two triangles two angles and the included side of
+one triangle are equal to two angles and the included side of the other triangle, then the
+two triangles are congruent.
+Solution: See proof of Theorem 7.1 of Class IX Mathematics
+Textbook.
+Sample Question 3 : If the bisector of an angle of a triangle
+also bisects the opposite side, prove that the triangle is isosceles.
+Solution : We are given a point D on side BC of a ∆ ABC such
+that ∠BAD = ∠CAD and BD = CD (see Fig. 7.10). We are to
+prove that AB = AC.
+Produce AD to a point E such that AD = DE and then join CE.
+Now, in ∆ ABD and ∆ ECD, we have
+Fig. 7.9
+Fig. 7.10
+(CPCT)
+
+
+
+16/04/18
+16/04/18
+
+TRIANGLES
+69
+BD = CD
+(Given)
+AD = ED
+(By construction)
+and
+∠ADB = ∠EDC
+(Vertically opposite angles)
+Therefore,
+∆ABD ≅∆ ECD
+(SAS)
+So,
+AB = EC
+(1)
+and
+∠BAD = ∠CED
+(2)
+Also,
+∠BAD = ∠CAD
+(Given)
+Therefore,
+∠CAD = ∠CED
+[From (2)]
+So,
+AC = EC
+[Sides opposite the equal angles]
+(3)
+Therefore,
+AB = AC
+[From (1) and (3)]
+Sample Question 4 : S is any point in the interior of ∆ PQR. Show that SQ + SR <
+PQ + PR.
+Solution : Produce QS to intersect PR at T (See Fig. 7.11).
+From  ∆ PQT, we have
+PQ + PT > QT(Sum of any two sides is greater than
+the third side)
+i.e.,
+PQ + PT > SQ + ST
+(1)
+From ∆ TSR, we have
+ST + TR > SR
+(2)
+Adding (1) and (2), we get
+PQ + PT + ST + TR > SQ + ST + SR
+i.e.,
+PQ + PT + TR > SQ + SR
+i.e.,
+PQ + PR > SQ + SR
+or
+SQ + SR < PQ + PR
+EXERCISE 7.4
+1.
+Find all the angles of an equilateral
+triangle.
+2.
+The image of an object placed at a point
+A before a plane mirror LM is seen at the
+point B by an observer at D as shown in
+Fig. 7.12. Prove that the image is as far
+behind the mirror as the object is in front
+of the mirror.
+Fig. 7.11
+Fig. 7.12
+(CPCT)
+
+
+
+16/04/18
+16/04/18
+
+70
+EXEMPLAR PROBLEMS
+[Hint: CN is normal to the mirror. Also, angle of incidence = angle of reflection].
+3.
+ABC is an isosceles triangle with AB = AC and D is a point on BC such that
+AD ⊥ BC (Fig. 7.13). To prove that ∠BAD = ∠CAD, a student proceeded as
+follows:
+In ∆ ABD and ∆ ACD,
+AB = AC
+(Given)
+∠B = ∠C
+(because AB = AC)
+and
+∠ADB = ∠ADC
+Therefore,
+∆ ABD ≅∆ ACD (AAS)
+So,
+∠BAD = ∠CAD (CPCT)
+What is the defect in the above arguments?
+[Hint: Recall how ∠B = ∠C is proved when AB = AC].
+4.
+P is a point on the bisector of ∠ABC. If the line through P, parallel to BA meet BC
+at Q, prove that BPQ is an isosceles triangle.
+5.
+ABCD is a quadrilateral in which AB = BC and AD = CD. Show that BD bisects
+both the angles ABC and ADC.
+6.
+ABC is a right triangle with AB = AC. Bisector of ∠A meets BC at D. Prove that
+BC = 2 AD.
+7.
+O is a point in the interior of a square ABCD such that OAB is an equilateral
+triangle. Show that ∆ OCD is an isosceles triangle.
+8.
+ABC and DBC are two triangles on the same base BC such that A and D lie on
+the opposite sides of BC, AB = AC and DB = DC. Show that AD is the
+perpendicular bisector of BC.
+9.
+ABC is an isosceles triangle in which AC = BC. AD and BE are respectively two
+altitudes to sides BC and AC. Prove that AE = BD.
+10. Prove that sum of any two sides of a triangle is greater than twice the median with
+respect to the third side.
+11. Show that in a quadrilateral ABCD, AB + BC + CD + DA < 2 (BD + AC)
+12. Show that in a quadrilateral ABCD,
+AB + BC + CD + DA > AC + BD
+13. In a triangle ABC, D is the mid-point of side AC such that BD = 1
+2 AC. Show that
+∠ABC is a right angle.
+14. In a right triangle, prove that the line-segment joining the mid-point of the hypotenuse
+to the opposite vertex is half the hypotenuse.
+Fig. 7.13
+16/04/18
+16/04/18
+
+TRIANGLES
+71
+15. Two lines l and m intersect at the point O and P is a point on a line n passing
+through the point O such that P is equidistant from l and m. Prove that n is the
+bisector of the angle formed by l and m.
+16. Line segment joining the mid-points M and N of parallel sides AB and DC,
+respectively of a trapezium ABCD is perpendicular to both the sides AB and DC.
+Prove that AD = BC.
+17. ABCD is a quadrilateral such that diagonal AC bisects the angles A and C. Prove
+that AB = AD and CB = CD.
+18. ABC is a right triangle such that AB = AC and bisector of angle C intersects the
+side AB at D. Prove that AC + AD = BC.
+19. AB and CD are the smallest and largest sides of a quadrilateral ABCD. Out of
+∠B and ∠D decide which is greater.
+20. Prove that in a triangle, other than an equilateral triangle, angle opposite the longest
+side is greater than 2
+3 of a right angle.
+21. ABCD is quadrilateral such that AB = AD and CB = CD. Prove that AC is the
+perpendicular bisector of BD.
+16/04/18
+16/04/18

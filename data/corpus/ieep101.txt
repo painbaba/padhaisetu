@@ -1,0 +1,238 @@
+1
+MATTER
+ATTER
+ATTER
+ATTER
+ATTER IN
+IN
+IN
+IN
+IN O
+ O
+ O
+ O
+ OUR
+UR
+UR
+UR
+UR S
+ S
+ S
+ S
+ SURROUNDINGS
+URROUNDINGS
+URROUNDINGS
+URROUNDINGS
+URROUNDINGS
+C hapter
+Multiple Choice Questions
+1.
+Which one of the following sets of phenomena would increase on raising
+the temperature?
+(a) Diffusion, evaporation, compression of gases
+(b) Evaporation, compression of gases, solubility
+(c) Evaporation, diffusion, expansion of gases
+(d) Evaporation, solubility, diffusion, compression of gases
+2.
+Seema visited a Natural Gas Compressing Unit and found that the gas can
+be liquefied under specific conditions of temperature and pressure. While
+sharing her experience with friends she got confused. Help her to identify
+the correct set of conditions
+(a) Low temperature, low pressure
+(b) High temperature, low pressure
+(c) Low temperature, high pressure
+(d) High temperature, high pressure
+3.
+The property to flow is unique to fluids. Which one of the following
+statements is correct?
+(a) Only gases behave like fluids
+(b) Gases and solids behave like fluids
+(c) Gases and liquids behave like fluids
+(d) Only liquids are fluids
+4.
+During summer, water kept in an earthen pot becomes cool because of the
+phenomenon of
+(a) diffusion
+(b) transpiration
+(c) osmosis
+(d) evaporation
+5.
+A few substances are arranged in the increasing order of ‘forces of attraction’
+between their particles. Which one of the following represents a correct
+arrangement?
+(a) Water, air, wind
+(b) Air, sugar, oil
+(c) Oxygen, water, sugar
+(d) Salt, juice, air
+16-04-2018
+
+EXEMPLAR PROBLEMS
+8
+6.
+On converting 25°C, 38°C and 66°C to kelvin scale, the correct sequence of
+temperature will be
+(a) 298 K, 311 K and 339 K
+(b) 298 K, 300 K and 338 K
+(c) 273 K, 278 K and 543 K
+(d) 298 K, 310 K and 338 K
+7.
+Choose the correct statement of the following
+(a) conversion of solid into vapours without passing through the liquid
+state is called sublimation.
+(b) conversion of vapours into solid without passing through the liquid
+state is called vapourisation..
+(c) conversion of vapours into solid without passing through the liquid
+state is called freezing.
+(d) conversion of solid into liquid is called sublimation.
+8.
+The boiling points of diethyl ether, acetone and n-butyl alcohol are 35°C,
+56°C and 118°C respectively. Which one of the following correctly represents
+their boiling points in kelvin scale?
+(a) 306 K, 329 K, 391 K
+(b) 308 K, 329 K, 392 K
+(c) 308 K, 329 K, 391 K
+(d) 329 K, 392 K, 308 K
+9.
+Which condition out of the following  will increase the evaporation of water?
+(a) Increase in temperature of water
+(b) Decrease in temperature of water
+(c) Less exposed surface area of water
+(d) Adding common salt to water
+10.
+In which of the following conditions, the distance between the molecules of
+hydrogen gas would increase?
+(i) Increasing pressure on hydrogen contained in a closed container
+(ii) Some hydrogen gas leaking out of the container
+(iii) Increasing the volume of the container of hydrogen gas
+(iv) Adding more hydrogen gas to the container without increasing the
+volume of the container
+(a) (i) and (iii)
+(b) (i) and (iv)
+(c) (ii) and (iii)
+(d) (ii) and (iv)
+16-04-2018
+
+MATTER IN OUR SURROUNDING S
+9
+Short Answer Questions
+11.
+A sample of water under study was found to boil at 102°C at normal
+temperature and pressure. Is the water pure? Will this water freeze at 0°C?
+Comment.
+12.
+A student heats a beaker containing ice and water. He measures the
+temperature of the content of the beaker as a function of time. Which of the
+following (Fig.  1.1)  would correctly represent the result? Justify  your choice.
+13.
+Fill in the blanks:
+(a) Evaporation of a liquid at room temperature leads to a——— effect.
+(b) At room temperature the forces of attraction between the particles of
+solid substances  are———than those which exist in the gaseous state.
+(c) The arrangement of particles is less ordered in the ——— state. However,
+there is no order in the ——— state.
+(d) ——— is the change of solid state directly to vapour state without going
+through the ———state.
+(e) The phenomenon of change of a liquid into the gaseous state at any
+temperature below its boiling point is called———.
+14.
+Match the physical quantities given in column  A  to their S I units given in
+column B :
+         (A)
+     (B)
+(a) Pressure
+(i) cubic metre
+(b) Temperature
+(ii) kilogram
+(c) Density
+(iii) pascal
+(d) Mass
+(iv) kelvin
+(e) Volume
+(v) kilogram per cubic metre
+15.
+The non S I and S I units of some physical quantities are given in column
+A and column B respectively. Match the units belonging to the same
+physical quantity:
+         (A)
+     (B)
+(a) degree celsius
+(i)
+kilogram
+(b) centimetre
+(ii)
+pascal
+(c) gram per centimetre cube
+(iii)
+metre
+(d) bar
+(iv)
+kelvin
+(e) milligram
+(v)
+kilogram per metre cube
+Fig. 1.1
+16-04-2018
+
+EXEMPLAR PROBLEMS
+10
+Fig. 1.2
+16.
+‘Osmosis is a special kind of diffusion’. Comment.
+17.
+Classify the following into osmosis/diffusion
+(a) Swelling up of a raisin on keeping in water.
+(b) Spreading of virus on sneezing.
+(c) Earthworm dying on coming in contact with common salt.
+(d) Shrinking of grapes kept in thick sugar syrup.
+(e) Preserving pickles in salt.
+(f) Spreading of smell of cake being baked through out the house.
+(g) Aquatic animals using oxygen dissolved in water during respiration.
+18.
+Water as ice has a cooling effect, whereas water as steam may cause severe
+burns. Explain these observations.
+19.
+Alka was making tea in a kettle. Suddenly she felt intense heat from the
+puff of steam gushing out of the spout of the kettle. She wondered whether
+the temperature of the steam was higher than that of the water boiling in
+the kettle. Comment.
+20.
+A glass tumbler containing hot water is kept in the freezer compartment  of
+a refrigerator (temperature < 0°C). If you could measure the temperature
+of the content of the tumbler, which of the following graphs (Fig.1.2) would
+correctly represent the change in its temperature as a function of time.
+21.
+Look at Fig. 1.3 and suggest in which of the vessels A,B, C or D the rate of
+evaporation will be the highest? Explain.
+22.
+(a) Conversion of solid to vapour is called sublimation. Name the term used
+to denote the conversion of vapour to solid.
+(b) Conversion of solid state to liquid state is called fusion; what is meant
+by latent heat of fusion?
+Fig. 1.3
+Moving Fan
+16-04-2018
+
+MATTER IN OUR SURROUNDING S
+11
+Long Answer Questions
+23.
+You are provided with a mixture of naphthalene and ammonium chloride
+by your teacher. Suggest an activity to separate them with well labelled
+diagram.
+24.
+It is a hot summer day, Priyanshi and Ali are wearing cotton and nylon
+clothes respectively. Who do you think would be more comfortable  and
+why?
+25.
+You want to wear your favourite shirt to a party, but the problem is that it
+is still wet after a wash. What steps would you take to dry it faster?
+26.
+Comment on the following statements:
+(a) Evaporation produces cooling.
+(b) Rate of evaporation of an aqueous solution decreases with increase in
+humidity.
+(c) Sponge though compressible is a solid.
+27.
+Why does the temperature of a substance remain constant during its
+melting point or boiling point?
+16-04-2018

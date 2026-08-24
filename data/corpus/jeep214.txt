@@ -1,0 +1,1239 @@
+Weightage and the distribution of marks over different dimensions of the question
+shall be as follows:
+(A) Weightage to Content/ Subject Units :
+S.No.
+Content Unit
+Marks
+1.
+Number Systems
+04
+2.
+Algebra
+20
+3.
+Trigonometry
+12
+4.
+Coordinate Geometry
+08
+5.
+Geometry
+16
+6.
+Mensuration
+10
+7.
+Statistics and Probability
+10
+                                               Total : 80
+(B) Weightage to Forms of Questions :
+S.No.
+Form of
+Marks for each
+Number of
+Total Marks
+Questions
+Question
+Questions
+1.
+MCQ
+01
+10
+10
+2.
+SAR
+02
+05
+10
+3.
+SA
+03
+10
+30
+DESIGN OF THE QUESTION PAPER
+Mathematics
+Class X
+Time : 3 Hours
+Maximum Marks : 80
+    4.
+LA
+  06
+05
+30
+Total
+   30
+    80
+SET-I
+03/05/18
+
+204
+EXEMPLAR PROBLEMS
+(C) Scheme of Options
+All questions are compulsory, i.e., there is no overall choice. However, internal choices
+are provided in one question of 2 marks, three questions of 3 marks each and two
+questions of 6 marks each.
+(D) Weightage to Difficulty Level of Questions
+  S.No.
+Estimated Difficulty
+Percentage of Marks
+Level of Questions
+  1.
+Easy
+20
+  2.
+Average
+60
+  3.
+Difficult
+20
+Note : A question may vary in difficulty level from individual to individual. As such, the
+assessment in respect of each will be made by the paper setter/ teacher on the basis of
+general anticipation from the groups as whole taking the examination. This provision is
+only to make the paper balanced in its weight, rather to determine the pattern of marking
+at any stage.
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+205
+BLUE PRINT
+MATHEMATICS
+CLASS X
+Form of Question
+Units
+
+
+
+
+
+Number Systems
+2(2)
+2(1)
+-
+-
+4(3)
+Algebra
+3(3)
+2(1)
+9(3)
+6(1)
+20(8)
+Polynomials, Pair of
+Linear Equations in
+Two Variables,
+Quadratic Equations,
+Arithmatic Progressions
+Trigonometry
+1(1)
+2(1)
+3(1)
+6(1)
+12(4)
+Introduction to Trigonometry,
+Some Applications of
+Trigonometry
+Coordinate Geometry
+1(1)
+4(2)
+3(1)
+-
+8(4)
+Geometry
+1(1)
+-
+9(3)
+6(1)
+16(5)
+Triangles, Circles,
+Constructions
+Mensuration
+1(1)
+-
+3(1)
+6(1)
+10(3)
+Areas related to Circles,
+Surface Areas and Volumes
+Statistics & Probability
+1(1)
+-
+3(1)
+6(1)
+10(3)
+Total
+10(10)
+10(5)
+30(10)
+30(5)
+80(30)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+03/05/18
+
+206
+EXEMPLAR PROBLEMS
+Mathematics
+Class X
+Maximum Marks : 80
+Time : 3 Hours
+General Instructions
+1.
+All questions are compulsory.
+2.
+The question paper consists of  30 questions divided into four sections A, B, C, and
+D.Section A contains 10 questions of 1 mark each, Section B contains 5 questions
+of 2 marks each, Section C contains 10 questions of 3 marks each and Section D
+contains 5 questions of 6 marks each.
+3.
+There is no overall choice. However, an internal choice has been provided in
+one question of 2 marks, three questions of 3 marks and two questions of 6
+marks each.
+4.
+In questions on construction, the drawing should be neat and exactly as per given
+measurements.
+5.
+Use of calculators is not allowed.
+SECTION A
+1.
+After how many decimal places will the decimal expansion of the number
+3
+2
+47
+2 5
+ terminate?
+(A) 5
+(B) 2
+(C) 3
+(D) 1
+2.
+Euclid’s division lemma states that for two positive integers a and b, there exist
+unique integers q and r such that a = bq + r, where
+(A) 0 ≤ r ≤ a
+(B) 0 < r < b
+(C) 0 ≤ r ≤ b
+(D) 0 ≤ r < b
+3.
+The number of zeroes, the polynomial p (x) = (x – 2)2 + 4 can have, is
+(A) 1
+(B) 2
+(C) 0
+(D) 3
+4.
+A pair of linear equations a1x + b1y + c1 = 0; a2x + b2y + c2 = 0 is said to be
+inconsistent, if
+(A)  
+1
+1
+2
+2
+≠
+a
+b
+a
+b
+(B) 
+1
+1
+1
+2
+2
+2
+≠
+=
+a
+b
+c
+a
+b
+c     (C) 
+1
+1
+1
+2
+2
+2
+=
+≠
+a
+b
+c
+a
+b
+c    (D)
+1
+1
+2
+2
+≠
+a
+c
+a
+c
+5.
+The smallest value of k for which the equation x2  + kx + 9 = 0 has real roots, is
+(A) – 6
+(B) 6
+(C) 36
+(D) –3
+6.
+The coordinates of the points P and Q are (4, –3) and (–1, 7). Then the abscissa of
+a point R on the line segment PQ such that 
+PR
+3
+PQ
+5
+=
+ is
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+207
+(A) 18
+5
+(B) 17
+5
+(C) 17
+8     (D) 1
+7.
+In the adjoining figure, PA  and PB are tangents from a
+point P to a circle with centre O. Then the quadrilateral
+OAPB must be a
+(A) square
+(B) rhombus
+(C) cyclic quadrilateral
+(D) parallelogram
+8.
+If for some angle θ, cot 2θ = 
+1
+3 , then the value of
+sin3θ, 2θ º
+(A) 
+1
+2
+(B) 1
+(C) 0
+(D) 
+3
+2
+9.
+From each corner of a square of side 4 cm, a quadrant
+of a circle of radius 1 cm is cut and also a circle of
+diameter 2 cm is cut as shown in figure. The area of the
+remaining (shaded) portion is
+(A) (16 – 2π) cm2 (B) (16 – 5π) cm2
+(C) 2π cm2
+(D) 5π cm2
+10. A letter of English alphabets is chosen at random. The
+probability that it is a letter of the word
+‘MATHEMATICS’ is
+(A) 11
+26
+(B) 5
+13
+(C) 9
+26
+(D) 4
+13
+SECTION B
+11. Is there any natural number n for which 4n ends with the digit 0? Give reasons in
+support of your answer.
+12. Without using the formula for the nth term, find which term of the AP : 5, 17, 29, 41,
+... will be 120 more than its 15th term? Justify your answer.
+OR
+Is 144 a term of the AP : 3, 7, 11, ... ? Justify your answer.
+13. The coordinates of the points P, Q and R are (3, 4), (3, –4)  and (–3, 4), respectively.
+Is the area of ∆PQR 24 sq. units? Justify your answer.
+03/05/18
+
+208
+EXEMPLAR PROBLEMS
+14. The length of a line segment is 10 units. If one end is (2, –3) and the abscissa of the
+other end is 10, then its ordinate is either 3 or –9. Give justification for the two
+answers.
+15. What is the maximum value of 
+3
+cosecθ ? Justify your answer.
+SECTION C
+16. Find the zeroes of the polynomial p (x) = 
+2
+4 3
+– 2 3
+– 2 3
+x
+x
+ and verify the
+relationship between the zeroes and the coefficients.
+OR
+On dividing the polynomial f (x) = x3  – 5x2 + 6x – 4 by a polynomial g(x), the
+quotient q (x) and remainder r (x) are x – 3, –3x + 5, respectively. Find the polynomial
+g (x).
+17. Solve the equations 5x – y = 5 and 3x – y = 3 graphically.
+18. If the sum of the first n terms of an AP is 4n – n2, what is the10th  term and the nth
+term?
+OR
+How many terms of the AP : 9, 17, 25, ... must be taken to give a sum 636?
+19. If  (1, 2), (4, y), (x, 6) and (3, 5) are the vertices of a parallelogram taken in order,
+find the values of x and y.
+20. The sides AB, BC and median AD of a ∆ABC are respectively propotional to  the
+sides PQ, QR and the median PM of ∆PQR. Show that ∆ABC ~ ∆PQR.
+21. A triangle ABC is drawn to circumscribe a circle of radius 4 cm such that the
+segments BD and DC into which BC is divided by the point of contact D are of
+lengths 8 cm and 7 cm, respectively. Find the sides AB and AC.
+22. Construct an isosceles triangle whose base is 6 cm and altitude 5 cm and then
+another triangle whose sides are 7
+5 of the corresponding sides of the isosceles
+triangle.
+23. Prove that 
+cos –sin
+1
+1
+sin
+cos –1
+cosec –cot
+θ
+θ+ =
+θ+
+θ
+θ
+θ .
+OR
+Evaluate:
+2
+3cos 43
+cos37 cosec53
+–
+sin 47
+tan 5 tan 25 tan 45 tan 65 tan85
+°
+°
+°
+ 
+ 
+ 
+ 
+°
+°
+°
+°
+°
+°
+ 
+ 
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+209
+24. In the figure, ABC is a triangle right angled at A. Semicircles are drawn on AB,
+AC and BC as diameters. Find the area of the shaded region.
+25. A bag contains white, black and red balls only. A ball is drawn at random from the
+bag. The probability of getting a white ball is 3
+10 and that of a black ball is 2
+5 . Find
+the probability of getting a red ball. If the bag contains 20 black balls, then find the
+total number of balls in the bag.
+SECTION D
+26. If the price of a book is reduced by Rs 5, a person can buy 5 more books for
+Rs 300. Find the original list price of the book.
+OR
+The sum of the ages of two friends is 20 years. Four years ago, the product of their
+ages in years was 48. Is this situation possible? If so, determine their present ages.
+27. Prove that the lengths of the tangents drawn from an external point to a circle are
+equal.
+Using the above theorem, prove that:
+If quadrilateral ABCD is circumscribing a circle, then AB + CD = AD + BC.
+OR
+Prove that the ratio of the areas of two similar triangles is equal to the ratio of the
+squares of the corresponding sides.
+Using the above theorem, do the following :
+ABC is an iscosceles triangle right angled at B. Two equilateral triangles ACD and
+ABE are constructed on the sides AC and AB, respectively. Find the ratio of the
+areas of ∆ ΑΒΕ and ∆ ACD.
+03/05/18
+
+210
+EXEMPLAR PROBLEMS
+28. The angles of depression of the top and bottom of a building 50 metres high as
+observed from the top of a tower are 30° and 60°, respectively. Find the
+height of the tower and also the horizontal distances between the building and the
+tower.
+29. A well of diameter 3 m and 14 m deep is dug. The earth, taken out of it, has been
+evenly spread all around it in the shape of a circular ring of width 4 m to form an
+embankment . Find the height of the embankment.
+30. The following table shows the ages of the patients admitted in a hospital during a
+month:
+Age (in years) :
+5 - 15
+15 - 25 25 - 35 35 - 45 45 - 55 55 - 65
+Number of patients :   6
+    11
+     21
+     23
+     14
+     5
+Find the mode and the mean of the data given above.
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+211
+MARKING  SCHEME
+SECTION A
+MARKS
+1. (C)         2. (D)          3. (C)
+4. (C)
+5. (A)
+6. (D)
+7. (C)         8. (B)          9. (A)
+10. (D)
+(1  × 
+ × 
+ × 
+ × 
+ × 10 = 10)
+SECTION B
+11.
+No
+( 1
+2 )
+4n = 22n
+Therefore, 2 is the only prime number in its prime facorisation, so it cannot end
+with zero.
+(1 1
+2 )
+12.
+25th term
+( 1
+2 )
+120 will be added in 10 terms (since d = 12)
+Therefore, 15 + 10 = 25
+(1 1
+2 )
+OR
+No
+( 1
+2 )
+Here, a = 3 (odd), d = 4 (even)
+Sum of (odd + even) = odd but 144 is even
+                  (1 1
+2 )
+13.
+Yes
+( 1
+2 )
+Here, PQ = 8,
+PR = 6, therefore, area = 1
+2 . 8.6 = 24 sq. units.
+( 1
+1
+2 )
+14.
+Let ordinate of the point be y. Then (10 – 2)2 + (y + 3)2 = 102 , i.e.,y + 3 = ± 6,
+i.e., y = 3 or –9
+(1 + 1)
+15.
+Maximum value = 3
+( 1
+2 )
+03/05/18
+
+212
+EXEMPLAR PROBLEMS
+Since 
+3
+cosec  = 3 sinθ, sinθ ≤ 1, therefore, 3 sinθ ≤ 3
+( 1
+1
+2 )
+SECTION C
+16.
+p(x) = 4 3 x2 – 2 3 x – 2 3 =  2 3 (2x2 – x – 1)
+       = 2 3 (2x + 1) (x – 1)
+Therefore, two zeroes are 
+1
+–
+2 , 1                                                            (1)
+Here a = 4 3 , b = 2 3 , c = –2 3
+Therefore, α + β = 
+1
+–
+2 + 1 = 1
+2 ,  – b
+a = 
+2 3
+1
+2
+4 3
+=
+, i.e., α + β = – b
+a
+(1)
+αβ = 
+1
+– 2
+
+
+
+
+
+1 = 
+1
+– 2 , 
+–2 3
+4 3
+=
+c
+a
+ = 
+1
+– 2 ,   i.e.,  αβ = c
+a
+(1)
+OR
+f(x) = g(x) q(x) + r(x)
+Therefore, x3 – 5x2 + 6x – 4 = g(x) (x – 3) + (–3x + 5)
+(1)
+Therefore, g(x) = 
+3
+2
+–5
+6 – 4 3 –5
+–3
++
++
+x
+x
+x
+x
+x
+= 
+3
+2
+–5
+9 – 4
+–3
++
+x
+x
+x
+x
+(1)
+                        = x2 – 2x + 3
+(1)
+17. 5x – y = 5                  3x – y = 3
+x
+1
+2
+3
+x
+1
+2
+3
+y
+0
+5
+10
+y
+0
+3
+6
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+213
+For correct graph
+(2)
+Solution is x = 1, y = 0
+(1)
+18.
+Sn = 4n – n2. Therefore, t10 = S10 – S9 = (40 – 100) – (36 –81)
+( 1
+2 )
+= –60 + 45 = –15
+(1)
+tn = Sn – Sn – 1= (4n – n2) – [4 (n – 1) – (n – 1)2]
+( 1
+2 )
+= 4n – n2 – 4n + 4 + n2 + 1 – 2n = 5 – 2n
+(1)
+OR
+a = 9, d = 8, Sn = 636
+Using Sn = 2
+n [2a + (n – 1) d], we have 636 = 2
+n [18 + (n – 1) 8]
+(1 1
+2 )
+ 
+03/05/18
+
+214
+EXEMPLAR PROBLEMS
+Solving to get n = 12
+(1 1
+2 )
+19.
+Let A (1, 2), B (4, y) and C (x, 6) and D (3, 5) be the vertices.
+The mid-point of AC is 
+1,4
+2
+
+
+
+
+
+
+x + 
+   (
+1
+2 )
+and mid-point of BD is 
+7
+5
+,
+2
+2
+y +
+
+
+
+
+
+
+( 1
+2 )
+ABCD is a parellologram. Therefore, 
+1
+7
+2
+2
++ =
+x
+,i.e., x = 6
+(1)
+5
+2
++
+y
+= 4 , i.e.,  = 3
+(1)
+2 0 .
+2 0 .
+2 0 .
+2 0 .
+2 0 .
+Given AB
+BC
+BD
+AD
+PQ
+QR
+QM
+PM
+=
+=
+=
+ ∆  ∼ ∆ 
+          [SSS]         ( 1 1
+2 )
+Therefore, ∠ Β = ∠ Q.  Also, since 
+AB
+BC
+PQ
+QR
+=
+,i.e.,
+∆ ABC ~ ∆ (1 1
+2 )
+2 1 .
+2 1 .
+2 1 .
+2 1 .
+2 1 . Let AE (=AF) = x cm.
+Area ∆ ABC = 1
+2 . 4 . (AB + BC + AC)
+= 
+( – )(
+– )( – )
+s s
+a
+s
+b
+s
+c
+1
+2
+
+
+
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+215
+ i.e., 4 s = 
+( – )(
+– )( – )
+s s
+a
+s
+b
+s
+c
+( 1
+2 )
+16 s = (s – a) (s – b) (s – c)
+( 1
+2 )
+i.e., 16 (15 + x) = x . 8 . 7,  i.e., x = 6
+(1)
+Therefore, AB = 14 cm and AC = 13 cm
+( 1
+2 )
+22.
+Construction of isosceles ∆ with base 6 cm and altitude 5 cm
+(1)
+Construction of similar ∆ with scale factor 7
+5
+(2)
+23.
+LHS = 
+cos
+– sin
+1
+sin
+cos –1
+θ
+θ+
+θ+
+θ
+= 
+cot
+–1
+cosec
+1
+cot
+– cosec
+θ
++
+θ
++
+θ
+θ
+(1)
+= 
+cot
+–1
+cosec
+1– (cosec
+– cot )
+θ
++
+θ
+θ
+θ = 
+2
+2
+cosec
+cot
+–1
+(cosec
+– cot
+) –(cosec
+– cot )
+θ +
+θ
+θ
+θ
+θ
+θ
+(1)
+= 
+cosec
+cot
+–1
+(cosec
+– cot ) (cosec
+cot
+–1)
+θ +
+θ
+θ
+θ
+θ +
+θ
+= 
+1
+cosec
+– cot
+θ
+θ
+(1)
+OR
+2
+3cos43
+cos37 cosec 53
+–
+sin 47
+tan5 tan 25 tan 45 tan65 tan85
+ 
+ °
+°
+°
+ 
+ 
+°
+°
+°
+°
+°
+°
+ 
+ 
+= 
+2
+3cos43
+cos37 .sec37
+–
+cos43
+tan5 tan 25 (1) cot 25 cot5
+
+
+°
+°
+°
+
+
+°
+°
+°
+°
+°
+
+
+(2)
+= (3)2 – 1
+1 = 9 – 1 = 8
+(1)
+24.
+Required area = 
+area of semicircle with diameter AB + 
+area of semicircle with diameter AC  +  
+area of right triangle ABC – 
+area of semicircle with diameter BC
+
+
+
+
+(1)
+03/05/18
+
+216
+EXEMPLAR PROBLEMS
+Required area = 
+2
+2
+2
+1
+1
+1
+1
+.(3)
+(4)
+6
+8–
+(5)
+2
+2
+2
+2
+π
++
+π
++
+× ×
+π
+ sq. units
+(1)
+                      = 24 + 1
+2 π (9 + 16 – 25) = 24 sq. units
+(1)
+25.
+P(Red ball) = 1 – {P(White ball) + P(Black ball )}
+(1)
+                  = 1 – 
+3
+2
+10
+5
+
+
++
+
+
+
+= 3
+10
+( 1
+2 )
+Let the total number of balls be y.
+Therefore, 
+20
+2 ,i.e.,  
+50
+5
+y
+y =
+=
+(1 1
+2 )
+SECTION D
+26.
+Let the list price of a book be Rs x
+Therefore, number of books, for Rs 300  = 300
+x
+( 1
+2 )
+No. of books, when price is (x – 5) = 
+300
+5
+x –
+( 1
+2 )
+Therefore,  300
+5
+x –
+ – 300
+x = 5
+(2)
+300 (x – x + 5) = 5x (x – 5)
+300 = x (x – 5), i.e., x2 – 5x – 300 = 0
+(1)
+i.e.,  = 20, x = 15 (rejected)
+(1)
+Therefore, list price of a book = Rs 20
+(1)
+OR
+Let the present age of one of them be x years, so the age of the other
+= (20 – x) years
+Therefore, 4 years ago, their ages were, x – 4, 16 – x years
+(1)
+Therefore, (x – 4) (16 – x) = 48
+(1 1
+2 )
+03/05/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+217
+i.e., – x2 + 16 x + 4x – 64 – 48 = 0
+x2 – 20x + 112x = 0
+(1)
+Here B2 – 4 AC = 
+2
+(20) – 4(112)
+– 48
+=
+( 1
+2 )
+Thus, the equation has no real solution
+(1)
+Hence, the given situation is not possible
+(1)
+27.
+For correct, given, to prove, contruction and figure
+(2)
+For correct proof
+(2)
+AP
+AS
+BP
+BQ
+DR
+DS
+CR
+CQ
+=
+
+
+=
+
+=
+
+
+=
+
+(1)
+Adding to get (AP + BP) + (DR + CR) = (AS + DS) + (BQ + CQ)
+i.e.,
+
+OR
+For correct,given, to prove, construction and figure
+(2)
+For correct proof
+(2)
+Let AB = BC = a, i.e., AC = 
+2
+2
+2
++
+=
+a
+a
+a
+( 1
+2 )
+area
+ABC
+area
+ACD
+∆
+∆
+= 
+2
+2
+2
+2
+AB
+1
+2
+AC
+2
+=
+=
+a
+a
+(1 1
+2 )
+28.
+For correct figure
+(1)
+In ∆ ABD, AB
+BD = tan 60° = 
+3
+(1)
+Therefore, AB = 
+3 BD                (I)
+In ∆ ACE, AE
+AE
+EC
+BD
+=
+ =   tan 30° = 
+1
+3
+ (1)
+i.e., (AB – 50)
+1
+BD
+3
+=
+, i.e., 
+3 (AB – 50) = BD
+(1)
+(tangents to a circle from external
+point are equal)
+03/05/18
+
+218
+EXEMPLAR PROBLEMS
+Therefore, from (I) AB = 
+3 . 
+3 (AB – 50) ,i.e., AB = 3AB – 150 ,i.e.,
+AB = 75 m
+(1)
+BD = 
+3 (75 – 50) = 25
+3 m
+ (1)
+29.
+Volume of earth dug out = πr2h = π (1.5)2 × 14 = 31.5 π 3
+(2)
+Area of circular ring = π[R2 – r2] = π[(5.5)2(1.5)2]
+(1)
+= π(7) (4) = 28π 2
+ (1)
+Let 
+π ×  = 31.5π
+ (1)
+ = 31.5
+28 
+(1)
+30.
+Age (in years)
+5-15
+15-25
+25-35
+35- 45
+45-55 55-65 Total
+No. of
+6
+11
+21
+23
+14
+5
+80
+patients(f1)
+Class marks(xi) 10
+20
+30
+40
+50
+60
+      ( 1
+2 )
+fixi
+60
+220
+630
+920
+700
+300
+2830 (1)
+Mean = 
+i
+i
+
+
+i
+f x
+f
+= 2830
+80 = 35.375 years
+ (1)
+Modal class is (35 – 45)
+             ( 1
+2 )
+Therefore, Mode = l + 
+1
+0
+1
+0
+2
+2
+–
+–
+f – f
+f
+f
+f × h
+(1)
+Putting l = 35, f1 = 23, f0 = 21, f2 = 14 and h = 10, we get
+(1)
+Mode = 35 + 2
+10
+11×
+= 36.81 years
+(1)
+Note: Full credit should be given for alternative correct solution.
+03/05/18

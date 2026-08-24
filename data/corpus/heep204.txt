@@ -1,0 +1,1398 @@
+
+
+
+
+
+
+
+
+
+
+
+
+• An algebraic equation is an equality involving variables. It has an
+equality sign. The expression on the left of the equality sign is the
+Left Hand Side (LHS) and the expression on the right of the equality
+sign is the Right Hand Side (RHS).
+• In an equation the values of the expressions on the LHS and RHS
+are equal for certain values of the variables. These values are the
+solutions of the equation.
+• Equations where the expressions which form the equation contain
+only one variable and the highest power of the variable appearing
+in the equation is 1, are called linear equations in one variable.
+• A linear equation may have linear expressions on both sides of the
+equality sign.
+• To find the solution of an equation we perform the same
+mathematical operations on both sides of the equation, so that the
+balance between the LHS and RHS is not disturbed.
+• A linear equation may have any rational number as its solution.
+• In an equation, variables can be transposed from one side of the
+equation to the other.
+12/04/18
+
+
+
+
+
+In examples 1 and 2, there are four options given out of which one is
+correct. Choose the correct answer.
+Example 1
+: If x = a, then which of the following is not always true for
+an integer k.
+(a) kx = ak
+(b)
+k
+k
+x
+a
+=
+(c) x – k = a – k
+(d) x + k = a + k
+Solution
+: Correct answer is (b).
+Example 2
+: If 3x – 4 (64 – x) = 10, then the value of x is
+(a) –266
+(b) 133
+(c) 66.5
+(d) 38
+Solution:
+Correct answer is (d).
+In examples 3 and 4, fill in the blanks to make the statements true.
+Example 3
+: Fifteen added to thrice a whole number gives 93. The
+number is __________.
+Solution
+: Correct answer is 26.
+Example 4
+: If 1
+3
+x
+−
+ = 
+2
+3
+−
+, then x is _________.
+Solution
+: Correct answer is 1.
+In examples 5 and 6, state whether the given statements are true (T) or
+false (F).
+Example 5
+: Three consecutive even numbers whose sum is 156 are
+51, 52 and 53.
+Solution
+: False.
+
+An equation is like a scale. The bit before the
+equals sign has the same value as the bit after
+the equals sign, so the scale is balanced.
+When manipulating equations, you have to keep
+the scale balanced. You can’t take 4 from one
+side and not from the other because then the
+two sides aren’t equal.
+The only way to keep the scale balanced is to
+always do the same thing to both sides.
+5
+3 + 6
+12/04/18
+
+
+
+Example 6
+: x = –12 is the solution of the linear equation
+5x –3(2x + 1) = 21+x
+Solution
+: True.
+In examples 7 to 10 solve each of them.
+Example 7
+: Solve : 
+10000
+2
+4
+5
+x
+x
+x
++
++
++
+ = x
+Solution
+:
+10000
+2
+4
+5
+x
+x
+x
++
++
++
+ = x
+2
+4
+5
+x
+x
+x
+x
++
++
+−
+ = –10000
+10
+5
+4
+20
+20
+x
+x
+x
+x
++
++
+−
+ = –10000
+19
+20
+20
+x
+x
+−
+ = –10000
+20
+x
+−
+ = –10000
+x = 200000
+Example 8
+: The present age of father is four times the age of his son.
+After 10 years, age of father will become three times the
+age of his son. Find their present ages.
+Solution:
+Let the present age of son be x years
+∴the present age of father = 4x years
+After 10 years
+Age of son = (x + 10) years
+Age of father = (4x + 10) years
+According to the given condition
+4x + 10 = 3(x + 10)
+4x + 10 = 3x + 30
+4x – 3x = 30 –10
+x = 20
+∴Present age of son = 20 years.
+and present age of father = 4x = 4 × 20 = 80 years.
+12/04/18
+
+
+
+Example 9
+: A steamer goes downstream from one point to another in 7
+hours. It covers the same distance upstream in 8 hours. If
+the speed of stream be 2 km/hr, find the speed of the
+steamer in still water and the distance between the ports.
+Solution
+: Let speed of steamer in still water = x km/hr
+Speed of stream = 2 km/hr
+Speed downstream = (x + 2) km/hr
+Speed upstream = (x – 2) km/hr
+Distance covered in 7 hours while downstream = 7(x + 2)
+Distance covered in 8 hours while upstream = 8(x – 2)
+According to the condition,
+7(x + 2) = 8(x – 2)
+7x + 14 = 8x – 16
+x = 30 km/hr
+Total Distance = 7(x + 2) km
+= 7(30 + 2) km
+= 7 × 32 km
+= 224 km
+Example 10 : Distance between two stations A and B is 690 km. Two
+cars start simultaneously from A and B towards each
+other, and the distance between them after 6 hours is 30
+km. If the speed of one car is less than the other by 10
+km/hr, find the speed of each car.
+Solution
+: Let speed of faster car = x km/hr
+Then speed of other = (x – 10) km/hr
+Here’s another way to show the
+balance in the equation.
+There are a total of 9 boxes on each
+side of the equals sign – so the
+equation is balanced.
+If you take any 3 boxes from the
+left-hand side, you also need to
+take 3 boxes from the right-hand
+side to keep the equation
+balanced.
+You still have to keep both sides
+of an equation balanced when
+there are variables involved.
+5 + 4
+=
+3 + 6
+=
+=
+Both sides still have the same total number of
+coloured boxes.
+12/04/18
+
+
+
+Let 1st one start from A and other from B.
+M and N be their position after 6 hours.
+M
+N
+A
+B
+AM = 6x,BN = 6(x –10)
+According to condition,
+6x + 6x – 60 + 30 = 690
+12x = 690 + 30
+12x = 720
+x = 60 km/hr
+Speed of other car = 50 km/hr.
+Example 11 : Application on problem solving strategy
+A home-owner is installing a fence around the square
+garden. The garden has a perimeter of 6480 cm. Write
+and solve the equation to find the garden’s dimensions.
+Solution
+: Understand and explore the problem
+• What do you know?
+Perimeter of square garden = 6480 cm
+To find: Side of garden?
+Plan a strategy
+• To visualise that fencing around a garden means
+fencing its perimeter.
+• Recall that a square has four equal sides, say s each.
+Solve
+Fence around square garden = Perimeter of square garden
+s + s + s + s = 6480 cm
+               4s = 6480 cm
+           s = 1620 cm
+Thus, side of garden = 1620 cm
+Check
+Verify your answer by adopting some other plan.
+e.g. Here in this problem instead of taking perimeter as
+sum of its sides, use the formula
+12/04/18
+
+
+
+
+
+In questions 1 to 15 out of the four options only one is correct, write
+the correct answer.
+1. The solution of which of the following equations is neither a fraction
+nor an integer.
+(a) 3x + 2 = 5x + 2
+(b) 4x – 18 = 2
+(c) 4x + 7 = x + 2
+(d) 5x – 8 = x + 4
+2. The solution of the equation ax + b = 0 is
+(a)
+a
+x
+b
+=
+(b) x = –b
+(c)
+b
+x
+a
+−
+=
+(d)
+b
+x
+a
+=
+An equation like y + 9 = 16 is balanced just like
+one with only numbers. To find the value of y, you
+need to get the variable alone on one side of the
+equals sign.
+If the variable has something added to it, use
+subtraction to get it on its own. In y + 9 = 16,
+subtract 9 from both sides to get y on its own.
+You can do exactly the same without drawing the scales.
+y + 9 = 16
+y + 9 – 9 = 16 –9
+y = 7
++9 and –9
+cancel each other out.
+You can check that y = 7 is the correct solution by substituting it back into
+the original equation.
+7 + 9 = 16 — this it true, so y = 7 is correct.
+
+4s = 6480 cm
+  s = 1620 cm
+Hence verified.
+(i) What other values will be needed if instead of square it is a
+rectangular or circular garden?
+(ii) What will happen if we have to level the grass inside it instead of
+fencing the garden?
+(iii) What will happen if there is a path running inside it?
+12/04/18
+
+
+
+3. If 8x – 3 = 25 +17x, then x is
+(a) a fraction
+(b) an integer
+(c) a rational number
+(d) cannot be solved
+4. The shifting of a number from one side of an equation to other is
+called
+(a) Transposition
+(b) Distributivity
+(c) Commutativity
+(d) Associativity
+5. If 5
+4
+3
+x −
+ = 2
+5
+x , then the numerical value of 2x – 7 is
+(a)
+19
+13
+(b)
+13
+19
+−
+(c) 0
+(d)
+13
+19
+6. The value of x for which the expressions 3x – 4 and 2x + 1 become
+equal is
+(a) –3
+(b) 0
+(c) 5
+(d) 1
+7. If a and b are positive integers, then the solution of the equation
+ax = b has to be always
+(a) positive
+(b) negative
+(c) one
+(d) zero
+8. Linear equation in one variable has
+(a) only one variable with any power.
+(b) only one term with a variable.
+(c) only one variable with power 1.
+(d) only constant term.
+To solve equations like 5t = –20, you still need to get the variable t, on its
+own. The variable has been multiplied by a number, 5 — so you can get the
+variable on its own by dividing both sides by that numbers. In this case,
+you need to divide by 5.
+5 = –20
+t
+Divide both sides by the same number
+by which the variable is multiplied.
+5 ÷ 5 = –20 ÷ 5
+t
+t = –20 ÷ 5
+t = –4
+If a statement is a proportion, the cross-products of the terms are equal.
+If 
+a
+c
+=
+b
+d , then ad = bc.
+12/04/18
+
+
+
+9. Which of the following is a linear expression:
+(a) x2 + 1
+(b) y + y2
+(c) 4
+(d) 1 + z
+10. A linear equation in one variable has
+(a) Only one solution
+(b) Two solutions
+(c) More than two solutions
+(d) No solution
+11. Value of S in 1
+3 + S = 2
+5
+(a)
+4
+5
+(b)
+1
+15
+(c) 10
+(d) 0
+12.
+4
+3
+−
+y = 
+3
+4
+−
+, then y =
+(a)
+2
+3
+4
+
+
+−
+
+
+
+(b)
+2
+4
+3
+
+
+−
+
+
+
+(c)
+2
+3
+4
+
+
+
+
+
+
+(d)
+2
+4
+3
+
+
+
+
+
+
+13. The digit in the tens place of a two digit number is 3 more than the
+digit in the units place. Let the digit at units place be b. Then the
+number is
+(a)11b + 30
+(b) 10b + 30
+(c) 11b + 3
+(d) 10b + 3
+14. Arpita’s present age is thrice of Shilpa. If Shilpa’s age three years ago
+was x. Then Arpita’s present age is
+(a) 3(x – 3)
+(b) 3x + 3
+(c)3x – 9
+(d) 3(x + 3)
+A one-step equation is one that can be solved in one step by either adding,
+subtracting, multiplying or dividing by one thing.
+There are four main methods. For example:
+(i) a + 3 = 4.2 — solve by subtracting 3 from both sides to get a = 1.2
+(ii) s – 7 = 12 — solve by adding 7 to both sides to get s = 19
+(iii) 9m = 27 — solve by dividing both sides by 9 to get m = 3
+(iv) d ÷ 8 = 2 — solve by multiplying both sides by 8 to get d = 16
+Before you can solve an equation, you must be able to spot what kind of
+equation you have.
+12/04/18
+
+
+
+15. The sum of three consecutive multiples of 7 is 357. Find the smallest
+multiple.
+(a)
+112
+(b) 126
+(c)
+119
+(d) 116
+In questions 16 to 32, fill in the blanks to make each statement true.
+16. In a linear equation, the _________ power of the variable appearing in
+the equation is one.
+17. The solution of the equation 3x – 4 = 1 – 2 x is _________.
+18. The solution of the equation 2y = 5y – 18
+5 is _________.
+19. Any value of the variable which makes both sides of an equation
+equal is known as a _________ of the equation.
+20. 9x – _________ = –21 has the solution (–2)
+21. Three consecutive numbers whose sum is 12 are _________, _________
+and _________.
+22. The share of A when Rs 25 are divided between A and B so that A
+gets Rs. 8 more than B is _________.
+23. A term of an equation can be transposed to the other side by changing
+its _________.
+24. On subtracting 8 from x, the result is 2. The value of x is _________.
+25.
+30
+5
+x +
+ = 18 has the solution as _________.
+26. When a number is divided by 8, the result is –3. The number is
+_________.
+27. 9 is subtracted from the product of p and 4, the result is 11. The
+value of p is _________.
+28. If 2
+2
+5 x −
+ = 
+3
+5
+5 x
+−
+, then x = _________.
+29. After 18 years, Swarnim will be 4 times as old as he is now. His
+present age is _________.
+30. Convert the statement Adding 15 to 4 times x  is 39 into an equation
+_________.
+12/04/18
+
+
+
+
+A family spent Rs. 52.00 for circus tickets. This cost included
+a Rs. 3.25 service fee for the order, with the cost of the circus
+tickets being Rs. 9.75 each. How many tickets did the family
+buy? Justify your answer.
+Understand the problem
+The answer is the number of tickets that family bought. List the
+important information– The service fee is Rs. 3.25 per order, the
+tickets cost Rs. 9.75 each, and the total cost is Rs. 52.
+Let t represent the number of tickets bought.
+Total cost
+=
+Tickets
++
+Service Fee
+   52.00
+=
+9.75t
++
+3.25
+Make a Plan
+Think: First the variable is multiplied by 9.75, and then 3.25 is
+added to the result. Work backward to solve the equation. Undo
+the operations in reverse order. First subtract 3.25 from both sides
+of the equation and then divide sides of the new equation by 9.75.
+Solve
+52.00
+=
+9.75t + 3.25
+–3.25
+–3.25
+Subtract 3.25 from both sides.
+48.75
+=
+9.75t
+48.75
+9.75
+9.75
+9.75
+t
+=
+Divide both sides by 9.75.
+5 = t
+The family bought 5 tickets.
+Look Back
+You can use a table to decide whether your answer is reasonable.
+Five tickets is a reasonable answer.
+Tickets
+Cost of Tickets
+Service charge
+Total cost
+1
+Rs.  9.75
+Rs. 3.25
+Rs. 13.00
+2
+Rs. 19.50
+Rs. 3.25
+Rs. 22.75
+3
+Rs. 29.25
+Rs. 3.25
+Rs. 32.50
+4
+Rs. 39.00
+Rs. 3.25
+Rs. 42.25
+5
+Rs. 48.75
+Rs. 3.25
+Rs. 52.00
+Sometimes, a two-step equation contains a term or an expression with a
+denominator. In these cases, it is often easier to first multiply both sides
+of the equation by the denominator in order to remove it, and then work to
+isolate the variable.
+12/04/18
+
+
+
+31. The denominator of a rational number is greater than the numerator
+by 10. If the numerator is increased by 1 the and denominator is
+decreased by 1, then expression for new denominator is _________.
+32. The sum of two consecutive multiples of 10 is 210. The smaller multiple
+is _________.
+In questions 33 to 48, state whether the statements are true (T) or
+false (F).
+33. 3 years ago, the age of a boy was y years. His age 2 years ago was (y
+– 2) years.
+34. Shikha’s present age is p years. Reemu’s present age is 4 times the
+present age of Shikha. After 5 years Reemu’s age will be 15p years.
+35. In a 2 digit number, the units place digit is x. If the sum of digits be
+9, then the number is (10x – 9).
+36. Sum of the ages of Anju and her mother is 65 years. If Anju’s present
+age is y years then her mother’s age before 5 years is (60 – y) years.
+37. The number of boys and girls in a class are in the ratio 5:4. If the
+number of boys is 9 more than the number of girls, then number of
+boys is 9.
+38. A and B are together 90 years old. Five years ago A was thrice as old
+as B was. Hence, the ages of A and B five years back would be (x – 5)
+years and (85 – x) years respectively.
+39. Two different equations can never have the same answer.
+40. In the equation 3x – 3 = 9, transposing –3 to RHS, we get 3x = 9.
+41. In the equation 2x = 4 – x, transposing –x to LHS, we get x = 4.
+42. If 15
+7
+8
+x
+−
+ = 9, then –7x = 
+15
+9
+8
++
+43. If 
+1
+3
+x +
+ = 7
+15 , then 3
+x = 6
+15
+44. If 6x = 18, then 18x = 54
+45. If 11
+x = 15, then x = 11
+15
+46. If x is an even number, then the next even number is 2(x + 1).
+12/04/18
+
+
+
+47. If the sum of two consecutive numbers is 93 and one of them is x,
+then the other number is 93 – x.
+48. Two numbers differ by 40, when each number is increased by 8, the
+bigger becomes thrice the lesser number. If one number is x, then
+the other number is (40 – x).
+Solve the following:
+49.
+3
+8
+1
+2
+x
+x
+−
+=
+50.
+5
+2
+2
+1
+x
+x
+=
+−
+51.
+2
+3
+1
+4
+5
+3
+x
+x
+−
+=
++
+52.
+8
+5
+1
+x
+x
+=
+−
+53.
+5(1
+)
+3(1
+)
+8
+1
+2
+x
+x
+x
+−
++
++
+=
+−
+54.
+0.2
+5
+2
+3.5
+3
+5
+x
+x
++
+=
+−
+55.
+(4
+3 )
+1
+2
+(3
+4 )
+5
+y
+y
+y
+y
+−
+−
+=
+−
++
+56.
+1
+5
+6
+x
+x −
+=
+57. 0.4(3x –1) = 0.5x + 1
+58. 8x – 7 – 3x = 6x – 2x – 3
+59. 10x – 5 – 7x = 5x + 15 – 8
+60. 4t – 3 – (3t +1) = 5t – 4
+61. 5(x – 1) – 2(x + 8) = 0
+62.
+(
+)
+1
+1
+1
+1
+1
+2
+4
+3
+6
+12
+x
+x
+x
+
+
+−
+−
+=
++
++
+
+
+
+
+12/04/18
+
+
+
+63.
+1
+1
+5
+(
+1)
+(
+1)
+(
+2)
+2
+3
+12
+x
+x
+x
++
++
+−
+=
+−
+64.
+1
+2
+4
+3
+x
+x
++
+−
+=
+65.
+2
+1
+3
+1
+5
+3
+x
+x
+−
++
+=
+66. 1 –(x – 2) – [(x – 3) – (x – 1)] = 0
+67.
+2
+1
+3
+4
+3
+4
+x
+x
+x
+−
+−
+−
+=
+−
+68.
+3
+5
+4
+3
+1
+4
+5
+t
+t
++
+−
+−
+=
+69.
+2
+3
+3
+5
+3
+4
+2
+4
+y
+y
+y
+−
+−
+−
+=
++
+70. 0.25 (4x – 5) = 0.75x + 8
+71.
+9
+3
+8
+1
+9
+5
+y
+y
+−
+=
+−
+72.
+3
+2
+3
+2
+3
+4
+x
+x
++
+= −
+−
+73.
+5
+1
+1
+2
+3
+x
+x
++
+= −
+74.
+3
+2
+2
+3
+7
+3
+2
+6
+t
+t
+t
+−
++
++
+=
++
+75.
+1
+2
+1
+2
+3
+m
+m
+m
+−
+−
+−
+=
+−
+76. 4 (3p + 2) – 5(6p –1) = 2(p – 8) – 6(7p – 4)
+77. 3 (5x – 7) + 2(9x – 11) = 4(8x – 7) – 111
+78. 0.16 (5x – 2) = 0.4x + 7
+79. Radha takes some flowers in a basket and visits three temples one by
+one. At each temple, she offers one half of the flowers from the basket.
+If she is left with 3 flowers at the end, find the number of flowers she
+had in the beginning.
+12/04/18
+
+
+
+80. Rs. 13500 are to be distributed among Salma, Kiran and Jenifer in
+such a way that Salma gets Rs. 1000 more than Kiran and Jenifer
+gets Rs. 500 more than Kiran. Find the money received by Jenifer.
+81. The volume of water in a tank is twice of that in the other. If we draw
+out 25 litres from the first and add it to the other, the volumes of the
+water in each tank will be the same. Find the volume of water in each
+tank.
+82. Anushka and Aarushi are friends. They have equal amount of money
+in their pockets. Anushka gave 1
+3 of her money to Aarushi as her
+birthday gift. Then Aarushi gave a party at a restaurant and cleared
+the bill by paying half of the total money with her. If the remaining
+money in Aarushi’s pocket is Rs.1600, find the sum gifted by
+Anushka.
+83. Kaustubh had 60 flowers. He offered some flowers in a temple and
+found that the ratio of the number of remaining flowers to that of
+flowers in the beginning is 3:5. Find the number of flowers offered by
+him in the temple.
+84. The sum of three consecutive even natural numbers is 48. Find the
+greatest of these numbers.
+85. The sum of three consecutive odd natural numbers is 69. Find the
+prime number out of these numbers.
+86. The sum of three consecutive numbers is 156. Find the number
+which is a multiple of 13 out of these numbers.
+87. Find a number whose fifth part increased by 30 is equal to its fourth
+part decreased by 30.
+88. Divide 54 into two parts such that one part is 2
+7 of the other.
+89. Sum of the digits of a two-digit number is 11. The given number is
+less than the number obtained by interchanging the digits by 9.
+Find the number.
+90. Two equal sides of a triangle are each 4m less than three times the
+third side. Find the dimensions of the triangle, if its perimeter is
+55m.
+12/04/18
+
+
+
+91. After 12 years, Kanwar shall be 3 times as old as he was 4 years ago.
+Find his present age.
+92. Anima left one-half of her property to her daughter, one-third to her
+son and donated the rest to an educational institute. If the donation
+was worth Rs. 1,00,000, how much money did Anima have?
+93. If 1
+2 is subtracted from a number and the difference is multiplied by
+4, the result is 5. What is the number?
+94. The sum of four consecutive integers is 266. What are the integers?
+95. Hamid has three boxes of different fruits. Box A weighs 
+1
+2 2 kg more
+than Box B and Box C weighs 
+1
+10 4 kg more than Box B. The total
+weight of the three boxes is 
+3
+48 4 kg. How many kilograms (kg) does
+Box A weigh?
+96. The perimeter of a rectangle is 240 cm. If its length is increased by
+10% and its breadth is decreased by 20%, we get the same perimeter.
+Find the length and breadth of the rectangle.
+97. The age of A is five years more than that of B. 5 years ago, the ratio of
+their ages was 3:2. Find their present ages.
+98. If numerator is 2 less than denominator of a rational number and
+when 1 is subtracted from numerator and denominator both, the
+rational number in its simplest form is 1
+2
+. What is the rational
+number?
+99. In a two digit number, digit in units place is twice the digit in tens
+place. If 27 is added to it, digits are reversed. Find the number.
+100. A man was engaged as typist for the month of February in 2009. He
+was paid Rs. 500 per day but Rs. 100 per day were deducted for the
+days he remained absent. He received Rs. 9,100 as salary for the
+month. For how many days did he work?
+101. A steamer goes downstream and covers the distance between two
+ports in 3 hours. It covers the same distance in 5 hours when it goes
+upstream. If the stream flows at 3 km/hr, then find what is the speed
+of the steamer upstream?
+12/04/18
+
+
+
+102. A lady went to a bank with Rs. 1,00,000. She asked the cashier to
+give her Rs. 500 and Rs. 1,000 currency notes in return. She got
+175 currency notes in all. Find the number of each kind of currency
+notes.
+103. There are 40 passengers in a bus, some with Rs. 3 tickets and
+remaining with Rs.10 tickets. The total collection from these
+passengers is Rs. 295. Find how many passengers have tickets worth
+Rs. 3?
+104. Denominator of a number is 4 less than its numerator. If 6 is added
+to the numerator it becomes thrice the denominator. Find the fraction.
+105. An employee works in a company on a contract of 30 days on the
+condition that he will receive Rs. 120 for each day he works and he
+will be fined Rs. 10 for each day he is absent. If he receives Rs. 2300
+in all, for how many days did he remain absent?
+106. Kusum buys some chocolates at the rate of Rs. 10 per chocolate. She
+also buys an equal number of candies at the rate of Rs. 5 per candy.
+She makes a 20% profit on chocolates and 8% profit on candies. At
+the end of the day, all chocolates and candies are sold out and her
+profit is Rs. 240. Find the number of chocolates purchased.
+107. A steamer goes downstream and covers the distance between two
+ports in 5 hours while it covers the same distance upstream in 6
+hours. If the speed of the stream is 1 km/hr, find the speed of the
+steamer in still water.
+108. Distance between two places A and B is 210 km. Two cars start
+simultaneously from A and B in opposite direction and distance
+between them after 3 hours is 54 km. If speed of one car is less than
+that of other by 8 km/hr, find the speed of each.
+109. A carpenter charged Rs. 2500 for making a bed. The cost of materials
+used is Rs. 1100 and the labour charges are Rs. 200/hr. For how
+many hours did the carpenter work?
+110. For what value of x is the perimeter of shape 77 cm?
+12/04/18
+
+
+
+111. For what value of x is the perimeter of shape 186 cm?
+112. On dividing Rs. 200 between A and B such that twice of A’s share is
+less than 3 times B’s share by 200, B’s share is?
+113. Madhulika thought of a number, doubled it and added 20 to it. On
+dividing the resulting number by 25, she gets 4. What is the number?
+
+1. Ranika wanted her friend Radhika’s mobile number. But Radhika
+played a trick. She gave her the number as
+9 X Y Z P 1 Q 2 R 3
+and told her to decode it with the help of following equations :
+(a) 16 – 35 = 7 – 8
+(b)
+Y
+Y
+−
+=
++
+6
+7
+1
+3
+9
+3
+(c)
+2
+2
+9
+5
+5
+9
+Z
+Z
+−
+−
+=
++
+(d) P + 3 P
+10
+ = 13
+10
+(e)
+4(
+4)
+5(
+2)
+Q
+Q
++
+=
++
+(f) 3(R+10) + 200 = 236
+2. Determine the missing value in the puzzle below :
+12/04/18
+
+
+
+3. Game : Who will be the Lakhpati ???
+Rohit and Saurabh are playing a game. The one who solves the
+following equations will be a winner. Find out if you were at their
+place would you have been be a winner. Till what money did you
+reach successfully?
+Rules of the game
+(a) You can only move to the next problem if the previous answer is
+correct.
+(b) Winning amount slab
+Question Number
+Amount Won
+1
+Rs. 1,000
+2
+Rs. 2,000
+3
+Rs. 3,000
+4
+Rs. 4,000
+5
+Rs. 10,000
+6
+Rs. 12,000
+7
+Rs. 14,000
+8
+Rs. 20,000
+9
+Rs. 40,000
+10
+Rs. 1,00,000
+(c) Problems:
+(i)
+1
+2
+7
+x
+x
++
++
+ = 3
+8
+(ii)
+1
+2
+2
+(
+1)
+(
+1)
+x
+x
++
+=
+−
++
+(iii) 6
+1
+3
+1
+3
+6
+x
+x
++
+−
++
+=
+(iv) 3m = 7m – 8
+7
+(v) –x = 6 (
+10)
+5
+x
+−
+−
+12/04/18
+
+
+
+(vi)
+7
+5
+2
+x +
+ = 3
+14
+2 x −
+(vii)
+8
+1
+3
+15
+x +
+=
+(viii)
+3
+5
+2
+2
+4
+6
+x
+x
+x
++
+−
+=
+(ix)
+50
+4
+14
+x +
+=
+(x)
+2
+3
+7
+x
+x
+x
++
++
+ = 97
+2
+x
+−
+4. Work with a partner.
+Modelling the Equation
+Material Required : Glasses and containers, Equation met
+–
++
+–
+–
+–
++
+5
+– 6 = 4
+x
+–
+–
++
++
+=
+–
++
+–
+–
+–
++
+5
+– 6 = 4
+x
+–
+–
++
++
+5x – 6 + 6 = 4 + 6
+=
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Add 6 positive containers
+to each side of the equal
+and then remove the zero
+pairs.
+Arrange the glasses and
+containers into five equal
+groups.
+5x  = 10
+12/04/18
+
+
+
+Each Cup is matched with 2 positive contents. So, x = 2.
+Model the following equations:
+(i) 3x – 3 = 12
+(ii) 12x + 4 = 24
+(iii) 7y + 14 = 7
+5. Cross word puzzle.
+Solve the given crossword and then fill up the given boxes. Clues
+are given below for across as well as downward filling. Also, for
+across and down clues, clue number is written at the corner of the
+boxes. Answers of clues have to be filled up in their respective boxes.
+Down
+1. Inverse of addition.
+4. A symbolic form made up of constants, variables and operation
+(other than algebraic expressions).
+5. If a term of an expression consists of a number multiplied by one
+or more variables, this number is the __________________ of the
+term.
+6. Inverse of division.
+7. Equations that have the same solution.
+8. An _____________ in an equality which is true for all values of the
+variable in the equality.
+Across
+2. A statement formed when an equal sign in placed between two
+expressions.
+3. 2(x+5) = 2x+10. This is an example of what property.
+9. Branch of mathematics concerned with operation by symbolic
+numbers.
+10.
+A linear equation of the form Ax + By = C when A and B both are
+not zero is in the _____________________.
+11.
+An expression is _________________ if it has no grouping symbols
+and all the like terms have been combined.
+12/04/18
+
+LINEAR EQUATIONS IN ONE VARIABLE  125
+UNIT-4
+12/04/18
+
+126    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18
+
+LINEAR EQUATIONS IN ONE VARIABLE  127
+UNIT-4
+Rough Work
+12/04/18
+
+128    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18

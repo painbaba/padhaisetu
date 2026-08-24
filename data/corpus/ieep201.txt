@@ -1,0 +1,1525 @@
+(A) Main Concepts and Results
+Rational numbers
+Irrational numbers
+Locating irrational numbers on the number line
+Real numbers and their decimal expansions
+Representing real numbers on the number line
+Operations on real numbers
+Rationalisation of denominator
+Laws of exponents for real numbers
+•
+A number is called a rational number, if it can be written in the form p
+q , where p
+and q are integers and  q ≠ 0.
+•
+A number which cannot be expressed in the form p
+q (where p and q are integers
+and  q ≠ 0) is called an irrational number.
+•
+All rational numbers and all irrational numbers together make the collection of real
+numbers.
+•
+Decimal expansion of a rational number is either terminating or non-terminating
+recurring, while the decimal expansion of an irrational number is non-terminating
+non-recurring.
+NUMBER  SYSTEMS
+CHAPTER 1
+16/04/18
+16/04/18
+
+2
+EXEMPLAR PROBLEMS
+•
+If r is a rational number and s is an irrational number, then r+s and r-s are irrationals.
+Further, if r is a non-zero rational, then rs and r
+s are irrationals.
+•
+For positive real numbers a and b :
+(i)
+ab
+a b
+=
+(ii)
+a
+a
+b
+b
+=
+(iii)
+(
+)(
+)
+a
+b
+a
+b
+a
+b =
+−
++
+−
+(iv)
+(
+)(
+)
+2
+a
+b
+a
+b
+a
+b =
+−
++
+−
+(v)
+(
+)
+2
+2
+a
+ab
+b
+a
+b
+=
++
++
++
+•
+If p and q are rational numbers and a is a positive real number, then
+(i)
+ap . aq = ap + q
+(ii)
+(ap)q = apq
+(iii)
+p
+p q
+q
+a
+a
+a
+−
+=
+(iv)
+apbp = (ab)p
+(B) Multiple Choice Questions
+Write the correct answer:
+Sample Question 1 : Which of the following is not equal to 
+1
+–
+1
+6
+5
+5
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?
+(A)
+1 1
+–
+5 6
+5
+6
+
+
+
+
+
+
+(B)
+1
+1
+6
+5
+1
+5
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(C)
+1
+30
+6
+5
+
+
+
+
+
+
+(D)
+1
+–30
+5
+6
+
+
+
+
+
+
+Solution : Answer (A)
+EXERCISE 1.1
+Write the correct answer in each of the following:
+1.
+Every rational number is
+(A)
+a natural number
+(B)
+an integer
+(C)
+a real number
+(D)
+a whole number
+16/04/18
+16/04/18
+
+NUMBER SYSTEMS
+3
+2.
+Between two rational numbers
+(A)
+there is no rational number
+(B)
+there is exactly one rational number
+(C)
+there are infinitely many rational numbers
+(D)
+there are only rational numbers and no irrational numbers
+3.
+Decimal representation of a rational number cannot be
+(A)
+terminating
+(B)
+non-terminating
+(C)
+non-terminating repeating
+(D)
+non-terminating non-repeating
+4.
+The product of any two irrational numbers is
+(A)
+always an irrational number
+(B)
+always a rational number
+(C)
+always an integer
+(D)
+sometimes rational, sometimes irrational
+5.
+The decimal expansion of the number 2 is
+(A)
+a finite decimal
+(B)
+1.41421
+(C)
+non-terminating recurring
+(D)
+non-terminating non-recurring
+6.
+Which of the following is irrational?
+(A)
+4
+9
+(B)
+12
+3
+(C)
+7
+(D)
+81
+7.
+Which of the following is irrational?
+(A)
+0.14
+(B) 0.1416
+(C) 0.1416
+(D) 0.4014001400014...
+8.
+A rational number between 2 and 3 is
+(A)
+2
+3
+2
++
+(B)
+2
+3
+2
+⋅
+(C)
+1.5
+(D)
+1.8
+16/04/18
+16/04/18
+
+4
+EXEMPLAR PROBLEMS
+9.
+The value of 1.999... in the form 
+p
+q , where p and q are integers and 
+0
+q ≠
+, is
+(A)
+19
+10
+(B)
+1999
+1000
+(C)
+2
+(D)
+1
+9
+10. 2 3
+3
++
+ is equal to
+(A)
+2 6
+(B)
+6
+(C)
+3 3
+(D)
+4 6
+11.
+10
+15
+×
+ is equal to
+(A)
+6 5
+(B)
+5 6
+(C)
+25
+(D)
+10 5
+12. The number obtained on rationalising the denominator of 
+1
+7 – 2 is
+(A)
+7
+2
+3
++
+(B)
+7 – 2
+3
+(C)
+7
+2
+5
++
+(D)
+7
+2
+45
++
+13.
+1
+9 – 8 is equal to
+(A)
+(
+)
+1 3 – 2 2
+2
+(B)
+1
+3
+2 2
++
+(C)
+3 – 2 2
+(D)
+3
+2 2
++
+14. After rationalising the denominator of 
+7
+3 3 – 2 2 , we get the denominator as
+(A)
+13
+(B)
+19
+(C)
+5
+(D)
+35
+15. The value of 
+32
+48
+8
+12
++
++
+ is equal to
+(A)
+2
+(B)
+2
+(C)
+4
+(D)
+8
+16. If 
+2 = 1.4142, then 
+2 –1
+2
+1
++
+ is equal to
+16/04/18
+16/04/18
+
+NUMBER SYSTEMS
+5
+(A)
+2.4142
+(B)
+5.8282
+(C)
+0.4142
+(D)
+0.1718
+17.
+4 3
+2
+2 equals
+(A)
+1
+6
+2
+−
+(B)
+2– 6
+(C)
+1
+6
+2
+(D)
+26
+18. The product 3
+4
+12
+2
+2
+32
+⋅
+⋅
+ equals
+(A)
+2
+(B)
+2
+(C)
+12 2
+(D)
+12 32
+19. Value of (
+)
+2
+4 81
+− is
+(A)
+1
+9
+(B)
+1
+3
+(C)
+9
+(D)
+1
+81
+20. Value of (256)0.16 × (256)0.09 is
+(A)
+4
+(B)
+16
+(C)
+64
+(D)
+256.25
+21. Which of the following is equal to x?
+(A)
+12
+5
+7
+7
+–
+x
+x
+(B)
+(
+)
+1
+4
+12
+3
+x
+(C)
+(
+)
+2
+3
+3x
+(D)
+12
+7
+7
+12
+x
+x
+×
+(C) Short Answer Questions with Reasoning
+Sample Question 1: Are there two irrational numbers whose sum and product both
+are rationals? Justify.
+Solution : Yes.
+3
+2
++
+ and 3
+2
+−
+ are two irrational numbers.
+(
+) (
+)
+3
+2
+6
+3
+2 +
+−
+=
++
+, a rational number.
+(
+) (
+)
+3
+2
+3
+2
+7
++
+×
+−
+=
+, a rational number.
+So, we have two irrational numbers whose sum and product both are rationals.
+Sample Question 2: State whether the following statement is true:
+There is a number x such that x2 is irrational but x4 is rational. Justify your answer by
+an example.
+16/04/18
+16/04/18
+
+6
+EXEMPLAR PROBLEMS
+Solution : True.
+Let us take
+x = 4 2
+Now,
+x2 = (
+)
+2
+4 2
+2
+=
+, an irrational number.
+x4 = (
+)
+4
+4 2
+2
+=
+, a rational number.
+So, we have a number x such that x2 is irrational but x4 is rational.
+EXERCISE 1.2
+1.
+Let x and y be rational and irrational numbers, respectively. Is x + y necessarily an
+irrational number? Give an example in support of your answer.
+2.
+Let x be rational and y be irrational. Is xy necessarily irrational? Justify your answer
+by an example.
+3.
+State whether the following statements are true or false? Justify your answer.
+(i)
+2
+3 is a rational number.
+(ii)
+There are infinitely many integers between any two integers.
+(iii)
+Number of rational numbers between 15 and 18 is finite.
+(iv)
+There are numbers which cannot be written in the form 
+p
+q , 
+0
+q ≠
+, p, q both
+are integers.
+(v)
+The square of an irrational number is always rational.
+(vi)
+12
+3 is not a rational number as 12 and 
+3 are not integers.
+(vii)
+15
+3 is written in the form 
+p
+q , q ≠ 0 and so it is a rational number.
+4.
+Classify the following numbers as rational or irrational with justification :
+(i)
+196
+(ii)
+3 18
+(iii)
+9
+27
+(iv)
+28
+343
+16/04/18
+16/04/18
+
+NUMBER SYSTEMS
+7
+(v)
+–
+0.4
+(vi)
+12
+75
+(vii)
+0.5918
+(viii) (
+) (
+)
+1
+5 – 4
+5
++
++
+(ix)
+10.124124...
+(x)
+1.010010001...
+(D) Short Answer Questions
+Sample Question 1: Locate 13 on the number line.
+Solution : We write 13 as the sum of the squares of two natural numbers :
+13 = 9 + 4 = 32 + 22
+On the number line, take OA = 3 units.
+Draw BA = 2 units, perpendicular
+to OA. Join OB (see Fig.1.1).
+By 
+Pythagoras 
+theorem,
+OB = 13
+Using a compass with centre O
+and radius OB, draw an arc which
+intersects the number line at the
+point C. Then, C corresponds to
+13 .
+Remark : We can also take OA = 2 units and AB = 3 units.
+Sample Question 2 : Express 0.123 in the form 
+p
+q , where p and q are integers and
+q ≠ 0.
+Solution :
+Let
+x = 0.123
+so,
+10x = 1.23
+or
+10x – x = 1.23 – 0.123 = 1.2333 ... – 0.12333 ...
+or
+9x = 1.11
+or
+x = 1.11
+111
+9
+900
+=
+Fig. 1.1
+16/04/18
+16/04/18
+
+8
+EXEMPLAR PROBLEMS
+Therefore,
+0.123 = 111
+37
+900
+300
+=
+Sample Question 3 : Simplify : (
+) (
+)
+3 5
+5 2
+4 5
+3 2
+−
++
+.
+Solution : (
+)(
+)
+3 5 – 5 2
+4 5
+3 2
++
+= 12
+5
+20 2
+5
+9 5
+2 – 15
+2
+×
+−
+×
++
+×
+×
+= 60
+20 10
+9 10 – 30
+−
++
+= 30
+11 10
+−
+Sample Question 4 : Find the value of a in the following :
+6
+3 2
+2 3
+−
+ = 3 2
+3
+a
+−
+Solution : 
+6
+3 2
+2 3
+−
+ =
+6
+3 2
+2 3
+3 2
+2 3
+3 2
+2 3
++
+×
+−
++
+=
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+6 3 2
+2 3
+6 3 2
+2 3
+6 3 2
+2 3
+18
+12
+6
+3 2
+2 3
++
++
++
+=
+=
+−
+−
+= 3 2
+2 3
++
+Therefore,
+3 2
+2 3
++
+ = 3 2
+3
+a
+−
+or
+a = – 2
+Sample Question 5: Simplify : (
+)
+1
+3
+4
+1
+1
+3
+3
+5 8
+27
+
+
+
+
++
+
+
+Solution :
+(
+)
+1
+3
+4
+1
+1
+3
+3
+5 8
+27
+
+
+
+
++
+
+
+= (
+)
+1
+3
+4
+1
+1
+3
+3
+3
+3
+5 (2 )
+(3 )
+
+
+
+
++
+
+
+16/04/18
+16/04/18
+
+NUMBER SYSTEMS
+9
+     = 
+(
+)
+1
+3
+4
+5 2
+3
+
+
++
+
+
+= 
+( )
+1
+3
+4
+5 5
+
+
+
+
+= [
+]
+1
+4
+4
+5
+ = 5
+EXERCISE 1.3
+1.
+Find which of the variables x, y, z and u represent rational numbers and which
+irrational numbers :
+(i)
+x2 = 5
+(ii)
+y2 = 9
+(iii)
+z2 = .04
+(iv)
+2
+17
+4
+u =
+2.
+Find three rational numbers between
+(i)
+–1 and –2
+(ii)
+0.1 and 0.11
+(iii)
+5
+6
+and
+7
+7
+(iv)
+1
+1
+and
+4
+5
+3.
+Insert a rational number and an irrational number between the following :
+(i)
+2 and 3
+(ii)
+0 and 0.1
+(iii)
+ 
+1
+1
+and
+3
+2
+(iv)
+–2
+1
+and
+5
+2
+(v)
+0.15 and 0.16
+(vi)
+2 and
+3
+(vii)
+2.357 and 3.121
+(viii) .0001 and .001
+(ix)
+3.623623  and 0.484848
+(x)
+6.375289 and 6.375738
+4.
+Represent the following numbers on the number line :
+7, 7.2, –3
+2 , –12
+5
+5.
+Locate 
+5,
+10 and
+17 on the number line.
+6.
+Represent geometrically the following numbers on the number line :
+(i)
+4.5
+(ii)
+5.6
+(iii)
+8.1
+(iv)
+2.3
+16/04/18
+16/04/18
+
+10
+EXEMPLAR PROBLEMS
+7.
+Express the following in the form 
+p
+q , where p and q are integers and 
+0
+q ≠
+:
+(i)
+0.2
+(ii)
+0.888...
+(iii)
+5.2
+(iv)
+0.001
+(v)
+0.2555...
+(vi)
+0.134
+(vii)
+.00323232...
+(viii)
+.404040...
+8.
+Show that 0.142857142857... = 1
+7
+9.
+Simplify the following:
+(i)
+20
+5
+45 – 3
+4
++
+(ii)
+24
+54
+8
+9
++
+(iii)
+4
+7
+12
+6
+×
+(iv)
+3
+4 28
+3 7
+7
+÷
+÷
+(v)
+7
+3 3
+2 27
+3
++
++
+(vi)
+(
+)
+2
+3 –
+2
+(vii)
+3
+5
+4 81
+8
+216
+15
+32
+225
+–
++
++
+(viii)
+3
+1
+8
+2
++
+(ix)
+2 3
+3
+–
+3
+6
+10. Rationalise the denominator of the following:
+(i)
+2
+3 3
+(ii)    
+40
+3
+       (iii)    
+3
+2
+4 2
++
+(iv)
+16
+41 – 5
+(v)   
+2
+3
+2 –
+3
++
+       (vi)   
+6
+2
+3
++
+(vii)
+3
+2
+3 –
+2
++
+(viii)   
+3 5
+3
+5 –
+3
++
+       (ix)   
+4 3
+5 2
+48
+18
++
++
+11. Find the values of a and b in each of the following:
+(i)
+5
+2 3
+6 3
+7
+4 3
+a
++
+=
+−
++
+16/04/18
+16/04/18
+
+NUMBER SYSTEMS
+11
+(ii)
+3 –
+5
+19
+5 – 11
+3
+2 5
+a
+=
++
+(iii)
+2
+3
+2 –
+6
+3 2 – 2 3
+b
++
+=
+(iv)
+7
+5
+7 –
+5
+7
+–
+5
+11
+7 –
+5
+7
+5
+a
+b
++
+=
++
++
+12. If 
+2
+3
+a =
++
+, then find the value of 
+1
+–
+a
+a .
+13. Rationalise the denominator in each of the following and hence evaluate by
+taking
+2
+1.414
+=
+, 3
+1.732
+=
+ and 5
+2.236
+=
+,  upto three places of decimal.
+(i)
+4
+3
+(ii)   
+6
+6
+(iii)    
+10 –
+5
+2
+(iv)
+2
+2
+2
++
+(v)   
+1
+3
+2
++
+14. Simplify :
+(i)
+(
+)
+1
+3
+3
+3
+2
+1
+2
+3
++
++
+(ii)
+4
+12
+6
+3
+8
+32
+5
+5
+5
+−
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(iii)
+2
+3
+1
+27
+−
+ 
+ 
+ 
+ 
+ 
+ 
+(iv)
+(
+)
+2
+1
+1
+4
+2
+625
+−
+−
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(v)
+1
+1
+3
+2
+1
+2
+6
+3
+9
+27
+3
+3
+−
+−
+×
+×
+(vi)
+1
+1
+2
+3
+3
+3
+64
+64
+64
+–
+−
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(vii)
+1
+1
+3
+3
+1
+3
+8
+16
+32
+−
+×
+16/04/18
+16/04/18
+
+12
+EXEMPLAR PROBLEMS
+(E) Long Answer Questions
+Sample Question 1 : If 
+5
+2 6
+a = +
+ and 
+1
+b
+a
+=
+, then what will be the value of
+a2 + b2?
+Solution : a = 5 + 2 6
+b = 
+1
+1
+5
+2 6
+a =
++
+ = 
+2
+2
+1
+5
+2 6
+5
+2 6
+5
+2 6
+5
+2 6
+5
+(2 6)
+−
+−
+×
+=
++
+−
+−
+ = 
+5
+2 6
+5
+2 6
+25
+24
+−
+=
+−
+−
+Therefore,
+a2 + b2 = (a + b)2 – 2ab
+Here,
+a + b = (5 + 2
+6 ) + (5 – 2 6 ) = 10
+ ab = (5 + 2 6 ) (5 – 2 6 ) = 52 – (2 6 )2 = 25 – 24 = 1
+Therefore,
+a2 + b2 = 102 – 2 × 1 = 100 – 2 = 98
+EXERCISE 1.4
+1.
+Express 0.6
+0.7
+0.47
++
++
+ in the form p
+q , where p and q are integers and 
+0
+q ≠
+.
+2.
+Simplify : 
+7 3
+2 5
+3 2
+–
+–
+10
+3
+6
+5
+15
+3 2
++
++
++
+.
+3.
+If 
+2
+1.414,
+3
+1.732
+=
+=
+, then find the value of 
+4
+3
+3 3 – 2 2
+3 3
+2 2
++
++
+.
+4.
+If  a = 3
+5
+2
++
+, then find the value of 
+2
+2
+1
+a
+a
++
+.
+5.
+If 
+3
+2
+3 –
+2
+x
++
+=
+ and 
+3 –
+2
+3
+2
+y =
++
+, then find the value of x2 + y2.
+6.
+Simplify : (
+)
+(
+)
+3
+2
+4
+256
+−
+−
+7.
+Find the value of  
+(
+)
+(
+)
+(
+)
+2
+3
+1
+3
+4
+5
+4
+1
+2
+216
+256
+243
+−
+−
+−
++
++
+16/04/18
+16/04/18

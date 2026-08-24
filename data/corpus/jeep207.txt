@@ -1,0 +1,788 @@
+COORDINATE  GEOMETRY
+CHAPTER 7
+(A) Main Concepts and Results
+Distance Formula, Section Formula, Area of a Triangle.
+•
+The distance between two points P (x1, y1) and Q (x2, y2) is
+(
+)
+(
+)
+2
+2
+2
+1
+2
+1
+–
+–
+x
+x
+y
+y
++
+•
+The distance of a point P (x,y) from the origin is 
+2
+2
+x
+y
++
+•
+The coordinates of the point P which divides the line segment joining the points
+A (x1, y1) and  B (x2, y2) internally in the ratio m1 : m2 are
+1
+2
+2
+1
+1
+2
+2
+1
+1
+2
+1
+2
++
++
+,
++
++
+m x
+m x
+m y
+m y
+m
+m
+m
+m
+
+
+
+
+
+
+•
+The coordinates of the mid-point of the line segment joining the points P (x1, y1)
+and Q (x2, y2) are 
+1
+2
+1
+2
+,
+2
+2
+x
+x
+y
+y
++
++
+
+
+
+
+
+
+•
+The area of a triangle with vertices A (x1, y1), B (x2, y2) and C (x3, y3) is
+1
+2 [x1 (y2 – y3) + x2 (y3 – y1) + x3 (y1 – y2)]
+which is non–zero unless the points A, B and C are collinear.
+(B) Multiple Choice Questions
+Choose the correct answer from the given four options:
+03/05/18
+
+78
+EXEMPLAR PROBLEMS
+Sample Question 1: If the distance between the points (2, –2) and (–1, x) is 5, one of
+the values of x is
+(A) –2
+(B) 2
+(C)  –1
+(D)  1
+Solution : Answer (B)
+Sample Question 2: The mid-point of the line segment joining the points A (–2, 8) and
+B (– 6, – 4) is
+(A) (– 4, – 6)
+(B) (2, 6)
+(C)  (– 4, 2)
+(D) (4, 2)
+Solution : Answer (C)
+Sample Question 3:  The points A (9, 0), B (9, 6), C (–9, 6) and D (–9, 0) are the
+vertices of a
+(A) square
+(B) rectangle
+(C) rhombus
+(D) trapezium
+Solution : Answer (B)
+EXERCISE 7.1
+Choose the correct answer from the given four options:
+1.
+The distance of the point P (2, 3) from the x-axis is
+(A) 2
+(B) 3
+(C) 1
+(D) 5
+2.
+The distance between the points A (0, 6) and B (0, –2) is
+(A) 6
+(B) 8
+(C) 4
+(D) 2
+3.
+The distance of the point  P (–6, 8) from the origin is
+(A) 8
+(B) 2 7
+(C) 10
+(D) 6
+4.
+The distance between the points (0, 5) and (–5, 0) is
+(A) 5
+(B) 5 2
+(C) 2 5
+(D) 10
+5.
+AOBC is a rectangle whose three vertices are vertices A (0, 3), O (0, 0) and
+B (5, 0). The length of its diagonal is
+(A) 5
+(B) 3
+(C) 
+34
+(D) 4
+6.
+The perimeter of  a triangle with vertices (0, 4), (0, 0) and (3, 0) is
+(A) 5
+(B) 12
+(C) 11
+(D) 7
+5
++
+7.
+The area of a triangle with vertices A (3, 0), B (7, 0) and C (8, 4) is
+(A) 14
+(B) 28
+(C) 8
+(D) 6
+8.
+The points (–4, 0), (4, 0), (0, 3) are the vertices of a
+(A) right triangle
+(B) isosceles triangle
+(C) equilateral triangle
+(D) scalene triangle
+03/05/18
+
+COORDINATE GEOMETRY
+79
+9.
+The point which divides the line segment joining the points (7, –6) and (3, 4) in
+ratio 1 : 2 internally lies in the
+(A) I quadrant
+(B) II quadrant
+(C) III quadrant
+(D) IV quadrant
+10. The point which lies on the perpendicular bisector of the line segment joining the
+points A (–2, –5) and B (2, 5) is
+(A) (0, 0)
+(B) (0, 2)
+(C) (2, 0)
+(D) (–2, 0)
+11. The fourth vertex D of a parallelogram ABCD whose three vertices are
+A (–2, 3),  B (6, 7) and C (8, 3) is
+(A) (0, 1)
+(B) (0, –1)
+(C) (–1, 0)
+(D) (1, 0)
+12. If the point P (2, 1) lies on the line segment joining points A (4, 2) and B (8, 4),
+then
+(A)  AP = 1
+3 AB     (B) AP = PB       (C) PB = 1
+3 AB       (D) AP = 1
+2 AB
+13. If P 
+,4
+3
+a
+ 
+ 
+ 
+ 
+ 
+  is the mid-point of the line segment joining the points Q (– 6, 5) and
+R (– 2, 3), then the value of a is
+(A) – 4
+(B) – 12
+(C) 12
+(D) – 6
+14. The perpendicular bisector of the line segment joining the points A (1, 5) and
+B (4, 6) cuts the y-axis at
+(A) (0, 13)
+(B) (0, –13)
+(C) (0, 12)
+(D) (13, 0)
+15. The coordinates of the point which
+is equidistant from the three verti-
+ces of the ∆ AOB as shown in the
+Fig. 7.1 is
+(A) (x, y)
+(B) (y, x)
+(C) 
+,
+2 2
+x y
+ 
+ 
+ 
+ 
+ 
+ 
+(D) 
+,
+2 2
+y x
+ 
+ 
+ 
+ 
+ 
+ 
+16. A circle drawn with origin as the
+centre passes through 13
+(
+,0)
+2
+. The
+point which does not lie in the
+interior of the circle is
+03/05/18
+
+80
+EXEMPLAR PROBLEMS
+(A) 
+–3,1
+4
+ 
+ 
+ 
+ 
+ 
+ 
+(B) 
+7
+2, 3
+ 
+ 
+ 
+ 
+ 
+ 
+(C) 
+–1
+5, 2
+ 
+ 
+ 
+ 
+ 
+ 
+(D) 
+5
+6, 2
+
+
+−
+
+
+
+
+17. A line intersects the y-axis and x-axis at the points P and Q, respectively. If
+(2, –5) is the mid-point of PQ, then the coordinates of P and Q are, respectively
+(A) (0, – 5) and (2, 0)
+(B) (0, 10) and (– 4, 0)
+(C) (0, 4) and (– 10, 0)
+(D) (0, – 10) and (4, 0)
+18. The area of a  triangle with vertices (a, b + c), (b, c + a) and (c, a + b) is
+(A) (a + b + c)2
+(B) 0
+(C) a + b + c
+(D) abc
+19. If the distance between the points (4, p) and (1, 0) is 5, then the value of p is
+(A) 4 only
+(B) ± 4
+(C) – 4 only
+(D) 0
+20. If the points A (1, 2), O (0, 0) and C (a, b) are collinear, then
+(A) a = b
+(B) a = 2b
+(C) 2a = b
+(D) a = –b
+(C) Short Answer Questions with Reasoning
+State whether the following statements are true or false. Justify your answer.
+Sample Question 1 : The points A (–1, 0), B (3, 1), C (2, 2) and D (–2, 1) are the
+vertices of a parallelogram.
+Solution : True. The coordinates of the mid-points of both the diagonals AC and BD
+are 
+1 ,1
+2
+ 
+ 
+ 
+ 
+ 
+ , i.e., the diagonals bisect each other.
+Sample Question 2 : The points (4, 5), (7, 6) and (6, 3) are collinear.
+Solution :  False. Since the area of the triangle formed by the points is 4 sq. units, the
+points are not collinear.
+Sample Question 3 : Point P (0, –7) is the point of intersection of y-axis and
+perpendicular bisector of line segment joining the points A (–1, 0) and B (7, –6).
+Solution : True. P (0, –7) lies on the y -axis. It is at a distance of 50 units from both  the
+points (–1, 0) and (7, –6).
+EXERCISE 7.2
+State whether the following statements are true or false. Justify your answer.
+1.
+∆ABC with vertices A (–2, 0), B (2, 0) and C (0, 2) is similar to ∆ DEF with
+vertices D (–4, 0) E (4, 0) and F (0, 4).
+03/05/18
+
+COORDINATE GEOMETRY
+81
+2.
+Point P (– 4, 2) lies on the line segment joining the points A (– 4, 6) and B (– 4, – 6).
+3.
+The points (0, 5), (0, –9) and (3, 6) are collinear.
+4.
+Point P (0, 2) is the point of intersection of y–axis and perpendicular bisector of line
+segment joining  the points A (–1, 1) and B (3, 3).
+5.
+Points A (3, 1), B (12, –2) and C (0, 2) cannot be the vertices of a triangle.
+6.
+Points A (4, 3), B (6, 4), C (5, –6) and D (–3, 5) are the vertices of a parallelo-
+gram.
+7.
+A circle has its centre at the origin and a point P (5, 0) lies on it. The point
+Q (6, 8) lies outside the circle.
+8.
+The point A (2, 7) lies on the perpendicular bisector of line segment joining the
+points P (6, 5) and Q (0, – 4).
+9.
+Point P (5, –3) is  one of the two points of trisection of the line segment joining
+the points A (7, – 2) and B (1, – 5).
+10. Points A (–6, 10), B (–4, 6) and C (3, –8) are collinear such that AB = 
+2 AC
+9
+.
+11. The point P (–2, 4) lies on a circle of radius 6 and centre C (3, 5).
+12. The points A (–1, –2), B (4, 3), C (2, 5) and D (–3, 0) in that order form a
+rectangle.
+(D) Short Answer Questions
+Sample Question 1 : If the mid-point of the line segment joining the points  A (3, 4) and
+B (k, 6) is P (x, y) and x + y – 10 = 0, find the value of k.
+Solution : Mid-point of the line segment joining A (3, 4) and B (k, 6) = 
+3
+4
+6
+,
+2
+2
+k
++
++
+ 
+ 
+ 
+ 
+ 
+ 
+= 
+3
+,5
+2
+k
++
+ 
+ 
+ 
+ 
+ 
+ 
+Then,
+3
+,5
+2
+k
++
+ 
+ 
+ 
+ 
+ 
+  = (x, y)
+Therefore,
+3
+2
+k
++
+ = x and 5 = y.
+Since x + y – 10 = 0, we have
+3
+2
+k
++
+ + 5 – 10 = 0
+i.e.,
+3 + k = 10
+03/05/18
+
+82
+EXEMPLAR PROBLEMS
+Therefore, k = 7.
+Sample Question 2 :   Find the area of the triangle ABC with A (1, –4) and the
+mid-points of sides through A being (2, – 1) and (0, – 1).
+Solution:  Let the coordinates of B and C be (a, b) and (x, y), respectively.
+Then ,
+1
+–4
+,
+2
+2
+a
+b
++
++
+
+
+
+
+
+ = (2, –1)
+Therefore,
+1 + a = 4,  –4 + b = –2
+     a = 3
+b = 2
+Also,
+1
+–4
+,
+2
+2
+x
+y
++
++
+
+
+
+
+
+ = (0, –1)
+Therefore,
+1 + x = 0,
+–4 + y = –2
+i.e.,
+x = –1    i.e.,    y = 2
+The coordinates of the vertices of ∆ ABC are A (1, –4), B (3, 2) and C (–1, 2).
+Area of  ∆ ABC = [
+]
+1 1(2– 2)+3(2+4)–1(–4–2)
+2
+     = [
+]
+1 18 + 6
+2
+     = 12 sq. units.
+Sample Question 3 :  Name the type of triangle PQR formed by the points P (
+)
+2, 2 ,
+Q (
+)
+– 2, –
+2 and  R (
+)
+– 6, 6 .
+Solution : Using distance formula
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+PQ = 
+2
+2
+2
+2
+2 2
+2 2
+16
+4
++
++
++
+=
++
+=
+=
+(
+)
+(
+)
+2
+2
+PR = 
+2
+6
+2 –
+6
+2
+6
+2 12
+2
+6 – 2 12
+16
+4
++
++
+=
++
++
++
++
+=
+=
+(
+)
+(
+)
+2
+2
+RQ = 
+– 2
+6
+– 2 – 6
+2 6
+2 12
+2
+6
+2 12
+16
+4
++
++
+=
++
+−
++
++
++
+=
+=
+03/05/18
+
+COORDINATE GEOMETRY
+83
+Since PQ = PR = RQ = 4, points P, Q, R form an equilateral triangle.
+Sample Question 4 :  ABCD is a parallelogram with vertices A (x1, y1), B (x2, y2) and
+C (x3, y3). Find the coordinates of the fourth vertex D in terms of x1, x2, x3, y1, y2 and y3.
+Solution: Let the coordinates of D be (x, y). We know that diagonals of a parallelogram
+bisect each other.
+Therefore, mid-point of AC = mid-point of BD  
+1
+3
+1
+3
+2
+2
+,
+,
+2
+2
+2
+2
+x
+x
+y
+y
+x
+x
+y
+y
++
++
++
++
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i.e., x1 + x3 = x2 + x and  y1 + y3 = y2 + y
+i.e., x1 + x3 – x2 = x  and  y1 + y3 – y2 = y
+Thus, the coordinates of D are
+(x1 + x3 – x2 , y1 + y3 – y2)
+EXERCISE 7.3
+1.
+Name the type of triangle formed by the points A (–5, 6), B (–4, –2) and C (7, 5).
+2.
+Find the points on the  x–axis which are at a distance of 2 5 from the point
+(7, –4). How many such points are there?
+3.
+What type of a quadrilateral do the points A (2, –2), B (7, 3), C (11, –1) and
+D (6, –6) taken in that order, form?
+4.
+Find the value of a, if the distance between the points A (–3, –14) and B (a, –5)
+is 9 units.
+5.
+Find a point which is equidistant from the points A (–5, 4) and B (–1, 6)? How
+many such points are there?
+03/05/18
+
+84
+EXEMPLAR PROBLEMS
+6.
+Find the coordinates of the point Q on the x–axis which lies on the perpendicular
+bisector of the line segment joining the points A (–5, –2) and B(4, –2).  Name the
+type of triangle formed by the points Q, A and B.
+7.
+Find the value of m if the points (5, 1), (–2, –3) and (8, 2m ) are collinear.
+8.
+If the point A (2, – 4) is equidistant from P (3, 8) and Q (–10, y), find the values
+of y. Also find distance PQ.
+9.
+Find the area of the triangle whose vertices are (–8, 4), (–6, 6) and (–3, 9).
+10. In what ratio does the x–axis divide the line segment joining the points (– 4, – 6)
+and (–1, 7)? Find the coordinates of the point of division.
+11. Find the ratio in which the point 
+3 5
+P
+,
+4 12
+
+
+
+
+
+
+ divides the line segment joining  the
+points 
+1 3
+A
+,
+2 2
+ 
+ 
+ 
+ 
+ 
+ and B (2, –5).
+12. If P (9a – 2, –b) divides line segment joining A (3a + 1, –3) and B (8a, 5) in the
+ratio 3 : 1, find the values of a and b.
+13. If (a, b) is the mid-point of the line segment joining the points  A (10, –6) and
+B (k, 4) and a – 2b = 18, find the value of k and the distance AB.
+14. The centre of a circle is (2a,  a – 7). Find the values of a if the circle passes
+through the point (11, –9) and has diameter 10 2 units.
+15. The line segment joining the points A (3, 2) and B (5,1) is divided at the point P in
+the ratio 1:2 and it lies on the line 3x – 18y + k = 0. Find the value of k.
+16. If 
+–1 5
+D
+,
+2 2
+
+
+
+
+
+, E (7, 3) and 
+7 7
+F
+,
+2 2
+
+
+
+
+
+ are the midpoints of sides of ∆ABC, find
+the area of the ∆ ABC.
+17. The points A (2, 9), B (a, 5) and C (5, 5) are the vertices of a triangle ABC right
+angled at B. Find the values of a and hence the area of ∆ABC.
+18. Find the coordinates of the point R on the line segment joining the points
+P (–1, 3) and Q (2, 5) such that 
+3
+PR =
+PQ
+5
+.
+19. Find the values of k if the points A (k + 1, 2k), B (3k, 2k + 3) and C (5k – 1, 5k)
+are collinear.
+20. Find the ratio in which the line 2x + 3y – 5 = 0 divides the line segment joining
+the points (8, –9) and (2, 1). Also find the coordinates of the point of division.
+03/05/18
+
+COORDINATE GEOMETRY
+85
+(E) Long Answer Questions
+Sample Question 1 :  The mid-points D, E, F of the sides of a triangle ABC are (3, 4),
+(8, 9) and (6, 7). Find the coordinates of the vertices of the triangle.
+Solution :  Since D and F are the mid-points of AB and AC, respectively, by
+mid-point theorem, we can prove that DFEB is a parallelogram. Let the coordinates
+of B be (x, y).
+Refer to Sample Question 4 of Section (D) to get
+x = 3 + 8 – 6 = 5
+y = 4 + 9 – 7 = 6
+Therefore, B (5, 6) is one of the vertices of the triangle.
+Similarly DFCE and DAFE are also parallelograms, and the coordinates of A are
+(3 + 6 – 8, 4 + 7 – 9) = (1, 2). Coordinates of C are (8 + 6 – 3, 9 + 7 – 4) = (11, 12).
+Thus, the coordinates of the vertices of the triangle are A (1, 2), B (5,6) and C ( 11, 12).
+EXERCISE 7.4
+1.
+If (– 4, 3) and (4, 3) are two vertices of an equilateral triangle, find the coordinates
+of the third vertex, given that the origin lies in the interior of the triangle.
+2.
+A (6, 1), B (8, 2) and C (9, 4) are three vertices of a parallelogram ABCD. If E
+is the midpoint of DC, find the area of ∆ ADE.
+03/05/18
+
+86
+EXEMPLAR PROBLEMS
+3.
+The points A (x1, y1), B (x2, y2) and C (x3 y3) are the vertices of ∆ ABC.
+(i)
+The median from A meets BC at D. Find the coordinates of the point D.
+(ii)
+Find the coordinates of the point P on AD such that AP : PD = 2 : 1
+(iii)
+Find the coordinates of points Q and R on medians BE and CF,
+respectively such that BQ : QE = 2 : 1 and CR : RF = 2 : 1
+(iv)
+What are the coordinates of the centroid of the triangle ABC?
+4.
+If the points A (1, –2), B (2, 3) C (a, 2) and D (– 4, –3) form a parallelogram,
+find the value of a and height of the parallelogram taking AB as base.
+  5.
+Students of a school are standing in rows and columns in their playground for a
+drill practice. A, B, C and D are the positions of four students as shown in
+figure 7.4. Is it possible to place Jaspal in the drill in such a way that he is
+equidistant from each of the four students A, B, C and D? If so, what should be
+his position?
+6.
+Ayush starts walking from his house to office. Instead of going to the office
+directly, he goes to a bank first, from there to his daughter’s school and then
+reaches the office. What is the extra distance travelled by Ayush in reaching his
+office? (Assume that all distances covered are in straight lines).
+If the house is situated at (2, 4), bank at (5, 8), school at (13, 14) and office at
+(13, 26) and coordinates are in km.
+03/05/18

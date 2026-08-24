@@ -1,0 +1,1174 @@
+(A) Main Concepts and Results
+•
+Two linear equations in the same two variables are said to form a pair of linear
+equations in two variables.
+•
+The most general form of  a pair of linear equations is
+a1x + b1 y + c1 = 0
+a2x + b2 y  + c2 = 0,
+where a1, a2, b1, b2, c1, c2 are real numbers, such that
+2
+2
+2
+2
+1
+1
+2
+2
+0,
+0
+a
+b
+a
+b
++
+≠
++
+≠.
+•   A pair of linear equations is consistent if it has a solution – either a unique or
+infinitely many.
+In case of infinitely many solutions, the pair of linear equations is also said to be
+dependent. Thus, in this case, the pair of linear equations is dependent and consistent.
+•   A pair of linear equations is inconsistent, if it has no solution.
+•
+Let a pair of linear equations in two variables be a1x + b1y + c1 = 0 and
+a2x + b2y + c2 = 0.
+(I)
+If  
+1
+1
+2
+2
+a
+b
+a
+b
+≠
+, then
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+CHAPTER 3
+03/05/18
+
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+17
+(i) the pair of linear equations  is consistent,
+(ii) the graph will be a pair of lines intersecting at a unique point, which is the
+solution of the pair of equations.
+(II) If   
+1
+1
+1
+2
+2
+2
+a
+b
+c
+a
+b
+c
+=
+≠
+, then
+(i) the pair of linear equations is inconsistent,
+(ii) the graph will be a pair of parallel lines and so the pair of equations will
+have no solution.
+(III) If  
+1
+1
+1
+2
+2
+2
+a
+b
+c
+a
+b
+c
+=
+=
+, then
+(i) the pair of linear equations is dependent, and consistent,
+(ii) the graph will be a pair of coincident lines. Each point on the lines will be a
+solution, and so the pair of equations will have infinitely many solutions.
+•
+A pair of linear equations can be solved algebraically by any of the following
+methods:
+(i) Substitution Method
+(ii) Elimination Method
+(iii) Cross- multiplication Method
+•
+The pair of linear equations can also be solved geometrically/graphically.
+(B) Multiple Choice Questions
+Choose the correct answer from the given four options:
+Sample Question 1 : The pair of equations 5x – 15y = 8 and 3x – 9y = 24
+5 has
+(A)
+one solution
+(B)  two solutions
+(C) infinitely many solutions
+(D)
+no solution
+Solution :  Answer (C)
+03/05/18
+
+18
+EXEMPLAR PROBLEMS
+Sample Question 2 : The sum of the digits of a two-digit number is 9. If 27 is added
+to it, the digits of the number get reversed. The number is
+(A)
+25
+(B) 72
+(C) 63
+(D) 36
+Solution : Answer (D)
+EXERCISE 3.1
+Choose the correct answer from the given four options:
+1.
+Graphically, the pair of equations
+6x – 3y + 10 = 0
+2x – y + 9 = 0
+represents two lines which are
+(A) intersecting at exactly one point.
+(B) intersecting at exactly two points.
+(C) coincident.
+(D) parallel.
+2.
+The pair of equations x + 2y  + 5 = 0 and –3x – 6y + 1 = 0 have
+(A) a unique solution
+(B) exactly two solutions
+(C) infinitely many solutions
+(D) no solution
+3.
+If a pair of linear equations is consistent, then the lines will be
+(A) parallel
+(B) always coincident
+(C) intersecting or coincident
+(D) always intersecting
+4.
+The pair of equations y = 0 and y = –7 has
+(A) one solution
+(B) two solutions
+(C)  infinitely many solutions
+(D) no solution
+5.
+The pair of equations x = a and y = b graphically represents lines which are
+(A) parallel
+(B) intersecting at (b, a)
+(C)  coincident
+(D) intersecting at (a, b)
+6.
+For what value of k, do the equations 3x – y + 8 = 0 and 6x – ky = –16 represent
+coincident lines?
+(A) 1
+2
+(B)
+1
+– 2
+(C) 2
+(D) –2
+03/05/18
+
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+19
+7. If the lines given by 3x + 2ky = 2 and 2x + 5y + 1 = 0 are parallel, then the value
+of  k is
+(A) –5
+4
+(B) 2
+5
+(C)  15
+4
+(D) 3
+2
+8. The value of c for which the pair of equations cx – y = 2 and 6x – 2y = 3 will have
+infinitely many solutions is
+(A) 3
+(B) – 3
+(C) –12
+(D) no value
+9. One equation of a pair of dependent linear equations is –5x + 7y = 2. The second
+equation can be
+(A) 10x + 14y + 4 = 0
+(B) –10x – 14y + 4 = 0
+(C)  –10x + 14y + 4 = 0
+(D) 10x – 14y = –4
+10. A pair of linear equations which has a unique solution x = 2, y = –3 is
+(A) x + y = –1
+(B) 2x + 5y = –11
+  2x – 3y = –5
+      4x + 10y = –22
+(C) 2x – y = 1
+(D) x – 4y –14 = 0
+   3x + 2y = 0
+      5x – y – 13 = 0
+11. If x = a, y = b is the solution of the equations x – y = 2 and x + y = 4, then the values
+of a and b are, respectively
+(A) 3 and 5
+(B) 5 and 3
+(C)  3 and 1
+(D) –1 and –3
+12. Aruna has only Re 1 and Rs 2 coins with her. If the total number of coins that she
+has is 50 and the amount of money with her is Rs 75, then the number of Re 1 and
+Rs 2 coins are, respectively
+(A) 35 and 15
+(B) 35 and 20
+(C) 15 and 35
+(D) 25 and 25
+13. The father’s age is six times his son’s age. Four years hence, the age of the father
+will be four times his son’s age. The present ages, in years, of the son and the
+father are, respectively
+(A) 4 and 24
+(B) 5 and 30
+(C) 6 and 36
+(D) 3 and 24
+03/05/18
+
+20
+EXEMPLAR PROBLEMS
+(C) Short Answer  Questions with Reasoning
+Sample Question 1: Is it true to say that the pair of equations
+– x + 2y + 2 = 0 and 1
+1
+–
+–1
+0
+2
+4
+x
+y
+=
+has a unique solution? Justify your answer.
+Solution : Yes.
+Here, 
+1
+2
+–1
+1
+2
+a
+a =
+= –2,  
+1
+2
+2
+1
+– 4
+b
+b =
+= – 8
+As 
+1
+1
+2
+2
+a
+b
+a
+b
+≠
+, the pair of equations has a unique solution.
+Sample Question 2 :  Do the equations 4x + 3y – 1 = 5 and 12x + 9y = 15
+represent a pair of coincident lines? Justify your answer.
+Solution : No.
+We may rewrite the equations as
+4x + 3y = 6
+12x + 9y = 15
+Here, 
+1
+2
+a
+a = 1
+3 , 
+1
+2
+b
+b = 1
+3 and 
+1
+2
+2
+5
+c
+c =
+As 
+1
+2
+a
+a = 
+1
+2
+b
+b ≠ 
+1
+2
+c
+c , the given equations do not represent a pair of coincident lines.
+Sample Question 3 : Is the pair of equations  x + 2y – 3 = 0 and 6y + 3x – 9 = 0
+consistent? Justify your answer.
+Solution : Yes.
+Rearranging the terms in the equations, we get
+x + 2y – 3 = 0
+3x + 6y – 9 = 0
+03/05/18
+
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+21
+Here, 
+1
+2
+1
+3
+a
+a =
+, 
+1
+2
+1
+3
+b
+b =
+, 
+1
+2
+1
+3
+c
+c =
+.  As 
+1
+1
+1
+2
+2
+2
+a
+b
+c
+a
+b
+c
+=
+=
+, the pair of equations is consistent.
+EXERCISE 3.2
+1.
+Do the following pair of linear equations have no solution? Justify your answer.
+(i) 2x + 4y = 3
+(ii) x = 2y
+ 12y + 6x = 6
+     y = 2x
+(iii)  3x + y – 3 = 0
+   2x + 2
+3 y = 2
+2.
+Do the following equations represent a pair of coincident lines? Justify your answer.
+(i)
+3x + 1
+7 y = 3
+(ii) –2x – 3y = 1
+7x + 3y = 7
+     6y + 4x = – 2
+(iii)
+2
+2
+5
+x
+y
++
++
+= 0
+4x + 8y + 5
+16 = 0
+3.
+Are the following pair of linear equations consistent? Justify your answer.
+(i) –3x– 4y = 12
+(ii)
+3
+5 x – y = 1
+2
+   4y + 3x = 12
+1
+5 x – 3y = 1
+6
+(iii)   2ax + by = a
+(iv)
+x + 3y = 11
+    4ax + 2by – 2a = 0; a, b ≠ 0
+2 (2x + 6y) = 22
+4.
+For the pair of equations
+ λx + 3y = –7
+2x + 6y = 14
+03/05/18
+
+22
+EXEMPLAR PROBLEMS
+to have infinitely many solutions, the value of  λ should be 1. Is the statement true?
+Give reasons.
+5.
+For all real values of c, the pair of equations
+x – 2y = 8
+5x – 10y = c
+have a unique solution. Justify whether it is true or false.
+6.
+The line represented by x = 7 is parallel to the x–axis. Justify whether the
+statement is true or not.
+(D) Short Answer Questions
+Sample Question 1 : For which values of p and q, will the following pair of linear
+equations have infinitely many solutions?
+4x + 5y = 2
+(2p + 7q) x + (p + 8q) y = 2q – p + 1.
+Solution :
+Here,  
+1
+2
+4
+2
+7
+=
++
+a
+a
+p
+q
+1
+2
+5
+8
+=
++
+b
+b
+p
+q
+1
+2
+2
+2
+1
+=
++
+c
+c
+q – p
+For a pair of linear equations to have infinitely many solutions
+1
+1
+1
+2
+2
+2
+=
+=
+a
+b
+c
+a
+b
+c
+So,
+4
+2
+7
++
+p
+q
+5
+8
+=
++
+p
+q
+2
+2
+1
+=
++
+q – p
+So,
+4
+2
+7
++
+p
+q
+5
+8
+=
++
+p
+q and 
+4
+2
+7
++
+p
+q
+2
+2
+1
+=
++
+q – p
+03/05/18
+
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+23
+i.e.,
+4p + 32q = 10p + 35q  and  8q – 4p + 4 = 4p + 14q
+i.e.,
+6p + 3q = 0                 and  8p + 6q = 4
+i.e.,
+q = –2p        (1)        and  4p + 3q = 2        (2)
+Substituting the value of q obtained from Equation(1) in Equation(2), we get
+4p – 6p = 2
+or
+ p = –1
+Substituting the value of p in Equation (1), we get
+ q = 2
+So, for p = –1, q = 2, the given pair of linear equations will have infinitely many
+solutions.
+Sample Question 2: Solve the following pair of linear equations:
+21x + 47y = 110
+47x + 21y = 162
+Solution:  We have
+21x + 47y = 110
+(1)
+47x + 21y = 162
+(2)
+Multiplying Equation (1) by 47 and Equation (2) by 21, we get
+987x + 2209 y = 5170
+(3)
+987x + 441y = 3402
+(4)
+Subtracting Equation (4) from Equation (3), we get
+1768y = 1768
+or
+       y = 1
+Substituting the value of y in Equation (1), we get
+21x + 47 = 110
+or
+21x = 63
+or
+x = 3
+So,
+x = 3, y = 1
+Alternative Solution:  We have
+21x + 47y = 110
+(1)
+03/05/18
+
+24
+EXEMPLAR PROBLEMS
+47x + 21y = 162
+(2)
+Adding Equations (1) and (2), we have
+68x + 68y = 272
+or
+x + y = 4
+(5)
+Subtracting Equation (1) from Equation (2), we have
+26x – 26y = 52
+or
+x – y = 2
+(6)
+On adding and subtracting Equations (5) and (6), we get
+x = 3,
+y = 1
+Sample Question 3 : Draw the graphs of the pair of linear equations x – y + 2 = 0
+and 4x – y – 4 = 0. Calculate the area of the triangle formed by the lines so drawn
+and the x-axis.
+Solution :
+For drawing the graphs of the given equations, we find two solutions of each of the
+equations, which are given in Table 3.1
+Table 3.1
+x
+0
+–2
+x
+0
+1
+y = x + 2
+2
+0
+y = 4x – 4
+– 4
+0
+Plot the points A (0, 2), B (–2, 0), P (0, –4) and Q (1, 0) on the graph paper, and join
+the points to form the lines AB and PQ as shown in Fig 3.1
+03/05/18
+
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+25
+We observe that there is a point R (2, 4) common to both the lines AB and PQ.
+The triangle formed by these lines and the x- axis is BQR.
+The vertices of this triangle are B (–2, 0), Q (1, 0) and R (2, 4).
+We know that;
+Area of triangle = 1
+2 Base × 
+
+
+∆BQR = 1
+3 4
+6
+2 × ×
+=
+sq. units.
+EXERCISE 3.3
+1.
+For which value(s) of λ , do the pair of linear equations
+ λx + y = λ2  and x +  λy = 1    have
+(i) no solution?
+(ii) infinitely many solutions?
+(iii) a unique solution?
+2.
+For which value(s) of k will the pair of equations
+kx + 3y = k – 3
+12x + ky = k
+have no solution?
+3.
+For which values of a and b, will the following pair of linear equations have
+infinitely many solutions?
+x + 2y = 1
+(a – b)x + (a + b)y = a + b – 2
+4.
+Find the value(s) of p in (i) to (iv) and p and q in (v) for the following pair of equations:
+(i) 3x – y – 5 = 0 and 6x – 2y – p = 0,
+if the lines represented by these equations are parallel.
+03/05/18
+
+26
+EXEMPLAR PROBLEMS
+(ii) – x + py = 1 and px – y = 1,
+if the pair of equations has no solution.
+(iii) – 3x + 5y = 7 and 2px – 3y = 1,
+if the lines represented by these equations are intersecting at a unique point.
+(iv) 2x + 3y – 5 = 0 and px – 6y – 8 = 0,
+if the pair of equations has a unique solution.
+(v) 2x + 3y = 7 and 2px + py = 28 – qy,
+if the pair of equations have infinitely many solutions.
+5.
+Two straight paths are represented by the equations x – 3y = 2 and –2x + 6y = 5.
+Check whether the paths cross each other or not.
+6.
+Write a pair of linear equations which has the unique solution x = – 1, y =3. How
+many such pairs can you write?
+7.
+If 2x + y = 23 and 4x – y = 19, find the values of 5y – 2x and y
+x – 2.
+8.
+Find the values of x and y in the following rectangle  [see Fig. 3.2].
+9.
+Solve the following pairs of equations:
+(i)
+x + y = 3.3
+(ii)
+4
+3
+4
+x
+y
++
+=
+0.6
+–1,    3 –2
+0
+3 –2
+x
+y
+x
+y
+=
+≠
+5
+–
+4
+6
+8
+x
+y =
+03/05/18
+
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+27
+(iii)
+4x + 6
+y = 15
+(iv)
+1
+1
+–
+2x
+y = –1
+6x – 8
+y = 14, y ≠ 0
+1
+1
+2
+x
+y
++
+= 8,       x, y  0
+(v)
+43x + 67y = – 24
+(vi)
+x
+y
+a
+b
++
+= a + b
+67x + 43y = 24
+2
+2
+x
+y
+a
+b
++
+= 2,      a, b  0
+(vii)
+2
+3
+2
+xy
+x
+y =
++
+3
+2
+–
+10
+xy
+x
+y
+−
+=
+,      x + y ≠ 0, 2x – y ≠ 0
+10. Find the solution of the pair of equations 10
+5
+x
+y
++
+– 1 = 0 and 8
+6
+x
+y
++
+= 15.
+Hence, find λ, if y = λx + 5.
+11. By the graphical method, find whether the following pair of equations are consistent
+or not. If consistent, solve them.
+(i)
+3x + y + 4 = 0
+(ii)
+x – 2y = 6
+6x – 2y + 4 = 0
+3x – 6y = 0
+(iii)
+x + y = 3
+3x + 3y = 9
+12. Draw the graph of the pair of equations 2x + y = 4 and 2x – y = 4. Write the
+vertices of the triangle formed by these lines and the y-axis. Also find the area of
+this triangle.
+13. Write an equation of a line passing through the point representing solution of the
+pair of linear equations x+y = 2 and 2x–y = 1. How many such lines can we find?
+14. If x+1 is a factor of 2x3 + ax2 + 2bx + 1, then find the values of a and b given that
+2a–3b = 4.
+15. The angles of a triangle are x, y and 40°. The difference between the two angles
+x and y is 30°. Find x and y.
+03/05/18
+
+28
+EXEMPLAR PROBLEMS
+16. Two years ago, Salim was thrice as old as his daughter and six years later, he will
+be four years older than twice her age. How old are they now?
+17. The age of the father is twice the sum of the ages of his two children. After 20
+years, his age will be equal to the sum of the ages of his children. Find the age of
+the father.
+18. Two numbers are in the ratio 5 : 6. If 8 is subtracted from each of the numbers, the
+ratio becomes 4 : 5. Find the numbers.
+19. There are some students in the two examination halls A and B. To make the
+number of students equal in each hall, 10 students are sent from A to B. But if 20
+students are sent from B to A, the number of students in A becomes double the
+number of students in B. Find the number of students in the two halls.
+20. A shopkeeper gives books on rent for reading. She takes a fixed charge for the
+first two days, and an additional charge for each day thereafter. Latika paid
+Rs 22 for a book kept for six days, while Anand paid Rs 16 for the book kept for
+four days. Find the fixed charges and the charge for each extra day.
+21. In a competitive examination, one mark is awarded for each correct answer while
+1
+2 mark is deducted for every wrong answer. Jayanti answered 120 questions
+and got 90 marks. How many questions did she answer correctly?
+22. The angles of a cyclic quadrilateral ABCD are
+∠A = (6x + 10)°,
+∠B = (5x)°
+∠C = (x + y)°,
+∠D = (3y – 10)°
+Find x and y, and hence the values of the four angles.
+(E) Long Answer Questions
+Sample Question 1 : Draw the graphs of the lines x = –2 and y = 3. Write the
+vertices of the figure formed by these lines, the x-axis and the y-axis. Also, find the
+area of the figure.
+Solution  :
+We know that the graph of x = –2 is a line parallel to y-axis at a distance of 2 units
+to the left of it.
+So, the line l is the graph of x = –2 [see Fig. 3.3]
+03/05/18
+
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+29
+The graph of y = 3 is a line parallel to the x-axis at a distance of 3 units above it.
+So, the line m is the graph of y = 3.
+The figure enclosed by the lines x = –2, y = 3, the x-axis and the y-axis is OABC,
+which is a rectangle. (Why?)
+A is a point on the y-axis at a distance of 3 units above the x-axis. So, the coordinates
+of A are (0, 3);
+C is a point on the x-axis at a distance of 2 units to the left of y-axis. So, the coordinates
+of C are (–2, 0)
+B is the solution of the pair of equations x = –2 and y = 3. So, the coordinates of B are
+(–2, 3)
+So, the vertices of the rectangle OABC are O (0, 0),  A (0, 3), B (–2, 3), C (–2, 0)
+The length and breadth of this rectangle are 2 units and 3 units, respectively.
+As the area of a rectangle = length × breadth,
+the area of rectangle OABC = 2 × 3 = 6 sq. units.
+Sample Question 2:  Determine, algebraically, the vertices of the triangle formed
+by the lines
+03/05/18
+
+30
+EXEMPLAR PROBLEMS
+5x – y = 5,   x + 2y = 1 and  6x + y = 17.
+Solution:
+The vertex of a triangle is the common solution of the two equations forming its two
+sides. So, solving the given equations pairwise will give the vertices of the triangle.
+From the given equations, we will have the following three pairs of equations:
+5x – y = 5
+and
+x + 2y = 1
+x + 2y = 1
+and
+6x + y = 17
+5x – y = 5
+and
+6x + y = 17
+Solving the pair of equations
+5x – y = 5
+x + 2y = 1
+we get, x = 1, y = 0
+So, one vertex of the triangle is (1, 0)
+Solving the second pair of equations
+x + 2y = 1
+6x + y = 17
+we get x = 3, y = –1
+So, another vertex of the triangle is (3, –1)
+Solving the third pair of equations
+5x – y = 5
+6x + y = 17,
+we get x = 2, y = 5.
+So,  the third vertex of the triangle is (2, 5). So, the three vertices of the triangle are
+(1, 0), (3, –1) and (2, 5).
+Sample Question 3 : Jamila sold a table and a chair for Rs 1050, thereby making a
+profit of 10% on the table and 25% on the chair. If she had taken a profit of 25% on the
+table and 10% on the chair she would have got Rs 1065. Find the cost price of each.
+Solution :  Let the cost price of the table be Rs x and the cost price of the chair
+be Rs y.
+03/05/18
+
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+31
+The selling price of the table, when it is sold at a profit of 10%
+= 
+10
+110
+Rs
+Rs
+100
+100
+x
+x
+x
+ 
+ 
++
+=
+ 
+ 
+ 
+ 
+The selling price of the chair when it is sold at a profit of 25%
+= 
+25
+125
+Rs
+Rs
+100
+100
+y
+y
+y
+ 
+ 
++
+=
+ 
+ 
+ 
+ 
+So,
+110
+125
+1050
+100
+100
+x
+y
++
+=
+(1)
+When the table is sold at a profit of 25%, its selling price 
+25
+125
+Rs 
+Rs
+100
+100
+x
+x
+x
+
+
+=
++
+=
+
+
+
+
+When the chair is sold at a profit of 10%, its selling price 
+10
+110
+Rs 
+Rs
+100
+100
+y
+y
+y
+
+
+=
++
+=
+
+
+
+
+So,
+125
+110
+1065
+100
+100
+x
+y
++
+=
+(2)
+From Equations (1) and (2), we get
+110x + 125y = 105000
+and  125x + 110y = 106500
+On adding and subtracting these equations, we get
+235x + 235y = 211500
+and
+15x – 15y = 1500
+i.e.,
+x+y = 900
+(3)
+and
+x – y = 100
+(4)
+Solving Equations (3) and (4), we get
+x = 500, y = 400
+So, the cost price of the table is Rs 500 and the cost price of the chair is Rs 400.
+03/05/18
+
+32
+EXEMPLAR PROBLEMS
+Sample Question 4: It can take 12 hours to fill a swimming pool using two pipes. If
+the pipe of larger diameter is used for 4 hours and the pipe of smaller diameter for
+9 hours, only half the pool can be filled.How long would it take for each pipe to fill the
+pool separately?
+Solution:
+Let the time taken by the pipe of larger diameter to fill the pool be x hours and that
+taken by the pipe of smaller diameter pipe alone be y hours.
+In x hours, the pipe of larger diameter fills the pool.
+So, in 1 hour the pipe of larger diameter fills 1
+x part of the pool, and so, in 4 hours, the
+pipe of larger diameter fills 4
+x parts of the pool.
+Similarly, in 9 hours, the pipe of smaller diameter fills 
+9
+y parts of the pool.
+According to the question,
+4
+9
+1
+ 2
+x
+y
++
+=
+(1)
+Also, using both the pipes, the pool is filled in 12 hours.
+So,
+12
+12
+1
+x
+y
++
+=
+ (2)
+Let 1
+x = u and 
+1
+v
+y =
+. Then Equations (1) and (2) become
+1
+4
+9
+2
+u
+v
++
+=
+(3)
+12
+12
+1
+u
+v
++
+=
+(4)
+Multiplying Equation (3) by 3 and subtracting Equation (4) from it, we get
+1
+15
+2
+v=
+ or 
+1
+30
+v=
+03/05/18
+
+PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+33
+Substituting the value of v in Equation (4), we get  
+1
+20
+u=
+So,
+1
+20
+u=
+, 
+1
+30
+v=
+So,
+1
+1
+1
+1
+,
+20
+30
+x
+y
+=
+=
+or,
+x = 20, y = 30.
+So, the pipe of larger diameter alone can fill the pool in 20 hours and the pipe of smaller
+diameter alone can fill the pool in 30 hours.
+EXERCISE 3.4
+1.
+Graphically, solve the following pair of equations:
+2x + y = 6
+2x – y + 2 = 0
+Find the ratio of the areas of the two triangles formed by the lines representing
+these equations with the x-axis and the lines with the  y-axis.
+2.
+Determine, graphically, the vertices of the triangle formed by the lines
+y = x,
+3y = x,
+x + y = 8
+3.
+Draw the graphs of the equations x = 3, x = 5 and 2x – y – 4 = 0. Also find the
+area of the quadrilateral formed by the lines and the x–axis.
+4.
+The cost of 4 pens and 4 pencil boxes is Rs 100. Three times the cost of a pen is
+Rs 15 more than the cost of a pencil box. Form the pair of linear equations for the
+above situation. Find the cost of a pen and a pencil box.
+5.
+Determine, algebraically, the vertices of the triangle formed by the lines
+3 –
+3
+x
+y =
+2 – 3
+2
+x
+y =
+2
+8
+x
+y
++
+=
+6.
+Ankita travels 14 km to her home partly by rickshaw and partly by bus. She takes
+half an hour if she travels 2 km by rickshaw, and the remaining distance by bus.
+03/05/18
+
+34
+EXEMPLAR PROBLEMS
+On the other hand, if she travels 4 km by rickshaw and the remaining distance by
+bus, she takes 9 minutes longer. Find the speed of the rickshaw and of the bus.
+7.
+A person, rowing at the rate of 5 km/h in still water, takes thrice as much time in
+going  40 km upstream as in going 40 km downstream. Find the speed of the
+stream.
+8.
+A motor boat can travel 30 km upstream and 28 km downstream in 7 hours. It can
+travel 21 km upstream and return in 5 hours. Find the speed of the boat in still
+water and the speed of the stream.
+9.
+A two-digit number is obtained by either multiplying the sum of the digits by 8 and
+then subtracting 5 or by multiplying the difference of the digits by 16 and then
+adding 3. Find the number.
+10. A railway half ticket costs half the full fare, but the reservation charges are the
+same on a half ticket as on a full ticket. One reserved first class ticket from the
+station A to B costs Rs 2530. Also, one reserved first class ticket and one reserved
+first class half ticket from A to B costs Rs 3810. Find the full first class fare from
+station A to B, and also the reservation charges for a ticket.
+11. A shopkeeper sells a saree at 8% profit and a sweater at 10% discount, thereby,
+getting a sum Rs 1008. If she had sold the saree at 10% profit and the sweater at
+8% discount, she would have got Rs 1028. Find the cost price of the saree and the
+list price (price before discount) of the sweater.
+12. Susan invested certain amount of money in two schemes A and B, which offer
+interest at the rate of 8% per annum and 9% per annum, respectively. She received
+Rs 1860 as annual interest. However, had she interchanged the amount of
+investments in the two schemes, she would have received Rs 20 more as annual
+interest. How much money did she invest in each scheme?
+13. Vijay had some bananas, and he divided them into two lots A and B. He sold the
+first lot at the rate of Rs 2 for 3 bananas and the second lot at the rate of
+Re 1 per banana, and got a total of Rs 400. If he had sold the first lot at the rate of
+Re 1 per banana, and the second lot at the rate of Rs 4 for 5 bananas, his total
+collection would have been Rs 460. Find the total number of bananas he had.
+03/05/18

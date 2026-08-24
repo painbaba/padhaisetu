@@ -1,0 +1,628 @@
+(A) Main Concepts and Results
+•
+Rectangle
+(a)
+Area = length × breadth
+(b)
+Perimeter = 2 (length + breadth)
+(c)
+Diagonal = (
+)
+(
+)
+2
+2
+length
++ breadth
+•
+Square
+(a)
+Area = (side)2
+(b)
+Perimeter = 4 × side
+(c)
+Diagonal = 
+2 × side
+•
+Triangle with base (b) and altitude (h)
+Area = 1
+2
+b
+h
+× ×
+•
+Triangle with sides as a, b, c
+(i)
+Semi-perimeter = 
+2
+a
+b
+c
+s
++
++
+=
+(ii)
+Area  = 
+(
+)(
+)(
+)
+–
+–
+–
+s s
+a
+s
+b
+s
+c (Heron’s Formula)
+•
+Isosceles triangle, with base a and equal sides b
+HERON’S FORMULA
+CHAPTER 12
+16/04/18
+16/04/18
+
+Area of isosceles triangle = 
+2
+2
+4
+–
+4
+a
+b
+a
+•
+Equilateral triangle with side a
+Area = 
+2
+3
+4 a
+•
+Parallelogram with base b and altitude h
+Area = bh
+•
+Rhombus with diagonals d1 and d2
+(a)
+Area = 
+1
+2
+1
+2 d
+d
+×
+(b)
+Perimeter = 
+2
+2
+1
+2
+2 d
+d
++
+•
+Trapezium with parallel sides a and b, and the distance between two parallel
+sides as h.
+Area  = 1
+2 (a + b) × h
+•
+Regular hexagon with side a
+Area = 6 × Area of an equilateral triangle with side a
+              = 
+2
+3
+6
+4 a
+×
+ = 
+2
+3
+3
+2
+a
+(B) Multiple Choice Questions
+Write the correct answer:
+Sample Question 1 : The base of a right triangle is 8 cm and hypotenuse is 10 cm. Its
+area will be
+(A) 24 cm2
+(B) 40 cm2
+(C) 48 cm2
+(D) 80 cm2
+Solution : Answer (A)
+EXERCISE 12.1
+1.
+An isosceles right triangle has area 8 cm2. The length of its hypotenuse is
+(A) 
+32 cm
+(B) 16 cm
+(C) 
+48 cm
+(D) 
+24 cm
+HERON’S FORMULA
+113
+16/04/18
+16/04/18
+
+114
+EXEMPLAR PROBLEMS
+2.
+The perimeter of an equilateral triangle is 60 m. The area is
+(A)
+2
+10 3 m
+(B)
+2
+15 3 m
+(C)
+2
+20 3 m
+(D)
+2
+100 3 m
+3.
+The sides of a triangle are 56 cm, 60 cm and 52 cm long. Then the area of the
+triangle is
+(A)
+1322 cm2
+(B)
+1311 cm2
+(C)
+1344 cm2
+(D)
+1392 cm2
+4.
+The area of an equilateral triangle with side 2 3 cm is
+(A) 5.196 cm2
+(B) 0.866 cm2
+(C) 3.496 cm2
+(D) 1.732 cm2
+5.
+The length of each side of an equilateral triangle having an area of 9 3 cm2 is
+(A) 8 cm
+(B) 36 cm
+(C) 4 cm
+(D) 6 cm
+6.
+If the area of an equilateral triangle is 16 3 cm2, then the perimeter of the triangle
+is
+(A) 48 cm
+(B) 24 cm
+(C) 12 cm
+(D) 36 cm
+7.
+The sides of a triangle are 35 cm, 54 cm and 61 cm, respectively. The length of its
+longest altitude
+(A) 16 5 cm
+(B) 10 5 cm
+(C) 24 5 cm
+(D) 28 cm
+8.
+The area of an isosceles triangle having base 2 cm and the length of one of the equal
+sides 4 cm, is
+(A) 
+2
+15 cm
+(B) 
+2
+15 cm
+2
+(C) 
+2
+2 15 cm
+(D) 
+2
+4 15 cm
+9.
+The edges of a triangular board are 6 cm, 8 cm and 10 cm. The cost of painting it
+at the rate of 9 paise per cm2 is
+(A) Rs 2.00
+(B) Rs 2.16
+(C) Rs 2.48
+(D) Rs 3.00
+(C) Short Answer Questions with Reasoning
+Write True or False and justify your answer:
+Sample Question 1 : If a, b, c are the lengths of three sides of a triangle, then area of
+a triangle = 
+(
+) (
+) (
+)
+s s
+a
+s
+b
+s
+c
+−
+−
+−
+ , where s = perimeter of triangle.
+Solution : False. Since in Heron’s formula,
+16/04/18
+16/04/18
+
+HERON’S FORMULA
+115
+s = 1(
+)
+2
+a
+b
+c
++
++
+= 1
+2 (perimeter of triangle)
+EXERCISE 12.2
+Write True or False and justify your answer:
+1.
+The area of a triangle with base 4 cm and height 6 cm is 24 cm2.
+2.
+The area of ∆ ABC is 8 cm2 in which AB = AC = 4 cm and ∠A = 90º.
+3.
+The area of the isosceles triangle is 5 11
+4
+ cm2, if the perimeter is 11 cm and the
+base is 5 cm.
+4.
+The area of the equilateral triangle is 20 3 cm2 whose each side is 8 cm.
+5.
+If  the side of a rhombus is 10 cm and one diagonal is 16 cm, the area of the
+rhombus is 96 cm2.
+6.
+The base and the corresponding altitude of a parallelogram are 10 cm and 3.5 cm,
+respectively. The area of the parallelogram is 30 cm2.
+7.
+The area of a regular hexagon of side ‘a’ is the sum of the areas of the five
+equilateral triangles with side a.
+8.
+The cost of levelling the ground in the form of a triangle having the sides 51 m,
+37 m and 20 m at the rate of Rs 3 per m2 is Rs 918.
+9.
+In a triangle, the sides are given as 11 cm, 12 cm and 13 cm. The length of the
+altitude is 10.25 cm corresponding to the side having length 12 cm.
+(D)  Short Answer Questions
+Sample Question 1 : The sides of a triangular field are 41 m, 40 m and 9 m. Find the
+number of rose beds that can be prepared in the field, if each rose bed, on an average
+needs 900 cm2 space.
+Solution : Let a = 41 m, b = 40 m, c = 9 m.
+41 40 9
+2
+2
+a b c
+s
++ +
++
++
+=
+=
+ m = 45 m
+16/04/18
+16/04/18
+
+116
+EXEMPLAR PROBLEMS
+Fig. 12.1
+Area of the triangular field
+= 
+(
+)(
+)(
+)
+–
+–
+–
+s s
+a
+s
+b
+s
+c
+= 
+(
+)(
+)(
+)
+45 45 – 41 45 – 40
+45 – 9
+= 
+45 4 5 36
+× × ×
+ = 180 m2
+So, the number of rose beds = 180
+2000
+0.09 =
+Sample Question 2 : Calculate the area of the shaded region in Fig. 12.1.
+Solution : For the triangle having the sides 122 m, 120 m and 22 m :
+s = 122
+120
+22
+132
+2
++
++
+=
+Area of the triangle =
+(
+)(
+)(
+)
+–
+–
+–
+s s
+a
+s
+b
+s
+c
+=
+(
+)(
+)(
+)
+132 132 –122 132 –120 132 – 22
+=
+132 10 12 110
+×
+×
+×
+= 1320 m2
+For the triangle having the sides 22 m, 24 m and 26 m:
+s = 22
+24
+26
+36
+2
++
++
+=
+Area of the triangle =
+(
+)(
+)(
+)
+36 36 – 22
+36 – 24
+36 – 26
+=
+36
+14
+12
+10
+×
+×
+×
+= 24 105
+= 24 × 10.25 m2 (approx.)
+= 246 m2
+Therefore, the area of the shaded portion
+= (1320 – 246) m2
+= 1074 m2
+16/04/18
+16/04/18
+
+HERON’S FORMULA
+117
+EXERCISE 12.3
+1
+Find the cost of laying grass in a triangular field of sides 50 m, 65 m and 65 m at the
+rate of Rs 7 per m2.
+2
+The triangular side walls of a flyover have been used for advertisements. The sides of
+the walls are 13 m, 14 m and 15 m. The advertisements yield an earning of Rs 2000 per
+m2 a year. A company hired one of its walls for 6 months. How much rent did it pay?
+3
+From a point in the interior of an equilateral triangle, perpendiculars are drawn on
+the three sides. The lengths of the perpendiculars are 14 cm, 10 cm and 6 cm. Find
+the area of the triangle.
+4
+The perimeter of an isosceles triangle is 32 cm. The ratio of  the equal side to its
+base is 3 : 2. Find the area of the triangle.
+5
+Find the area of a parallelogram given in Fig. 12.2. Also find the length of the
+altitude from vertex A on the side DC.
+6
+A field in the form of a parallelogram has sides 60
+m and 40 m and one of its diagonals is 80 m long.
+Find the area of the parallelogram.
+7
+The perimeter of a triangular field is 420 m and
+its sides are in the ratio 6 : 7 : 8. Find the area of
+the triangular field.
+8
+The sides of a quadrilateral ABCD are 6 cm, 8
+cm, 12 cm and 14 cm (taken in order) respectively,
+and the angle between the first two sides is a
+right angle. Find its area.
+9
+A rhombus shaped sheet with perimeter 40 cm and one diagonal 12 cm, is painted
+on both sides at the rate of Rs 5 per m2. Find the cost of painting.
+10 Find the area of the trapezium PQRS with height PQ given in Fig. 12.3
+Fig. 12.3
+Fig. 12.2
+16/04/18
+16/04/18
+
+118
+EXEMPLAR PROBLEMS
+(E) Long Answer Questions
+Sample Question 1 : If each side of a triangle is doubled, then find the ratio of area
+of the new triangle thus formed and the given triangle.
+Solution : Let a, b, c be the sides of the triangle (existing) and s be its semi-perimeter.
+Then, s = 
+2
+a
+b
+c
++
++
+or, 2s = a + b + c
+(1)
+Area of the existing triangle = 
+(
+)(
+)(
+)
+s s
+a
+s
+b
+s
+c
+−
+−
+−
+= ∆ , say
+According to the statement, the sides of the new triangle will be 2a, 2b and 2c. Let S
+be the semi-perimeter of the new triangle.
+S = 2
+2
+2
+2
+a
+b
+c
+a
+b
+c
++
++
+=
++
++
+(2)
+From (1) and (2), we get
+S = 2s
+(3)
+Area of the new triangle
+(
+)(
+)(
+)
+S S
+2
+S
+2
+S
+2
+a
+b
+c
+=
+−
+−
+−
+Putting the values, we get
+(
+)(
+)(
+)
+2
+2
+2
+2
+2
+2
+2
+s
+s
+a
+s
+b
+s
+c
+=
+−
+−
+−
+(
+)(
+)(
+)
+16s s
+a
+s
+b
+s
+c
+=
+−
+−
+−
+(
+)(
+)(
+)
+4 s s
+a
+s
+b
+s
+c
+=
+−
+−
+−
+ = 4∆
+Therefore, the required ratio is 4:1.
+EXERCISE 12.4
+1.
+How much paper of each shade is needed to make a kite given in Fig. 12.4, in
+which ABCD is a square with diagonal 44 cm.
+16/04/18
+16/04/18
+
+HERON’S FORMULA
+119
+Fig. 12.5
+Fig. 12.4
+2.
+The perimeter of a triangle is 50 cm. One side of a triangle is 4 cm longer than the
+smaller side and the third side is 6 cm less than twice the smaller side. Find the
+area of the triangle.
+3.
+The area of a trapezium is 475 cm2 and the height is 19 cm. Find the lengths of its
+two parallel sides if one side is 4 cm greater than the other.
+4.
+A rectangular plot is given for constructing a house, having a measurement of 40 m
+long and 15 m in the front. According to the laws, a minimum of  3 m, wide space
+should be left in the front and  back each and 2 m wide space on each of other
+sides. Find the largest area where house can be constructed.
+5.
+A field is in the shape of a trapezium having parallel sides 90 m and 30 m. These
+sides meet the third side at right angles. The length of  the fourth side is 100 m. If
+it costs Rs 4 to plough 1m2 of the
+field, find the total cost of ploughing
+the field.
+6.
+In Fig. 12.5, ∆ ABC has sides
+AB = 7.5 cm, AC = 6.5 cm and
+BC = 7 cm. On base BC a
+parallelogram DBCE of same area
+as that of ∆ ABC is constructed.
+Find the height DF of the
+parallelogram.
+7.
+The dimensions of a rectangle
+ABCD are 51 cm × 25 cm. A
+trapezium PQCD with its parallel
+16/04/18
+16/04/18
+
+120
+EXEMPLAR PROBLEMS
+sides QC and PD in the ratio 9 : 8, is cut off from the rectangle as shown in the
+Fig. 12.6. If the area of the trapezium PQCD is 5
+6 th part of the area of the rectangle,
+find the lengths QC and PD.
+Fig. 12.6
+8.
+A design is made on a rectangular tile of dimensions 50 cm × 70 cm as shown in
+Fig. 12.7. The design shows 8 triangles, each of sides 26 cm, 17 cm and 25 cm.
+Find the total area of the design and the remaining area of the tile.
+Fig. 12.7
+16/04/18
+16/04/18

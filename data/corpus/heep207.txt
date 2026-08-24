@@ -1,0 +1,2090 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i)
+Algebraic Expression
+• Terms are formed by the product of variables and constants, e.g.
+–3xy, 2xyz, 5x2, etc.
+• Terms are added to form expressions, e.g. –2xy + 5x2.
+• Expressions that contain exactly one, two and three terms are
+called monomials, binomials and trinomials, respectively.
+• In general, any expression containing one or more terms with non-
+zero coefficients (and with variables having non-negative exponents)
+is called a polynomial.
+• Like terms are formed from the same variables and the powers of
+these variables are also the same. But coefficients of like terms
+need not be the same.
+• There are number of situations like finding the area of rectangle,
+triangle, etc. in which we need to multiply algebraic expressions.
+• Multiplication of two algebraic expressions is again an algebraic
+expression.
+• A monomial multiplied by a monomial always gives a monomial.
+• While multiplying a polynomial by a monomial, we multiply every
+term in the polynomial by the monomial using the distributive
+law a ( b + c) = ab + ac.
+12/04/18
+
+
+
+• In the multiplication of a polynomial by a binomial (or trinomial),
+we multiply term by term, i.e. every term of the polynomial is
+multiplied by every term in the binomial (or trinomial) using the
+distributive property.
+• An identity is an equality, which is true for all values of its variables
+in the equality, i.e. an identity is a universal truth.
+• An equation is true only for certain values of its variables.
+• Some standard identities:
+(i) (a + b)2 = a2 + 2ab + b2
+(ii) (a – b)2 = a2 – 2ab + b2
+(iii) (a + b) (a – b) = a2 – b2
+(iv) (x + a) (x + b) = x2 + (a + b) x + ab
+(ii) Factorisation
+• Representation of an algebraic expression as the product of two or
+more expressions is called factorisation. Each such expression is
+called a factor of the given algebraic expression.
+• When we factorise an expression, we write it as a product of its
+factors. These factors may be numbers, algebraic (or literal) variables
+or algebraic expressions.
+A formula is an equation stating a relationship between two or more
+variables. For example, the number of square units in the area (A) of a
+rectangle is equal to the number of units of length (l) multiplied by the
+number of units of width (w). Therefore, the formula for the area of a
+rectangle is A = lw.
+Sometimes, you can evaluate a variable in a formula by using the given
+information.
+In the figure shown, the length is 9 units
+and the width is 5 units.
+A = lw
+A = 95
+A = 45
+The area is 45 square units or 45 units2.
+l
+At other times, you must use your knowledge of equations to solve for a
+variable in a formula.
+w
+12/04/18
+
+
+
+• An irreducible factor is a factor which cannot be expressed further
+as a product of factors. Such a factorisation is called an irreducible
+factorisation or complete factorisation.
+• A factor which occurs in each term is called the common factor.
+• The factorisation done by using the distributive law (property) is
+called the common factor method of factorisation.
+• Sometimes, many of the expressions to be factorised are of the
+form or can be put in the form: a2 + 2ab + b2, a2 – 2ab + b2, a2 – b2
+or x2 + (a + b) x + ab. These expressions can be easily factorised
+using identities:
+a2 + 2ab + b2 = (a + b)2
+a2 – 2ab + b2 = (a – b)2
+a2 – b2 = (a + b) (a – b)
+x2 + (a + b) x + ab = (x + a) (x + b)
+• In the division of a polynomial by a monomial, we carry out the
+division by dividing each term of the polynomial by the monomial.
+• In the division of a polynomial by a polynomial, we factorise both
+the polynomials and cancel their common factors.
+
+
+In examples 1 to 4, there are  four options given out of which one is
+correct. Write the correct answer.
+Example 1
+: Which is the like term as 24a2bc?
+(a) 13 × 8a × 2b × c × a
+(b) 8 × 3 × a × b × c
+(c) 3 × 8 × a × b × c × c
+(d) 3 × 8 × a × b × b × c
+Solution
+: The correct answer is (a).
+Example 2
+: Which of the following is an identity?
+(a) (p + q)2 = p2 + q2
+(b) p2 – q2 = (p – q)2
+(c) p2 – q2 = p2 + 2pq – q2
+(d) (p + q)2 = p2 + 2pq + q2
+Solution
+: The correct answer is (d).
+12/04/18
+
+
+
+Example 3 : The irreducible factorisation of 3a3 + 6a is
+(a)3a (a2 + 2)
+(b) 3 (a3 + 2)
+(c)  a (3a2 + 6)
+(d) 3 × a × a × a + 2 × 3 × a
+Solution
+: The correct answer is (a).
+Example 4
+: a ( b + c) = ab + ac is
+(a)commutative property(b) distributive property
+(c) associative property(d) closure property
+Solution
+: The correct answer is (b).
+In examples 5 and 6, fill in the blanks to make the statements true.
+Example 5
+: The representation of an expression as the product of its
+factors is called __________.
+Solution
+: Factorisation.
+Example 6
+: (x + a) (x + b) = x2 + (a + b)x + ________.
+Solution
+: ab.
+In examples 7 to 9, state whether the statements are true (T) or false (F).
+Example 7
+: An identity is true for all values of its variables.
+Solution
+: True.
+Example 8
+: Common factor of x2y and – xy2 is xy.
+Solution
+: True.
+Example 9
+: (3x + 3x2) ÷ 3x = 3x2
+Solution
+: False.
+Example 10 : Simplify
+(i) – pqr (p2 + q2 + r2)
+(ii) (px + qy) (ax – by)
+Solution
+:
+(i) – pqr (p2 + q2 + r2)
+=  – (pqr) × p2 – (pqr) × q2 – (pqr) × r2
+=  – p3qr – pq3r – pqr3
+(ii) (px + qy) (ax – by)
+= px (ax – by) + qy (ax – by)
+= apx2 – pbxy + aqxy – qby2
+12/04/18
+
+
+
+Example 11 : Find the expansion of the following using suitable
+identity.
+(i) (3x + 7y) (3x – 7y)
+(ii)
+4
+4
+3
+5
+4
+5
+4
+x
+y
+x
+y
+
+
+
++
++
+
+
+
+
+
+
+Solution
+: (i) (3x + 7y) (3x – 7y)
+Since (a + b) (a – b) = a2 – b2, therefore
+(3x + 7y) (3x – 7y)  = (3x)2 – (7y)2
+  = 9x2 – 49y2
+(ii)
+4
+4
+3
+5
+4
+5
+4
+x
+y
+x
+y
+
+
+
++
++
+
+
+
+
+
+
+Since (x + a) (x + b) = x2 + (a + b)x + ab, therefore
+  
+4
+4
+3
+5
+4
+5
+4
+x
+y
+x
+y
+
+
+
++
++
+
+
+
+
+
+
+=
+2
+4
+3
+4
+3
+5
+4
+4
+5
+4
+4
+x
+y
+y
+x
+y
+y
+
+
+
+
++
++
+×
++
+×
+
+
+
+
+
+
+
+
+= 
+4
+3
+Here,
+and
+=
+5
+4
+4
+x
+y
+y
+x =
+, a =
+b
+
+
+
+
+
+
+= 
+2
+2
+16
+4
+4
+3
+25
+4
+5
+16
+x
+y
+x
+y
++
+×
++
+= 
+2
+2
+16
+4
+3
+25
+5
+16
+x
+xy
+y
++
++
+
+ You might think that algebra is a topic
+found only in textbooks, but you can find algebra all around you – in some
+of the strongest places.
+Did you know there is a relationship between the speed at which ants
+crawl and the air temperature? If you were to find some ants outside and
+time them as they crawled, you could actually estimate the temperature.
+Here is the algebraic equation that describes this relationship.
+Celsius temperature
+↓
+t = 15s + 3
+↑
+ant speed in centimetres per seconds
+There are many ordinary and extraordinary places where you will
+encounter algebra.
+What do you think is the speed of a typical ant?
+12/04/18
+
+
+
+Example 12 : Factorise the following.
+(i) 21x2y3 + 27x3y2
+(ii) a3 – 4a2 + 12 – 3a
+(iii) 4x2 – 20x + 25
+(iv)
+2
+– 9
+9
+y
+(v) x4 – 256
+Solution
+: (i) 21x2y3 + 27x3y2
+= 3 × 7 × x × x × y × y × y + 3 × 3 × 3 × x × x × x × y × y
+= 3 × x × x × y × y (7y + 9x) (Using  ab + ac = a (b + c))
+= 3x2y2 (7y + 9x)
+(ii) a3 – 4a2 + 12 – 3a
+=  a2 (a – 4) – 3a + 12
+= a2 (a – 4) – 3 (a – 4)
+= (a – 4) (a2 – 3)
+(iii) 4x2 – 20x + 25
+=  (2x)2 – 2 × 2x × 5 + (5)2
+= (2x – 5)2
+(Since a2 – 2ab + b2 = (a – b)2 )
+= (2x – 5) (2x – 5)
+(iv)
+2
+– 9
+9
+y
+=  
+2
+2
+– (3)
+3
+y
+
+
+
+
+
+
+If there are two numbers you don’t know, that’s not a problem.
+You can use two different variables, one for each unknown number.
+An equation involving variables can
+be true for all values of the variable
+– for example, y + y = 2y (this kind
+of equation is usually called an
+identity).
+Or it can be true for only particular
+values of the variable – for example,
+2y + 3 = 11, which is true only if y =
+4.
+Finding the values that make an
+equation true is called solving the
+equation.
+You can use expressions with two q–p (or more)
+variables to represent situations with more
+than one unknown quantity.
+In Words
+The sum of a and b
+The product of v and w
+p is subtracted from 9q
+Numbers
+a + b
+v × w, or vw
+qq – p
+12/04/18
+
+
+
+= 
+3
+– 3
+3
+3
+y
+y
+
+
+
++
+
+
+
+
+
+ (Since a2 – b2 = (a + b) (a – b))
+(v) x4 – 256
+= (x2)2 – (16)2
+= (x2 + 16) (x2 – 16)  (using a2 – b2 = (a + b) (a – b))
+= (x2 + 16) (x2 – 42)
+= (x2 + 16) (x + 4) (x – 4) (using a2 – b2 = (a + b) (a – b))
+Example 13 : Evaluate using suitable identities.
+(i) (48)2
+(ii) 18 12 – 192
+(iii) 497 × 505
+(iv) 2.07 × 1.93
+Solution
+: (i) (48)2
+= (50 – 2)2
+Since (a – b)2 = a2 – 2ab + b2 , therefore
+(50 – 2)2 = (50)2 – 2 × 50 × 2 + (2)2
+= 2500 – 200 + 4
+= 2504 – 200
+= 2304
+(ii) 1812 – 192 = (181 – 19) (181 + 19)
+[using a2 – b2 = (a – b) (a + b)]
+= 162 × 200
+= 32400
+(iii) 497 × 505 = (500 – 3) (500 + 5)
+= 5002 + (–3 + 5) × 500 + (–3) (5) [using
+(x  + a) (x + b) = x2 + (a + b) x + ab]
+= 250000 + 1000 – 15
+= 250985
+(iv) 2.07 × 1.93 = (2 + 0.07) (2 – 0.07)
+= 22 – (0.07)2
+= 3.9951
+12/04/18
+
+
+
+Example 14 : Verify that
+(3x + 5y)2 – 30xy = 9x2 + 25y2
+Solution
+: L.H.S= (3x + 5y)2 – 30xy
+= (3x)2 + 2 × 3x × 5y + (5y)2 – 30xy
+   [Since (a + b)2 = a2 + 2ab + b2]
+= 9x2 + 30xy + 25y2 – 30xy
+= 9x2 + 25y2
+= R.H.S
+    Hence, verified.
+Example 15 : Verify that (11pq + 4q)2 – (11pq – 4q)2 = 176pq2
+Solution
+: L.H.S. (11pq + 4q)2 – (11pq – 4q)2
+= (11pq + 4q + 11pq – 4q) × (11pq + 4q – 11pq + 4q)
+[using a2 – b2 = (a – b) (a + b), here a = 11pq + 4q and
+b = 11 pq – 4q]
+= (22pq) (8q)
+= 176 pq2
+   R.H.S. Hence Verified
+While the statement on the left may be easier to read and understand at
+first, the statement on the right has several advantages. It is shorter and
+easier to write, it shows clearly how the quantities – Celsius temperature
+and Fahrenheit temperature – are related, and it allows you to try different
+Celsius temperatures and compute their Fahrenheit equivalents.
+To convert a Celsius temperature to a
+Fahrenheit temperature, find nine-fifths of
+the Celsius temperature and then add 32.
+9
+32
+5
+F
+C
+=
++
+Example 16 : The area of a rectangle is x2 + 12xy + 27y2 and its length
+is (x + 9y). Find the breadth of the rectangle.
+Solution
+:
+Area
+Breadth
+Length
+=
+= 
+2
+2
+12
+27
+(
+9 )
+x
+xy
+y
+x
+y
++
++
++
+12/04/18
+
+
+
+= 
+2
+2
+9
+3
+27
+(
+9 )
+x
+xy
+xy
+y
+x
+y
++
++
++
++
+= 
+(
+9 )
+3 (
+9 )
+9
+x x
+y
+y x
+y
+x
+y
++
++
++
++
+= 
+(
+9 ) (
+3 )
+(
+9 )
+x
+y
+x
+y
+x
+y
++
++
++
+= (x + 3y)
+Example 17 : Divide 15 (y + 3) (y2 – 16) by 5 (y2 – y – 12).
+Solution
+: Factorising 15 (y + 3) (y2 – 16),
+we get 5 × 3 × (y + 3) (y – 4) (y + 4)
+On factorising 5 (y2 – y – 12), we get 5 (y2 – 4y + 3y – 12)
+= 5 [y (y – 4) + 3 (y – 4)]
+= 5 (y – 4) (y + 3)
+Therefore, on dividing the first expression by the second
+expression, we get 
+2
+2
+15(
+3) (
+–16)
+5(
+–
+–12)
+y
+y
+y
+y
++
+=  
+×
+×
++
+−
++
+×
+−
++
+5 3 (
+3)(
+4)(
+4)
+5 (
+4)(
+3)
+y
+y
+y
+y
+y
+= 3 (y + 4)
+Example 18 : By using suitable identity, evaluate 
++
++
+=
+2
+2
+1
+1
+, if
+5
+x
+x
+x
+x
+.
+Solution
+: Given that  
++
+=
+1
+5
+x
+x
+So, 
+
++
+=
+
+
+
+
+2
+1
+25
+x
+x
+Now,  
+2
+1
+x
+x
+
+
++
+
+
+
+= x2 + 2 × x × 1
+x + 
+2
+1
+x
+
+
+
+
+
+ [Using identity
+(a + b)2 = a2 + 2ab + b2, with a = x and b = 1
+x ]
+= x2 + 2 + 
+2
+1
+x
+
+
+
+
+
+
+12/04/18
+
+
+
+= x2 +  
+2
+1
+x
+
+
+
+
+
+ + 2
+Since
+2
+1
+x
+x
+
+
++
+
+
+
+ = 25, therefore x2 + 
+2
+1
+x
+ + 2 = 25
+or
+x2 + 
+2
+1
+x
+ = 25 – 2 = 23
+Example 19 : Find the value of  
+2
+2
+38 – 22
+16
+, using a suitable identity.
+Solution
+: Since a2 – b2 = (a + b) (a – b), therefore
+382 – 222 = (38 – 22) (38 + 22)
+        = 16 × 60
+So,
+2
+2
+38 – 22
+16
+= 16 60
+16
+×
+           = 60
+Example 20 : Find the value of x, if
+10000x = (9982)2 – (18)2
+Solution
+: R.H.S. = (9982)2 – (18)2
+= (9982 + 18) (9982 – 18) [Since a2 – b2 =
+             (a + b) (a – b)]
+= (10000) × (9964)
+L.H.S. = (10000) × x
+Comparing L.H.S. and R.H.S., we get
+10000x = 10000 × 9964
+or
+x = 10000×9964 =9964
+10000
+
+1. Can you find the reciprocal of 2
+5
+×
+11
+55 ?
+2. Can you compare the ratio of this reciprocal with the earlier one?
+12/04/18
+
+
+
+
+Find each side of a figure given below, if its area is
+64 cm2.
+Understand and Explore the problem
+•
+What information is given in the question?
+AB = BC = DC = AD, and ∠A = ∠B = ∠C = ∠D = 90°
+Hence ABCD is a square.
+•
+What are you trying to find?
+The value of one of the sides of the square ABCD.
+•
+Is there any information that is not needed?
+No.
+Make a Plan
+•
+In a square all sides are equal, therefore, square of a side
+gives the area.
+Solve
+(Side)2 = Area
+⇒
+(x + 2)2 = 64
+⇒
+(x + 2)2 = 82
+⇒
+x + 2    = 8
+⇒
+x = 8 – 2
+∴   x = 6
+∴  Side = x + 2 = 6 + 2 = 8 cm
+Revise
+•
+The above answer is verified by squaring the side and
+comparing the result with the given area.
+∴ (Side)2 = 82 = 64 = given area.
+12/04/18
+
+
+
+
+
+In questions 1 to 33, there are four options out of which one is correct.
+Write the correct answer.
+1. The product of a monomial and a binomial is a
+(a) monomial
+(b) binomial
+(c) trinomial
+(d) none of these
+2. In a polynomial, the exponents of the variables are always
+(a)  integers
+(b) positive integers
+(c)  non-negative integers
+(d) non-positive integers
+3. Which of the following is correct?
+(a) (a – b)2 = a2 + 2ab – b2
+(b) (a – b)2 = a2 – 2ab + b2
+(c) (a – b)2 = a2 – b2
+(d) (a + b)2 = a2 + 2ab – b2
+4. The sum of –7pq and 2pq is
+(a)  –9pq
+(b) 9pq
+(c) 5pq
+(d) – 5pq
+5. If we subtract –3x2y2 from x2y2, then we get
+(a) – 4x2y2
+(b) – 2x2y2
+(c) 2x2y2
+(d) 4x2y2
+6. Like term as 4m3n2 is
+(a) 4m2n2
+(b) – 6m3n2
+(c) 6pm3n2
+(d) 4m3n
+
+1.
+The word equivalent contains the same root as the word equal. What
+do you think equivalent expressions are?
+2.
+The word simplify means make less complicated. What do you think it
+means to simplify an expression?
+3.
+The adjective like means alike. What do you suppose like terms are?
+4.
+A system is a group of related objects. What do you think a system of
+equations is?
+To become familiar with some of the vocabulary terms in the chapter,
+consider the following:
+12/04/18
+
+
+
+7. Which of the following is a binomial?
+(a) 7 × a + a
+(b) 6a2 + 7b + 2c
+(c) 4a × 3b × 2c
+(d) 6 (a2 + b)
+8. Sum of a – b + ab, b + c – bc and c – a – ac is
+(a) 2c + ab – ac – bc
+(b) 2c – ab – ac – bc
+(c) 2c + ab + ac + bc
+(d) 2c – ab + ac + bc
+9. Product of the following monomials 4p, – 7q3, –7pq is
+(a) 196 p2q4
+(b) 196 pq4
+(c) – 196 p2q4
+(d) 196 p2q3
+10. Area of a rectangle with length 4ab and breadth 6b2 is
+(a) 24a2b2
+(b) 24ab3
+(c) 24ab2
+(d) 24ab
+11. Volume of a rectangular box (cuboid) with length = 2ab, breadth =
+3ac and height = 2ac is
+(a) 12a3bc2
+(b) 12a3bc
+(c) 12a2bc
+(d) 2ab +3ac + 2ac
+The five figures form a pattern.
+1.
+Copy and complete the table to find the perimeter of each figure.
+Each side of each individual square is 1 unit.
+Figure
+1
+2
+3
+4
+5
+Perimeter
+2.
+Without drawing a picture, describe what the sixth figure will look
+like and predict its perimeter.
+3.
+If you continue this pattern, what will be the perimeter of the 35th
+figure?
+4.
+Explain how the perimeter of each figure is related to its figure
+number.
+5.
+Using the variables n for the figure number and P for the perimeter,
+write an equation for the relationship in Question 4.
+12/04/18
+
+
+
+12. Product of 6a2 – 7b + 5ab and 2ab is
+(a) 12a3b – 14ab2 + 10ab
+(b) 12a3b – 14ab2 + 10a2b2
+(c) 6a2 – 7b + 7ab
+(d) 12a2b – 7ab2 + 10ab
+13. Square of 3x – 4y is
+(a) 9x2 – 16y2
+(b) 6x2 – 8y2
+(c) 9x2 + 16y2 + 24xy
+(d) 9x2 + 16y2 – 24xy
+14. Which of the following are like terms?
+(a) 5xyz2, – 3xy2z
+(b) – 5xyz2, 7xyz2
+(c) 5xyz2, 5x2yz
+(d) 5xyz2, x2y2z2
+15. Coefficient of y in the term 3
+y
+−
+ is
+(a) – 1
+(b) – 3
+(c)
+1
+3
+−
+(d)
+1
+3
+16. a2 – b2 is equal to
+(a) (a – b)2
+(b) (a – b) (a – b)
+(c) (a + b) (a – b)
+(d) (a + b) (a + b)
+17. Common factor of 17abc, 34ab2, 51a2b is
+(a) 17abc
+(b) 17ab
+(c) 17ac
+(d) 17a2b2c
+18. Square of 9x – 7xy is
+(a) 81x2 + 49x2y2
+ (b) 81x2 – 49x2y2
+(c) 81x2 + 49x2y2 –126x2y
+ (d) 81x2 + 49x2y2 – 63x2y
+19. Factorised form of 23xy – 46x + 54y – 108 is
+(a) (23x + 54) (y – 2)
+(b) (23x + 54y) (y – 2)
+(c) (23xy + 54y) (– 46x – 108)
+(d) (23x  + 54) (y + 2)
+20. Factorised form of r2 – 10r + 21 is
+(a) (r – 1) (r – 4)
+(b) (r – 7) (r – 3)
+(c) (r – 7) (r + 3)
+(d) (r + 7) (r + 3)
+21. Factorised form of p2 – 17p – 38 is
+(a) (p – 19) (p + 2)
+(b) (p – 19) (p – 2)
+(c) (p + 19) (p + 2)
+(d) (p + 19) (p – 2)
+12/04/18
+
+
+
+22. On dividing 57p2qr by 114pq, we get
+(a)
+1
+4 pr
+(b)
+3
+4 pr
+(c)
+1
+2 pr
+(d) 2pr
+23. On dividing p (4p2 – 16) by 4p (p – 2), we get
+(a) 2p + 4
+(b) 2p – 4
+(c) p + 2
+(d) p – 2
+24. The common factor of 3ab and 2cd is
+(a) 1
+(b) – 1
+(c) a
+(d) c
+25. An irreducible factor of 24x2y2 is
+(a) x2
+(b) y2
+(c) x
+(d) 24x
+26. Number of factors of (a + b)2 is
+(a) 4
+(b) 3
+(c) 2
+(d) 1
+27. The factorised form of 3x – 24 is
+(a) 3x × 24
+(b) 3 (x – 8)
+(c) 24 (x – 3)
+(d) 3(x – 12)
+28. The factors of x2 – 4 are
+(a) (x – 2), (x – 2)
+(b) (x + 2), (x – 2)
+(c) (x + 2), (x + 2)
+(d) (x – 4), (x – 4)
+29. The value of (– 27x2y) ÷ (– 9xy) is
+(a) 3xy
+(b) – 3xy
+(c) – 3x
+(d) 3x
+30. The value of (2x2 + 4) ÷ 2 is
+(a) 2x2 + 2
+(b) x2 + 2
+(c) x2 + 4
+(d) 2x2 + 4
+31. The value of (3x3 +9x2 + 27x) ÷ 3x is
+(a) x2 +9 + 27x
+(b) 3x3 +3x2 + 27x
+(c) 3x3 +9x2 + 9
+(d) x2 +3x + 9
+32. The value of (a + b)2 + (a – b)2 is
+(a) 2a + 2b
+(b) 2a – 2b
+(c) 2a2 + 2b2
+(d) 2a2 – 2b2
+33. The value of (a + b)2 – (a – b)2 is
+(a) 4ab
+(b) – 4ab
+(c) 2a2 + 2b2
+(d) 2a2 – 2b2
+In questions 34 to 58, fill in the blanks to make the statements true:
+34. The product of two terms with like signs is a 
+ term.
+35. The product of two terms with unlike signs is a 
+ term.
+12/04/18
+
+
+
+36. a (b + c) = ax ____ × ax _____.
+37. (a – b) _________ = a2 – 2ab + b2
+38. a2 – b2 = (a + b ) __________.
+39. (a – b)2 + ____________ = a2 – b2
+40. (a + b)2 – 2ab =  ___________ + ____________
+41. (x + a) (x + b) = x2 + (a + b) x + ________.
+42. The product of two polynomials is a ________.
+43. Common factor of ax2 + bx is __________.
+44. Factorised form of 18mn + 10mnp is ________.
+45. Factorised form of 4y2 – 12y + 9 is ________.
+46. 38x3y2z ÷ 19xy2 is equal to _________.
+47. Volume of a rectangular box with length 2x, breadth 3y and height
+4z is _________.
+48. 672 – 372 = (67 – 37) × ________ = _________.
+49. 1032 – 1022 = ________ × (103 – 102) = _________.
+50. Area of a rectangular plot with sides 4x2 and 3y2 is __________.
+51. Volume of a rectangular box with l = b = h = 2x is _________.
+52. The coefficient in – 37abc is __________.
+53. Number of terms in the expression a2 + bc × d is ________.
+54. The sum of areas of two squares with sides 4a and 4b is _______.
+55. The common factor method of factorisation for a polynomial is based
+on ___________ property.
+56. The side of the square of area 9y2 is __________.
+57. On simplification 3
+3
+_________
+3
+x +
+=
+58. The factorisation of 2x + 4y is __________.
+12/04/18
+
+
+
+In questions 59 to 80, state whether the statements are True (T) or
+False (F):
+59. (a + b)2 = a2 + b2
+60. (a – b)2 = a2 – b2
+61. (a + b)  (a – b) = a2 – b2
+62. The product of two negative terms is a negative term.
+63. The product of one negative and one positive term is a negative term.
+64. The coefficient of the term – 6x2y2 is – 6.
+65. p2q + q2r + r2q is a binomial.
+66. The factors of a2 – 2ab + b2 are (a + b) and (a + b).
+67. h is a factor of 2π (h + r).
+68. Some of the factors of 
+2
+1
+are
+,
+and (
+1).
+2
+2
+2
+n
+n
+n
+n
++
++
+69. An equation is true for all values of its variables.
+70. x2 + (a + b)x + ab = (a + b) (x + ab)
+71. Common factor of 11pq2, 121p2q3, 1331p2q is 11p2q2.
+72. Common factor of 12a2b2 + 4ab2 – 32 is 4.
+73. Factorisation of – 3a2 + 3ab + 3ac is 3a (–a – b – c).
+74. Factorised form of p2 + 30p + 216 is (p + 18) (p – 12).
+75. The difference of the squares of two consecutive numbers is their
+sum.
+76. abc + bca + cab is a monomial.
+77. On dividing 3
+p by 3
+p , the quotient is 9.
+78. The value of p for 512 – 492 = 100p is 2.
+79. (9x – 51) ÷ 9 is x – 51.
+80. The value of (a + 1) (a – 1) (a2 + 1) is a4 – 1.
+12/04/18
+
+
+
+81.
+Add:
+(i)
+7a2bc, – 3abc2, 3a2bc, 2abc2
+(ii)
+9ax, + 3by – cz, – 5by + ax + 3cz
+(iii)
+xy2z2 + 3x2y2z – 4x2yz2, – 9x2y2z  + 3xy2z2 + x2yz2
+(iv)
+5x2 – 3xy + 4y2 – 9, 7y2 + 5xy – 2x2 + 13
+(v)
+2p4 – 3p3 + p2 – 5p +7, –3p4 – 7p3 – 3p2 – p – 12
+(vi)
+3a (a – b + c), 2b (a – b + c)
+(vii)
+3a (2b + 5c), 3c (2a + 2b)
+82.
+Subtract :
+(i)
+5a2b2c2 from – 7a2b2c2
+(ii)
+6x2 – 4xy + 5y2 from 8y2 + 6xy – 3x2
+(iii)
+2ab2c2 + 4a2b2c – 5a2bc2 from –10a2b2c + 4ab2c2 + 2a2bc2
+(iv)
+3t4 – 4t3 + 2t2 – 6t + 6 from – 4t4 + 8t3 – 4t2 – 2t + 11
+(v)
+2ab + 5bc – 7ac from 5ab – 2bc – 2ac + 10abc
+(vi)
+7p (3q + 7p) from 8p (2p – 7q)
+(vii)
+–3p2 + 3pq + 3px from 3p (– p – a – r)
+83.
+Multiply the following:
+(i)
+– 7pq2r3, – 13p3q2r
+(ii)
+3x2y2z2, 17xyz
+(iii)
+15xy2, 17yz2
+(iv)
+–5a2bc, 11ab, 13abc2
+(v)
+–3x2y, (5y – xy)
+(vi)
+abc, (bc + ca)
+(vii)
+7pqr, (p – q + r)
+(viii)
+x2y2z2, (xy – yz + zx)
+(ix)
+(p + 6), (q – 7)
+12/04/18
+
+
+
+(x)
+6mn, 0mn
+(xi)
+a, a5, a6
+(xii)
+ –7st, –1, – 13st2
+(xiii)
+b3, 3b2, 7ab5
+(xiv)
+– 
+3
+2
+100
+3
+;
+9
+4
+rs
+r s
+(xv)
+(a2 – b2), (a2 + b2)
+(xvi)
+(ab + c), (ab + c)
+(xvii)
+(pq – 2r), (pq – 2r)
+(xviii)
+3
+4
+2
+3
+–
+,
+4
+3
+3
+2
+x
+y
+x
+y
+
+
+
++
+
+
+
+
+
+
+(xix)
+p
+q
+2
+2
+3
+2
+2
+3
+ 
+ 
++
+ 
+ 
+ 
+ , (2p2 –3q2)
+(xx)
+(x2 – 5x + 6), (2x + 7)
+(xxi)
+(3x2 + 4x – 8), (2x2 – 4x + 3)
+(xxii)
+(2x – 2y – 3), (x + y + 5)
+84.
+Simplify
+(i)
+(3x + 2y)2 + (3x – 2y)2
+(ii)
+(3x + 2y)2 – (3x – 2y)2
+(iii)
+2
+7
+9
+–
+9
+7
+a
+b
+ab
+
+
++
+
+
+
+
+(iv)
+2
+3
+4
+2
+4
+3
+x
+y
+xy
+
+
+−
++
+
+
+
+
+(v)
+(1.5p + 1.2q)2 – (1.5p – 1.2q)2
+(vi)
+(2.5m + 1.5q)2 + (2.5m – 1.5q)2
+(vii)
+(x2 – 4) + (x2 + 4) + 16
+(viii)
+(ab – c)2 + 2abc
+(ix)
+(a – b) (a2 + b2 + ab) – (a + b) (a2 + b2 – ab)
+12/04/18
+
+
+
+(x)
+(b2 – 49) (b + 7) + 343
+(xi)
+(4.5a + 1.5b)2 + (4.5b + 1.5a)2
+(xii)
+(pq – qr)2 + 4pq2r
+(xiii)
+(s2t + tq2)2 – (2stq)2
+85.
+Expand the following, using suitable identities.
+(i)
+(xy + yz)2
+(ii)
+(x2y – xy2)2
+(iii)
+2
+4
+5
+5
+4
+a
+b
+
+
++
+
+
+
+
+(iv)
+2
+2
+3
+–
+3
+2
+x
+y
+
+
+
+
+
+
+(v)
+2
+4
+5
+5
+3
+p
+q
+
+
++
+
+
+
+
+(vi)
+(x + 3) (x + 7)
+(vii)
+  (2x + 9) (2x – 7)
+(viii)
+
+
+
++
++
+
+
+
+
+
+
+4
+4
+3
+5
+4
+5
+4
+x
+y
+x
+y
+(ix)
+
+
+
++
+
+
+
+
+
+
+2
+2
+2
+2
+–
+3
+3
+3
+3
+x
+x
+a
+(x)
+(2x – 5y) (2x – 5y)
+(xi)
+2
+2
+3
+3
+3
+3
+a
+b
+a
+b
+
+
+
++
+−
+
+
+
+
+
+
+(xii)
+(x2 + y2) (x2 – y2)
+(xiii)
+(a2 + b2)2
+(xiv)
+ (7x + 5)2
+(xv)
+(0.9p – 0.5q)2
+(xvi)
+x2y2 = (xy)2
+12/04/18
+
+
+
+86.
+Using suitable identities, evaluate the following.
+(i)
+(52)2
+(ii) (49)2
+(iii)
+(103)2
+(iv) (98)2
+(v)
+(1005)2
+(vi) (995)2
+(vii)
+47 × 53
+(viii) 52 × 53
+(ix)
+105 × 95
+(x) 104 × 97
+(xi)
+101 × 103
+(xii) 98 × 103
+(xiii)
+(9.9)2
+(xiv) 9.8 × 10.2
+(xv)
+10.1 × 10.2
+(xvi) (35.4)2 – (14.6)2
+(xvii)
+(69.3)2 – (30.7)2
+(xviii) (9.7)2 – (0.3)2
+(xix)
+(132)2 – (68)2
+(xx) (339)2 – (161)2
+(xxi)
+(729)2 – (271)2
+87.
+Write the greatest common factor in each of the following terms.
+(i)
+– 18a2, 108a
+(ii) 3x2y, 18xy2, – 6xy
+(iii)
+2xy, –y2, 2x2y
+(iv) l2m2n, lm2n2, l2mn2
+(v)
+21pqr, –7p2q2r2, 49p2qr
+(vi) qrxy, pryz, rxyz
+(vii)
+3x3y2z, –6xy3z2, 12x2yz3
+(viii)
+63p2a2r2s, – 9pq2r2s2, 15p2qr2s2, – 60p2a2rs2
+(ix)
+13x2y, 169xy
+(x)
+11x2, 12y2
+88.
+Factorise the following expressions.
+(i)
+6ab + 12bc
+(ii) –xy  – ay
+(iii)
+ax3 – bx2 + cx
+(iv) l2m 2n – lm 2n 2– l 2mn 2
+(v)
+3pqr –6p 2q 2r 2 – 15r 2
+(vi) x 3y2 + x 2y3 – xy4 + xy
+(vii)
+4xy2 – 10x 2y + 16x 2y2 + 2xy
+(viii)
+2a3 – 3a2b + 5ab 2 – ab
+(ix)
+63p 2q 2r 2s – 9pq 2r 2s2 + 15p 2qr 2s2 – 60p 2q 2rs2
+(x)
+24x 2yz3 – 6xy3z2 + 15x 2y2z – 5xyz
+12/04/18
+
+
+
+(xi)
+a3 + a2 + a + 1
+(xii)
+lx + my + mx + ly
+(xiii) a3x – x4 + a2x2 – ax3
+(xiv) 2x2 – 2y + 4xy – x
+(xv) y2 + 8zx – 2xy – 4yz
+(xvi) ax2y – bxyz – ax2z + bxy2
+(xvii) a2b + a2c + ab + ac + b2c + c2b
+(xviii) 2ax2 + 4axy + 3bx2 + 2ay2 + 6bxy + 3by2
+89.
+Factorise the following, using the identity a2 + 2ab
+ab
+ab
+ab
+ab + b2 = (a + b)2
+(i)
+x2 + 6x + 9
+(ii) x2 + 12x + 36
+(iii)
+x2 + 14x  + 49
+(iv) x2 + 2x  + 1
+(v)
+4x2 + 4x + 1
+(vi) a2x2 + 2ax + 1
+(vii)
+a2x2 + 2abx + b2
+(viii) a2x2 + 2abxy + b2y2
+(ix)
+4x2 + 12x + 9
+(x) 16x2 + 40x +25
+(xi)
+9x2 + 24x + 16
+(xii) 9x2 + 30x + 25
+(xiii)
+2x3 + 24x2 + 72x
+(xiv) a2x3 + 2abx2 + b2x
+(xv)
+4x4 + 12x3 + 9x2
+(xvi)
+2
+4
+x
++ 2x + 4
+(xvii)
+9x2 + 2xy + 
+2
+9
+y
+90.
+Factorise the following, using the identity a2 – 2ab
+ab
+ab
+ab
+ab + b2 = (a – b)2.
+(i)
+x2 – 8x + 16
+(ii) x2 – 10x + 25
+(iii)
+y2 – 14y  + 49
+(iv) p2 – 2p  + 1
+(v)
+4a2 – 4ab + b2
+(vi) p2y2 – 2py + 1
+(vii)
+a2y2 – 2aby + b2
+(viii) 9x2 – 12x + 4
+(ix)
+4y2 – 12y + 9
+(x)
+2
+4
+x
+– 2x + 4
+12/04/18
+
+
+
+(xi)
+a2y3 – 2aby2 + b2y
+(xii) 9y2 – 4xy + 
+2
+4
+9
+x
+91.
+Factorise the following.
+(i)
+x2 + 15x + 26
+(ii) x2 + 9x + 20
+(iii)
+y2 + 18x  + 65
+(iv) p2 + 14p  + 13
+(v)
+y2 + 4y – 21
+(vi) y2 – 2y – 15
+(vii)
+18 + 11x + x2
+(viii) x2 – 10x + 21
+(ix)
+x2 = 17x + 60
+(x) x2 + 4x – 77
+(xi)
+y2 + 7y + 12
+(xii) p2 – 13p – 30
+(xiii)
+a2 – 16p – 80
+92.
+Factorise the following using the identity a2 – b2 = (a + b
+a + b
+a + b
+a + b
+a + b) (a – b).
+(i)
+x2 – 9
+(ii) 4x2 – 25y2
+(iii)
+4x2 – 49y2
+(iv) 3a2b3 – 27a4b
+(v)
+28ay2 – 175ax2
+(vi) 9x2 – 1
+(vii)
+25ax2 – 25a
+(viii)
+2
+2
+9
+25
+x
+y
+−
+(ix)
+2
+2
+2
+– 32
+25
+p
+q
+(x) 49x2 – 36y2
+(xi)
+y3 – 9
+y
+(xii)
+2
+25
+x
+– 625
+(xiii)
+2
+2
+8
+18
+x
+y
+−
+(xiv)
+2
+2
+4
+9
+9
+16
+x
+y
+−
+(xv)
+3
+3
+9
+16
+x y
+xy
+−
+(xvi) 1331x3y – 11y3x
+(xvii)
+2
+2
+2
+2
+1
+16
+–
+36
+49
+a b
+b c
+(xviii) a4 – (a – b)4
+(xix)
+x4 – 1
+(xx) y4 – 625
+12/04/18
+
+
+
+(xxi)
+p5 – 16p
+(xxii) 16x4 – 81
+(xxiii)
+x4 – y4
+(xxiv) y4 – 81
+(xxv)
+16x4 – 625y4
+(xxvi) (a – b)2 – (b – c)2
+(xxvii)
+(x + y)4 – (x – y)4
+(xxviii) x4 – y4 + x2 – y2
+(xxix)
+8a3 – 2a
+(xxx) x2 – 
+2
+100
+y
+(xxxi)
+9x2 – (3y + z)2
+93.
+The following expressions are the areas of rectangles. Find the
+possible lengths and breadths of these rectangles.
+(i)
+x2 – 6x + 8
+(ii) x2 – 3x + 2
+(iii)
+x2 – 7x + 10
+(iv) x2 + 19x – 20
+(v)
+x2 + 9x + 20
+94.
+Carry out the following divisions:
+(i)
+51x3y2z ÷ 17xyz
+(ii) 76x3yz3 ÷ 19x2y2
+(iii)
+17ab2c3 ÷ (–abc2)
+(iv) –121p3q3r3 ÷ (–11xy2 z3)
+95.
+Perform the following divisions:
+(i)
+(3pqr – 6p2q2r2)  ÷ 3pq
+(ii) (ax3 – bx2 + cx) ÷ (– dx)
+(iii)
+(x3y3 + x2y3 – xy4 + xy) ÷ xy
+(iv) (– qrxy + pryz – rxyz) ÷ (– xyz)
+96.
+Factorise the expressions and divide them as directed:
+(i)
+(x2 – 22x + 117)  ÷ (x – 13)
+(ii) (x3 + x2 – 132x) ÷ x (x – 11)
+(iii)
+(2x3 – 12x2 + 16x) ÷ (x – 2) (x – 4)
+ (iv)
+(9x2 – 4) ÷ (3x + 2)
+(v)
+(3x2 – 48) ÷ (x – 4)
+(vi) (x4 – 16) ÷ x3 + 2x2 + 4x + 8
+(vii)
+(3x4 – 1875) ÷ (3x2 – 75)
+97.
+The area of a square is given by 4x2 + 12xy + 9y2. Find the side of
+the square.
+98.
+The area of a square is 9x2 + 24xy + 16y2. Find the side of the
+square.
+12/04/18
+
+
+
+99.
+The area of a rectangle is x2 + 7x + 12. If its breadth is (x + 3), then
+find its length.
+100. The curved surface area of a cylinder is 2π (y2 – 7y + 12) and its
+radius is (y – 3). Find the height of the cylinder (C.S.A. of cylinder =
+2πrh).
+101. The area of a circle is given by the expression πx2 + 6πx + 9π. Find
+the radius of the circle.
+102. The sum of first n natural numbers is given by the expression
++
+2
+2
+2
+n
+n . Factorise this expression.
+103. The sum of (x + 5) observations is x4 – 625. Find the mean of the
+observations.
+104. The height of a triangle is x4 + y4 and its base is 14xy. Find the area
+of the triangle.
+105. The cost of a chocolate is Rs (x + y) and Rohit bought (x + y)
+chocolates. Find the total amount paid by him in terms of x. If x =
+10, find the amount paid by him.
+106. The base of a parallelogram is (2x + 3 units) and the corresponding
+height is (2x – 3 units). Find the area of the parallelogram in terms of
+x. What will be the area of parallelogram of x = 30 units?
+107. The radius of a circle is 7ab – 7bc – 14ac. Find the circumference of
+the circle. 
+22
+7
+π
+
+
+=
+
+
+
+
+108. If p + q = 12 and pq = 22, then find p2 + q2.
+109. If a + b = 25 and a2 + b2 = 225, then find ab.
+110. If x – y = 13 and xy = 28, then find x2 + y2.
+111. If m – n = 16 and m2 + n2 = 400, then find mn.
+112. If a2 + b2 = 74 and ab = 35, then find a + b.
+12/04/18
+
+
+
+113. Verify the following:
+(i)
+(ab + bc) (ab – bc) + (bc + ca) (bc – ca) + (ca + ab) (ca – ab) = 0
+(ii)
+(a + b + c) (a2 + b2 + c2 – ab – bc – ca) = a3 + b3+ c3 – 3abc
+(iii)
+(p – q) (p2 + pq + q2) = p3 – q3
+(iv)
+(m + n) (m2 – mn + n2) = m3 + n3
+(v)
+(a + b) (a + b) (a + b) = a3 + 3a2b + 3ab2 + b3
+(vi)
+(a – b) (a – b) (a – b) = a3 – 3a2b + 3ab2 – b3
+(vii)
+(a2 – b2) (a2 + b2) + (b2 – c2) (b2 + c2) + (c2 – a2) + (c2 + a2) = 0
+(viii)
+(5x + 8)2 – 160x = (5x – 8)2
+(ix)
+(7p – 13q)2 + 364pq = (7p + 13q)2
+(x)
+2
+2
+3
+7
+3
+7
+2
+7
+6
+7
+6
+p
+p
+p
+p
+
+
+
+
++
+−
++
+=
+
+
+
+
+
+
+
+
+114. Find the value of a, if
+(i)
+8a = 352 – 272
+(ii)
+9a = 762 – 672
+(iii)
+pqa = (3p + q)2 – (3p – q)2
+(iv)
+pq2a = (4pq + 3q)2 – (4pq – 3q)2
+115. What should be added to 4c (– a + b + c) to obtain 3a (a + b + c) – 2b
+(a – b + c)?
+116. Subtract b (b2 + b – 7) + 5 from 3b2 – 8 and find the value of expression
+obtained for b = – 3.
+117. If 
+1
+7
+x
+x
+−
+=
+ then find the value of  
+2
+2
+1
+x
+x
++
+.
+118. Factorise  
+2
+2
+1
+3
+2
+3
+x
+x
+x
+x
++
++
+−
+−
+.
+119. Factorise p4 + q4 + p2q2.
+120. Find the value of
+(i)
+6.25 6.25 –1.75 1.75
+4.5
+×
+×
+(ii)
+198 198 –102 102
+96
+×
+×
+12/04/18
+
+
+
+121. The product of two expressions is x5 + x3 + x. If one of them is x2 + x
++ 1, find the other.
+122. Find the length of the side of the given square if area of the square is
+625 square units and then find the value of x.
+123. Take suitable number of cards given in the adjoining diagram [G(x ×
+x) representing x2, R (x × 1) representing x and Y (1 × 1) representing
+1] to factorise the following expressions, by arranging the cards in
+the form of rectangles: (i) 2x2 + 6x + 4 (ii) x2 + 4x + 4. Factorise 2x2 +
+6x + 4 by using the figure.
+Calculate the area of figure.
+124. The figure shows the dimensions of a wall having a window and a
+door of a room. Write an algebraic expression for the area of the wall
+to be painted.
+12/04/18
+
+
+
+125. Match the expressions of column I with that of column II:
+Column I
+Column II
+(1) (21x + 13y)2
+(a)
+441x2 – 169y2
+(2) (21x – 13y)2
+(b)
+441x2 + 169y2 + 546 xy
+(3) (21x – 13y) (21x + 13y)
+(c)
+441x2 + 169y2 – 546xy
+(d)
+441x2 – 169y2 + 546xy
+
+1.    Algebraic Tiles
+(i)
+Cut the following tiles from a graph sheet. Now, colour the tiles
+as per the colour code. Arrange these algebraic tiles to form a
+square.
+Find the length of the side of the square so formed. Also find the
+area of the square. Using the above result factorise x2 + 4x + 4.
+12/04/18
+
+
+
+(ii)
+2. Find the length of the side of the rectangle so formed. Also find the
+area of the rectangle. Using the above result factorise x2 + 5x + 4.
+Now choose and cut more algebraic tiles from the graph sheet. Create
+your own colour code and colour the tiles. Arrange them to form
+square/rectangle. Find the area of the figure so formed using it to
+factorise
+a)
+x2 + 4x + 3
+b)
+x2 + 9x + 18
+3.
+Build a square garden. Divide the square garden into four rectangular
+flower beds in such a way that each flower bed is as long as one side
+of the square. The perimeter of each flower bed is 40 m.
+(a) Draw a diagram to represent the above information.
+(b)
+Mention the expression for perimeter of the entire garden.
+Crossword Number Puzzle
+Solve the given crossword and then fill up the given boxes. Clues are
+given below for across as well as downward filling. Also for across and
+down clues clue number is written at the corner of boxes. Answers of
+clues have to be filled in their respective boxes.
+12/04/18
+
+
+
+Down
+1. A polynomial with two terms.
+2. An expression containing one or more terms with non-zero coefficient
+(with variables having non-negative exponents).
+3. To find the value of a mathematical expression.
+4. A _________ is formed by the product of variables and constants.
+5. The abbreviation of the greatest no. (or expression) that in a factor
+of two or more numbers.
+6. A polynomial with three terms.
+Across
+7. A polynomial with only one term.
+8. An expression of the second degree.
+9. Terms can be written as product of its _________.
+10. The numbers –3, –2, –1, 0, 1, 2, 3 are known as _______.
+11.
+__________ terms are formed from the same variables and the powers
+of these variables are the same term.
+12.
+The highest power of a polynomial is called the _________ of the
+polynomial.
+Solution
+1. Binomial
+2. Polynomial
+3. Evaluate
+4. Term
+5. GCF
+6. Trinomial
+7. Monomial
+12/04/18
+
+
+
+8. Quadratic
+9. Factors
+10. Integers
+11. Like
+12. Degree
+12/04/18
+
+244    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18

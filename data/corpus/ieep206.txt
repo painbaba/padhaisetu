@@ -1,0 +1,364 @@
+(A)  Main Concepts and Results
+Complementary angles, Supplementary angles, Adjacent angles, Linear pair, Vertically
+opposite angles.
+•
+If a ray stands on a line, then the adjacent angles so formed are supplementary and
+its converse,
+•
+If two lines intersect, then vertically opposite angles are equal,
+•
+If a transversal intersects two parallel lines, then
+(i)
+corresponding angles are equal and conversely,
+(ii)
+alternate interior angles are equal and conversely,
+(iii)
+interior angles on the same side of the transversal are supplementary and
+conversely,
+•
+Lines parallel to the same line are parallel to each other,
+•
+Sum of the angles of a triangle is 180°,
+•
+An exterior angle of a triangle is equal to the sum of the corresponding two interior
+opposite angles.
+(B)  Multiple Choice Questions
+Write the correct answer:
+Sample Question 1 : If two interior angles on the same side of a transversal intersecting
+two parallel lines are in the ratio 2 : 3, then the greater of the two angles is
+(A)
+54°
+(B)
+108°
+(C)
+120°
+(D)
+136°
+LINES  AND  ANGLES
+CHAPTER 6
+16/04/18
+16/04/18
+
+Solution : Answer (B)
+EXERCISE 6.1
+Write the correct answer in each of the following:
+1.
+In Fig. 6.1, if AB || CD || EF, PQ || RS, ∠RQD
+= 25° and ∠CQP = 60°, then ∠QRS is equal
+to
+(A)
+85°
+(B)
+135°
+(C)
+145°
+(D)
+110°
+2.
+If one angle of a triangle is equal to the sum
+of the other two angles, then the triangle is
+(A)
+an isosceles triangle
+(B)
+an obtuse triangle
+(C)
+an equilateral triangle
+(D)
+a right triangle
+3.
+An exterior angle of a triangle is 105° and its two interior opposite angles are
+equal. Each of these equal angles is
+(A)
+1
+37 2
+°
+(B)
+1
+52 2
+°
+(C)
+1
+72 2
+°
+(D)
+75°
+4.
+The angles of a triangle are in the ratio 5 : 3 : 7. The triangle is
+(A)
+an acute angled triangle
+(B)
+an obtuse angled triangle
+(C)
+a right triangle
+(D)
+an isosceles triangle
+5.
+If one of the angles of a triangle is 130°, then the angle between the bisectors of
+the other two angles can be
+(A)
+50°
+(B)
+65°
+(C)
+145°
+(D)
+155°
+6.
+In Fig. 6.2, POQ is a line. The value of x is
+(A)
+20°
+(B)
+25°
+(C)
+30°
+(D)
+35°
+Fig. 6.2
+LINES AND ANGLES
+55
+Fig. 6.1
+16/04/18
+16/04/18
+
+56
+EXEMPLAR PROBLEMS
+7.
+In Fig. 6.3, if OP||RS, ∠OPQ = 110° and ∠QRS = 130°, then ∠ PQR is equal to
+(A)
+40°
+(B)
+50°
+(C)
+60°
+(D)
+70°
+Fig. 6.3
+8.
+Angles of a triangle are in the ratio 2 : 4 : 3. The smallest angle of the triangle is
+(A)
+60°
+(B)
+40°
+(C)
+80°
+(D)
+20°
+(C)  Short Answer Questions with Reasoning
+Sample Question 1 :
+Let OA, OB, OC and OD are rays in the anticlockwise direction such that ∠ AOB =
+∠COD = 100°, ∠BOC = 82° and  ∠AOD = 78°. Is it true to say that AOC and BOD
+are lines?
+Solution : AOC is not a line, because ∠ AOB + ∠ COB = 100° + 82° = 182°, which
+is not equal to 180°. Similarly, BOD is also not a line.
+Sample Question 2 : A transversal intersects two lines in such a way that the two
+interior angles on the same side of the transversal are equal. Will the two lines always
+be parallel? Give reason for your answer.
+Solution : In general, the two lines will not be parallel, because the sum of the two
+equal angles will not always be 180°. Lines will be parallel when each equal angle is
+equal to 90°.
+EXERCISE 6.2
+1.
+For what value of x + y in Fig. 6.4 will
+ABC be a line? Justify your answer.
+2.
+Can a triangle have all angles less than
+60°? Give reason for your answer.
+3.
+Can a triangle have two obtuse angles?
+Give reason for your answer.
+4.
+How many triangles can be drawn having
+its angles as 45°, 64° and 72°? Give reason
+for your answer.
+Fig. 6.4
+16/04/18
+16/04/18
+
+LINES AND ANGLES
+57
+5.
+How many triangles can be drawn having
+its angles as 53°, 64° and 63°? Give reason
+for your answer.
+6.
+In Fig. 6.5, find the value of x for which the
+lines l and m are parallel.
+7.
+Two adjacent angles are equal. Is it
+necessary that each of these angles will be
+a right angle? Justify your answer.
+8.
+If one of the angles formed by two
+intersecting lines is a right angle, what can
+you say about the other three angles? Give reason for your answer.
+9.
+In Fig.6.6, which of the two lines are parallel and why?
+Fig. 6.6
+10. Two lines l and m are perpendicular to the same line n. Are l and m perpendicular
+to each other? Give reason for your answer.
+(D) Short Answer Questions
+Sample Question 1 : In Fig. 6.7, AB, CD and EF
+are three lines concurrent at O. Find the value of y.
+Solution : ∠AOE = ∠BOF = 5y
+(Vertically opposite angles)
+Also,
+∠COE + ∠AOE + ∠AOD = 180°
+So, 2y + 5y + 2y = 180°
+or, 9y = 180°, which gives y = 20°.
+Fig. 6.5
+Fig. 6.7
+16/04/18
+16/04/18
+
+58
+EXEMPLAR PROBLEMS
+Sample Question 2 : In Fig.6.8, x = y and a = b.
+Prove that l || n.
+Solution: x = y (Given)
+Therefore, l || m (Corresponding angles)
+(1)
+Also,  a = b (Given)
+Therefore, n || m (Corresponding angles)
+(2)
+From (1) and (2), l || n (Lines parallel to the same line)
+EXERCISE 6.3
+1.
+In Fig. 6.9, OD is the bisector of  ∠AOC, OE is the bisector of ∠BOC and
+OD ⊥ OE. Show that the points A, O and B are collinear.
+Fig. 6.9
+2.
+ In Fig. 6.10, ∠1 = 60° and ∠6 = 120°. Show that the lines m and n are parallel.
+Fig. 6.10
+3.
+AP and BQ are the bisectors of the two alternate interior angles formed by the intersection
+of a transversal t with parallel lines l and m (Fig. 6.11). Show that AP || BQ.
+Fig. 6.11
+Fig. 6.8
+16/04/18
+16/04/18
+
+LINES AND ANGLES
+59
+4.
+If in Fig. 6.11, bisectors AP and BQ of the alternate interior angles are parallel,
+then show that l || m.
+5.
+In Fig. 6.12, BA || ED and BC || EF. Show that ∠ABC = ∠DEF
+[Hint: Produce DE to intersect BC at P (say)].
+Fig. 6.12
+6.
+In Fig. 6.13, BA || ED and BC || EF. Show that ∠ ABC + ∠ DEF = 180°
+Fig. 6.13
+7.
+In Fig. 6.14, DE || QR and AP and BP are bisectors of ∠ EAB and ∠ RBA,
+respectively. Find ∠APB.
+Fig. 6.14
+16/04/18
+16/04/18
+
+60
+EXEMPLAR PROBLEMS
+8.
+The angles of a triangle are in the ratio 2 : 3 : 4. Find the angles of the triangle.
+9.
+A triangle ABC is right angled at A. L is a point on BC such that AL ⊥ BC. Prove
+that ∠ BAL = ∠ ACB.
+10. Two lines are respectively perpendicular to two parallel lines. Show that they are
+parallel to each other.
+(E) Long Answer Questions
+Sample Question 1: In Fig. 6.15, m and n are two plane mirrors perpendicular to
+each other. Show that incident ray CA is parallel to reflected ray BD.
+Fig. 6.15
+Solution: Let normals at A and B meet at P.
+As mirrors are perpendicular to each other, therefore,  BP || OA and AP || OB.
+So,
+BP ⊥ PA, i.e., ∠ BPA =
+90°
+Therefore,
+∠ 3 + ∠ 2 =
+90° (Angle sum property)
+(1)
+Also,
+∠1 = ∠2 and ∠4 =
+∠3 (Angle of incidence
+= Angle of reflection)
+Therefore,
+∠1 + ∠4 =
+90°      [From (1)]
+(2)
+Adding (1) and (2), we have
+∠1 + ∠2 + ∠3 + ∠4 =
+180°
+i.e.,
+∠CAB + ∠DBA =
+180°
+Hence,
+ CA || BD
+16/04/18
+16/04/18
+
+LINES AND ANGLES
+61
+Sample Question 2: Prove that the sum of the three angles of a triangle is 180°.
+Solution: See proof of Theorem 6.7 in Class IX Mathematics Textbook.
+Sample Question 3: Bisectors of angles B
+and C of a triangle ABC intersect each other
+at the point O. Prove that ∠BOC = 90° +
+1
+2 ∠A.
+Solution: Let us draw the figure as shown
+in Fig. 6.16
+∠A + ∠ABC + ∠ACB = 180°
+(Angle sum property of a triangle)
+Therefore, 1
+2 ∠A + 1
+2 ∠ABC + 1
+2 ∠ACB = 1
+2 × 180° = 90°
+i.e.,
+1
+2 ∠A + ∠OBC + ∠OCB = 90°  (Since BO and CO are
+bisectors of ∠B and ∠C)
+(1)
+But ∠BOC + ∠OBC + ∠OCB =180° (Angle sum property)
+(2)
+Subtracting (1) from (2), we have
+∠BOC + ∠OBC + ∠OCB – 1
+2  ∠A – ∠OBC – ∠OCB = 180° – 90°
+i.e., ∠BOC = 90° + 
+1
+2  ∠A
+EXERCISE 6.4
+1.
+If two lines intersect, prove that the vertically opposite angles are equal.
+2.
+Bisectors of interior ∠B and exterior ∠ACD of a ∆ ABC intersect at the point T.
+Prove that
+∠ BTC = 1
+2 ∠ BAC.
+3.
+A transversal intersects two parallel lines. Prove that the bisectors of any pair of
+corresponding angles so formed are parallel.
+Fig. 6.16
+16/04/18
+16/04/18
+
+62
+EXEMPLAR PROBLEMS
+4.
+Prove that through a given point, we can draw only one perpendicular to a given
+line.
+[Hint: Use proof by contradiction].
+5.
+Prove that two lines that are respectively perpendicular to two intersecting lines
+intersect each other.
+[Hint: Use proof by contradiction].
+6.
+Prove that a triangle must have atleast two acute angles.
+7.
+In Fig. 6.17, ∠Q > ∠R, PA is the bisector of ∠QPR and PM ⊥ QR. Prove that
+∠APM = 1
+2 ( ∠Q – ∠R).
+Fig. 6.17
+16/04/18
+16/04/18

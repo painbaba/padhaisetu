@@ -1,0 +1,380 @@
+(A) Main Concepts and Results
+Circle, radius, diameter, chord, segment, cyclic quadrilateral.
+•
+Equal chords of a circle (or of congruent circles) subtend equal angles at the
+centre,
+•
+If the angles subtended by the chords of a circle (or of congruent circles) at the
+centre (or centres) are equal, then the chords are equal,
+•
+The perpendicular drawn from the centre of the circle to a chord bisects the chord,
+•
+The line drawn through the centre of a circle bisecting a chord is perpendicular to
+the chord,
+•
+There is one and only one circle passing through three given non-collinear points,
+•
+Equal chords of a circle (or of congruent circles) are equidistant from the centre
+(or centres),
+•
+Chords equidistant from the centre of a circle are equal in length,
+•
+If two chords of a circle are equal, then their corresponding arcs are congruent
+and conversely, if two arcs are congruent, then their corresponding chords are
+equal,
+•
+Congruent arcs of a circle subtend equal angles at the centre,
+•
+The angle subtended by an arc at the centre is double the angle subtended by it at
+any point on the remaining part of the circle,
+•
+Angles in the same segment of a circle are equal,
+•
+If a line segment joining two points subtends equal angles at two other points lying
+on the same side of the line containing the line segment, then the four points are
+concyclic,
+CIRCLES
+CHAPTER 10
+16/04/18
+16/04/18
+
+98
+EXEMPLAR PROBLEMS
+•
+The sum of either pair of opposite angles of a cyclic quadrilateral is 180º,
+•
+If the sum of a pair of opposite angles of a quadrilateral is 180º, the quadrilateral is
+cyclic.
+(B) Multiple Choice Questions
+Write the correct answer :
+Sample Question 1: In Fig. 10.1, two congruent circles have centres O and O′. Arc
+AXB subtends an angle of 75º at the centre O and arc A′ Y B′ subtends an angle of 25º
+at the centre O′. Then the ratio of arcs A X B and A′ Y B′ is:
+Fig. 10.1
+(A) 2 : 1
+(B) 1 : 2
+(C) 3 : 1
+(D) 1 : 3
+Solution : Answer (C)
+Sample Question 2 : In Fig. 10.2, AB and CD are
+two equal chords of a circle with centre O. OP and OQ
+are perpendiculars on chords AB and CD, respectively.
+If ∠POQ = 150º, then ∠APQ is equal to
+(A) 30º
+(B) 75º
+(C) 15º
+(D) 60º
+Solution : Answer (B)
+Fig. 10.2
+16/04/18
+16/04/18
+
+CIRCLES
+99
+EXERCISE 10.1
+1.
+AD is a diameter of a circle and AB is a chord. If AD = 34 cm, AB = 30 cm, the
+distance of AB from the centre of the circle is :
+(A) 17 cm
+(B) 15 cm
+(C) 4 cm
+(D) 8 cm
+2.
+In Fig. 10.3, if OA = 5 cm, AB = 8 cm and OD is
+perpendicular to AB, then CD is equal to:
+(A) 2 cm
+(B) 3 cm
+(C) 4 cm
+(D) 5 cm
+3.
+If AB = 12 cm, BC = 16 cm and AB is perpendicular
+to BC, then the radius of the circle passing through
+the points A, B and C is :
+(A) 6 cm
+(B) 8 cm
+(C) 10 cm
+(D) 12 cm
+4.
+In Fig.10.4, if ∠ABC = 20º, then ∠AOC is equal to:
+(A) 20º
+(B) 40º
+(C) 60º
+(D) 10º
+Fig. 10.4
+5.
+In Fig.10.5, if AOB is a diameter of the circle
+and AC = BC, then ∠CAB is equal to:
+(A) 30º
+(B) 60º
+(C) 90º
+(D) 45º
+Fig. 10.3
+Fig. 10.5
+16/04/18
+16/04/18
+
+100
+EXEMPLAR PROBLEMS
+6.
+In Fig. 10.6, if ∠OAB = 40º, then ∠ACB is equal to :
+(A) 50º
+(B) 40º
+(C) 60º
+(D) 70°
+Fig. 10.6
+7.
+In Fig. 10.7, if ∠DAB = 60º, ∠ABD = 50º, then ∠ACB is equal to:
+(A) 60º
+(B) 50º
+(C) 70º
+(D) 80º
+Fig. 10.7
+8.
+ABCD is a cyclic quadrilateral such that AB is
+a diameter of the circle circumscribing it and
+∠ADC = 140º, then ∠BAC is equal to:
+(A) 80º
+(B) 50º
+(C) 40º
+(D) 30º
+9.
+In Fig. 10.8, BC is a diameter of the circle and
+∠BAO = 60º. Then ∠ADC is equal to :
+(A) 30º
+(B) 45º
+(C) 60º
+(D) 120º
+Fig. 10.8
+16/04/18
+16/04/18
+
+CIRCLES
+101
+10. In Fig. 10.9, ∠AOB = 90º and ∠ABC = 30º, then ∠CAO is equal to:
+(A) 30º
+(B) 45º
+(C) 90º
+(D) 60º
+Fig. 10.9
+(C) Short Answer Questions with Reasoning
+Write True or False and justify your answer.
+Sample Question 1: The angles subtended by a chord at any two points of a circle
+are equal.
+Solution : False. If two points lie in the same segment (major or minor) only, then the
+angles will be equal otherwise they are not equal.
+Sample Questions 2 : Two chords of a circle of lengths 10 cm and 8 cm are at the
+distances 8.0 cm and 3.5 cm, respectively from the centre.
+Solution: False. As the larger chord is at smaller distance from the centre.
+EXERCISE 10.2
+Write True or False and justify your answer in each of the following:
+1.
+Two chords AB and CD of a circle are each at distances 4 cm from the centre.
+Then AB = CD.
+2.
+Two chords AB and AC of a circle with centre O are on the opposite sides of OA.
+Then ∠OAB = ∠OAC .
+3.
+Two congruent circles with centres O and O′ intersect at two points A and B.
+Then ∠AOB = ∠AO′B.
+4.
+Through three collinear points a circle can be drawn.
+5.
+A circle of radius 3 cm can be drawn through two points A, B such that AB = 6 cm.
+16/04/18
+16/04/18
+
+102
+EXEMPLAR PROBLEMS
+6.
+If AOB is a diameter of a circle and C is a point on the circle, then AC2 + BC2 =
+AB2.
+7.
+ABCD is a cyclic quadrilateral such that ∠A = 90°, ∠B = 70°, ∠C = 95° and
+∠D = 105°.
+8.
+If A, B, C, D are four points such that ∠BAC = 30° and ∠BDC = 60°, then D is
+the centre of the circle through A, B and C.
+9.
+If A, B, C and D are four points such that ∠BAC = 45° and ∠BDC = 45°, then A,
+B, C, D are concyclic.
+10. In Fig. 10.10, if AOB is a diameter and ∠ADC = 120°, then ∠CAB = 30°.
+Fig. 10.10
+(D) Short Answer Questions
+Sample Question 1 : In Fig. 10.11, AOC is a diameter of the circle and arc AXB =
+1
+2 arc BYC. Find ∠BOC.
+Solution :
+As
+arc AXB = 1
+2 arc BYC,
+∠AOB = 1
+2 ∠BOC
+Also
+∠AOB + ∠BOC = 180º
+Therefore, 1
+2 ∠BOC + ∠BOC = 180º
+Fig. 10.11
+16/04/18
+16/04/18
+
+CIRCLES
+103
+or
+∠BOC = 2
+180º
+120º
+3 ×
+=
+Sample Question 2 :In Fig. 10.12, ∠ABC = 45º,
+prove that OA ⊥ OC.
+Solution :
+∠ABC = 
+1
+2 ∠AOC
+i.e., ∠AOC = 2∠ABC = 2 × 45º = 90º
+or
+OA ⊥OC
+EXERCISE 10.3
+1.
+If arcs AXB and CYD of a circle are congruent, find the ratio of AB and CD.
+2.
+If the perpendicular bisector of a chord AB of a circle PXAQBY intersects the
+circle at P and Q, prove that arc PXA ≅ Arc PYB.
+3.
+A, B and C are three points on a circle. Prove that the perpendicular bisectors of
+AB, BC and CA are concurrent.
+4.
+AB and AC are two equal chords of a circle. Prove that the bisector of the angle
+BAC passes through the centre of the circle.
+5.
+If a line segment joining mid-points of two chords of a circle passes through the
+centre of the circle, prove that the two chords are parallel.
+6.
+ABCD is such a quadrilateral that A is the centre of the circle passing through B,
+C and D. Prove that
+∠CBD + ∠CDB = 
+1
+2 ∠BAD
+7.
+O is the circumcentre of the triangle ABC and D is the mid-point of the base BC.
+Prove that ∠BOD = ∠A.
+8.
+On a common hypotenuse AB, two right triangles ACB and ADB are situated on
+opposite sides. Prove that ∠BAC = ∠BDC.
+9.
+Two chords AB and AC of a circle subtends angles equal to 90º and 150º, respectively
+at the centre. Find ∠BAC, if AB and AC lie on the opposite sides of the centre.
+10. If BM and CN are the perpendiculars drawn on the sides AC and AB of the
+triangle ABC, prove that the points B, C, M and N are concyclic.
+11. If a line is drawn parallel to the base of an isosceles triangle to intersect its equal
+sides, prove that the quadrilateral so formed is cyclic.
+Fig. 10.12
+16/04/18
+16/04/18
+
+104
+EXEMPLAR PROBLEMS
+12. If a pair of opposite sides of a cyclic quadrilateral are equal, prove that its diagonals
+are also equal.
+13. The circumcentre of the triangle ABC is O. Prove that ∠OBC + ∠BAC = 90º.
+14. A chord of a circle is equal to its radius. Find the angle subtended by this chord at
+a point in major segment.
+15. In Fig.10.13, ∠ADC = 130° and chord BC = chord BE. Find ∠CBE.
+Fig. 10.13
+Fig. 10.14
+16. In Fig.10.14, ∠ACB = 40º. Find ∠OAB.
+17. A quadrilateral ABCD is inscribed in a circle such that AB is a diameter and
+∠ADC = 130º. Find ∠BAC.
+18. Two circles with centres O and O′ intersect at two points A and B. A line PQ is
+drawn parallel to OO′ through A(or B) intersecting the circles at P and Q. Prove
+that PQ = 2 OO′.
+19. In Fig.10.15, AOB is a diameter of the circle and C, D, E are any three points on
+the semi-circle. Find the value of ∠ACD + ∠BED.
+Fig. 10.15
+16/04/18
+16/04/18
+
+CIRCLES
+105
+20. In Fig. 10.16, ∠OAB = 30º and ∠OCB = 57º. Find ∠BOC and ∠AOC.
+Fig. 10.16
+(E)  Long Answer Questions
+Sample Question 1 : Prove that two circles cannot intersect at more than two points.
+Solution :  Let there be two circles which intersect at three points say at A, B and C.
+Clearly, A, B and C are not collinear. We know that through three non-collinear points
+A, B and C one and only one circle can pass. Therefore, there cannot be two circles
+passing through A, B and C. In other words, the two circles cannot intersect at more
+than two points.
+Sample Question 2 :  Prove that among all the chords of a circle passing through a
+given point inside the circle that one is smallest which is perpendicular to the diameter
+passing through the point.
+Solution : Let P be the given point inside a circle
+with centre O. Draw the chord AB which is
+perpendicular to the diameter XY through P. Let CD
+be any other chord through P. Draw ON perpendicular
+to CD from O. Then ∆ONP is a right triangle
+(Fig.10.17). Therefore, its hypotenuse OP is larger
+than ON. We know that the chord nearer to the centre
+is larger than the chord which is farther to the centre.
+Therefore, CD > AB. In other words, AB is the
+smallest of all chords passing through P.
+Fig. 10.17
+16/04/18
+16/04/18
+
+106
+EXEMPLAR PROBLEMS
+EXERCISE 10.4
+1.
+If two equal chords of a circle intersect, prove that the parts of one chord are
+separately equal to the parts of the other chord.
+2.
+If non-parallel sides of a trapezium are equal, prove that it is cyclic.
+3.
+If P, Q and R are the mid-points of the sides BC, CA and AB of a triangle and AD
+is the perpendicular from A on BC, prove that P, Q, R  and D are concyclic.
+4.
+ABCD is a parallelogram. A circle through A, B is so drawn that it intersects AD
+at P and BC at Q. Prove that P, Q, C and D are concyclic.
+5.
+Prove that angle bisector of any angle of a triangle and perpendicular bisector of
+the opposite side  if intersect, they will intersect on the circumcircle of the triangle.
+6.
+If two chords AB and CD of a circle AYDZBWCX intersect at right angles
+(see Fig.10.18), prove that arc CXA + arc DZB = arc AYD + arc BWC = semi-
+circle.
+                                            Fig. 10.18
+7.
+If ABC is an equilateral triangle inscribed in a circle
+and P be any point on the minor arc BC which
+does not coincide with B or C, prove that PA is
+angle bisector of ∠BPC.
+8.
+In Fig. 10.19, AB and CD are two chords of a circle
+intersecting each other at point E. Prove that
+∠AEC = 
+1
+2 (Angle subtended by arc CXA at centre
++ angle subtended by arc DYB at the centre).
+Fig. 10.19
+16/04/18
+16/04/18
+
+CIRCLES
+107
+9.
+If bisectors of opposite angles of a cyclic quadrilateral ABCD intersect the circle,
+circumscribing it at the points P and Q, prove that PQ is a diameter of the circle.
+10. A circle has radius 
+2 cm. It is divided into two segments by a chord of length
+2 cm. Prove that the angle subtended by the chord at a point in major segment is 45º.
+11. Two equal chords AB and CD of a circle when produced intersect at a point P.
+Prove that PB = PD.
+12. AB and AC are two chords of a circle of radius r such that AB = 2AC. If p and q
+are the distances of AB and AC from the centre, prove that 4q2 = p2 + 3r2.
+13. In Fig. 10.20,O is the centre of the circle, ∠BCO = 30°. Find x and y.
+Fig. 10.20
+14. In Fig. 10.21, O is the centre of the circle, BD = OD and CD ⊥ AB. Find ∠CAB.
+Fig. 10.21
+16/04/18
+16/04/18

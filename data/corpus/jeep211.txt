@@ -1,0 +1,807 @@
+AREA RELATED TO CIRCLES
+CHAPTER 11
+(A) Main Concepts and Results
+Perimeters and areas of simple closed figures. Circumference and area of a circle.
+Area of a circular path (i.e., ring). Sector of a circle and its central angle – Major and
+Minor sectors. Segment of a circle – Major and Minor segments.
+•
+Circumference of a circle = 2 π r and area of a circle =  π r2, where r is the
+radius of the circle.
+•
+Area of the circular path formed by two concentric circles of radii
+r1 and r2 (r1 > r2) = π
+2
+2
+1
+2
+
+r
+r
+−
+= (
+)
+2
+2
+1
+2
+r
+r
+π
+−
+.
+•
+Area of the sector of a circle of radius r with central angle θ = 
+2
+× 
+
+360
+r
+where θ is measured in degrees.
+•
+Length of the arc of the sector of a circle of radius r with
+central angle θ = 
+× 2 
+360
+θ
+r where θ is measured in
+degrees.
+•
+Area of the minor segment APB of the circle in
+Fig. 11.1 = area of sector OAPB – area of ∆ OAB.
+•
+Area of the major sector of a circle of radius r
+= π r2 –  area of the corresponding minor sector.
+03/05/18
+
+120
+EXEMPLAR PROBLEMS
+• Area of the major segment of a circle of radius r = π r2 – area of the corre-
+sponding minor segment.
+Note: Unless stated otherwise, the value of π is to be taken as 22
+7 .
+(B) Multiple Choice Questions
+Choose the correct answer from the given four options:
+Sample Question 1 : If the area of a circle is 154 cm2, then its perimeter is
+(A) 11 cm
+(B) 22 cm
+(C) 44 cm
+(D) 55 cm
+Solution : Answer (C)
+Sample Question 2 :  If θ is the angle (in degrees) of a sector of a circle of radius r,
+then area of the sector is
+     (A)
+2
+
+360
+θ
+r
+(B)
+2
+
+180
+θ
+r
+(C) 2 
+360
+θ
+r
+(D) 2 
+180
+θ
+r
+Solution : Answer (A)
+EXERCISE 11.1
+Choose the correct answer from the given four options:
+1.
+If the sum of the areas of two circles with radii R1 and R2 is equal to the area of
+a circle of radius R, then
+(A)  R1 + R2 = R
+(B) 
+2
+1
+R + 
+2
+2
+R = R2
+(C)  R1 + R2 < R
+(D)  
+2
+2
+2
+1
+2
+R
+R
+R
++
+<
+2.
+If the sum of the circumferences of two circles with radii R1 and R2 is equal to the
+circumference of a circle of radius R, then
+(A)  R1 + R2 = R
+(B) R1 + R2 > R
+(C)  R1 + R2 < R
+(D) Nothing definite can be said about the relation
+     among R1, R2 and R.
+03/05/18
+
+AREA RELATED TO CIRCLES
+121
+3.
+If the circumference of a circle and the perimeter of a square are equal, then
+(A)
+Area of the circle = Area of the square
+(B)
+Area of the circle > Area of the square
+(C)
+Area of the circle < Area of the square
+(D)
+Nothing definite can be said about the relation between the  areas of the
+circle and square.
+4.
+Area of the largest triangle that can be inscribed in a semi-circle of radius r units is
+(A)
+r2 sq. units
+(B)
+1
+2 r2 sq. units
+(C)
+2 r2 sq. units
+(D)
+2 r2 sq. units
+5.
+If the perimeter of a circle is equal to that of a square, then the ratio of their
+areas is
+(A) 22 : 7
+(B) 14 : 11
+(C) 7 : 22
+(D) 11: 14
+6.
+It is proposed to build a single circular park equal in area to the sum of areas of
+two circular parks of diameters 16 m and 12 m in a locality. The radius of the new
+park would be
+(A) 10 m
+(B) 15 m
+(C) 20 m
+(D) 24 m
+7.
+The area of the circle that can be inscribed in a square of side 6 cm is
+(A) 36 π cm2
+ (B) 18 π cm2
+(C) 12 π cm2
+ (D) 9 π cm2
+8.
+The area of the square that can be inscribed in a circle of radius 8 cm is
+(A) 256 cm2
+(B) 128 cm2
+(C) 64
+2 cm2 (D)  64 cm2
+9.
+The radius of a circle whose circumference is equal to the sum of the circum-
+ferences of the two circles of diameters 36cm and 20 cm is
+(A) 56 cm
+(B) 42 cm
+(C) 28 cm
+(D) 16 cm
+10. The diameter of a circle whose area is equal to the sum  of the areas of the two
+circles of radii 24 cm and 7 cm is
+(A)  31 cm
+(B) 25 cm
+(C) 62 cm
+(D) 50 cm
+03/05/18
+
+122
+EXEMPLAR PROBLEMS
+(C) Short Answer Questions with Reasoning
+Sample Question 1 : Is the following statement true? Give reasons for your answer.
+Area of a segment of a circle = area of the corresponding sector – area of the corre-
+sponding triangle.
+Solution : Statement is not true. It is true only for a minor
+segment. In the case of a major segment, area of the triangle
+will have to be added to the corresponding area of the sector.
+Sample Question 2 : In Fig. 11.2, a circle is inscribed in a
+square of side 5 cm and another circle is circumscribing the
+square. Is it true to say that area of the outer circle is two
+times the area of the inner circle? Give reasons for your
+answer.
+Solution : It is true, because diameter of the inner circle = 5 cm and that of outer circle
+= diagonal of the square = 5 
+2 cm.
+So, A1 = π 
+2
+5 2
+2
+
+
+
+
+
+
+
+
+ and A2 =  π 
+2
+5
+2
+
+
+
+
+
+,  giving 
+1
+2
+A
+A = 2
+EXERCISE 11.2
+1.
+Is the area of the circle inscribed in a square of side a cm, πa2 cm2? Give reasons
+for your answer.
+2.
+Will it be true to say that the perimeter of a square
+circumscribing a circle of radius a cm is 8a cm? Give
+reasons for your answer.
+3.
+In Fig 11.3, a square is inscribed in a circle of diameter
+d and another square is circumscribing the circle. Is
+the area of the outer square four times the area of the
+inner square? Give reasons for your answer.
+03/05/18
+
+AREA RELATED TO CIRCLES
+123
+4.
+Is it true to say that area of a segment of a circle is less than the area of its
+corresponding sector? Why?
+5.
+Is it true that the distance travelled by a circular wheel of diameter d cm in one
+revolution is 2 π d cm? Why?
+6.
+In covering a distance s metres, a circular wheel of radius r metres makes 2
+s
+r
+revolutions. Is this statement true? Why?
+7.
+The numerical value of the area of a circle is greater than the numerical value of
+its circumference. Is this statement true? Why?
+8.
+If the length of an arc of a circle of radius r is equal to that of an arc of a circle
+of radius 2 r, then the angle of the corresponding sector of the first circle is double
+the angle of the corresponding sector of the other circle. Is this statement false?
+Why?
+9.
+The areas of two sectors of two different circles with equal corresponding arc
+lengths are equal. Is this statement true? Why?
+10.
+The areas of two sectors of two different circles are equal. Is it necessary that
+their corresponding arc lengths are equal? Why?
+11.
+Is the area of the largest circle that can be drawn inside a rectangle of length
+a cm and breadth b cm (a > b) is π b2 cm2? Why?
+12.
+Circumferences of two circles are equal. Is it necessary that their areas be equal?
+Why?
+13.
+Areas of two circles are equal. Is it necessary that their circumferences are
+equal? Why?
+14.
+Is it true to say that area of a square inscribed in a circle of diameter p cm is
+p2 cm2? Why?
+(D) Short Answer Questions
+Sample Question 1: Find the diameter of the circle whose area is equal to the sum of
+the areas of the two circles of diameters 20 cm and 48 cm.
+03/05/18
+
+124
+EXEMPLAR PROBLEMS
+Solution :  Here, radius r1 of first circle = 20
+2 cm = 10 cm and radius  r2 of the
+second circle = 48
+2 cm = 24 cm
+Therefore, sum of their areas = 
+2
+2
+2
+2
+1
+2
+
+
+
+
+
+
++
+=
++
+=
+×
+r
+r
+  (1)
+Let the radius of the new circle be r cm. Its area = π r2
+  (2)
+Therefore, from (1) and (2),
+π r2 = π × 676
+or
+r2 = 676
+i.e.,
+r = 26
+Thus, radius of the new circle = 26 cm
+Hence, diameter of the new circle = 2×26 cm = 52 cm
+Sample Question 2 : Find the area of a sector of circle of radius 21 cm and central
+angle 120°.
+Solution : Area of the sector = 
+2
+
+θ ×
+360
+r
+2
+2
+2
+2
+120
+22
+(21) cm
+360
+7
+22
+21 cm
+462 cm
+=
+×
+×
+=
+×
+=
+Sample Question 3 :  In Fig 11.4, a circle of radius 7.5 cm is inscribed in a square.
+Find the area of the shaded region (Use π = 3.14)
+03/05/18
+
+AREA RELATED TO CIRCLES
+125
+Solution : Area of the circle = π r2
+= 3.14 × (7.5)2 cm2
+= 176. 625 cm2
+Clearly, side of the square = diameter of the circle = 15 cm
+So, area of the square = 152cm2 = 225 cm2
+Therefore, area of the shaded region
+= 225 cm2 – 176.625 cm2 = 48.375 cm2
+Sample Question 4 :  Area of a sector of a circle of radius 36 cm is 54 π cm2. Find
+the length of the corresponding arc of the sector.
+Solution : Let the central angle (in degrees) be θ.
+So,
+2
+(36) 
+54
+360
+π×
+=
+π
+or
+θ = 54 360
+15
+36 36
+×
+=
+×
+Now, length of the arc
+= 
+2
+360
+θ × πr
+= 15
+2
+36 cm
+360 ×
+π ×
+= 3 π cm
+EXERCISE 11.3
+1.
+Find the radius of a circle whose circumference is equal
+to the sum of the circumferences of two circles of radii
+15 cm and 18 cm.
+2.
+In Fig. 11.5, a square of diagonal 8 cm is inscribed in a
+circle. Find the area of the shaded region.
+03/05/18
+
+126
+EXEMPLAR PROBLEMS
+3.
+Find the area of a sector of a  circle of radius 28 cm and central angle 45°.
+4.
+The wheel of a motor cycle is of radius 35 cm. How many revolutions per
+minute must the wheel make so as to keep a speed of 66 km/h?
+5.
+A cow is tied with a rope of length 14 m at the corner of a rectangular field of
+dimensions 20m × 16m. Find the area of the field in which the cow can graze.
+6.
+Find the  area of the flower bed (with semi-circular ends) shown in Fig. 11.6.
+7.
+In Fig. 11.7, AB is a diameter of the circle, AC = 6 cm and BC = 8 cm. Find the
+area of the shaded region (Use π = 3.14).
+8.
+Find the area of the shaded field shown in Fig. 11.8.
+03/05/18
+
+AREA RELATED TO CIRCLES
+127
+9.
+Find the area of the shaded region in Fig. 11.9.
+10.
+Find the area of the minor segment of a circle of radius 14 cm, when the angle
+of the corresponding sector is 60°.
+11.
+Find the area of the shaded region in Fig. 11.10, where arcs drawn with centres
+A, B, C and D intersect in pairs at mid-points P, Q, R and  S of the sides AB, BC,
+CD and DA, respectively of a square ABCD (Use π = 3.14).
+12.
+In Fig. 11.11, arcs are drawn by taking
+vertices A, B and C of an equilateral triangle
+of side 10 cm. to intersect the sides BC, CA
+and AB at their respective mid-points D, E
+and F. Find the area of the shaded region
+(Use π = 3.14).
+03/05/18
+
+128
+EXEMPLAR PROBLEMS
+13.
+In Fig. 11.12, arcs have been drawn with radii 14 cm each and with centres P, Q
+and R. Find the area of the shaded region.
+14.
+A circular park is surrounded by a road 21 m wide. If the radius of the park is
+105 m, find the area of the road.
+15.
+In Fig. 11.13, arcs have been drawn of radius 21 cm each with vertices A, B, C
+and D of quadrilateral ABCD as centres. Find the area of the shaded region.
+16.
+A piece of wire 20 cm long is bent into the form of an arc of a circle subtending
+an angle of 60° at its centre. Find the radius of the circle.
+(E) Long Answer Questions
+Sample Question 1 :   A chord of a circle of radius 20 cm subtends an angle of 90°
+at the centre. Find the area of the corresponding major segment of the circle.
+(Use π = 3.14).
+03/05/18
+
+AREA RELATED TO CIRCLES
+129
+Solution : Let A B be the chord of a circle of radius 10 cm, with O as the centre of the
+circle (see Fig. 11.14).
+Here, ∠A O B = 90° and we have to find the area of the major segment (which is
+shaded). As  ∠AOB= 90°, therefore angle of the major sector = 360° – 90° = 270°
+So, area of the major sector = 270
+360 × π × (10)
+2  cm2
+= 3
+4 × 3.14 × 100 cm
+2
+= 75 × 3.14 cm
+2 = 235.5 cm
+2
+Now, to find the area of ∆ OAB, draw OM ⊥ AB.
+So, AM = 1
+2 A B and ∠AOM = 1
+2 × 90° = 45°.
+Now,
+AM
+OA = sin 45° = 
+1
+2
+So,
+AM = 10 × 
+1 cm.
+2
+Therefore,
+A B = 10
+2 cm and OM = OA cos 45° = 10× 
+1 cm
+2
+= 5 
+2 cm
+So, area of ∆ OAB = 1
+2 base × height
+03/05/18
+
+130
+EXEMPLAR PROBLEMS
+= 1
+2 10
+2 × 5
+2 cm
+2 = 50 cm
+2
+Therefore, the area of the required major segment
+= 235.5 cm
+2 + 50 cm
+2 = 285.5 cm
+2
+Another method for the area of ∆ OAB
+As,  ∠AOB = 90°,
+Therefore, area of ∆ OAB= 1
+2 OA × OB
+= 1
+2 10 × 10 cm
+2  = 50 cm
+2
+Sample Question 2 : With the vertices A, B and C of a triangle ABC as centres, arcs
+are drawn with radii 5 cm each as shown in Fig. 11.15. If AB = 14 cm, BC = 48 cm and
+CA = 50 cm, then find the area of the shaded region.  (Use π = 3.14).
+Solution : Area of the sector with angle A
+= 
+2
+2
+2
+A
+A
+(5) cm
+360°
+360
+r
+∠
+∠
+×π
+=
+×π×
+°
+Area of the sector with angle B
+= 
+2
+2
+2
+B
+B
+(5) cm
+360°
+360
+r
+∠
+∠
+×π
+=
+×π×
+°
+03/05/18
+
+AREA RELATED TO CIRCLES
+131
+and the area of the sector with angle C = 
+2
+2
+C
+(5) cm
+360°
+∠
+× π ×
+Therefore, sum of the areas (in cm
+2) of the three sectors
+= 
+2
+2
+2
+A
+B
+C
+(5)
+(5)
+(5)
+360°
+360
+360
+∠
+∠
+∠
+× π ×
++
+×π×
++
+×π×
+°
+°
+= 
+A + B + C
+25
+360°
+∠
+∠
+∠
+×
+π
+= 
+2
+180°
+25
+cm
+360°×
+π
+ (Because ∠A +∠B + ∠C = 180°)
+= 25 × 2
+π cm
+2  = 25 × 1.57 cm
+2  = 39.25 cm
+2
+Now, to find area of ∆ ABC, we find
+s =  
+ +  + 
+2
+a
+b
+c = 48 + 50 + 14
+2
+ cm = 56 cm
+By Heron’s Formula,
+ar (ABC) = 
+s(s– ) (s– ) (s– )
+a
+b
+c
+   = 
+56 × 8 × 6 × 42 cm
+2
+   = 336 cm
+2
+So, area of the shaded region = area of the ∆ ABC – area of the three sectors
+= (336 – 39.25) cm
+2  = 296.75 cm
+2
+Alternate Method for ar (ABC)
+Here, AB
+2 + BC
+2 = (14)
+2 + (48)
+2 = 2500 = (50)
+2 = (CA)
+2
+So, ∠B = 90° (By converse of Pythagoras Theorem)
+Therefore, ar (ABC) = 1
+2 AB × BC = 1
+2 × 14 × 48 cm
+2  = 336 cm
+2
+Sample Question 3 : A calf is tied with a rope of length 6 m at the corner of a square
+grassy lawn of side 20 m. If the length of the rope is increased by 5.5m, find the
+increase in area of the grassy lawn in which the calf can graze.
+Solution :  Let the calf be tied at the corner A of the square lawn (see Fig. 11.16)
+03/05/18
+
+132
+EXEMPLAR PROBLEMS
+Then, the increase in area = Difference of the two sectors of central angle 90°
+each and radii 11.5 m (6 m + 5.5 m) and 6 m, which is the shaded region in the
+figure.
+So, required increase in area
+=
+2
+2
+2
+90
+90
+
+
+
+
+360
+360
+
+
+×
+×
+−
+×
+
+
+
+
+2
+
+(11.5
+6) (11.5
+6)m
+4
+=
+×
++
+−
+2
+22
+17.5 5.5m
+7
+4
+=
+×
+×
+×
+= 75.625 m
+2 .
+EXERCISE 11.4
+1.
+The area of a circular playground is 22176 m
+2. Find the cost of fencing this
+ground at the rate of Rs 50 per metre.
+2.
+The diameters of front and rear wheels of a tractor are 80 cm and 2 m respec-
+tively. Find the number of revolutions that rear wheel will make in covering a
+distance in which the front wheel makes 1400 revolutions.
+3.
+Sides of a triangular field are 15 m, 16 m and 17 m. With the three corners of the
+field a cow, a buffalo and a horse are tied separately with ropes of length 7 m
+each to graze in the field. Find the area of the field which cannot be grazed by
+the three animals.
+03/05/18
+
+AREA RELATED TO CIRCLES
+133
+4.
+Find the area of the segment of a circle of radius 12 cm whose corresponding
+sector has a central angle of 60° (Use π = 3.14).
+5.
+A circular pond is 17.5 m is of diameter. It is surrounded by a 2 m wide path.
+Find the cost of constructing the path at the rate of Rs 25 per m2
+6.
+In Fig. 11.17, ABCD is a trapezium with AB || DC, AB = 18 cm, DC = 32 cm
+and distance between AB and DC = 14 cm. If arcs of equal radii 7 cm with
+centres A, B, C and D have been drawn, then find the area of the shaded region
+of the figure.
+7.
+Three circles each of radius 3.5 cm are drawn in such a way that each of them
+touches the other two. Find the area enclosed between these circles.
+8.
+Find the area of the sector of a circle of radius 5 cm, if the corresponding arc
+length is 3.5 cm.
+9.
+Four circular cardboard pieces of radii 7 cm are placed on a paper in such a way
+that each piece touches other two pieces. Find the area of the portion enclosed
+between these pieces.
+10.
+On a square cardboard sheet of area 784 cm
+2, four congruent circular plates of
+maximum size are placed such that each circular plate touches the other two
+plates and each side of the square sheet is tangent to two circular plates. Find
+the area of the square sheet not covered by the circular plates.
+11.
+Floor of a room is of dimensions 5 m × 4 m and it is covered with circular
+tiles of diameters 50 cm each as shown in Fig. 11.18. Find the area of floor
+03/05/18
+
+134
+EXEMPLAR PROBLEMS
+that remains uncovered with tiles. (Use π = 3.14)
+12.
+All the vertices of a rhombus lie on a circle. Find the area of the rhombus, if area
+of the circle is 1256 cm
+2 . (Use π = 3.14).
+13.
+An archery target has three regions formed by three concentric circles as shown
+in Fig. 11.19. If the diameters of the concentric circles are in the ratio 1: 2:3, then
+find the ratio of the areas of three regions.
+14.
+The length of the minute hand of a clock is 5 cm. Find the area swept by the
+minute hand during the time period 6 : 05 a m and 6 : 40 a m.
+15.
+Area of a sector of central angle 200° of a circle is 770 cm
+2. Find the length of
+the corresponding arc of this sector.
+03/05/18
+
+AREA RELATED TO CIRCLES
+135
+16.
+The central angles of two sectors of circles of radii 7 cm and 21 cm are
+respectively 120° and 40°. Find the areas of the two sectors as well as the
+lengths of the corresponding arcs. What do you observe?
+17.
+Find the area of the shaded region given in Fig. 11.20.
+18.
+Find the number of revolutions made by a circular wheel of area 1.54 m
+2  in
+rolling a distance of 176 m.
+19.
+Find the difference of the areas of two segments of a circle formed by a chord
+of length 5 cm subtending an angle of 90° at the centre.
+20.
+Find the difference of the areas of a sector of angle 120° and its corresponding
+major sector of a circle of radius 21 cm.
+03/05/18

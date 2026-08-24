@@ -1,0 +1,1337 @@
+UNIT 12
+INTRODUCTION TO GRAPHS
+INTRODUCTION TO GRAPHS
+INTRODUCTION TO GRAPHS
+INTRODUCTION TO GRAPHS
+INTRODUCTION TO GRAPHS
+(A)  Main Concepts and Results
+• Graphical representation of data is easier to understand.
+• A bar graph, a pie chart and histogram  are graphical
+representations of data.
+• A line graph displays data that changes continuously over periods
+of time.
+• A line graph in which all the line segments form a part of a single
+line is called a linear graph.
+• For fixing a point on the graph sheet, we need two mutually
+perpendicular lines (in which horizontal line is called x axis and
+the vertical line as y axis) alongwith, x coordinate (abscissa) and
+y coordinate (ordinate) of the point. The process of fixing a point
+with the help of the coordinates is known as plotting a point in
+the plane.
+• The relation between a dependent variable and an independent
+variable is shown through a graph.
+(B)
+Solved Examples
+In examples 1 and 2, there are four options out of which one is correct.
+Write the correct answer.
+Example 1
+: Every point on the x axis is of the form.
+(a) (0, y)
+(b) (x,  0)
+(c) (x, y)
+(d) (x, 1)
+Solution
+: The correct answer is (b).
+12/04/18
+
+366    EXEMPLAR PROBLEMS
+MATHEMATICS
+Example 2
+: The given graph shows Nisha’s trip to a mall by a car.
+Observe the graph carefully and find what was she doing
+between 5 pm and 7 pm?
+(a) Driving to the mall.
+(b) Driving back home.
+(c) Was not driving.
+(d) Not enough data to answer.
+Solution
+: The correct answer is (c).
+In examples 3 and 4, fill  in the blanks to make the statements true.
+Example 3
+: In a __________ graph, all the points on the graph lie on
+the same straight line.
+Solution
+: Linear.
+Example 4
+: The coordinates of the origin are ___________
+Solution
+: (0, 0).
+In examples 5 and 6, state whether the statements are true (T) or false (F).
+Example 5 : Points (3, 4) and (4, 3) represent the same point on the
+graph.
+Solution :
+False.
+Example 6 : The y coordinate of any point lying on the x axis will be 0.
+Solution :
+True.
+Example 7 : Plot the points (4, 4), (1, 3), (4, 2) and (7, 3) on a graph
+paper and connect them with line segments. Name the
+shape formed by these points.
+12/04/18
+
+INTRODUCTION TO GRAPHS  367
+UNIT-12
+Solution
+:
+The shape formed is a rhombus.
+Example 8
+: Write the coordinates of all the points in the given graph.
+Solution
+: (A) (4, 7)
+(E) (3, 5)
+(I) (4, 5)
+(B) (7, 4)
+(F) (5, 5)
+(J) (5, 4)
+(C) (4, 1)
+(G) (5, 3)
+(K) (4, 3)
+(D) (1, 4)
+(H) (3, 3)
+(L) (3, 4)
+Example 9
+: The following is a conversion graph of temperature in °C
+and °F.
+Use the graph to answer the following questions.
+(a) Convert 140 °F to °C.
+(b) Convert 20 °C to °F
+12/04/18
+
+368    EXEMPLAR PROBLEMS
+MATHEMATICS
+Solution
+: (a) 140°F = 60°C.
+(b) 20°C = 68°F
+Example 10 : Following graph shows a comparison of the approximate
+sale of items manufactured by a company for the first
+two years of its operation.
+(a) In which months there was maximum difference in
+the sale of items of two years?
+(b) In which year was there more stability in the sale of
+items?
+(c) In which month the sale remains the same in both
+the years?
+Vocabulary Connections
+To become familiar with some of the vocabulary terms in the chapter,
+consider the following.
+1.
+The word origin means ‘beginning.’ How do you think this might apply
+to graphing?
+2.
+The root of the word ‘quadrant’ is ‘quad,’ which means ‘four.’ What do
+you think a quadrant of a graph might be?
+3.
+The word ‘ordered’ means ‘arranged according to a rule.’ Do you think
+it refers to a rule.’ Do you think it matters which number comes first
+in an ordered pair? Explain.
+12/04/18
+
+INTRODUCTION TO GRAPHS  369
+UNIT-12
+(d) In which month was the sales of first year  less than
+that of second year?
+Solution
+: (a) The maximum difference was in June.
+(b) There was more stability in sales in the first year.
+(c) The sales remained the same in August.
+(d) June and November.
+Example 11 : The given graphs show the progress of two different
+cyclists during a ride. For each graph, describe the rider’s
+progress over the period of time.
+Solution
+: (a) As time passes, the speed of cyclist I decreases steadily.
+(b) Speed of cyclist II increases for a short time period,
+and then increases very slowly.
+12/04/18
+
+370    EXEMPLAR PROBLEMS
+MATHEMATICS
+Example 12 :
+- A double bar graph is useful for the __________ of
+two sets of data.
+- Data represented in a circular form is called a
+_________ chart.
+- The graph of a linear equation is always a __________
+line.
+- The cartesian system used two axes which are
+__________ to each other.
+Solution :
+Comparison, Pie, Straight, Perpendicular.
+Think and Discuss
+1. Describe the kind of data that is best represented by a bar graph.
+2. Give a situation in which you would use a line graph to display data.
+Application on Problem Solving Strategy
+Understand and Explore the problem
+•
+What information does the question give?
+The x-coordinates and the equation for finding the y-coordinate
+•
+What are you trying to find?
+(1)
+The y-coordinates.
+(2)
+The coordinates of all 5 points.
+(3)
+Plotting the graph of these 5 points.
+Plan a Strategy
+•
+You have learnt to solve linear equations. Use the concept to
+find the y-coordinates by putting x = 0, 1, 2, 3, 4 in the equation
+y = 2x.
+•
+Take a graph sheet and draw the 2 axes and locate the points
+on it. Join the points to get a graph.
+Example 11 :
+Complete the given table and draw a graph for it.
+x
+0
+1
+2
+3
+4
+y = 2x
+12/04/18
+
+INTRODUCTION TO GRAPHS  371
+UNIT-12
+Solve
+• Given y = 2x
+If x = 0,  y = 2 (0) = 2
+If x = 1,  y = 2 (1) = 2
+If x = 2,  y = 2 (2) = 4
+If x = 3,  y = 2 (3) = 6
+If x = 4,  y = 2 (4) = 8
+So the completed table will be
+x
+0
+1
+2
+3
+4
+y = 2x
+0
+2
+4
+6
+8
+The coordinates of the 5
+points are (0,0),(1, 2), (2, 4),
+(3, 6), (4, 8)
+Take a graph sheet and plot
+the coordinates of these 5
+points on it. Join the points
+to get a graph.
+The graph sheet will look
+like this.
+Revise
+• Substitute the values of x
+and 
+y 
+from 
+each
+coordinate in the given
+equation y = 2x and see if the coordinates satisfy the equation.
+For coordinate (0, 0)
+L.H.S. = 0
+R.H.S. = 2 (0)  = 0 LHS = RHS
+Hence satisfied.
+For coordinate (1, 2)
+L H S = 2
+R H S = 2 (1) = 2 = LHS = RHS
+Hence satisfied.
+Similarly, you can verify for other coordinates to see if the
+coordinates found were correct.
+12/04/18
+
+372    EXEMPLAR PROBLEMS
+MATHEMATICS
+(C) Exercises
+In questions 1 to 10, there are four options out of which one is correct.
+Write the correct answer.
+1. Comparison of parts of a whole may be done by a
+(a) bar graph
+(b) pie chart
+(c) linear graph
+(d) line graph
+2. A graph that displays data that changes continuously over periods
+of time is
+(a) bar graph
+(b) pie chart
+(c) histogram
+(d) line graph
+3. In the given graph the coordinates of point x are
+(a) (0, 2)
+(b) (2, 3)
+(c) (3, 2)
+(d) (3, 0)
+Think and Discuss
+(a) Can you predict from the graph, the value of y when x = 7 ?
+(b) How would the graph change when the equation changes to y = 3x ?
+Find Some Solutions to Plot a Graph
+To graph a linear equation, you need to find some ordered pairs to plot
+that are solutions to the linear equation.
+You do this by putting some x-values into the equation and finding their
+corresponding y-values.
+12/04/18
+
+INTRODUCTION TO GRAPHS  373
+UNIT-12
+4. In the given graph the letter that indicates the point (0, 3) is
+(a) P
+(b) Q
+(c) R
+(d) S
+5. The point (3, 4)  is at a distance of
+(a) 3 from both the axis
+(b) 4 from both the axis
+(c) 4 from the x axis and
+(d) 3 from x axis and
+     3 from y axis
+     from y axis
+6. A point which lies on both the axis is  __________
+(a)
+(0, 0)
+(b) (0, 1)
+(c) (1, 0)
+(d) (1, 1)
+7. The coordinates of a point at a distance of 3 units from the x axis
+and 6 units from the y axis is
+(a)
+(0, 3)
+(b) (6, 0)
+(c) (3, 6)
+(d) (6, 3)
+8. In the given figure the position of the book on the table may be given
+by
+(a) (7, 3)
+(b) (3, 7)
+(c) (3, 3)
+(d) (7, 7)
+12/04/18
+
+374    EXEMPLAR PROBLEMS
+MATHEMATICS
+9. Data was collected on a student’s typing rate and graph was drawn
+as shown below. Approximately how many words had this student
+typed in 30 seconds?
+(a)
+20
+(b) 24
+(c) 28
+(d) 34
+10.
+Which graphs of the following represent the table below?
+Length of Side of a Square
+1
+2
+3
+4
+5
+Perimeter
+4
+8
+12
+16
+20
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2
+4
+6
+8
+10
+12
+14
+16 18
+20
+Perimeter
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2
+4
+6
+8
+10
+12
+14
+16 18
+20
+Perimeter
+Length
+(b)
+Length
+(a)
+Think and Discuss
+1. Give the coordinates of a point on the x-axis and a point on the y-axis.
+2. Give the missing y-coordinates for the solutions to y = 5x + 2;
+(1, y), (3, y), (10, y).
+12/04/18
+
+INTRODUCTION TO GRAPHS  375
+UNIT-12
+In questions 11 to 25, fill in the blanks to make the statements true.
+11.
+__________ displays data that changes continuously over periods of
+time.
+12.
+The relation between dependent and independent variables is shown
+through a __________.
+13.
+We need __________ coordinates for representing a point on the graph
+sheet.
+14.
+A point in which the x-coordinate is zero and y-coordinate is non-
+zero will lie on the _________
+15.
+The horizontal and vertical line in a line graph are usually called
+__________ and __________.
+16.
+The process of fixing a point with the help of the coordinates is
+known as __________ of the point.
+17.
+The distance of any point from the y-axis is the __________ coordinate.
+18.
+All points with y-coordinate as zero lie on the __________.
+19.
+For the point (5, 2), the distance from the x -axis is __________ units.
+20.
+The x-coordinate of any point lying on the y-axis will  be __________.
+21.
+The y-coordinate of the point (2, 4) is __________.
+22.
+In the point (4, 7), 4 denotes the __________.
+12/04/18
+
+376    EXEMPLAR PROBLEMS
+MATHEMATICS
+23.
+A point has 5 as its x–coordinate and 4 as its y–coordinate. Then
+the coordinates of the point are given by __________.
+24.
+In the coordinates of a point, the second number denotes the
+__________.
+25.
+The point where the two axes intersect is called the __________.
+In the questions 26 to 34, state whether the statements are true (T) or
+false (F).
+26.
+For fixing a point on the graph sheet we need two coordinates.
+Distribution of Primes
+Remember that a prime number is only divisible by 1 and itself. There are
+infinitely many prime numbers, but there is no algebraic formula to find
+them. The largest known prime number, discovered on November 14, 2001,
+is 213,466,917 –1. In standard form, this number would have 4,053,948 digits.
+Sieve of Eratosthenes
+One way to find prime numbers
+is 
+called 
+the 
+Sieve 
+of
+Eratosthenes. Use a list of whole
+numbers in order. Cross off 1. The
+next number 2 is prime. Circle
+it. Then cross off all multiples of
+2, because they are not prime.
+Circle the next number on the
+list. Cross off all of its multiples. Repeat this step until all of the numbers
+are circled or crossed off. The circled numbers will all be primes.
+1. Use the Sieve of Eratosthenes to find all prime number less than 50.
+2. On graph paper plot the first 15 prime number. Use the prime number
+as the x-coordinates and their positions in the sequence as the y-
+coordinates; 2 is the 1st prime, 3 is the 2nd prime, and so on.
+3. Estimate the line of best fit and use it to estimate the number of primes
+under 100. Use the Sieve of Eratosthenes to check your estimate.
+12/04/18
+
+INTRODUCTION TO GRAPHS  377
+UNIT-12
+27.
+A line graph can also be a whole unbroken line.
+28.
+The distance of any point from the x-axis is called the x-coordinate.
+29.
+The distance of the point (3, 5) from the y-axis is 5.
+30.
+The ordinate of a point is its distance from the y-axis.
+31.
+In the point (2, 3), 3 denotes the y-coordinate.
+32.
+The coordinates of the origin are (0, 0).
+33.
+The points (3, 5) and (5, 3) represent the same point.
+34.
+The y-coordinate of any point lying on the x-axis will be zero.
+35.
+Match the coordinates given in Column A with the items  mentioned
+in Column B.
+Column A
+Column B
+(1) (0, 5)
+(a)
+y coordinate is 2 × x - coordinate + 1.
+(2) (2, 3)
+(b)
+Coordinates of origin.
+(3) (4, 8)
+(c)
+Only y–coordinate is zero.
+(4) (3, 7)
+(d)
+The distance from x–axis is 5.
+(5) (0, 0)
+(e)
+y coordinate is double of x–coordinate.
+(6) (5, 0)
+(f)
+The distance from y–axis is 2.
+36.
+Match the ordinates of the points given in Column A with the items
+mentioned in Column B.
+Column A
+Column B
+(a) (7, 0)
+(i)
+The ordinate is double the abscissa.
+(b) (11, 11)
+(ii)
+The ordinate is zero.
+(c) (4, 8)
+(iii)
+The ordinate is equal to the abscissa.
+(d) (6, 2)
+(iv)
+The abscissa is double the ordinate.
+(e) (0, 9)
+(v)
+The abscissa is triple the ordinate.
+(f) (6, 3)
+(vi)
+The abscissa is zero.
+12/04/18
+
+378    EXEMPLAR PROBLEMS
+MATHEMATICS
+37.
+From the given graph, choose the letters that indicate the location of
+the points given below.
+(a)
+(2, 0)
+(b)
+(0, 4)
+(c) (5, 1)
+(d) (2, 6)
+(e) (3,3)
+38.
+Find the coordinates of all letters in the graph given below.
+39.
+Plot the given points on a graph sheet.
+(a)
+(5, 4)
+(b)
+(2, 0)
+(c) (3, 1)
+(d) (0, 4)
+(e) (4,5)
+12/04/18
+
+INTRODUCTION TO GRAPHS  379
+UNIT-12
+40.
+Study the given map of a zoo and answer the following questions.
+(a)
+Give the location of lions in the zoo.
+(b) (D, f ) and (C, d) represent locations of which animals in the
+zoo?
+(c)
+Where are the toilets located?
+(d) Give the location of canteen.
+41.
+Write the x-coordinate (abscissa) of each of the given points.
+(a) (7, 3)
+(b) (5, 7)
+(c) (0, 5)
+42.
+Write the y-coordinate (ordinate) of each of the given points.
+(a) (3, 5)
+(b) (4, 0)
+(c) (2, 7)
+   Make a Plan :
+•
+Do you need an estimate or an exact answer?
+When you are solving a word problem, ask yourself whether
+you need an exact answer or whether an estimate is sufficient.
+For example, if the amounts given in the problem are
+approximate, only an approximate answer can be given. If an
+estimate is sufficient, you may wish to use estimation
+techniques to save time in your calculations.
+12/04/18
+
+380    EXEMPLAR PROBLEMS
+MATHEMATICS
+43.
+Plot the given points on a graph sheet and check if the points lie on
+a straight line. If not, name the shape they form when joined in the
+given order.
+(a)
+(1, 2), (2, 4), (3, 6), (4, 8).
+(b) (1, 1), (1, 2), (2, 1), (2, 2).
+(c)
+(4, 2), (2, 4), (3, 3), (5, 4).
+44.
+If y–coordinate is 3 times x-coordinate, form a table for it and draw a
+graph.
+45.
+Make a line graph for the area of a square as per the given table.
+Side (in cm)
+1
+2
+3
+ 4
+Area (in cm2)
+1
+4
+9
+16
+Is it a linear graph?
+46.
+The cost of a note book is Rs 10. Draw a graph after making a table
+showing cost of 2, 3, 4, .... note books. Use it to find
+(a)
+the cost of 7 notebooks.
+(b) The number of note books that can be purchased with Rs 50.
+47.
+Explain the situations represented by the following distance-time
+graphs.
+(a)
+(b)
+(c)
+48.
+Complete the given tables and draw a graph for each.
+(a)
+ x
+0
+1
+2
+3
+(b)
+x
+1
+2
+4
+6
+ y = 3x + 1
+1    4  -    -
+             y = x–1 0
+12/04/18
+
+INTRODUCTION TO GRAPHS  381
+UNIT-12
+49.
+Study the given graphs (a) and (b) and complete the corresponding
+tables below.
+(a)
+b)
+x
+0
+1
+2
+3
+     
+x      0
+1
+2
+3
+4
+y
+ y
+50.
+Draw a graph for the radius and circumference of circle using a
+suitable scale.
+(Hint : Take radius = 7, 14, 21 units and so on)
+From the graph,
+(a)
+Find the circumference of the circle when radius is 42 units.
+(b) At what radius will the circumference of the circle be 220 units?
+51.
+The graph shows the maximum temperatures recorded for two
+consecutive weeks of a town. Study the graph and answer the
+questions that follow.
+12/04/18
+
+382    EXEMPLAR PROBLEMS
+MATHEMATICS
+(a) What information is given by the two axes?
+(b) In which week was the temperature higher on most of the days?
+(c) On which day was the temperature same in both the weeks?
+(d) On which day was the difference in temperatures the maximum
+for both the weeks?
+(e) What were the temperatures for both the weeks on Thursday?
+(f) On which day was the temperature 35°C for the first week?
+(g) On which day was the temperature highest for the second week?
+52. The gra   ph given below gives the actual and expected sales of cars
+of a company for 6 months. Study the graph and answer the questions
+that follow.
+(a) In which month was the actual sales same as the expected sales?
+(b) For which month(s) was (were) the difference in actual and
+expected sales the maximum?
+(c) For which month(s) was (were) the difference in actual and
+expected sales the least?
+(d) What was the total sales of cars in the months–Jan, Feb. and
+March?
+(e) What is the average sales of cars in the last three months?
+(f) Find the ratio of sales in the first three months to the last three
+months.
+12/04/18
+
+INTRODUCTION TO GRAPHS  383
+UNIT-12
+53.
+The graph given below shows the marks obtained out of 10 by Sonia
+in two different tests. Study the graph and answer the questions
+that follow.
+(a) What information is represented by the axes?
+(b) In which subject did she score the highest in Test I?
+(c) In which subject did she score the least in Test II?
+(d) In which subject did she score the same marks in both the Tests?
+(e) What are the marks scored by her in English in Test II?
+(f) In which test was the performance better?
+(g) In which subject and which test did she score full marks?
+54.
+Find the coordinates of the vertices of the given figures.
+12/04/18
+
+384    EXEMPLAR PROBLEMS
+MATHEMATICS
+55.
+Study the graph given below of a person who started from his home
+and returned at the end of the day. Answer the questions that follow.
+(a) At what time did the person start from his home?
+(b) How much distance did he travel in the first four hours of his
+journey?
+(c) What was he doing from 3 pm to 5 pm?
+(d) What was  the total distance travelled by him throughout the
+day?
+(e) Calculate the distance covered by him in the first 8 hours of his
+journey.
+(f) At what time did he cover 16 km of his journey?
+(g) Calculate the average speed of the man from (a) A to B (b) B to C
+(c) At what time did he return home?
+56.
+Plot a line graph for the variables p and q where p is two times q i.e,
+the equation is p = 2q. Then find.
+(a) the value of p when q = 3
+(b) the value of q when p = 8
+57.
+Study the graph and answer the questions that follow.
+(a) What information does the graph give?
+(b) On which day was the temperature the least?
+(c) On which day was the temperature 31°C?
+(d) Which was the hottest day?
+12/04/18
+
+INTRODUCTION TO GRAPHS  385
+UNIT-12
+Sun
+Mon
+24
+26
+28
+30
+32
+34
+Tues
+Wed
+Thur
+Fri
+Sat
+Days ¾®
+Maximum Temperature ¾®
+36
+58.
+Study the distance-time graph given below for a car to travel to
+certain places and answer the questions that follow.
+(a) How far does the car travel in 2 hours?
+(b) How much time does the car take to reach R?
+(c) How long does the car take to cover 80 km?
+(d) How far is Q from the starting point?
+(e) When does the car reach the place S after starting?
+12/04/18
+
+386    EXEMPLAR PROBLEMS
+MATHEMATICS
+59.
+Locate the points A (1,2), B (4,2) and C (1,4) on a graph sheet taking
+suitable axes. Write the coordinates of the fourth point D to complete
+the rectangle ABCD.
+60.
+Locate the points A(1,2), B (3,4) and C (5,2) on a graph sheet taking
+suitable axes. Write the coordinates of the fourth point D to complete
+the rhombus ABCD. Measure the diagonals of this rhombus and
+find whether they are equal or not.
+61.
+Locate the points P (3,4), Q (1,0), R (0,4), S (4,1) on a  graph sheet
+and write the coordinates of the point of intersection of line segments
+PQ and RS.
+62.
+The graph given below compares the sales of ice creams of two vendors
+for a week.
+Mon
+Tues
+10
+20
+30
+40
+50
+Wed
+Thur
+Fri
+Sat
+Sun
+Days ¾®
+Sales of Ice cream ¾®
+Vendor A
+Vendor B
+Observe the graph and answer the following questions.
+(a) Which vendor has sold more icecreams on Friday?
+(b) For which day was the sales same for both the vendors?
+(c) On which day did the sale of vendor A increase the most as
+compared to the previous day?
+(d) On which day was the difference in sales the maximum?
+(e) On which two days was the sales same for vendor B?
+12/04/18
+
+INTRODUCTION TO GRAPHS  387
+UNIT-12
+63.
+The table given below shows the temperatures recorded on a day at
+different times.
+Observe the table and answer the following questions.
+(a)
+What is the temperature at 8 am?
+(b) At what time is the temperature 3°C?
+(c)
+During which hour did the temperature fall?
+(d) What is the change in temperature between 7 am and 10 am?
+(e)
+During which hour was there a constant temperature?
+64.
+The following table gives the growth chart of a child.
+Height (in cm)
+ 75
+ 90
+ 110
+ 120
+ 130
+Age (in years)
+ 2
+ 4
+ 6
+ 8
+ 10
+Draw a line graph for the table and answer the questions that follow.
+(a) What is the height at the age of 5 years?
+(b) How much taller was the child at the age of 10 than at the age of
+6?
+(c) Between which two consecutive periods did the child grow more
+faster?
+12/04/18
+
+388    EXEMPLAR PROBLEMS
+MATHEMATICS
+65.
+The following is the time-distance graph of Sneha’s walking.
+(a) When does Sneha make the least progress? Explain your
+reasoning.
+(b) Find her average speed in km/hour.
+66.
+Draw a parallelogram ABCD on a graph paper with the coordinates
+given in Table I. Use this table to complete Tables II and III to get the
+coordinates of E, F, G, H and J, K, L, M.
+Point
+(x, y)
+ Point
+(0.5x, 0.5y)
+Point
+(2x, 1.5y)
+A
+(1, 1)
+E
+(0.5, 0.5)
+J
+(2, 1.5)
+B
+(4. 4)
+F
+K
+C
+(8, 4)
+G
+L
+D
+(5, 1)
+H
+M
+         Table I                       Table II
+                   Table III
+Draw parallelograms EFGH and JKLM on the same graph paper.
+Plot the points (2, 4) and (4, 2) on a graph paper, then draw a line
+segment joining these two points.
+67.  Extend the line segment on both sides to meet the coordinate axes.
+What are the coordinates of the points where this line meets the
+x-axis and the y-axis?
+12/04/18
+
+INTRODUCTION TO GRAPHS  389
+UNIT-12
+68.
+The following graph shows the change in temperature of a block of
+ice when heated. Use the graph to answer the following questions:
+(a) For how many seconds did the ice block have no change in
+temperature?
+(b) For how long was there a change in temperature?
+(c) After how many seconds of heating did the temperature become
+constant at 0°C?
+(d) What was the temperature after 25 seconds?
+(e) What will be the temperature after 1.5 minutes? Justify your
+answer.
+69.
+The following graph shows the number of people present at a certain
+shop at different times. Observe the graph and answer the following
+questions.
+Y
+X
+0
+5
+10
+15
+20
+25
+10
+am
+11
+am
+12
+am
+1
+pm
+2
+pm
+3
+pm
+4
+pm
+5
+pm
+6
+pm
+7
+pm
+Time ¾®
+Number of people
+¾®
+present at a shop
+(a) What type of a graph is this?
+12/04/18
+
+390    EXEMPLAR PROBLEMS
+MATHEMATICS
+(b) What information does the graph give?
+(c) What is the busiest time of day at the shop?
+(d) How  many people enter the shop when it opens?
+(e) About how many people are there in the shop at 1:30 pm?
+70.
+A man started his journey on his car from location A and came
+back. The given graph shows his position at different times during
+the whole journey.
+(a)
+At what time did he start and end his journey?
+(b) What was the total duration of journey?
+(c)
+Which journey, forward or return, was of longer duration?
+(d) For how many hours did he not move?
+(e)
+At what time did he have the fastest speed?
+71.
+The following graph shows the journey made by two cyclists, one
+from town A to B and the other from town B to A.
+(a) At what time did cyclist II rest? How long did the cyclist rest?
+(b) Was cyclist II cycling faster or slower after the rest?
+(c) At what time did the two cyclists meet?
+(d) How far had cyclist II travelled when he met cyclist I?
+(e) When cyclist II reached town A, how far was cyclist I from town B?
+12/04/18
+
+INTRODUCTION TO GRAPHS  391
+UNIT-12
+72.
+Ajita starts off from home at 07.00 hours with her father on a scooter
+that goes at a uniform speed of 30 km/h and drops her at her school
+after half an hour. She stays in the school till 13.30 hours and takes
+an auto rickshaw to return home. The rickshaw has a uniform speed
+of 10 km/h. Draw the graph for the above situation and also determine
+the distance of Ajita’s school from her house.
+73.
+Draw the line graph using suitable scale to show the annual gross
+profit of a company for a period of five years.
+Year
+1st
+2nd
+3rd
+4th
+5th
+Gross Profit
+17,00,000 15,50,000 11,40,000 12,10,000 14,90,000
+(in Rs)
+74.
+The following chart gives the growth in height in terms of percentage
+of full height of boys and girls with their respective ages.
+Age (in years)
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+Boys
+72% 75% 78%
+81% 84% 88% 92% 95% 98%
+99% 100%
+Girls
+77% 81% 84%
+88% 91% 95% 98% 99% 99.5% 100% 100%
+12/04/18
+
+392    EXEMPLAR PROBLEMS
+MATHEMATICS
+Draw the line graph of above data on the same sheet and answer the
+following questions.
+(a)
+In which year both the boys and the girls achieve their maximum
+height?
+(b) Who grows faster at puberty (14 years to 16 years of age)?
+75.
+The table shows the data collected for Dhruv’s walking on a road.
+Time
+0
+5
+10
+15
+20
+25
+(in minutes)
+Distance
+0
+0.5
+1
+1.25
+1.5
+1.75
+(in km)
+(a)
+Plot a line graph for the given data using a suitable scale.
+(b) In what time periods did Dhruv make the most progress?
+76.
+Observe the given graph carefully and complete the table given below.
+x
+1
+2
+3
+4
+5
+y
+77.
+This graph shows the per cent of students  who dropped out of
+school after completing High School. The point labelled A shows
+that, in 1996, about 4.7% of students dropped out.
+12/04/18
+
+INTRODUCTION TO GRAPHS  393
+UNIT-12
+(a)
+In which year was the dropout the rate highest? In which year
+was it the lowest?
+(b) When did the per cent of students who dropped out of high
+school first fall below 5%?
+(c)
+About what per cent of students dropped out of high school in
+2007? About what per cent of students stayed in high school in
+2008?
+78.
+Observe the toothpick pattern given below:
+Pattern 1
+Pattern 2
+Pattern 3
+Pattern 4
+(a)
+Imagine that this pattern continues. Complete the table to show
+the number of toothpicks in the first six terms.
+Pattern
+1
+2
+3
+4
+5
+6
+Toothpicks
+4
+13
+(b) Make a graph by taking the pattern numbers on the horizontal
+axis and the number of toothpicks on the vertical axis. Make the
+horizontal axis from 0 to 10 and the vertical axis from 0 to 30.
+(c)
+Use your graph to predict the number of toothpicks in patterns
+7 and 8. Check your answers by actually drawing them.
+(d) Would it make sense to join the points on this graph? Explain.
+12/04/18
+
+394    EXEMPLAR PROBLEMS
+MATHEMATICS
+79.
+Consider this input/output table.
+   Input
+1
+2
+4
+5
+7
+   Output
+2
+5
+11
+14
+20
+(a)
+Graph the values from the table by taking Input along horizontal
+axis from 0 to 8 and Output along vertical axis from 0 to 24.
+(b) Use your graph to predict the outputs for inputs of 3 and 8.
+80.
+This graph shows a map of an island just off the coast of a continent.
+The point labelled B represents a major city on the coast. The distance
+between grid lines represents 1 km.
+Point A represents a resort that is located 5 km East and 3 km North
+of Point B. The values 5 and 3 are the coordinates of Point A. The
+coordinates can be given as the ordered pair (5, 3), where 5 is the
+horizontal coordinate and 3 is the vertical coordinate.
+(i) On a copy of the map, mark the point that is 3 km East and 5
+km North of Point B and label it S. Is Point S in the water or on
+the island? Is Point S in the same place as Point A?
+(ii) Mark the point that is 7 km east and 5 km north of Point B and
+label it C. Then mark the point that is 5 km east and 7 km
+north of Point B and label it D. Are Points C and D in the same
+place? Give the coordinates of Points C and D.
+12/04/18
+
+INTRODUCTION TO GRAPHS  395
+UNIT-12
+(iii) Which point is in the water, (2, 7) or (7, 2)? Mark the point
+which is in water on your map and label it E.
+(iv) Give the coordinates of two points on the island that are exactly
+2 km from Point A.
+(v) Give the coordinates of the point that is halfway between Points
+L and P.
+(vi) List three points on the island with their x-coordinates greater
+than 8.
+(vii) List three points on the island with a y-coordinate less than 4.
+81.
+As part of his science project, Prithvi was supposed to record the
+temperature every hour one Saturday from 6 am to midnight. At
+noon, he was taking lunch and  forgot to record the temperature. At
+8:00 pm, his favourite show came on and so forgot again. He recorded
+the data so collected on a graph sheet as shown below.
+(a) Why does it make sense to connect the points in this situation?
+(b) Describe the overall trend, or pattern, in the way the temperature
+changes over the time period shown on the graph.
+(c) Estimate the temperature at noon and 8 pm.
+12/04/18
+
+396    EXEMPLAR PROBLEMS
+MATHEMATICS
+82.
+The graph given below compares the price (in Rs) and weight of 6
+bags (in kg) of sugar of different brands A, B, C, D, E, F.
+(a) Which brand(s) costs/cost more than Brand D?
+(b) Bag of which brand of sugar is the heaviest?
+(c) Which brands weigh the same?
+(d) Which brands are heavier than brand B?
+(e) Which bag is the lightest?
+(f) Which bags are of the same price?
+83.
+The points on the graph below represent the height and weight of
+the donkey, dog, crocodile, and ostrich shown in the drawing.
+(a) What are the two variables represented in the graph?
+(b) Which point represents each animals? Explain.
+12/04/18
+
+INTRODUCTION TO GRAPHS  397
+UNIT-12
+84.
+The two graphs below compare Car A and Car B. The left graph
+shows the relationship between age and value. The right graph shows
+the relationship between size and maximum speed.
+Use the graphs to determine whether each statement is true or false,
+and explain your answer.
+(a)
+The older car is less valuable. (b) The faster car is larger.
+(c)
+The larger car is older.
+(d) The faster car is older.
+(e)
+The more valuable car is slower.
+85.
+Sonal and Anmol made a sequence of tile designs from square white
+tiles surrounding one square purple tile. The purple tiles come in
+many sizes. Three of the designs are shown below.
+(a)
+Copy and complete the table
+Side Length of Purple
+1
+2
+3
+4
+5
+10
+100
+Tiles
+Number of white Tiles
+in Border
+12/04/18
+
+398    EXEMPLAR PROBLEMS
+MATHEMATICS
+(b) Draw a graph using the first five pairs of numbers in your table.
+(c)
+Do the points lie on a line?
+86.
+Sonal and Anmol then made another sequence of the designs. Three
+of the designs are shown below.
+(a) Complete the table.
+Rows, r
+4
+6
+8
+Number of white Tiles, w
+9
+Number of Purple Tiles, p
+1
+(b) Draw a graph of rows and number of white tiles. Draw another graph
+of the number of rows and the number of purple tiles. Put the number
+of rows on the horizontal axis.
+(c) Which graph is linear?
+(D) Activities
+Create a table like the one shown.
+Object
+Estimate
+Actual
+(in cm)
+Measurement
+(guessed measurement)
+(in cm)
+* Length of a pen
+* Length of an eraser
+* Length of your palm
+12/04/18
+
+INTRODUCTION TO GRAPHS  399
+UNIT-12
+* Length of your geometry box
+* Length of your maths notebook
+If an estimate is the same as the actual
+measurement then the point (actual
+measurement, estimate) lies on the line,
+straight line p. For example, if an object
+measures 5 cm and you estimate it to
+5 cm, then the graph of its point lies on
+line p in the figure below.
+Using your completed table,
+(i) Plot the data from the table where the coordinates of the points
+are (measurement, estimate).
+(ii) Identify the objects overestimated.
+(iii) Identify the objects underestimated.
+(iv) By looking at the graph, how can overestimates and
+underestimates be determined? How accurate is your estimation?
+Activity 2
+Clues
+Down
+(1)
+A graph used to show comparison among categories. (2 words)
+(2)
+The point (0, 4) lies on the __________.
+(3)
+A line graph which is a whole unbroken line.
+(4)
+The point where the two axes meet.
+(5)
+__________ of a point are required to locate the point on a graph.
+(6)
+The x -axis and y-axis are at __________ angles to each other.
+(7)
+x -coordinate of a point.
+Across
+(8)
+The plural of Axis.
+(9)
+The sheet of paper on which coordinates of any given point are plotted.
+12/04/18
+
+400    EXEMPLAR PROBLEMS
+MATHEMATICS
+(10) The system of fixing points on a graph with the help of coordinates.
+(11) A __________ graph displays the data that changes continuously
+over time.
+(12) y-coordinate of a point.
+(13) A pie chart is used to compare parts of a __________.
+(14) A bar graph that shows data in intervals.
+(15) In a histogram there are no __________ between the bars.
+(16) The x-axis is a __________ line on a plane.
+(17) y-coordinate of a point represents the distance of the point from
+the __________.
+Activity 3
+Complete Parts (a) and (b) for each following graphs.
+(a) Tell what two variables does the graph show.
+(b) Describe what the graph tells you about the things represented by
+the points. Then try to come up with an idea about what the points
+could represent.
+12/04/18
+
+INTRODUCTION TO GRAPHS  401
+UNIT-12
+12/04/18
+
+402    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18
+
+INTRODUCTION TO GRAPHS  403
+UNIT-12
+Rough Work
+12/04/18
+
+404    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18

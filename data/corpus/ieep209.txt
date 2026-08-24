@@ -1,0 +1,506 @@
+(A) Main Concepts and Results
+The area of a closed plane figure is the measure of the region inside the figure:
+(i)
+(ii)
+(iii)
+Fig. 9.1
+The shaded parts (Fig.9.1) represent the regions whose areas may be determined by
+means of simple geometrical results. The square unit is the standard unit used in
+measuring the area of such figures.
+•
+If ∆ ABC ≅ ∆ PQR, then ar (∆ ABC) = ar (∆ PQR)
+Total area R of the plane figure ABCD is the sum of the areas of two triangular
+regions R1 and R2, that is, ar (R) = ar (R1) + ar (R2)
+Fig. 9.2
+AREAS  OF  PARALLELOGRAMS  AND  TRIANGLES
+CHAPTER 9
+16/04/18
+16/04/18
+
+•
+Two congruent figures have equal areas but the converse is not always true,
+•
+A diagonal of a parallelogram divides the parallelogram in two triangles of equal
+area,
+•
+(i)
+Parallelograms on the same base and between the same parallels are equal
+in area
+(ii)
+A parallelogram and a rectangle on the same base and between the same
+parallels are equal in area.
+•
+Parallelograms on equal bases and between the same parallels are equal in area,
+•
+Triangles on the same base and between the same parallels are equal in area,
+•
+Triangles with equal bases and equal areas have equal corresponding altitudes,
+•
+The area of a triangle is equal to one-half of the area of a rectangle/parallelogram
+of the same base and between same parallels,
+•
+If a triangle and a parallelogram are on the same base and between the same
+parallels, the area of the triangle is equal to one-half area of the parallelogram.
+(B) Multiple Choice Questions
+Write the correct answer:
+Sample Question 1 :  The area of the figure formed by joining the mid-points of the
+adjacent sides of a rhombus with diagonals 12 cm and 16 cm is
+(A)
+48 cm2
+(B)
+64 cm2
+(C)
+96 cm2
+(D)
+192 cm2
+Solution: Answer (A)
+EXERCISE 9.1
+Write the correct answer in each of the following :
+1.
+The median of a triangle divides it into two
+(A)
+triangles of equal area
+(B)
+congruent triangles
+(C)
+right triangles
+(D)
+isosceles triangles
+2.
+In which of the following figures (Fig. 9.3), you find two polygons on the same
+base and between the same parallels?
+(A)
+              (B)
+AREAS OF PARALLELOGRAMS AND TRIANGLES
+85
+16/04/18
+16/04/18
+
+86
+EXEMPLAR PROBLEMS
+(C)
+(D)
+Fig. 9.3
+3.
+The figure obtained by joining the mid-points of the adjacent sides of a rectangle of
+sides 8 cm and 6 cm is :
+(A)
+a rectangle of area 24 cm2
+(B)
+a square of area 25 cm2
+(C)
+a trapezium of area 24 cm2
+(D)
+a rhombus of area 24 cm2
+4.
+In Fig. 9.4, the area of parallelogram
+ABCD is :
+(A)
+AB × BM
+(B)
+BC × BN
+(C)
+DC × DL
+(D)
+AD × DL
+5.
+In Fig. 9.5, if parallelogram ABCD and rectangle ABEF are of equal area, then :
+(A)
+Perimeter of ABCD = Perimeter of ABEM
+(B)
+Perimeter of ABCD < Perimeter of ABEM
+(C)
+Perimeter of ABCD > Perimeter of ABEM
+(D)
+Perimeter of ABCD = 
+1
+2 (Perimeter of ABEM)
+Fig. 9.4
+Fig. 9.5
+16/04/18
+16/04/18
+
+AREAS OF PARALLELOGRAMS AND TRIANGLES
+87
+6.
+The mid-point of the sides of a triangle along with any of the vertices as the fourth
+point make a parallelogram of area equal to
+(A)
+1
+2 ar (ABC)
+(B)
+1
+3 ar (ABC)
+(C)
+1
+4 ar (ABC)
+(D)
+ar (ABC)
+7.
+Two parallelograms are on equal bases and between the same parallels. The ratio of
+their areas is
+(A)
+1 : 2
+(B)
+1 : 1
+(C)
+2 : 1
+(D)
+3 : 1
+8.
+ABCD is a quadrilateral whose diagonal AC divides it into two parts, equal in area,
+then ABCD
+(A)
+is a rectangle
+(B)
+is always a rhombus
+(C)
+is a parallelogram
+(D)
+need not be any of (A), (B) or (C)
+9.
+If a triangle and a parallelogram are on the same base and between same parallels,
+then the ratio of  the area of the triangle to the area of parallelogram is
+(A)
+1 : 3
+(B)
+1 : 2
+(C)
+3 : 1
+(D)
+1 : 4
+10. ABCD is a trapezium with parallel sides AB = a cm and DC = b cm (Fig. 9.6). E
+and F are the mid-points of the non-parallel sides. The ratio of ar (ABFE) and
+ar (EFCD) is
+(A)
+a : b
+(B)
+(3a + b) : (a + 3b)
+(C)
+(a + 3b) : (3a + b)
+(D)
+(2a + b) : (3a + b)
+(C) Short Answer  Questions with Reasoning
+Write True or False and justify your answer.
+Sample Question 1 : If P is any point on the median AD of a ∆ ABC, then
+ar (ABP) ≠ ar (ACP).
+Solution : False, because ar (ABD) = ar (ACD) and ar (PBD) = ar (PCD), therefore,
+ar (ABP) = ar (ACP).
+Fig. 9.6
+16/04/18
+16/04/18
+
+88
+EXEMPLAR PROBLEMS
+Sample Question 2 : If in Fig. 9.7, PQRS
+and EFRS are two parallelograms, then
+ar (MFR) = 
+1
+2 ar (PQRS).
+Solution : True, because ar (PQRS) =
+ar (EFRS) = 2 ar (MFR).
+EXERCISE 9.2
+Write True or False and justify your answer :
+1.
+ABCD is a parallelogram and X is the mid-point of AB. If ar (AXCD) = 24 cm2,
+then ar (ABC) = 24 cm2.
+2.
+PQRS is a rectangle inscribed in a quadrant of a circle of radius 13 cm. A is any
+point on PQ. If PS = 5 cm, then ar (PAS) = 30 cm2.
+3.
+PQRS is a parallelogram whose area is 180 cm2 and A is any point on the diagonal
+QS. The area of ∆ ASR = 90 cm2.
+4.
+ABC and BDE are two equilateral triangles such that D is the mid-point of BC.
+Then ar (BDE) = 
+1
+4 ar ( ABC).
+5.
+In Fig. 9.8, ABCD and EFGD are two
+parallelograms and G is the mid-point
+of CD. Then
+ar (DPC) = 
+1
+2 ar ( EFGD).
+(D) Short Answer Questions
+Sample Question 1 : PQRS is a square. T and U
+are respectively, the mid-points of PS and QR
+(Fig. 9.9). Find the area of ∆ OTS, if PQ = 8 cm,
+where O is the point of intersection of TU and QS.
+Solution : PS = PQ = 8 cm and TU || PQ
+ST =
+1
+2 PS = 
+1
+2 × 8  = 4 cm
+PQ = TU = 8 cm
+Fig. 9.7
+Fig. 9.8
+Fig. 9.9
+16/04/18
+16/04/18
+
+AREAS OF PARALLELOGRAMS AND TRIANGLES
+89
+OT =
+1
+2 TU = 
+1
+2 × 8 = 4 cm
+Area of  triangle OTS
+= 
+1
+2 × ST × OT [Since OTS is a right angled triangle]
+= 
+2
+1
+2
+4
+4 cm
+×
+×
+= 8 cm2
+Sample Question 2 : ABCD is a parallelogram and BC is produced to a point Q such
+that AD = CQ (Fig. 9.10). If AQ intersects DC at P,
+show that ar (BPC) = ar (DPQ)
+Solution: ar (ACP) = ar (BCP)
+(1)
+[Triangles on the same base and between same
+parallels]
+ar (ADQ) = ar (ADC)
+(2)
+ar (ADC) – ar (ADP) = ar (ADQ) – ar (ADP)
+ar (APC) = ar (DPQ)
+(3)
+From (1) and (3), we get
+ar (BCP) = ar (DPQ)
+EXERCISE 9.3
+1.
+In Fig.9.11, PSDA is a parallelogram. Points Q and R are taken on PS such that
+PQ = QR = RS and PA || QB || RC. Prove that ar (PQE) = ar (CFD).
+Fig. 9.11
+Fig. 9.10
+16/04/18
+16/04/18
+
+90
+EXEMPLAR PROBLEMS
+2.
+X and Y are points on the side LN of the triangle LMN such that LX = XY = YN.
+Through X, a line is drawn parallel to LM to meet MN at Z (See Fig. 9.12). Prove
+that
+ar (LZY) = ar (MZYX)
+Fig. 9.12
+3.
+The area of the parallelogram ABCD is
+90 cm2 (see Fig.9.13). Find
+(i)
+ar (ABEF)
+(ii)
+ar (ABD)
+(iii)
+ar (BEF)
+4.
+In ∆ ABC, D is the mid-point of
+AB and P is any point on BC. If
+CQ || PD meets AB in Q
+(Fig. 9.14), then prove that
+ar (BPQ) = 
+1
+2 ar (ABC).
+5.
+ABCD is a square. E and F are respectively the mid-
+points of BC and CD. If R is the mid-point of EF
+(Fig. 9.15), prove that
+ar (AER) = ar (AFR)
+Fig. 9.13
+Fig. 9.14
+Fig. 9.15
+16/04/18
+16/04/18
+
+AREAS OF PARALLELOGRAMS AND TRIANGLES
+91
+6.
+O is any point on the diagonal PR of a parallelogram PQRS (Fig. 9.16). Prove that
+ar (PSO) = ar (PQO).
+Fig. 9.16
+7.
+ABCD is a parallelogram in which BC is produced to E such that CE = BC
+(Fig. 9.17). AE intersects CD at F.
+If ar (DFB) = 3 cm2, find the area of the parallelogram ABCD.
+Fig. 9.17
+8.
+In trapezium ABCD, AB || DC
+and L is the mid-point of BC.
+Through L, a line PQ || AD has
+been drawn which meets AB in
+P and DC produced in Q
+(Fig. 9.18). Prove that
+ar (ABCD) = ar (APQD)
+Fig. 9.18
+16/04/18
+16/04/18
+
+92
+EXEMPLAR PROBLEMS
+9.
+If the mid-points of the sides of a quadrilateral are joined
+in order, prove that the area of the parallelogram so
+formed will be half of the area of the given quadrilateral
+(Fig. 9.19).
+[Hint: Join BD and draw perpendicular from A on BD.]
+(E) Long Answer Questions
+Sample Question 1 : In Fig. 9.20, ABCD is a parallelogram.
+Points P and Q on BC trisects BC in three equal parts. Prove
+that
+ar (APQ) =  ar (DPQ) = 
+1
+6 ar(ABCD)
+Fig. 9.20
+Solution :
+Through P and Q, draw PR and QS parallel to AB. Now PQRS is a parallelogram and
+its base PQ = 
+1
+3 BC.
+Fig. 9.21
+Fig. 9.19
+16/04/18
+16/04/18
+
+AREAS OF PARALLELOGRAMS AND TRIANGLES
+93
+ar (APD) = 
+1
+2 ar (ABCD) [Same base BC and BC || AD]
+(1)
+ar (AQD) = 
+1
+2 ar (ABCD)
+(2)
+From (1) and (2), we get
+ar (APD) = ar (AQD)
+(3)
+Subtracting ar (AOD) from both sides, we get
+ar (APD) – ar (AOD) = ar (AQD) – ar (AOD)
+(4)
+ar (APO) = ar (OQD),
+Adding ar (OPQ) on both sides in (4), we get
+ar (APO) + ar (OPQ) = ar (OQD) + ar (OPQ)
+ar (APQ) = ar (DPQ)
+Since, ar (APQ) = 
+1
+2 ar (PQRS), therefore
+ar (DPQ) = 
+1
+2 ar (PQRS)
+Now, ar (PQRS) = 
+1
+3 ar (ABCD)
+Therefore, ar (APQ) = ar (DPQ)
+= 
+1
+2 ar (PQRS) = 1
+1
+2
+3
+×
+ ar (ABCD)
+= 1
+6 ar (ABCD)
+Sample Question 2 : In Fig. 9.22, l, m, n,
+are straight lines such that l || m and n
+intersects l at P and m at Q. ABCD is a
+quadrilateral such that its vertex A is on l.
+The vertices C and D are on m and AD || n.
+Show that
+Fig. 9.22
+16/04/18
+16/04/18
+
+94
+EXEMPLAR PROBLEMS
+ar (ABCQ) = ar (ABCDP)
+Solution : ar (APD) = ar (AQD)
+(1)
+[Have same base AD and also between same parallels AD and n].
+Adding ar (ABCD) on both sides in (1), we get
+ar (APD) + ar (ABCD) = ar (AQD) + ar (ABCD)
+or ar (ABCDP) = ar (ABCQ)
+Sample Questions 3 : In Fig. 9.23, BD || CA,
+E is mid-point of CA and BD = 1
+2 CA. Prove
+that ar (ABC) = 2ar (DBC)
+Solution : Join DE. Here BCED is a
+parallelogram, since
+BD = CE and BD || CE
+ar (DBC) = ar (EBC)                                 (1)
+[Have the same base BC and between the same
+parallels]
+In ∆ ABC, BE is the median,
+So,
+ar (EBC) =
+1
+2 ar (ABC)
+Now,
+ar (ABC) =
+ar (EBC) + ar (ABE)
+Also,
+ar (ABC) =
+2 ar (EBC), therefore,
+ar (ABC) =
+2 ar (DBC).
+EXERCISE 9.4
+1.
+A point E is taken on the side BC of a parallelogram ABCD. AE and DC are
+produced to meet at F. Prove that
+ar (ADF) = ar (ABFC)
+2.
+The diagonals of a parallelogram ABCD intersect at a point O. Through O, a line
+is drawn to intersect AD at P and BC at Q. Show that PQ divides the parallelogram
+into two parts of equal area.
+3.
+The medians BE and CF of a triangle ABC intersect at G. Prove that the
+area of ∆ GBC = area of the quadrilateral AFGE.
+Fig. 9.23
+16/04/18
+16/04/18
+
+AREAS OF PARALLELOGRAMS AND TRIANGLES
+95
+4.
+In Fig. 9.24, CD || AE and CY || BA. Prove that
+ar (CBX) = ar (AXY)
+Fig. 9.24
+5.
+ABCD is a trapezium in which AB || DC, DC = 30 cm and AB = 50 cm. If X and
+Y are, respectively the mid-points of AD and BC, prove that
+ar (DCYX) = 7
+9 ar (XYBA)
+6.
+In ∆ ABC, if L and M are the points on AB and AC, respectively such that
+LM || BC. Prove that ar (LOB) = ar (MOC)
+7.
+In Fig. 9.25, ABCDE is any pentagon. BP drawn parallel to AC meets DC produced
+at P and EQ drawn parallel to AD meets CD produced at Q. Prove that
+ar (ABCDE) = ar (APQ)
+Fig. 9.25
+16/04/18
+16/04/18
+
+96
+EXEMPLAR PROBLEMS
+8.
+If the medians of a ∆ ABC intersect at G, show that
+ar (AGB) = ar (AGC) = ar (BGC)
+= 1
+3 ar (ABC)
+9.
+In Fig. 9.26, X and Y are the mid-points of AC and AB respectively, QP || BC and
+CYQ and BXP are straight lines. Prove that ar (ABP) = ar (ACQ).
+Fig. 9.26
+10. In Fig. 9.27, ABCD and AEFD are two parallelograms. Prove that
+ar (PEA) = ar (QFD) [Hint: Join PD].
+Fig. 9.27
+16/04/18
+16/04/18

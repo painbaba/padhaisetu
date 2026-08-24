@@ -1,0 +1,501 @@
+CIRCLES
+CHAPTER 9
+(A) Main Concepts and Results
+•
+The meaning of a tangent and its point of contact on a circle.
+•
+Tangent is perpendicular to the radius through the point of contact.
+•
+Only two tangents can be drawn to a circle from an external point.
+•
+Lengths of tangents from an external point to a circle are equal.
+(B) Multiple Choice Questions
+Choose the correct answer from the given four options:
+Sample Question 1 : If angle between two radii of a circle is 130º, the angle between
+the tangents at the ends of the radii is :
+(A) 90º
+(B) 50º
+ (C) 70º
+(D) 40º
+Solution : Answer (B)
+Sample Question 2 : In Fig. 9.1, the pair of
+tangents AP and AQ drawn from an external point
+A to a circle with centre O are perpendicular to
+each other and length of each tangent is 5 cm.
+Then the radius of the circle is
+(A) 10 cm
+(B) 7.5 cm
+(C) 5 cm
+(D) 2.5 cm
+Solution: Answer (C)
+03/05/18
+
+102
+EXEMPLAR PROBLEMS
+Sample Question 3: In Fig. 9.2, PQ is a
+chord of a circle and PT is the tangent at P
+such that ∠QPT = 60°. Then ∠PRQ is equal
+to
+(A) 135°
+(B) 150°
+(C) 120°
+(D) 110°
+Solution : Answer (C)
+[Hint : ∠OPQ = ∠OQP = 30°, i.e., ∠POQ
+= 120°. Also, ∠PRQ = 1
+2 reflex ∠POQ]
+EXERCISE 9.1
+Choose the correct answer from the given four options:
+1.
+If radii of two concentric circles
+are 4 cm and 5 cm, then the
+length of each chord of one
+circle which is tangent to the
+other circle is
+(A)
+3 cm
+(B)
+6 cm
+(C)
+9 cm
+(D)
+1 cm
+2.
+In Fig. 9.3, if ∠AOB = 125°,
+then ∠COD is equal to
+(A)
+62.5°
+(B)
+45°
+(C)
+35°
+(D)
+55°
+3.
+In Fig. 9.4, AB is a chord of the
+circle and AOC is its diameter such
+that ∠ACB = 50°. If AT is the
+tangent to the circle at the point A,
+then ∠BAT is equal to
+(A)
+65°
+(B)
+60°
+(C)
+50°
+(D)
+40°
+03/05/18
+
+CIRCLES
+103
+4.
+From a point P which is at a distance of 13 cm from the centre O of a circle
+of radius 5 cm, the pair of tangents PQ and PR to the circle are drawn. Then
+the area of the quadrilateral PQOR is
+(A)
+60 cm2
+(B)
+65 cm2       (C)  30 cm2
+(D)
+32.5 cm2
+5.
+At one end A of a diameter AB of a circle of radius 5 cm, tangent XAY is
+drawn to the circle. The length of the chord CD parallel to XY and at a
+distance 8 cm from A is
+(A)
+4 cm
+(B)
+5 cm
+(C)
+6 cm
+(D)
+8 cm
+6.
+In Fig. 9.5, AT is a tangent to the circle
+with centre O such that OT = 4 cm
+and ∠OTA = 30°. Then AT is equal to
+(A)
+4 cm
+(B)
+2 cm
+(C)
+2 3 cm (D)
+4 3 cm
+7.
+In Fig. 9.6, if O is the centre of a circle,
+PQ is a chord and the tangent PR at P
+makes an angle of 50° with PQ, then
+∠POQ is equal to
+(A)
+100°
+(B)
+80°
+(C)
+90°
+(D)
+75°
+8.
+In Fig. 9.7, if PA and PB are tangents
+to the circle with centre O such that
+∠APB = 50°, then ∠OAB is equal
+to
+(A)
+25°
+(B)
+30°
+(C)
+40°
+(D)
+50°
+03/05/18
+
+104
+EXEMPLAR PROBLEMS
+9.
+If two tangents inclined at an angle 60° are drawn to a circle of radius 3 cm,
+then length of each tangent is equal to
+(A)
+3
+3
+2
+ cm
+(B) 6 cm
+(C)
+3 cm
+(D) 3 3 cm
+10.
+In Fig. 9.8, if PQR is the tangent to a
+circle at Q whose centre is O, AB is a
+chord parallel to PR and ∠BQR = 70°,
+then ∠AQB is equal to
+(A)
+20°
+(B)
+40°
+(C)
+35°
+(D)
+45°
+(C) Short Answer Questions with Reasoning
+Write ‘True’ or ‘False’ and give reasons for your answer.
+Sample Question 1 : In Fig. 9.9, BOA is a diameter of a circle and  the tangent at a
+point P meets BA extended at T. If ∠PBO = 30°, then ∠PTA is equal to 30°.
+Solution : True. As ∠BPA = 90°, ∠PAB = ∠OPA = 60°. Also, OP⊥PT. Therefore,
+∠APT = 30° and ∠PTA = 60° –  30° = 30°.
+03/05/18
+
+CIRCLES
+105
+Sample Question 2 : In Fig. 9.10, PQL and PRM are tangents to the circle with
+centre O at the points Q and R, respectively and S is a point on the circle such that
+∠SQL = 50° and ∠SRM = 60°. Then ∠QSR is equal to 40°.
+Solution : False. Here ∠OSQ = ∠OQS = 90°–50° = 40° and ∠RSO = ∠SRO =
+90° – 60° = 30°. Therefore, ∠QSR = 40° + 30° = 70°.
+EXERCISE 9.2
+Write ‘True’ or ‘False’ and justify your answer in each of the following :
+1.
+If a chord AB subtends an angle of 60° at the centre of a circle, then angle
+between the tangents at A and B is also 60°.
+2.
+The length of tangent from an external point on a circle is always greater than
+the radius of the circle.
+3.
+The length of tangent from an external point P on a circle with centre O is
+always less than OP.
+4.
+The angle between two tangents to a circle may be 0°.
+5.
+If angle between two tangents drawn from a point P to a circle of radius a
+and centre O is 90°, then OP = 
+2
+a
+.
+6.
+If angle between two tangents drawn from a point P to a circle of radius a
+and centre O is 60°, then OP = 
+3
+a
+.
+7.
+The tangent to the circumcircle of an isosceles triangle ABC at A, in which
+AB = AC, is parallel to BC.
+03/05/18
+
+106
+EXEMPLAR PROBLEMS
+8.
+If a number of circles touch a given line segment PQ at a point A, then their
+centres lie on the perpendicular bisector of PQ.
+9.
+If a number of circles pass through the end points P and Q of a line segment
+PQ, then their centres lie on the perpendicular bisector of PQ.
+10.
+AB is a diameter of a circle and AC is its chord such that ∠BAC = 30°. If the
+tangent at C intersects AB extended at D, then BC = BD.
+(D) Short Answer Questions
+Sample Question 1 : If d1, d2 (d2 > d1) be the diameters of two concentric circles and
+c be the length of a chord of a circle which is tangent to the other circle, prove that
+d2
+2 = c2 + d1
+2.
+Solution : Let AB be a chord of a circle which touches
+the other circle at C. Then ∆OCB is right triangle
+(see Fig.9.11). By Pythagoras theorem OC2 +CB2 = OB2.
+i.e., 
+2
+2
+2
+1
+2
+1
+1
+1
+ 
+ 
+ 
+ 
+2
+2
+2
+d
+c
+d
+ 
+ 
+ 
+ 
+ 
+ 
++
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(As C bisects AB)
+Therefore,
+d2
+2 = c2 + d1
+2.
+Sample Question 2 : If a, b, c are the sides of a right triangle where c is the hypotenuse,
+prove that the radius r of the circle which touches the sides of the triangle is given by
+ 
+  
+ 
+ 
+ 
+2
+a
+b
+c
+r
++
+−
+=
+.
+Solution : Let the circle touches the sides BC, CA,
+AB of the right triangle ABC at D, E and F
+respectively, where BC = a, CA = b and
+AB = c (see Fig. 9.12). Then AE = AF and
+BD = BF. Also CE = CD = r.
+i.e.,
+b – r = AF,  a – r = BF
+or
+AB = c = AF + BF = b – r + a – r
+03/05/18
+
+CIRCLES
+107
+This gives 
+ 
+  
+ 
+ 
+ 
+2
+a
+b
+c
+r
++
+−
+=
+EXERCISE 9.3
+1.
+Out of the two concentric circles, the radius of the outer circle is 5 cm and the
+chord AC of length 8 cm is a tangent to the inner circle. Find the radius of the
+inner circle.
+2.
+Two tangents PQ and PR are drawn from an external point to a circle with
+centre O. Prove that QORP is a cyclic quadrilateral.
+3.
+If from an external point B of a circle with centre O, two tangents BC and
+BD are drawn such that ∠DBC = 120°, prove that BC + BD = BO, i.e.,
+BO = 2BC.
+4.
+Prove that the centre of a circle touching two intersecting lines lies on the
+angle bisector of the lines.
+5.
+In Fig. 9.13, AB and CD are
+common tangents to two
+circles of unequal radii.
+Prove that AB = CD.
+6.
+In Question 5 above, if radii
+of the two circles are equal,
+prove that AB = CD.
+7.
+In Fig. 9.14, common
+tangents AB and CD to two
+circles intersect at E.
+Prove that AB = CD.
+8.
+A chord PQ of a circle is
+parallel to the tangent
+drawn at a point R of the
+circle. Prove that R bisects
+the arc PRQ.
+03/05/18
+
+108
+EXEMPLAR PROBLEMS
+9.
+Prove that the tangents drawn at the ends of a chord of a circle make equal
+angles with the chord.
+10.
+Prove that a diameter AB of a circle bisects all those chords which are parallel
+to the tangent at the point A.
+(E) Long Answer Questions
+Sample Question 1 : In Fig. 9.15, from an external point P, a tangent PT and a line
+segment PAB is drawn to a circle with centre O. ON is perpendicular on the chord
+AB. Prove that :
+(i)
+PA . PB = PN2 – AN2
+(ii)
+PN2 – AN2 = OP2 – OT2
+(iii)
+PA.PB = PT2
+Solution :
+(i)
+PA . PB = (PN – AN) (PN + BN)
+= (PN – AN) (PN + AN)
+(As AN = BN)
+= PN2 – AN2
+(ii)
+PN2 – AN2  = (OP2 – ON2) – AN2
+(As ON⊥PN)
+= OP2 – (ON2 + AN2)
+= OP2 – OA2
+(As ON⊥AN)
+= OP2 – OT2
+(As OA = OT)
+03/05/18
+
+CIRCLES
+109
+(iii)
+From (i) and (ii)
+PA.PB = OP2 – OT2
+= PT2
+(As ∠OTP = 90°)
+Sample Question 2 : If a circle touches the side BC of a triangle ABC at P and extended
+sides AB and AC at Q and R, respectively, prove that AQ = 1
+2 (BC + CA + AB)
+Solution : See Fig. 9.16.
+By Theorem 10.2 of the textbook,
+              BQ = BP
+               CP = CR, and
+AQ = AR
+Now,
+            2AQ = AQ + AR
+= (AB + BQ) + (AC + CR)
+= AB + BP + AC + CP
+= (BP + CP) + AC + AB
+= BC + CA + AB
+i.e.,
+AQ = 1
+2 (BC + CA + AB).
+03/05/18
+
+110
+EXEMPLAR PROBLEMS
+EXERCISE 9.4
+1.
+If a hexagon ABCDEF circumscribe a circle, prove that
+AB + CD + EF = BC + DE + FA.
+2.
+Let s denote the semi-perimeter of a triangle ABC in which BC = a, CA = b,
+AB = c. If a circle touches the sides BC, CA, AB at D, E, F, respectively,
+prove that BD = s – b.
+3.
+From an external point P, two tangents, PA and PB are drawn to a circle with
+centre O. At one point E on the circle tangent is drawn which intersects PA
+and PB at C and D, respectively. If PA = 10 cm, find the the perimeter of the
+triangle PCD.
+4.
+If AB is a chord of a circle with centre O, AOC is a diameter and AT is the
+tangent at A as shown in Fig. 9.17. Prove that
+∠BAT = ∠ACB
+.
+5.
+Two circles with centres O and O' of radii 3 cm and 4 cm, respectively
+intersect at two points P and Q such that OP and O'P are tangents to the two
+circles. Find the length of the common chord PQ.
+6.
+In a right triangle ABC in which ∠B = 90°, a circle is drawn with AB as
+diameter intersecting the hypotenuse AC and P. Prove that the tangent to the
+circle at P bisects BC.
+7.
+In Fig. 9.18, tangents PQ and PR are drawn to a circle such that ∠RPQ =
+30°. A chord RS is drawn parallel to the tangent PQ. Find the ∠RQS.
+03/05/18
+
+CIRCLES
+111
+[Hint: Draw a line through Q and perpendicular to QP.]
+8.
+AB is a diameter and AC is a chord of a circle with centre O such that
+∠BAC = 30°. The tangent at C intersects extended AB at a point D. Prove
+that BC = BD.
+9.
+Prove that the tangent drawn at the mid-point of an arc of a circle is parallel
+to the chord joining the end points of the arc.
+10.
+In Fig. 9.19, the common tangent, AB and CD to two circles with centres O
+and O' intersect at E. Prove that the points O, E, O' are collinear.
+11.
+In Fig. 9.20. O is the centre of a circle of radius 5 cm, T is a point such that
+OT = 13 cm and OT intersects the circle at E. If AB is the tangent to the
+circle at E, find the length of AB.
+03/05/18
+
+112
+EXEMPLAR PROBLEMS
+12.
+The tangent at a point C of a circle and a diameter AB when extended intersect
+at P. If 
+PCA=110º
+∠
+, find 
+CBA
+∠
+ [see Fig. 9.21].
+[Hint: Join C with centre O.]
+13.
+If an isosceles triangle ABC, in which AB = AC = 6 cm, is inscribed in a circle
+of radius 9 cm, find the area of the triangle.
+14.
+A is a point at a distance 13 cm from the centre O of a circle of radius 5 cm.
+AP and AQ are the tangents to the circle at P and Q. If a tangent BC is
+drawn at a point R lying on the minor arc PQ to intersect AP at B and AQ at
+C, find the perimeter of the ∆ABC.
+03/05/18

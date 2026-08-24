@@ -1,0 +1,1345 @@
+
+
+
+
+
+
+
+• Length of boundary of a simple closed figure is known as perimeter.
+• Area is the measure of region enclosed in a simple closed curve.
+• Perimeter of a rectangle = 2 (length + breadth).
+• Area of a rectangle = length × breadth.
+• Perimeter of a square = 4 × side.
+• Area of a square = side × side.
+• Area of a triangle = 1
+2 × Base × Corresponding Height.
+• Area of a parallelogram = Base × Corresponding Height.
+• Area of a circle = 
+2
+r
+ 
+, where r is the radius.
+• Area of a trapezium = 
+1
+2 × (Sum of parallel sides) × Height.
+• Area of a rhombus = 
+1
+2 × Product of diagonals.
+• Lateral surface area of a cube = 4 (side)2.
+• Total surface area of a cube = 6 (side)2.
+• Lateral surface area of a cuboid = 2 × height × (length + breadth).
+• Total surface area of a cuboid = 2(lb + bh + hl).
+• Lateral (curved) surface area of a cylinder = 2πrh.
+• Total surface area of a cylinder = 2πr (r + h), where r is the radius
+and h is the height.
+12/04/18
+
+
+
+• Amount of space occupied by a solid is called its volume.
+• Volume of a cube = (side)3.
+• Volume of a cuboid = length × breadth × height.
+• Volume of a cylinder = πr2h.
+• 1cm3 = 1ml
+• 1L = 1000 cm3.
+• 1m3 = 10,00,000 cm3 = 1,000 L.
+
+
+In examples 1 and 2, there are four options out of which one is correct.
+Write the correct answer.
+Example 1 : What is the area of the triangle ADE in the following figure?
+B
+C
+D
+A
+8 cm
+10 cm
+E
+(a)45 cm2
+(b) 50 cm2
+(c) 55 cm2
+(d) 40 cm2
+Solution
+: The correct answer is (d).
+Example 2
+: What will be the change in the volume of a cube when its
+side becomes 10 times the original side?
+(a) Volume becomes 1000 times.
+(b) Volume becomes 10 times.
+(c) Volume becomes 100 times.
+(d) Volume becomes 
+1
+1000 times.
+Solution
+: The correct answer is (a).
+In examples 3 and 4, fill in the blanks to make the statements true.
+Example 3
+: Area of a rhombus is equal to __________ of its diagonals.
+Solution
+: Half the product.
+12/04/18
+
+
+
+Example 4
+: If the area of a face of a cube is 10 cm2, then the total
+surface area of the cube is __________.
+Solution
+: 60 cm2.
+In examples 5 and 6, state whether the statements are true (T) or false (F).
+Example 5
+: 1L = 1000 cm3
+Solution
+: True.
+Example 6
+: Amount of region occupied by a solid is called its surface
+area.
+Solution
+: False.
+Example 7
+: 160 m3 of water is to be used to irrigate a rectangular
+field whose area is 800 m2. What will be the height of the
+water level in the field?
+Solution
+: Volume of water = 160 m3
+Area of rectangular field = 800 m2
+Let h be the height of water level in the field.
+Now, volume of water = volume of cuboid formed on the
+field by water.
+160 = Area of base × height
+= 800 × h
+h = 160
+800 = 0.2
+So, required height = 0.2 m
+Example 8
+: Find the area of a rhombus whose one side measures
+5 cm and one diagonal as 8 cm.
+Solution
+: Let ABCD be the rhombus as shown below.
+12/04/18
+
+
+
+DO = OB = 4cm, since diagonals of a rhombus are
+perpendicular bisectors of each other. Therefore, using
+Pythagoras theorem in AOB,
+
+AO2 + OB2 = AB2
+AO = 
+2
+2
+AB
+OB
+
+ = 
+2
+2
+5
+4
+
+ = 3 cm
+So, AC = 2 × 3 = 6 cm
+Thus, the area of the rhombus = 
+1
+2 × d1 × d2
+ = 
+1
+2 × 8 × 6
+= 24 cm2.
+Example 9
+: The parallel sides of a trapezium are 40 cm and 20 cm. If
+its non-parallel sides are both equal, each being 26 cm,
+find the area of the trapezium.
+Solution
+: Let ABCD be the trapezium such that AB = 40 cm and
+CD = 20 cm and AD = BC = 26 cm.
+
+To become familiar with some of the vocabulary terms in the chapter,
+consider the following:
+1.
+The square root of a number is one of the two equal factors of the
+number. For example, 3 is a square root because 3  3 = 9. How might
+picturing plant roots help you remember the meaning of square root?
+2.
+The word ‘perimeter’ comes from the Greek roots peri, meaning ‘all
+around,’ and metron, meaning ‘measure.’ What do the Greek roots tell
+you about the perimeter of a geometric figure?
+3.
+To square a number means ‘to multiply the number by itself,’ as in
+2  2. Keeping this idea of square in mind, what do you think a perfect
+square might be?
+4.
+The word ‘circumference’ comes from the Latin word circumferre,
+meaning to “carry around”. How does the Latin meaning help you define
+the circumference of a circle?
+12/04/18
+
+
+
+Now, draw CL || AD
+Then ALCD is a parallelogram
+So AL = CD = 20 cm and CL = AD = 26 cm.
+In ∆CLB, we have
+CL = CB = 26 cm
+Therefore, ∆CLB is an isosceles triangle.
+Draw altitude CM of ∆CLB.
+Since ∆ CLB is an isosceles triangle. So, CM is also the
+median.
+Then LM = MB = 1
+2 BL = 1
+2 × 20 cm = 10 cm
+[as BL = AB – AL = (40 – 20) cm = 20 cm].
+Applying Pythagoras theorem in ∆CLM, we have
+CL2 = CM2 + LM2
+262 = CM2 + 102
+CM2 = 262 – 102 = (26 – 10) (26 + 10) = 16 × 36 = 576
+CM = 576 = 24 cm
+Hence, the area of the trapezium = 1
+2 (sum of parallel
+sides) × Height  = 1
+2 (20 + 40) × 24 = 30 × 24 = 720 cm2.
+Example 10 : Find the area of polygon ABCDEF, if AD = 18cm, AQ =
+14 cm, AP = 12 cm, AN = 8 cm, AM = 4 cm, and FM, EP,
+QC and BN are perpendiculars to diagonal AD.
+Solution
+:
+12/04/18
+
+
+
+In the figure
+MP = AP – AM = (12 – 4) cm = 8 cm
+PD = AD – AP = (18 – 12) cm = 6 cm
+NQ = AQ – AN = (14 – 8) cm = 6 cm
+QD = AD – AQ = (18 – 14) cm = 4 cm
+Area of the polygon ABCDEF
+= area of ∆AFM + area of trapezium FMPE + area of ∆EPD
++ area of ∆ANB +   area of trapezium NBCQ + area of
+∆QCD.
+=
+1
+2 × AM × FM + 1
+2 (FM + EP) × MP + 1
+2 PD × EP + 1
+2 ×
+AN ×  NB + 1
+2 (NB + CQ) × NQ + 1
+2 QD × CQ
+=
+1
+2 × 4 × 5 + 
+1
+2 (5 + 6) × 8 + 
+1
+2 × 6 × 6 + 
+1
+2 × 8 × 5 + 
+1
+2
+(5 + 4) × 6 + 
+1
+2 × 4 × 4.
+= 10 + 44 + 18 + 20 + 27 + 8 = 127 cm2
+
+Understand and Explore the problem
+•
+What do you know?
+Here you know dimensions of cuboid, L = 70 m, B = 35 m,
+H = 40 m, diameter of cylinder 35 m and cost of painting Rs. 2
+per m2.
+•
+What fact do you need to solve the question and is not given?
+Height of cylinder.
+Example 11 :
+Horse stable is in the form of a cuboid, whose external
+dimensions are 70 m × 35 m × 40 m, surrounded by a cylinder
+halved vertically through diameter 35 m and it is open from
+one rectangular face 70 m × 40 m. Find the cost of painting
+the exterior of the stable at the rate of Rs 2/m2.
+12/04/18
+
+
+
+Plan a Strategy
+•
+Begin by visualising the shape of the stable and draw it (open
+from shaded part).
+•
+Think of area to be painted in cuboidal part as well as in
+cylindrical part.
+•
+Add the two areas calculated in step 2.
+•
+Find cost.
+Solve
+•
+Area of cylindrical top be painted
+= 1
+2 [T.S.A]
+= 1
+2 [2πR (R + H)]
+= 
+
+
+
+
+
+
+
+
+
+
+
+
+1
+22
+35 35
+2×
+×
++70
+2
+7
+2
+2
+= 4812.5 m2
+•
+Area of cuboid to be painted = area of three walls
+= lh + 2bh
+= 70 × 40 +2 × 40 × 35
+= 2800 + 2800
+= 5600 m2
+•
+Total area to be painted
+= 4812.5 + 5600
+= 10412.5 m2
+•
+Cost of painting per m2 = Rs 2
+Cost of painting 10412.5 m2 = Rs 10412.5 × 2
+= Rs 20825
+Revise
+•
+Verify your answer by adopting some other plan, i.e. here in
+this problem instead of taking area in two steps, let’s find in
+one step.
+Area to be painted
+= Area of three walls + Area of cylindrical part.
+12/04/18
+
+
+
+= 2bh + lh + 1
+2 [2πRH + 2πR2]
+= h [2b + l ] + [πR (R + H)]
+= 40 [2 × 35 + 70] + 
+
+
+
+
+
+
+22
+35
+35
+×
++70
+7
+2
+2
+= 40 [140] + 55 × 87.5
+= 5600 + 4812.5
+Final cost (same as in previous method)
+Hence verified.
+
+(a) What would be the cost of painting if cylindrical root is not to be painted?
+(b) What would be the cost if one face is not included.
+Is there any difference in the cost?
+A cube is a three-dimensional solid with six
+square faces.
+Its surface area is the total area of all Six of
+its faces. As each face is a square, the formula
+for surface area of a cube is A = 6s2
+
+
+In questions 1 to 28, there are four options out of which one is correct.
+Write the correct answer.
+1. A cube of side 5 cm is painted on all its faces. If it is sliced into 1
+cubic centimetre cubes, how many 1 cubic centimetre cubes will
+have exactly one of their faces painted?
+(a)
+27
+(b)
+42
+(c)
+54
+(d) 142
+12/04/18
+
+
+
+2. A cube of side 4 cm is cut into 1 cm cubes. What is the ratio of the
+surface areas of the original cubes and cut-out cubes?
+(a)
+1 : 2
+(b)
+1 : 3
+(c)
+1 : 4
+(d) 1 : 6
+3. A circle of maximum possible size is cut from a square sheet of board.
+Subsequently, a square of maximum possible size is cut from the
+resultant circle. What will be the area of the final square?
+(a)
+3
+4 of original square.
+(b)
+1
+2 of original square.
+(c)
+1
+4 of original square.
+(d)
+2
+3 of original square.
+4. What is the area of the largest triangle that can be fitted into a
+rectangle of length l units and width w units?
+(a)
+lw/2
+(b)
+lw/3
+(c)
+lw/6
+(d) lw/4
+5. If the height of a cylinder becomes 1
+4 of the original height and the
+radius is doubled, then which of the following will be true?
+(a)
+Volume of the cylinder will be doubled.
+(b) Volume of the cylinder will remain unchanged.
+(c)
+Volume of the cylinder will be halved.
+(d) Volume of the cylinder will be 1
+4 of the original volume.
+Volume is a measurement of the amount of
+space inside a three-dimensional object.
+It’s measured in cubic units and equals the
+number of unit cubes (cubes whose edges
+have length 1) that fit inside the object.
+In the diagram on the right, each side has a
+length of 2 units, so two unit cubes fit along
+each side. (One unit cube is shaded blue.)
+You can calculate the volume of cube using
+the formula.
+V = S × S × S     Or     V = S 3
+12/04/18
+
+
+
+6. If the height of a cylinder becomes 1
+4 of the original height and the
+radius is doubled, then which of the following will be true?
+(a)
+Curved surface area of the cylinder will be doubled.
+(b) Curved surface area of the cylinder will remain unchanged.
+(c)
+Curved surface area of the cylinder will be halved.
+(d) Curved surface area will be 1
+4 of the original curved surface.
+7. If the height of a cylinder becomes 1
+4 of the original height and the
+radius is doubled, then which of the following will be true?
+(a)
+Total surface area of the cylinder will be doubled.
+(b) Total surface area of the cylinder will remain unchanged.
+(c)
+Total surface of the cylinder will be halved.
+(d) None of the above.
+8. The surface area of the three coterminus faces of a cuboid are 6, 15
+and 10 cm2 respectively. The volume of the cuboid is
+(a)
+30 cm3
+(b) 40 cm3
+ (c) 20 cm3
+(d) 35 cm3
+9. A regular hexagon is inscribed in a circle of radius r. The perimeter
+of the regular hexagon is
+(a)
+3r
+(b) 6r
+(c) 9r
+(d) 12r
+10.
+The dimensions of a godown are 40 m, 25 m and 10 m. If it is filled
+with cuboidal boxes each of dimensions 2 m × 1.25 m × 1 m, then
+the number of boxes will be
+(a)
+1800
+(b)
+2000
+(c)
+4000
+(d) 8000
+Think about your answers to these questions. Discuss your ideas with
+other students and your teacher. Then write a summary of your findings in
+your notebook.
+1. Explain how to find the total area of all the faces of a rectangular box.
+2. Explain how to find the number of identical cubes it will take to fill a
+rectangular box.
+3. Suppose several different nets are made for a given box. What do all of
+the nets have in common? What might be different?
+12/04/18
+
+
+
+11.
+The volume of a cube is 64 cm3. Its surface area is
+(a)
+16 cm2
+(b)
+64 cm2
+(c)
+96 cm2
+(d) 128 cm2
+12.
+If the radius of a cylinder is tripled but its curved surface area is
+unchanged, then its height will be
+(a)
+tripled
+(b)
+constant
+(c)
+one sixth
+(d) one third
+13.
+How many small cubes with edge of 20 cm each can be just
+accommodated in a cubical box of 2 m edge?
+(a)
+10
+(b)
+100
+(c)
+1000
+(d) 10000
+14.
+The volume of a cylinder whose radius r is equal to its height is
+(a)
+1
+4 πr3
+(b)
+πr 3
+32
+(c)
+πr3
+(d)
+3
+8
+ r
+15.
+The volume of a cube whose edge is 3x is
+(a)
+27x3
+(b)
+9x3
+(c)
+6x3
+(d) 3x3
+16.
+The figure ABCD is a quadrilateral in which AB = CD and
+BC = AD. Its area is
+(a)
+72 cm2
+(b)
+36 cm2
+(c)
+24 cm2
+(d) 18 cm2
+17.
+What is the area of the rhombus ABCD below if AC = 6 cm, and
+BE = 4cm?
+(a)
+36 cm2
+(b)
+16 cm2
+(c)
+24 cm2
+(d) 13 cm2
+12/04/18
+
+
+
+18.
+The area of a parallelogram is 60 cm2 and one of its altitude is 5 cm.
+The length of its corresponding side is
+(a)
+12 cm
+(b)
+6 cm
+(c)
+4 cm
+(d) 2 cm
+19.
+The perimeter of a trapezium is 52 cm and its each non-parallel side
+is equal to 10 cm with its height 8 cm. Its area is
+(a)
+124 cm2
+(b)
+118 cm2
+(c)
+128 cm2
+(d) 112 cm2
+20.
+Area of a quadrilateral ABCD is 20 cm2 and perpendiculars on BD
+from opposite vertices are 1 cm and 1.5 cm. The length of BD is
+(a)
+4 cm
+(b)
+15 cm
+(c)
+16 cm
+(d) 18 cm
+21.
+A metal sheet 27 cm long, 8 cm broad and 1 cm thick is melted into
+a cube. The side of the cube  is
+(a)
+6 cm
+(b)
+8 cm
+(c)
+12 cm
+(d) 24 cm
+22.
+Three cubes of metal whose edges are 6 cm, 8 cm and 10 cm
+respectively are melted to form a single cube. The edge of the new
+cube is
+(a)
+12 cm
+(b)
+24 cm
+(c)
+18 cm
+(d) 20 cm
+23.
+A covered wooden box has the inner measures as 115 cm, 75 cm and
+35 cm and thickness of wood as 2.5 cm. The volume of the wood is
+(a)
+85,000 cm3
+(b)
+80,000 cm3 (c) 82,125 cm3
+(d) 84,000 cm3
+24.
+The ratio of radii of two cylinders is 1: 2 and heights are in the ratio
+2:3. The ratio of their volumes is
+(a)
+1:6
+(b)
+1:9
+(c)
+1:3
+(d) 2:9
+
+Triangle
+Parallelogram
+Trapezoid
+Circle
+A = 
+1
+2 bh
+A = bh
+A = 
+1
+2 (b1 +  b2)h
+A = πr2
+12/04/18
+
+
+
+25.
+Two cubes have volumes in the ratio 1:64. The ratio of the area of a
+face of first cube to that of the other is
+(a)
+1:4
+(b)
+1:8
+(c)
+1:16
+(d) 1:32
+26.
+The surface areas of the six faces of a rectangular solid are 16, 16,
+32, 32, 72 and 72 square centimetres. The volume of the solid, in
+cubic centimetres, is
+(a)
+192
+(b)
+384
+(c)
+480
+(d) 2592
+27.
+Ramesh has three containers.
+(a)
+Cylindrical container A having radius r and height h,
+(b) Cylindrical container B having radius 2r and height 1/2 h, and
+(c)
+Cuboidal container C having dimensions r × r × h
+The arrangement of  the containers in the increasing order of their
+volumes is
+(a)
+ A, B, C
+(b) B, C, A
+(c)
+ C, A, B
+(d) cannot be arranged
+28.
+If R is the radius of the base of the hat, then the
+total outer surface area of the hat is
+(a)
+πr (2h + R)
+(b) 2πr (h + R)
+(c) 2 πrh + πR2
+(d) None of these
+In questions 29 to 52, fill in the blanks to make the statements true.
+29.
+A cube of side 4 cm is painted on all its sides. If it is sliced in 1 cubic
+cm cubes, then number of such cubes that will have exactly two of
+their faces painted is __________.
+30.
+A cube of side 5 cm is cut into 1 cm cubes. The percentage increase
+in volume after such cutting is __________.
+31.
+The surface area of a cuboid formed by joining two cubes of side a
+face to face is __________.
+12/04/18
+
+
+
+32.
+If the diagonals of a rhombus get doubled, then the area of the
+rhombus becomes __________ its original area.
+33.
+If a cube fits exactly in a cylinder with height h, then the volume of
+the cube is __________ and surface area of the cube is __________.
+34.
+The volume of a cylinder becomes __________ the original volume if
+its radius becomes half of the original radius.
+35.
+The curved surface area of a cylinder is reduced by ____________
+per cent if the height is half of the original height.
+36.
+The volume of a cylinder which exactly fits in a cube of side a is
+__________.
+37.
+The surface area of a cylinder which exactly fits in a cube of side b is
+__________.
+38.
+If the diagonal d of a quadrilateral is doubled and the heights h1 and
+h2 falling on d are halved, then the area of quadrilateral is __________.
+39.
+The perimeter of a rectangle becomes __________ times its original
+perimeter, if its length and breadth are doubled.
+40.
+A trapezium with 3 equal sides and one side double the equal side
+can be divided into __________ equilateral triangles of _______ area.
+41.
+All six faces of a cuboid are __________ in shape and of ______ area.
+42.
+Opposite faces of a cuboid are _________ in area.
+43.
+Curved surface area of a cylinder of radius h and height r is _______.
+44.
+Total surface area of a cylinder of radius h and height r is _________
+45.
+Volume of a cylinder with radius h and height r is __________.
+   Revise
+•
+Is your answer reasonable?
+After you solve a word problem, ask yourself if your answer
+makes sense. You can round the numbers in the problem
+and estimate to find a reasonable answer. It may also help
+to write your answer in sentence form.
+12/04/18
+
+
+
+46.
+Area of a rhombus = 1
+2 product of _________.
+47.
+Two cylinders A and B are formed by folding a rectangular sheet of
+dimensions 20 cm × 10 cm along its length and also along its breadth
+respectively. Then volume of A is ________ of volume of B.
+48.
+In the above question, curved surface area of A is ________ curved
+surface area of B.
+49.
+__________ of a solid is the measurement of the space occupied by it.
+50.
+__________ surface area of room = area of 4 walls.
+51.
+Two cylinders of equal volume have heights in the ratio 1:9. The
+ratio of their radii is __________.
+52.
+Two cylinders of same volume have their radii in the ratio 1:6, then
+ratio of their heights is __________.
+In question 53 to 61, state whether the statements are true (T) or false (F).
+53.
+The areas of any two faces of a cube are equal.
+54.
+The areas of any two faces of a cuboid are equal.
+55.
+The surface area of a cuboid formed by joining face to face 3 cubes of
+side x is 3 times the surface area of a cube of side x.
+56.
+Two cuboids with equal volumes will always have equal surface areas.
+57.
+The area of a trapezium become 4 times if its height gets doubled.
+58.
+A cube of side 3 cm painted on all its faces, when sliced into 1 cubic
+centimetre cubes, will have exactly 1 cube with none of its faces
+painted.
+59.
+Two cylinders with equal volume will always have equal surface areas.
+60.
+The surface area of a cube formed by cutting a cuboid of dimensions
+2 × 1 × 1 in 2 equal parts is 2 sq. units.
+61.
+Ratio of area of a circle to the area of a square whose side equals
+radius of circle is 1 : π.
+12/04/18
+
+
+
+Solve the following:
+62.
+The area of a rectangular field is 48 m2 and one of its sides is 6m.
+How long will a lady take to cross the field diagonally at the rate of
+20 m/minute?
+63.
+The circumference  of the front wheel of a cart is 3 m long and that
+of the back wheel is 4 m long. What is the distance travelled by the
+cart, when the front wheel makes five more revolutions than the rear
+wheel?
+64.
+Four horses are tethered with equal ropes at 4 corners of a square
+field of side 70 metres so that they just can reach one another. Find
+the area left ungrazed by the horses.
+65.
+The walls and ceiling of a room are to be plastered. The length,
+breadth and height of the room are 4.5 m, 3 m, and 350 cm
+respectively. Find the cost of plastering at the rate of Rs 8 per m2.
+66.
+Most of the sailboats have two sails, the jib and the mainsail. Assume
+that the sails are triangles. Find the total area of each sail of the sail
+boats to the nearest tenth.
+(i)
+(ii)
+(iii)
+67.
+The area of a trapezium with equal non-parallel sides is 168 m2. If
+the lengths of the parallel sides are 36 m and 20 m, find the length
+of the non-parallel sides.
+68.
+Mukesh walks around a circular track of radius 14 m with a speed
+of 4 km/hr. If he takes 20 rounds of the track, for how long does he
+walk?
+12/04/18
+
+
+
+69.
+The areas of two circles are in the ratio 49:64. Find the ratio of their
+circumferences.
+70.
+There is a circular pond and a footpath runs along its boundary.
+A person walks around it, exactly once keeping close to the edge. If
+his step is 66 cm long and he takes exactly 400 steps to go around
+the pond, find the diameter of the pond.
+71.
+A running track has 2 semicircular ends of radius 63 m and two
+straight lengths. The perimeter of the track is 1000 m. Find each
+straight length.
+72.
+Find the perimeter of the given figure.
+73.
+A bicycle wheel makes 500 revolutions in moving 1 km. Find the
+diameter of the wheel.
+74.
+A boy is cycling such that the wheels of the cycle are making 140
+revolutions per hour. If the diameter of the wheel is 60 cm, calculate
+the speed in km/h with which the boy is cycling.
+75.
+Find the length of the largest pole that can be placed in a room of
+dimensions 12 m × 4 m × 3 m.
+G
+F
+E
+C
+D
+A
+H
+B
+D
+C
+B
+A
+G
+F
+A
+C
+?
+12 m
+3m
+12 + 4
+2
+2 m
+12 + 4
+2
+2 m
+12/04/18
+
+
+
+   Find the area of the following fields. All dimensions are in metres.
+76.
+   77.
+   Find the area of the shaded portion in the following figures.
+Q
+R
+S
+P
+P
+36 m
+24 m
+8 m
+10 m
+B
+A
+16 m
+40 m
+C
+78.
+ 79.
+80.
+81.
+E
+D
+A
+B
+C
+30 cm
+40 cm
+40 cm
+20 cm
+7 cm
+160 cm
+D
+B
+A
+E
+F
+100 cm
+120 cm
+12/04/18
+
+
+
+86.
+Find the volume of each of the given figure if volume = base area ×
+height.
+87.
+A cube of side 5 cm is cut into as many 1 cm cubes as possible.
+What is the ratio of the surface area of the original cube to that of
+the sum of the surface areas of the smaller cubes?
+8 cm
+6 cm
+12 cm
+16 cm
+3 cm
+4cm
+82.
+83.
+84.
+85.
+(a)
+(b)
+(c)
+12/04/18
+
+
+
+88.
+A square sheet of paper is converted into a cylinder by rolling it
+along its side. What is the ratio of the base radius to the side of the
+square?
+89.
+How many cubic metres of earth must be dug to construct a well 7
+m deep and of diameter 2.8 m?
+90.
+The radius and height of a cylinder are in the ratio 3:2 and its
+volume is 19,404 cm3. Find its radius and height.
+91.
+The thickness of a hollow metallic cylinder is 2 cm. It is 70 cm long
+with outer radius of 14 cm. Find the volume of the metal used in
+making the cylinder, assuming that it is open at both the ends. Also
+find its weight if the metal weighs 8 g per cm3.
+92.
+Radius of a cylinder is r and the height is h. Find the change in the
+volume if the
+(a)
+height is doubled.
+(b) height is doubled and the radius is halved.
+(c)
+height remains same and the radius is halved.
+93.
+If the length of each edge of a cube is tripled, what will be the change
+in its volume?
+94.
+A carpenter makes a box which has a volume of 13,400 cm3. The
+base has an area of 670 cm2. What is the height of the box?
+95.
+A cuboidal tin box opened at the top has dimensions 20 cm × 16 cm
+× 14 cm. What is the total area of metal sheet required to make 10
+such boxes?
+96.
+Find the capacity of water tank, in litres, whose dimensions are
+4.2 m, 3 m and 1.8 m?
+97.
+How many cubes each of side 0.5 cm are required to build a cube of
+volume 8 cm3 ?
+98.
+A wooden box (including the lid) has external dimensions  40 cm by
+34 cm by 30 cm. If the wood is 1 cm thick, how many cm3 of wood is
+used in it?
+99.
+A river 2 m deep and 45 m wide is flowing at the rate of 3 km per
+hour. Find the amount of water in cubic metres that runs into the
+sea per minute.
+12/04/18
+
+
+
+100.
+Find the area to be painted in the following block with a cylindrical
+hole. Given that length is 15 cm, width 12 cm, height 20 cm and
+radius of the hole 2.8 cm.
+101. A truck carrying 7.8 m3 concrete arrives at a job site. A platform of
+width 5 m and height 2 m is being contructed at the site. Find the
+length of the platform, constructed from the amount of concrete on
+the truck?
+102. A hollow garden roller of 42 cm diameter and length 152 cm is made
+of cast iron 2 cm thick. Find the volume of iron used in the roller.
+103. Three cubes each of side 10 cm are joined end to end. Find the
+surface area of the resultant figure.
+104. Below are the drawings of cross sections of two different pipes used
+to fill swimming pools. Figure A is a combination of 2 pipes each
+having a radius of 8 cm. Figure B is a pipe having a radius of 15 cm.
+If the force of the flow of water coming out of the pipes is the same in
+both the cases, which will fill the swimming pool faster?
+Figure A
+Figure B
+8cm
+8cm
+15cm
+105. A swimming pool is 200 m by 50 m and has an average depth of 2 m.
+By the end of a summer day, the water level drops by 2 cm. How
+many cubic metres of water is lost on the day?
+12/04/18
+
+
+
+106. A housing society consisting of 5,500 people needs 100 L of water
+per person per day. The cylindrical supply tank is 7 m high and has
+a diameter 10 m. For how many days will the water in the tank last
+for the society?
+107. Metallic discs of radius 0.75 cm and thickness 0.2 cm are melted to
+obtain 508.68 cm3 of metal. Find the number of discs melted
+(use π = 3.14).
+108. The ratio of the radius and height of a cylinder is 2:3. If its volume is
+12,936 cm3, find the total surface area of the cylinder.
+109. External dimensions of a closed wooden box are in the ratio 5:4:3. If
+the cost of painting its outer surface at the rate of Rs 5 per dm2 is Rs
+11,750, find the dimensions of the box.
+110. The capacity of a closed cylindrical vessel of height 1 m is 15.4 L. How
+many square metres of metal sheet would be needed to make it?
+111. What will happen to the volume of the cube, if its edge is (a) tripled
+(b) reduced to one-fourth?
+112. A rectangular sheet of dimensions 25 cm × 7 cm is rotated about its
+longer side. Find the volume and the whole surface area of the solid
+thus generated.
+113. From a pipe of inner radius 0.75 cm, water flows at the rate of 7 m
+per second. Find the volume in litres of water delivered by the pipe
+in 1 hour.
+114. Four times the area of the curved surface of a cylinder is equal to 6
+times the sum of the areas of its bases. If its height is 12 cm, find its
+curved surface area.
+115. A cylindrical tank has a radius of 154 cm. It is filled with water to a
+height of 3 m. If water to a height of 4.5 m is poured into it, what will
+be the increase in the volume of water in kl?
+116. The length, breadth and height of a cuboidal reservoir is 7 m, 6 m
+and 15 m respectively. 8400 L of water is pumped out from the
+reservoir. Find the fall in the water level in the reservoir.
+117. How many bricks of size 22 cm × 10 cm × 7 cm are required to
+construct a wall 11m long, 3.5 m high and 40 cm thick, if the cement
+and sand used in the construction occupy (1/10)th part of the wall?
+12/04/18
+
+
+
+118. A rectangular examination hall having seats for 500 candidates has
+to be built so as to allow 4 cubic metres of air and 0.5 square metres
+of floor area per candidate. If the length of hall be 25 m, find the
+height and breadth of the hall.
+119. The ratio between the curved surface area and the total surface area
+of a right circular cylinder is 1:2. Find the ratio between the height
+and radius of the cylinder.
+120. A birthday cake has two tiers as shown in the figure below. Find the
+volume of the cake.
+Work out the surface area of following shapes in questions 121 to 124
+(use π = 3.14).
+121.
+122. 
+123.
+124.  
+125. Water flows from a tank with a rectangular base measuring 80 cm
+by 70 cm into another tank with a square base of side 60 cm. If the
+water in the first tank is 45 cm deep, how deep will it be in the
+second tank?
+12/04/18
+
+
+
+126. A rectangular sheet of paper is rolled in two different ways to form
+two different cylinders. Find the volume of cylinders in each case if
+the sheet measures 44 cm × 33 cm.
+
+1. Rashid has decided to build a swimming pool as shown in the figure
+on an empty plot 25 metres long and 15 metres wide. He is discussing
+with his son Majid about his plan to build the pool, put tiles on the
+bottom of the pool and other requirements of the pool. Can you help
+Majid to answer the following questions which his father has asked
+in the discussion?
+1. What is the surface area of the pool?
+2. If Rashid plans to cover the bottom and sides of the pool with square
+tiles having side 25 cm, how many such tiles will be required?
+3. If each tile costs Rs 40, how much will be the total cost?
+4. A local digging company charges at the rate of Rs 150/- per cubic
+metre. How much Rashid has to pay for digging the swimming pool?
+[Hint : Volume = base area × height]
+12/04/18
+
+
+
+5. How long will it take for the swimming pool to be filled completely,
+if a pipe is pouring water into the pool  at the rate of 40 litres per
+minute?
+6. What is the area of the wall at the shallow end of the swimming
+pool?
+7. What is the area of the wall at the deep end of the swimming pool?
+8. How much Rashid has to pay in total for making the swimming
+pool operational, considering cost of digging the pool and fixing
+tiles?
+2. The following table shows the dimensions of cuboids such that,
+their volumes remain the same. Extend the table with as many
+more dimensions such that all the cuboids thus formed have the
+same volume. Complete the table and write your conclusion on
+surface area and volume of each cuboid.
+Dimensions of cuboid
+Surface Area
+Volume
+ (in units)
+(sq. unit)
+(cube unit)
+15, 10, 8
+1200
+6, 10, 20
+1200
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+3. The figure shown is a geoboard in which a rectangle has been
+outlined using a rubberband.
+1. What is the area of the rectangle?
+2. Draw a similar figure whose area is 50% larger than this figure.
+3. Draw a similar figure whose area is 25% larger than this figure.
+4. Suppose that the figure shown is 75% of another figure. What would
+the other figure look like?
+12/04/18
+
+
+
+5. The enclosed area represents 75% of another area on the geoboard.
+Use a geoboard or draw a diagram of a geoboard to represent 100%
+of the area.
+4
+i.
+Given here are sketches of front, back, sides and roof of a kennel.
+The drawings are as per the scale. 1 cm = 10 cm.
+Back
+4 cm
+3 cm
+Roof
+Area 12cm
+2
+Front
+4 cm
+3 cm
+1cm
+Roof
+Area 12 cm
+2
+12/04/18
+
+
+
+Side
+3 cm
+3 cm
+Base
+3 cm
+4 cm
+Side
+3 cm
+3 cm
+4 cm
+3cm
+(ii)
+Sketches given above belong to which kennel?
+(a)
+(b)
+(c)
+(iii)
+Draw the net of the correct choice on the graph paper.
+(iv) Take a waste piece of cardboard. Trace the net you have drawn above
+on the cardboard and fold it to make the kennel.
+(v) If you had to pay Rs 2 for each square cm of surface area, how much
+would it cost you to paint the kennel?
+12/04/18
+
+
+
+5.
+Word Maze
+r
+h
+r
+h
+o
+m
+b
+u
+s
+z
+a
+t
+h
+a
+m
+o
+b
+s
+u
+q
+b
+t
+r
+a
+p
+e
+z
+i
+u
+m
+c
+y
+l
+i
+n
+d
+e
+r
+b
+c
+t
+z
+w
+v
+a
+m
+q
+r
+e
+u
+i
+j
+l
+t
+q
+n
+g
+b
+a
+b
+k
+b
+d
+f
+v
+s
+g
+t
+r
+o
+s
+z
+q
+c
+i
+r
+c
+l
+e
+i
+a
+w
+h
+m
+a
+n
+k
+p
+e
+d
+Find the names of the solids from the given word maze whose areas or
+volumes are given below by colouring the boxes using the given colour
+code.
+Area/Volume
+Colour Code
+1.
+1
+2 d1 × d2
+red
+2.
+l b h
+blue
+3.
+πr2h
+yellow
+4.
+πr2
+green
+5.
+1
+2 bh
+orange
+6.
+1
+2 (a + b) × h
+pink
+12/04/18

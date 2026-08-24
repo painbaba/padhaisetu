@@ -1,0 +1,1279 @@
+The weightage or the distribution of marks over different dimensions of the question
+paper shall be as follows:
+1.   Weightage to Content/ Subject Units
+S.No.
+Units
+Marks
+1.
+Number Systems
+06
+2.
+Algebra
+20
+3.
+Coordinate Geometry
+06
+4.
+Geometry
+22
+5.
+Mensuration
+14
+6.
+Statistics and Probability
+12
+2.   Weightage to Forms of Questions
+S.No.
+Forms of
+Marks for each
+Number of
+Total Marks
+Questions
+Question
+Questions
+1.
+MCQ
+01
+10
+10
+2.
+SAR
+02
+05
+10
+3.
+SA
+03
+10
+30
+4.
+LA
+06
+05
+30
+Total
+30
+80
+DESIGN  OF  THE  QUESTION  PAPER
+MATHEMATICS – CLASS IX
+Time : 3 Hours
+Maximum Marks : 80
+SET-I
+16/04/18
+16/04/18
+
+170
+EXEMPLAR PROBLEMS
+3.   Scheme of Options
+All questions are compulsory, i.e., there is no overall choice. However, internal
+choices are provided in two questions of 3 marks each and 1 question of 6 marks.
+4.   Weightage to Difficulty level of Questions
+S.No.
+Estimated Difficulty
+Percentage of Marks
+Level of Questions
+1.
+Easy
+20
+2.
+Average
+60
+3.
+Difficult
+20
+Note
+A question may vary in difficulty level from individual to individual. As such, the
+assessment in respect of each question will be made by the paper setter/ teacher on
+the basis of general anticipation from the groups as whole taking the examination. This
+provision is only to make the paper balanced in its weight, rather to determine the
+pattern of marking at any stage.
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+171
+BLUE PRINT
+MATHEMATICS – CLASS  IX
+Forms of Questions →
+MCQ
+SAR
+SA
+LA
+Total
+Content Units
+↓
+NUMBER SYSTEMS
+1 (1)
+2 (1)
+3 (1)
+–
+6 (3)
+ALGEBRA
+Polynomials, Linear
+Equations in
+Two Variables
+1 (1)
+4 (2)
+9 (3)
+6 (1)
+20 (7)
+COORDINATE
+GEOMETRY
+1 (1)
+2 (1)
+3 (1)
+–
+6 (3)
+GEOMETRY
+Introduction to Euclid’s
+Geometry, Lines and
+Angles, Triangles,
+Quadrilaterals, Areas,
+Circles, Constructions
+4 (4)
+–
+6 (2)
+12 (2)
+22 (8)
+MENSURATION
+Areas, Surface areas
+and Volumes
+2 (2)
+–
+6 (2)
+6 (1)
+14 (5)
+STATISTICS AND
+PROBABILITY
+Statistics, Probability
+1 (1)
+2 (1)
+3 (1)
+6 (1)
+12 (4)
+Total
+10 (10)
+10 (05)
+30 (10)
+30 (05) 80 (30)
+SUMMARY
+Multiple Choice Questions (MCQ)
+Number of Questions: 10
+Marks: 10
+Short Answer with Reasoning (SAR)
+Number of Questions: 05
+Marks: 10
+Short Answer (SA)
+Number of Questions: 10
+Marks: 30
+Long Answer (LA)
+Number of Questions: 05
+Marks: 30
+Total
+30
+80
+16/04/18
+16/04/18
+
+172
+EXEMPLAR PROBLEMS
+MATHEMATICS
+CLASS IX
+Time: 3 hours
+Maximum Marks: 80
+General Instructions
+1.
+All questions are compulsory.
+2.
+The question paper consists of four sections A, B, C and D. Section A has 10
+questions of 1 mark each, section B has 5 questions of 2 marks each, section C has
+10 questions of 3 marks each and section D is of 5 questions of 6 marks each.
+3.
+There is no overall choice. However internal choices are provided in 2 questions of
+3 marks each and 1 question of 6 marks.
+4.
+Construction should be drawn neatly and exactly as per the given measurements.
+5.
+Use of calculators is not allowed.
+SECTION  A
+In Questions 1 to 10, four options of answer are given in each, out of which only one is
+correct. Write the correct option.
+1.
+Every rational number is:
+(A)
+a natural number
+(B)
+an integer
+(C)
+a real number
+(D)
+a whole number
+2.
+The distance of point (2, 4) from x-axis is
+(A)
+2 units
+(B)
+4 units
+(C)
+6 units
+(D)
+2
+2
+2
+4
++
+ units
+3.
+The degree of the polynomial (x3 + 7) (3 – x2) is:
+(A)
+5
+(B)
+3
+(C)
+2
+(D)
+–5
+4.
+In Fig. 1, according to Euclid’s 5th
+postulate, the pair of angles,
+having the sum less than 180° is:
+(A)
+1 and 2
+(B)
+2 and 4
+(C)
+1 and 3
+(D)
+3 and 4
+5.
+The length of the chord which is at a distance
+of 12 cm from the centre of a circle of radius
+13cm is:
+(A)
+5 cm
+(B)
+12 cm
+(C)
+13 cm
+(D)
+10 cm
+Fig. 1
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+173
+6.
+If the volume of a sphere is numerically equal to its surface area, then its diameter
+is:
+(A)
+2 units
+(B)
+1 units
+(C)
+3 units
+(D)
+6 units
+7.
+Two sides of a triangle are 5 cm and 13 cm and its perimeter is 30 cm. The area of
+the triangle is:
+(A)
+30 cm2
+(B)
+60 cm2
+(C)
+32.5 cm2
+(D)
+65 cm2
+8.
+Which of the following cannot be the empiral probability of an event.
+(A)
+2
+3
+(B)
+3
+2
+(C)
+0
+(D)
+1
+9.
+In Fig. 2, if l || m , then the value of x is:
+(A)
+60
+(B)
+80
+(C)
+40
+(D)
+140
+10. The diagonals of a parallelogram :
+(A)
+are equal
+(B)
+bisect each other
+(C)
+are perpendicular to each other
+(D)
+bisect each other at right angles.
+SECTION  B
+11. Is – 5 a rational number? Give reasons to your answer.
+12. Without actually finding  p(5), find whether (x–5) is a factor of p (x) = x3 – 7x2 +
+16x – 12. Justify your answer.
+13. Is (1, 8) the only solution of y = 3x + 5? Give reasons.
+14. Write the coordinates of a point on x-axis at a distance of 4 units from origin in the
+positive direction of x-axis and then justify your answer.
+15. Two coins are tossed simultaneously 500 times. If we get two heads 100 times,
+one head 270 times and no head 130 times, then find the probability of getting one
+or more than one head. Give reasons to your answer also.
+SECTION  C
+16. Simplify the following expression
+(
+)(
+)
+9
+3
+1 1
+12
+3
+12
++
+−
++
++
+Fig. 2
+16/04/18
+16/04/18
+
+174
+EXEMPLAR PROBLEMS
+OR
+Express 0.123 in the form of 
+,
+0
+p q
+q
+≠
+,  p and q are integers.
+17. Verify that:
+(
+) (
+)
+(
+)
+(
+)
+2
+2
+2
+3
+3
+3
+1
+3
+2
+x
+y
+z
+xyz
+x
+y
+z
+x
+y
+y
+z
+z
+x
+
+
++
++
+−
+=
++
++
+−
++
+−
++
+−
+
+
+18. Find the value of k, if (x–2) is a factor of  4x3 + 3x2 – 4x + k.
+19. Write the quadrant in which each of the following points lie :
+(i)
+(–3, –5)
+(ii)
+(2, –5)
+(iii)
+(–3, 5)
+Also, verify by locating them on
+the cartesian plane.
+20. In Figure 3, ABC and ABD are two
+triangles on the same base AB.
+If the line segment CD is bisected
+by AB at O, then show that:
+area (∆ ABC) = area (∆ ABD)
+21. Solve the equation 3x + 2 = 2x – 2 and represent the solution on the cartesian
+plane.
+22. Construct a right triangle whose base is 12 cm and the difference in lengths of its
+hypotenuse and the other side is 8cm. Also give justification of the steps of
+construction.
+23. In a quadrilateral ABCD, AB = 9 cm, BC = 12 cm, CD = 5 cm, AD = 8 cm and
+∠C = 90°. Find the area of ∆ABD
+24. In a hot water heating system, there is a cylindrical pipe of length 35 m and diameter
+10 cm. Find the total radiating surface in the system.
+OR
+The floor of a rectangular hall has a perimeter 150 m. If the cost of painting the
+four walls at the rate of Rs 10 per m2 is Rs 9000, find the height of the hall.
+25. Three coins are tossed simultaneously 200 times with the following frequencies of
+different outcomes:
+Outcome
+3 tails
+2 tails
+1 tail
+no tail
+Frequency
+20
+68
+82
+30
+Fig. 3
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+175
+If the three coins are simultaneously tossed again, compute the probability of getting
+less than 3 tails.
+SECTION  D
+26. The taxi fair in a city is as follows:
+For the first kilometer, the fare is Rs 10 and for the subsequent distance it is Rs 6
+per km. Taking the distance covered as x km and total fare as Rs  y, write a linear
+equation for this information and draw its graph.
+From the graph, find the fare for travelling a distance
+of 4 km.
+27. Prove that the angles opposite to equal sides of an
+isosceles triangle are equal.
+Using the above, find ∠ B in a right triangle ABC,
+right angled at A with AB = AC.
+28. Prove that the angle subtended by an arc at the
+centre is double the angle subtended by it at any
+point on the remaining part of the circle.
+Using the above result, find x in figure 4 where O is
+the centre of the circle.
+29. A heap of wheat is in the form of a cone whose diameter is 48 m and height is 7 m.
+Find its volume. If the heap is to be covered by canvas to protect it from rain, find
+the area of the canvas required.
+OR
+A dome of a building is in the form of a hollow hemisphere. From inside, it was
+white-washed at the cost of Rs 498.96. If the rate of white washing is Rs 2.00 per
+square meter, find the volume of air inside the dome.
+30. The following table gives the life times of 400 neon lamps:
+Life time (in hours)
+300-400
+400-500
+500-600
+600-700
+700-800
+800-900 900-1000
+Number of Lamps
+14
+56
+60
+86
+74
+62
+48
+(i)
+Represent the given information with the help of a histogram.
+(ii)
+How many lamps have a lifetime of less than 600 hours?
+Fig. 4
+16/04/18
+16/04/18
+
+176
+EXEMPLAR PROBLEMS
+Marking Scheme
+MATHEMATICS – CLASS IX
+SECTION A
+MARKS
+1.
+(C)
+2. (B)
+3. (A)
+4. (C)
+5.
+(D)
+6.
+(D)
+7. (A)
+8. (B)
+9. (C)
+10. (B)
+(1 × 10 = 10)
+SECTION B
+11. Yes,
+( 1
+2 )
+since 
+5
+5
+1
+−
+−=
+ and –5, 1 are integers and 1 ≠ 0.
+(1 1
+2 )
+12. (x – 5) is not a factor of p(x),
+( 1
+2 )
+since, 5 is not a factor of –12
+(1 1
+2 )
+13. No,
+( 1
+2 )
+since,  y = 3x + 5 have many solutions like (–1, 2), (2, 11) etc.
+(1 1
+2 )
+14. (4, 0)
+( 1
+2 )
+since, any point on x-axis have coordinates (x, 0), where x is the distance from
+origin.
+(1 1
+2 )
+15.
+37
+50
+p =
+( 1
+2 )
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+177
+Since, frequency of one or more than one head = 100 + 270 = 370
+Therefore,  P(one or more Heads) 
+370
+37
+500
+50
+=
+=
+(1 1
+2 )
+SECTION  C
+16. (
+)(
+)
+9
+3
+1 1
+12
+3
+12
++
+−
++
++
+(
+)
+9
+12
+3
+3
+36
+1
+12
+12
+3
+12
+3
+−
+=
+−
++ −
++
+⋅
++
+−
+(1)
+(
+)
+(
+)
+(
+)
+9
+12
+3
+3
+5
+12
+12
+3
+−
+=
+−
+−
++
+−
+(1)
+(
+) (
+)
+3
+5
+12
+12
+3
+5
+=
+−
+−
++
+−
+= −.
+(1)
+OR
+Let 
+0.123
+0.123333...
+x =
+=
+Therefore, 100
+12.3
+x =
+(1)
+and 1000
+123.3
+x =
+( 1
+2 )
+Therefore, 900
+111
+x =
+,  i.e., 
+111
+900
+x =
+(1 1
+2 )
+17. LHS = 
+3
+3
+3
+3
+x
+y
+z
+xyz
++
++
+−
+= (
+)(
+)
+2
+2
+2
+x
+y
+z
+x
+y
+z
+xy
+yz
+xz
++
++
++
++
+−
+−
+−
+(1)
+= (
+)(
+)
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2
+2 x
+y
+z
+x
+y
+z
+xy
+yz
+xz
++
++
++
++
+−
+−
+−
+( 1
+2 )
+= (
+) (
+) (
+) (
+)
+2
+2
+2
+2
+2
+2
+1
+2
+2
+2
+2 x
+y
+z
+x
+y
+xy
+x
+z
+xy
+y
+z
+xz
+
+
++
++
++
+−
++
++
+−
++
++
+−
+
+
+(1)
+= (
+) (
+)
+(
+)
+(
+)
+2
+2
+2
+1
+2 x
+y
+z
+x
+y
+z
+x
+y
+z
+
+
++
++
+−
++
+−
++
+−
+
+
+( 1
+2 )
+16/04/18
+16/04/18
+
+178
+EXEMPLAR PROBLEMS
+18. When (
+)
+2
+x −
+ is a factor of 
+( )
+3
+2
+4
+3
+4
+p x
+x
+x
+x
+k
+=
++
+−
++
+, then 
+( )
+2
+0
+p
+=
+(1)
+Therefore,
+( )
+( )
+( )
+3
+2
+4 2
+3 2
+4 2
+0
+k
++
+−
++
+=
+(1)
+or
+32
+12
+8
+0
+k
++
+−
++
+=
+,    i.e.,  
+36
+k = −
+(1)
+19. (
+)
+3, 5
+−
+−
+ lies in 3rd Quadrant
+(
+)
+2, 5
+−
+ lies in 4th Quadrant
+(
+)
+3,5
+−
+ lies in 2nd Quadrant
+( 1
+2 × 3 = 1 1
+2 )
+For correctly
+locating the points
+( 1
+2 × 3 = 1 1
+2 )
+20. Draw CL
+AB
+⊥
+ and DM
+AB
+⊥
+( 1
+2 )
+COL
+DOM
+≅
+  (AAS)
+( 1
+2 )
+Therefore, CL = DM
+( 1
+2 )
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+179
+Therefore, Area (∆ ABC) = 1 AB CL
+2
+⋅
+( 1
+2 )
+  = 1 AB DM
+2
+⋅
+( 1
+2 )
+= Area (∆ ABD)
+( 1
+2 )
+21. 3
+2
+2
+2
+x
+x
++
+=
+−
+i.e.,
+3
+2
+2
+2, i.e.,
+4
+x
+x
+x
+−
+= −−
+= −
+(1)
+(2)
+22. For correct geometrical construction
+(2)
+For Justification
+(1)
+23. Getting BD = 
+2
+2
+12
+5
+13 cm
++
+=
+(1)
+16/04/18
+16/04/18
+
+180
+EXEMPLAR PROBLEMS
+S = 13
+9
+8
+15 cm
+2
++
++
+=
+( 1
+2 )
+ABD = (
+)(
+)(
+)(
+)
+15 15 13 15
+8 15
+9
+−
+−
+−
+ = 
+2
+840
+28.98 cm
+=
+ = 29 cm2 (approx)
+(1 1
+2 )
+24. Radiating surface = curved surface of cylinder
+( 1
+2 )
+= 2πrh
+( 1
+2 )
+= 
+2
+22
+5
+2
+35 m
+7
+100
+⋅
+⋅
+(1 1
+2 )
+= 11 m2
+( 1
+2 )
+OR
+If l, b represent the length, breadth of the hall, respectively,
+then (
+)
+2
+150 m
+l
+b
++
+=
+( 1
+2 )
+Area of four walls = (
+)
+2
++
+l
+b h, where h is the height
+(1)
+Therefore, (
+)
+2
+10
+9000
++
+⋅
+=
+l
+b h
+( 1
+2 )
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+181
+or(
+) (
+)
+150
+10
+9000,
+i.e.,
+6m
+h
+h
+=
+=
+Therefore, height of  the hall = 6 m
+(1)
+25. Total number of trials = 200
+( 1
+2 )
+Frequency of the outcomes, less than 3 trials,
+= 68 + 82 +30 = 180
+(1)
+Therefore, required probability = 180
+200 = 9
+10
+(1 1
+2 )
+SECTION  D
+26. Let the distance covered be x km
+and total fare for x km = Rs y
+Therefore,  10 + 6 (x– 1) = y
+(2)
+or 6x – y + 4 = 0
+(1)
+x
+0
+1
+2
+y
+4
+10
+16
+(2)
+From the graph, when x = 4, y = 28
+Therefore, fare is Rs 28  for a distance of 4 km.
+(1)
+27. For correct given, to prove, construction and figure
+( 1
+2 × 4 = 2)
+For correct proof
+(2)
+Since, 
+B
+90
+∠
+=
+°,  therefore, 
+ A+
+ C = 90°
+∠
+∠
+( 1
+2 )
+AB = AC gives 
+A = 
+ C
+∠
+∠
+(1)
+Therefore, 
+A = 
+ C = 45°
+∠
+∠
+( 1
+2 )
+16/04/18
+16/04/18
+
+182
+EXEMPLAR PROBLEMS
+28. For correct given, to prove, construction and figure
+( 1
+2 × 4 = 2)
+For correct proof
+(2)
+Since 
+PQR = 100°
+∠
+Therefore, ∠ y = 200°
+(1)
+Since 
+ = 360°
+x
+y
+∠+ ∠
+( 1
+2 )
+Therefore,  
+360
+200
+160
+x
+∠=
+° −
+° =
+°
+( 1
+2 )
+29. Radius of conical heap = 24 m
+Height = 7 m
+Volume = 
+2
+1
+3 r h
+π
+(1)
+= 
+3
+1 22 24.24.7
+3
+7
+m
+⋅
+⋅
+(1 1
+2 )
+= 4224 m3
+Area of canvas = curved surface area of cone = πrl
+( 1
+2 )
+where l = 
+2
+2
+2
+2
+24
+7
+625
+25m
+r
+h
++
+=
++
+=
+=
+(1)
+Therefore,   Area = 
+2
+22
+24
+25
+1885.7 m
+7 ×
+×
+=
+(2)
+OR
+Total cost = Rs 498.96, rate = Rs 2 per m2
+Therefore,     Area = 
+2
+498.96
+249.48 m
+2
+=
+(1 + 1 = 2)
+If r is the radius, then,
+2πr2 = 249.47, i.e., 
+2
+1
+7
+249.48
+2
+22
+r =
+×
+×
+(1)
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-I
+183
+i.e., 
+2
+567
+7
+100
+r
+×
+=
+ which gives 
+6.3 m
+r =
+       (1)
+Therefore, volume of dome = 
+3
+3
+2
+2 22
+63
+3
+3
+7
+10
+r
+
+
+π
+=
+⋅
+⋅
+
+
+
+(1)
+= 523.91 m3
+       (1)
+30. For correctly making the histogram
+(4)
+No. of lamps having life time less than 600
+= 14 + 56 + 60 = 130
+(2)
+16/04/18
+16/04/18

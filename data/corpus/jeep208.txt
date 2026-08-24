@@ -1,0 +1,1039 @@
+(A) Main Concepts and Results
+•
+Trigonometric Ratios of the angle A in a triangle ABC right angled at B
+are defined as:
+sine of  ∠A = sin A = 
+side opposite to
+A
+BC
+hypotenuse
+AC
+∠
+=
+cosine of  ∠A = cos  A = 
+side adjacent to
+A
+AB
+hypotenuse
+AC
+∠
+=
+tangent of  ∠A = tan  A = 
+side opposite to
+A
+BC
+side adjacent to angle
+A
+AB
+∠
+=
+∠
+cosecant of  ∠A = cosec  A = 
+1
+AC
+sinA
+BC
+=
+secant of  ∠A = sec A
+1
+AC
+ 
+cos A
+AB
+=
+=
+cotangent of  ∠A = cot  A = 
+1
+AB
+tan A
+BC
+=
+tan A = 
+sin A
+cosA , cot A = 
+cosA
+sinA
+INTRODUCTION TO TRIGONOMETRY AND ITS APPLICATIONS
+CHAPTER 8
+03/05/18
+
+88
+EXEMPLAR PROBLEMS
+•
+The values of trigonometric ratios of an angle do not vary with the lengths of the
+sides of the triangle, if the angle remains the same.
+•
+If one trigonometric ratio of an angle is given, the other trigonometric ratios of
+the angle can be determined.
+•
+Trigonometric ratios of angles: 0°, 30°, 45°, 60° and 90°.
+A
+0°
+30°
+45°
+60°
+90°
+sin A
+0
+1
+2
+1
+2
+3
+2
+1
+cos A
+1
+3
+2
+1
+2
+1
+2
+0
+tan A
+0
+1
+3
+1
+3
+Not defined
+cosec A
+Not defined
+2
+2
+2
+3
+1
+sec A
+1
+2
+3
+2
+2
+Not defined
+cot A
+Not defined
+3
+1
+1
+3
+0
+•
+The value of sin A or cos A never exceeds 1, whereas the value of sec A or
+cosec A is always greater than or equal to 1.
+•
+Trigonometric ratios of complementary angles:
+sin (90° – A) = cos A, cos (90° – A) = sin A
+tan (90° – A) = cot A, cot (90° – A) = tan A
+sec (90° – A) = cosec A, cosec (90° – A) = sec A
+•
+Trigonometric identities:
+cos2 A + sin2 A = 1
+1 + tan2A = sec2A
+cot2 A + 1 = cosec2 A
+03/05/18
+
+INTRODUCTION TO TRIGONOMETRY AND ITS APPLICATIONS
+89
+•
+The ‘line of sight’ is the line from the eye of an observer to the point in the object
+viewed by the observer.
+•
+The ‘angle of elevation’ of an object viewed, is the angle formed by the line of sight
+with the horizontal when it is above the horizontal level.
+•
+The angle of depression of an object viewed, is the angle formed by the line of
+sight with the horizontal when it is below the horizontal level.
+•
+The height or length of an object or the distance between two distinct objects can
+be determined with the help of trigonometric ratios.
+(B) Multiple Choice Questions
+Choose the correct answer from the given four options:
+Sample Question 1 : The value of (sin30° + cos30°) – (sin60° + cos60°) is
+(A)
+– 1
+(B)
+0
+(C)
+1
+(D)
+2
+Solution : Answer (B)
+Sample Question 2 : The value of tan30
+cot60
+°
+° is
+(A)
+1
+2
+(B)
+1
+3
+(C)
+3
+(D)
+1
+Solution : Answer (D)
+Sample Question 3 : The value of (sin 45° + cos 45°) is
+(A)
+1
+2
+(B)
+2
+(C)
+3
+2
+(D)
+1
+Solution : Answer (B)
+EXERCISE 8.1
+Choose the correct answer from the given four options:
+1.
+If cos A = 4
+5 , then the value of tan A is
+(A)
+3
+5
+(B)
+3
+4
+(C)
+4
+3
+(D)
+5
+3
+03/05/18
+
+90
+EXEMPLAR PROBLEMS
+2.
+If sin A = 1
+2 , then the value of cot A is
+(A)
+3
+(B)
+1
+3
+(C)
+3
+2
+(D)
+1
+3.
+The value of the expression [cosec (75° + θ) – sec (15° – θ) – tan (55° + θ) +
+cot (35° – θ)] is
+(A)
+– 1
+(B)
+0
+(C)
+1
+(D)
+3
+2
+4.
+Given that sinθ = a
+b , then cosθ is equal to
+(A)
+2
+2
+–
+b
+b
+a
+(B)
+b
+a
+(C)
+2
+2
+–
+b
+a
+b
+(D)
+2
+2
+–
+a
+b
+a
+5.
+If cos (α + β) = 0, then sin (α – β) can be reduced to
+(A)
+cos β
+(B)
+cos 2β
+(C)
+sin α
+(D)
+sin 2α
+6.
+The value of (tan1° tan2° tan3° ... tan89°) is
+(A)
+0
+(B)
+1
+(C)
+2
+(D)
+1
+2
+7.
+If cos 9α = sinα and 9α < 90°  , then the value of tan5α is
+(A)
+1
+3
+(B)
+3
+(C)
+1
+(D)
+0
+8.
+If ∆ABC is right angled at C, then the value of cos (A+B) is
+(A)
+0
+(B)
+1
+(C)
+1
+2
+(D)
+3
+2
+9.
+If sinA + sin2A = 1, then the value of the expression (cos2A + cos4A) is
+(A)
+1
+(B)
+1
+2
+(C)
+2
+(D)
+3
+10. Given that sinα = 1
+2 and cosβ = 1
+2 , then the value of (α + β) is
+(A)
+0°
+(B)
+30°
+(C)
+60°
+(D)
+90°
+03/05/18
+
+INTRODUCTION TO TRIGONOMETRY AND ITS APPLICATIONS
+91
+11. The value of the expression 
+2
+2
+2
+2
+2
+sin 22
+sin 68
+sin 63
+cos63 sin 27
+cos 22
+cos 68
+
+
+°+
+° +
+°+
+°
+°
+
+
+°+
+°
+
+
+ is
+(A)
+3
+(B)
+2
+(C)
+1
+(D)
+0
+12. If 4 tanθ = 3, then 
+4sin
+cos
+4sin
+cos
+
+
+θ−
+θ
+
+
+θ+
+θ
+
+is equal to
+(A)
+2
+3
+(B)
+1
+3
+(C)
+1
+2
+(D)
+3
+4
+13. If sinθ – cosθ = 0, then the value of (sin4θ + cos4θ) is
+(A)
+1
+(B)
+3
+4
+(C)
+1
+2
+(D)
+1
+4
+14. sin (45° + θ) – cos (45° – θ) is equal to
+(A)
+2cosθ
+(B)
+0
+(C)
+2sinθ
+(D)
+1
+15. A pole 6 m high casts a shadow 2 3 m long on the ground, then the Sun’s
+elevation is
+(A\)
+60°
+(B)
+45°
+(C)
+30°
+(D)
+90°
+(C) Short Answer Questions with Reasoning
+Write ‘True’ or ‘False’ and justify your answer.
+Sample Question 1 : The value of sinθ + cosθ is always greater than 1.
+Solution : False.
+The value of (sinθ + cosθ) for θ = 0° is 1.
+Sample Question 2 : The value of tanθ (θ < 90°) increases as θ
+increases.
+Solution : True.
+03/05/18
+
+92
+EXEMPLAR PROBLEMS
+In Fig. 8.2, B is moved closer to C along BC. It is observed that
+(i) θ increases (as θ1 > θ, θ2 > θ1, ...) and
+(ii) BC decreases (B1C < BC, B2C < B1C, ...)
+Thus the perpendicular AC remains fixed and the base BC decreases. Hence tanθ
+increases as θ increases.
+Sample Question 3 : tanθ increases faster than sinθ as θ increases.
+Solution : True
+We know that sinθ increases as θ increases but cosθ decreases as θ increases.
+We have 
+sin
+tan
+cos
+θ
+θ=
+θ
+Now as θ increases, sinθ increases but cosθ decreases. Therefore, in case of tanθ, the
+numerator increases and the denominator decreases. But in case of sinθ which can be
+seen as sin
+1
+θ , only the numerator increases but the denominator remains fixed at 1.
+Hence tanθ increases faster than sinθ as θ increases.
+Sample Question 4 : The value of sinθ is 
+1
+a
+a
+ 
+ 
++
+ 
+ 
+ 
+ , where ‘a’ is a positive number.
+Solution : False.
+We know that 
+2
+1
+0
+a
+a
+ 
+ 
+−
+≥
+ 
+ 
+ 
+ 
+  or   
+1
+2
+a
+a
++
+≥, but sinθ is not greater than 1.
+Alternatively, there exists the following three posibilities :
+Case 1.
+If a < 1, then 
+1
+1
+a
+a
+ 
+ 
++
+>
+ 
+ 
+ 
+ 
+Case 2.
+If a = 1, then 
+1
+1
+a
+a
+ 
+ 
++
+>
+ 
+ 
+ 
+ 
+Case 3.
+If a > 1, then 
+1
+1
+a
+a
+ 
+ 
++
+>
+ 
+ 
+ 
+ 
+However, sin θ cannot be greater than 1.
+03/05/18
+
+INTRODUCTION TO TRIGONOMETRY AND ITS APPLICATIONS
+93
+EXERCISE 8.2
+Write ‘True’ or ‘False’ and justify your answer in each of the following:
+1.
+tan47
+1
+cot 43
+° =
+°
+2.
+The value of the expression (cos2 23° – sin2 67°) is positive.
+3.
+The value of the expression (sin 80° – cos 80°) is negative.
+4.
+2
+2
+(1–cos
+) sec
+tan
+θ
+θ =
+θ
+5.
+If cosA + cos2A = 1, then sin2A + sin4A = 1.
+6.
+(tan θ + 2) (2 tan θ + 1) = 5 tan θ + sec2θ.
+7.
+If the length of the shadow of a tower is increasing, then the angle of elevation of
+the sun is also increasing.
+8.
+If a man standing on a platform 3 metres above the surface of a lake observes a
+cloud and its reflection in the lake, then the angle of elevation of the cloud is equal
+to the angle of depression of its reflection.
+9.
+The value of 2sinθ can be 
+1
+a
+a
+ 
+ 
++
+ 
+ 
+ 
+ , where a is a positive number, and a ≠1.
+10. cos θ = 
+2
+2
+2
+a
+b
+ab
++
+, where a and b are two distinct numbers such that ab > 0.
+11. The angle of elevation of the top of a tower is 30°. If the height of the tower is
+doubled, then the angle of elevation of its top will also be doubled.
+12. If the height of a tower and the distance of the point of observation from its foot,
+both, are increased by 10%, then the angle of elevation of its top remains unchanged.
+(D) Short  Answer  Questions
+Sample Question 1 : Prove that sin6θ + cos6θ + 3sin2θ cos2θ = 1
+Solution : We know that  sin2θ + cos2θ = 1
+Therefore,
+(sin2θ + cos2θ)3 = 1
+or, (sin2θ)3 + (cos2θ)3 + 3sin2θ cos2θ (sin2θ + cos2θ) = 1
+or,
+sin6θ + cos6 θ + 3sin2θ  cos2θ  = 1
+Sample Question 2 : Prove that (sin4θ – cos4θ +1) cosec2θ = 2
+03/05/18
+
+94
+EXEMPLAR PROBLEMS
+Solution :
+L.H.S.
+= (sin4θ – cos4θ +1) cosec2θ
+= [(sin2θ – cos2θ) (sin2θ + cos2θ) + 1] cosec2θ
+= (sin2θ – cos2θ + 1) cosec2θ
+[Because sin 2θ + cos2θ =1]
+= 2sin2θ  cosec2θ          [Because 1– cos 2θ = sin2θ ]
+= 2 = RHS
+Sample Question 3 : Given that α + β = 90°, show that
+cos
+cosec –cos
+sin
+sin
+α
+β
+α
+β =
+α
+Solution :
+cos
+cosec – cos
+sin
+cos
+cosec(90
+) –cos
+sin(90
+)
+α
+β
+α
+β =
+α
+°−α
+α
+°−α
+[Given α + β = 90°]
+= 
+cos
+sec
+–cos
+cos
+α
+α
+α
+α
+                            = 
+2
+1 cos
+−
+α
+= sin α
+Sample Question 4 : If sin θ + cos θ = 
+3 , then prove that tan θ + cot θ = 1
+Solution :
+sin θ + cos θ = 
+3
+(Given)
+or
+(sin θ + cos θ)2 = 3
+or
+sin2 θ + cos2θ + 2sinθ cosθ  = 3
+2sinθ  cosθ = 2
+[sin2θ + cos2θ = 1]
+or
+sin θ cos θ  = 1 = sin2θ + cos2θ
+or
+2
+2
+sin
+cos
+1
+sin cos
+θ+
+θ
+=
+θ
+θ
+Therefore,
+tanθ + cotθ = 1
+03/05/18
+
+INTRODUCTION TO TRIGONOMETRY AND ITS APPLICATIONS
+95
+EXERCISE 8.3
+Prove the following (from Q.1 to Q.7):
+1.
+sin
+1 cos
+2cosec
+1 cos
+sin
+θ
++
+θ
++
+=
+θ
++
+θ
+θ
+2.
+tan A
+tan A
+2cosec A
+1 secA
+1 secA
+−
+=
++
+−
+3.
+If tan A  = 3
+4 , then sinA cosA = 12
+25
+4.
+(sin α + cos α) (tan α + cot α) = sec α + cosec α
+5. (
+)
+3 1
++
+ (3 – cot 30°) = tan3 60° – 2 sin 60°
+6.
+2
+cot
+1
+cosec
+1 cosec
+α
++
+=
+α
++
+α
+7.
+tan θ + tan (90° – θ) = sec θ  sec (90° – θ)
+8.
+Find the angle of elevation of the sun when the shadow of a pole h metres high is
+3 h metres long.
+9.
+If 
+3 tan θ = 1, then find the value of sin2θ – cos2 θ.
+10. A ladder 15 metres long just reaches the top of a vertical wall. If the ladder makes
+an angle of 60° with the wall, find the height of the wall.
+11. Simplify (1 + tan2θ) (1 – sinθ) (1 + sinθ)
+12. If 2sin2θ – cos2θ = 2, then find the value of θ.
+13. Show that 
+2
+2
+cos (45
+)
+cos (45 – )
+tan(60
+) tan(30
+)
+°+θ +
+° θ
+°+θ
+°−θ
+= 1
+14. An observer 1.5 metres tall is 20.5 metres away from a tower 22 metres high.
+Determine the angle of elevation of the top of the tower from the eye of the
+observer.
+15. Show that tan4θ + tan2θ = sec4θ – sec2θ.
+03/05/18
+
+96
+EXEMPLAR PROBLEMS
+(E) Long Answer Questions
+Sample Question 1 : A spherical balloon of radius r subtends an angle θ at the eye of
+an observer. If the angle of elevation of its centre is φ, find the height of the centre of
+the balloon.
+Solution :  In Fig. 8.3, O is the centre of balloon, whose radius OP = r and ∠PAQ = θ.
+Also, ∠OAB = φ.
+Let the height of the centre of the balloon be h. Thus OB = h.
+Now, from ∆OAP, sin 2
+θ = r
+d , where OA = d
+ (1)
+Also from ∆OAB, sin  = h
+d .
+ (2)
+From (1) and (2), we get 
+sin
+sin 2
+h
+h
+d
+r
+r
+d
+φ =
+=
+θ
+or
+h = r sin φ cosec 2
+θ .
+Sample Question 2 : From a balloon vertically above a straight road, the angles of
+depression of two cars at an instant are found to be 45° and 60°.  If the cars are 100 m
+apart, find the height of the balloon.
+03/05/18
+
+INTRODUCTION TO TRIGONOMETRY AND ITS APPLICATIONS
+97
+Solution : Let the height of the balloon at P be h meters (see Fig. 8.4). Let A and B be
+the two cars. Thus AB = 100 m. From ∆PAQ, AQ = PQ = h
+Now from ∆PBQ,
+PQ
+BQ = tan 60° = 
+3   or   
+3
+–100
+h
+h
+=
+or
+       h = 
+3 (h –100)
+Therefore,   h = 
+100 3
+3 –1 = 50 (3 +
+3 )
+i.e., the height of the balloon is 50 (3 + 
+3 ) m.
+Sample Question 3 : The angle of elevation of a cloud from a point h metres above
+the surface of a lake is θ and the angle of depression of its reflection in the lake is φ.
+Prove that the height of the cloud above the lake is 
+tan
+tan
+tan
+tan
+h 
+
+φ+
+θ
+
+
+φ−
+θ
+
+
+.
+Solution : Let P be the cloud and Q be its reflection in the lake (see Fig. 8.5). Let A be
+the point of observation such that AB = h.
+03/05/18
+
+98
+EXEMPLAR PROBLEMS
+Let the height of the cloud above the lake be x. Let AL = d.
+Now from ∆PAL, x h
+d
+−
+ = tan θ
+(1)
+From ∆QAL, x
+h
+d
++
+ = tanφ
+(2)
+From (1) and (2), we get
+tan
+–
+tan
+x
+h
+x
+h
++
+φ
+=
+θ
+or
+2
+tan
+tan
+2
+tan
+tan
+x
+h
+φ+
+θ
+=
+φ−
+θ
+Therefore, x = h tan
+tan
+tan
+tan
+
+
+φ+
+θ
+
+
+φ−
+θ
+
+
+.
+03/05/18
+
+INTRODUCTION TO TRIGONOMETRY AND ITS APPLICATIONS
+99
+EXERCISE 8.4
+1.
+If cosecθ + cotθ = p, then prove that cosθ = 
+2
+2
+1
+1
+p
+p
+−
++ .
+2.
+Prove that 
+2
+2
+sec
+cosec
+tan
+cot
+θ+
+θ =
+θ +
+θ
+3.
+The angle of elevation of the top of a tower from certain point is 30°. If the
+observer moves 20 metres towards the tower, the angle of elevation of the top
+increases by 15°. Find the height of the tower.
+4.
+If 1 + sin2θ = 3sinθ  cosθ , then prove that tanθ  = 1 or 1
+2 .
+5.
+Given that sinθ + 2cosθ = 1, then prove that 2sinθ – cosθ = 2.
+6.
+The angle of elevation of the top of a tower from two points distant s and t from its
+foot are complementary. Prove that the height of the tower is 
+st .
+7.
+The shadow of a tower standing on a level plane is found to be 50 m longer when
+Sun’s elevation is 30° than when it is 60°. Find the height of the tower.
+8.
+A vertical tower stands on a horizontal plane and is surmounted by a vertical flag
+staff of height h. At a point on the plane, the angles of elevation of the bottom and
+the top of the flag staff are α and β, respectively. Prove that the height of the
+tower is 
+tan
+tan
+tan
+h
+
+
+α
+
+
+β−
+α
+
+.
+9.
+If tanθ + secθ = l, then prove that secθ = 
+2
+1
+2
+l
+l
++ .
+10. If sinθ + cosθ = p and secθ + cosecθ = q, then prove that q (p2 – 1) = 2p.
+11. If a sinθ + b cosθ = c, then prove that a cosθ – b sinθ = 
+2
+2
+2
+–
+a
+b
+c
++
+.
+12. Prove that 
+1 sec – tan
+1 sec
+tan
++
+θ
+θ
++
+θ+
+θ = 1 –sin
+cos
+θ
+θ
+13. The angle of elevation of the top of a tower 30 m high from the foot of another
+tower in the same plane is 60° and the angle of elevation of the top of the second
+tower from the foot of the first tower is 30°. Find the distance between the two
+towers and also the height of the other tower.
+03/05/18
+
+100
+EXEMPLAR PROBLEMS
+14. From the top of a tower h m high, the angles of depression of two objects, which
+are in line with the foot of the tower are α and β (β > α). Find the distance
+between the two objects.
+15. A ladder rests against a vertical wall at an inclination α to the horizontal. Its foot
+is pulled away from the wall through a distance p so that its upper end slides a
+distance q down the wall and then the ladder makes an angle β to the horizontal.
+Show that  
+cos
+– cos
+sin
+– sin
+p
+q
+β
+α
+=
+α
+β .
+16. The angle of elevation of the top of a vertical tower from a point on the ground is
+60o . From another point 10 m vertically above the first, its angle of elevation is
+45o. Find the height of the tower.
+17. A window of a house is h metres above the ground. From the window, the angles
+of elevation and depression of the top and the bottom of another house situated on
+the opposite side of the lane are found to be α and β,  respectively. Prove that the
+height of the other house is h ( 1 + tan α  cot β ) metres.
+18. The lower window of a house is at a height of 2 m above the ground and its upper
+window is 4 m vertically above the lower window. At certain instant the angles of
+elevation of a balloon from these windows are observed to be 60o and 30o,
+respectively. Find the height of the balloon above the ground.
+03/05/18

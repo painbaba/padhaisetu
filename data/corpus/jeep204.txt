@@ -1,0 +1,595 @@
+(A) Main Concepts and Results
+•
+Quadratic equation : A quadratic equation in the variable x is of the form
+ax2 + bx + c = 0, where a, b, c are real numbers and a ≠ 0.
+•
+Roots of a quadratic equation :  A real number α is said to be a root of the
+quadratic equation ax2 + bx + c = 0, if aα2 + bα + c = 0.
+•
+The roots of the quadratic equation ax2 + bx + c = 0 are the same as the zeroes
+of the quadratic polynomial ax2 + bx + c.
+•
+Finding the roots of a quadratic equation by the method of factorisation : If we
+can factorise the quadratic polynomial ax2 + bx + c, then the roots of the quadratic
+equation ax2 + bx + c = 0 can be found by equating to zero the linear factors of
+ax2 + bx + c.
+•
+Finding the roots of a quadratic equation by the method of completing the
+square : By adding and subtracting a suitable constant, we club the x2 and x terms
+in the quadratic equation so that they become a complete square, and solve for x.
+•
+Quadratic Formula : If b2 – 4ac ≥ 0, then the real roots of the quadratic equation
+ax2 + bx + c = 0 are given by 
+2
+4
+2
+2
+−
+−
+±
+b
+b
+ac
+a
+a
+.
+•
+The expression b2 – 4ac is called the discriminant of the quadratic equation.
+•
+Existence of roots of a quadratic equation: A quadratic equation ax2+bx+c=0 has
+QUADRATIC  EQUATIONS
+CHAPTER 4
+03/05/18
+
+36
+EXEMPLAR PROBLEMS
+(i)
+two distinct real roots if b2 – 4ac > 0
+(ii)
+two equal real roots if b2 – 4ac = 0
+(iii)
+no real roots if  b2 – 4ac < 0.
+(B) Multiple Choice Questions
+Choose the correct answer from the given four options:
+Sample Question 1 : Which one of the following is not a quadratic equation?
+(A)
+(x + 2)2 = 2(x + 3)
+(B)
+x2 + 3x = (–1) (1 – 3x)2
+(C)
+(x + 2) (x – 1) = x2 – 2x – 3
+(D)
+x3 – x2 + 2x + 1 = (x + 1)3
+Solution :  Answer (C)
+Sample Question 2 : Which constant should be added and subtracted to solve the
+quadratic equation 
+2
+4
+3
+5
+0
+−
+−
+=
+x
+x
+ by the method of completing the square?
+(A)
+9
+16
+(B)
+3
+16
+(C)
+3
+4
+(D)
+3
+4
+Solution : Answer (B)
+EXERCISE 4.1
+Choose the correct answer from the given four options in the following questions:
+1.
+Which of the following is a quadratic equation?
+(A) x2 + 2x + 1 = (4 – x)2 + 3
+(B) –2x2 = (5 – x) 
+2
+2
+5
+x
+
+
+−
+
+
+
+
+(C) (k + 1)x2 + 3
+2 x = 7, where k = –1
+(D) x3 – x2 = (x – 1)3
+2.
+Which of the following is not a quadratic equation?
+(A) 2(x – 1)2 = 4x2  – 2x + 1
+(B) 2x – x2 = x2 + 5
+(C) 
+2
+2
+2
+( 2
+3)
+ 
+ 3
+ 
+5
+x
+x
+x
+x
++
++
+=
+−
+(D) (x2 + 2x)2 = x4 + 3 + 4x3
+3.
+Which of the following equations has 2 as a root?
+(A) x2 – 4x + 5 = 0
+(B) x2 + 3x – 12 = 0
+(C) 2x2 – 7x + 6 = 0
+(D) 3x2 – 6x – 2 = 0
+03/05/18
+
+QUADRATIC EQUATIONS
+37
+4.
+If 1
+2 is a root of the equation x2 + kx – 5
+4 = 0, then the value of k is
+(A) 2
+(B) – 2
+(C) 1
+4
+(D) 1
+2
+5.
+Which of the following equations has the sum of its roots as 3?
+(A) 2x2 – 3x + 6 = 0
+(B) –x2 + 3x – 3 = 0
+(C) 
+2
+3
+2
+1 
+ 0
+2
+−
++
+=
+x
+x
+(D) 3x2 – 3x + 3 = 0
+6.
+Values of k for which the quadratic equation 2x2 – kx + k = 0 has equal roots is
+(A) 0 only
+(B) 4
+(C) 8 only
+(D) 0, 8
+7.
+Which constant must be added and subtracted to solve the quadratic equation
+9x2 + 3
+4 x –
+2 = 0 by the method of completing the square?
+(A) 1
+8
+(B) 1
+64
+(C) 1
+4
+(D) 9
+64
+8.
+The quadratic equation 2x2 – 
+5x + 1 = 0 has
+(A) two distinct real roots
+(B) two equal real roots
+(C) no real roots
+(D) more than 2 real roots
+9.
+Which of the following equations has two distinct real roots?
+(A) 2x2 – 
+9
+3 2
+4
+x +
+ = 0
+(B) x2 + x – 5 = 0
+(C) x2 + 3x + 2 2 = 0
+(D) 5x2 – 3x + 1 = 0
+10.
+Which of the following equations has no real roots?
+(A) x2 – 4x + 3 2 = 0
+(B) x2 + 4x – 3 2 = 0
+(C) x2 – 4x – 3 2 = 0
+(D) 3x2 + 4 3 x + 4 = 0
+03/05/18
+
+38
+EXEMPLAR PROBLEMS
+11.
+(x2 + 1)2 – x2 = 0 has
+(A) four real roots
+(B) two real roots
+(C) no real roots
+(D) one real root.
+(C) Short Answer Questions with Reasoning
+Sample Question 1 : Does (x – 1)2 + 2(x + 1) = 0 have a real root? Justify your answer.
+Solution : No, since the equation is simplified to x2 + 3 = 0 whose discriminant is –12.
+Sample Question 2 : Is the following statement ‘True’ or ‘False’?Justify your answer.
+If in a quadratic equation the coefficient of x is zero, then the quadratic equation has no
+real roots.
+Solution : False, since the discriminant in this case is – 4ac which can still be non-
+negative if a and c are of opposite signs or if one of a or c is zero.
+EXERCISE 4.2
+1.
+State whether the following quadratic equations have two distinct real roots.
+Justify your answer.
+(i)   x2 – 3x + 4 = 0
+(ii)
+2x2 + x – 1 = 0
+(iii)   2x2 – 6x + 9
+2 = 0                           (iv)
+3x2 – 4x + 1 = 0
+(v)   (x + 4)2 – 8x = 0                            (vi)
+(x – 
+2 )2 – 2(x + 1) = 0
+(vii)  
+2
+3
+1
+2
+ – 
+ 
+ 
+ 
+ 0
+2
+2
+x
+x +
+=
+          (viii)
+x (1 – x) – 2 = 0
+(ix)   (x – 1) (x + 2) + 2 = 0                     (x) (x + 1) (x – 2) + x = 0
+2.
+Write whether the following statements are true or false. Justify your answers.
+(i)   Every quadratic equation has exactly one root.
+(ii)   Every quadratic equation has at least one real root.
+(iii)   Every quadratic equation has at least two roots.
+(iv)   Every quadratic equations has at most two roots.
+(v)  If the coefficient of x2 and the constant term of a quadratic equation have
+opposite signs, then the quadratic equation has real roots.
+03/05/18
+
+QUADRATIC EQUATIONS
+39
+(vi)   If the coefficient of x2 and the constant term have the same sign and if the
+coefficient of x term is zero, then the quadratic equation has no real roots.
+3.
+A quadratic equation with integral coefficient has integral roots. Justify your
+answer.
+4.
+Does there exist a quadratic equation whose coefficients are rational but both of
+its roots are irrational? Justify your answer.
+5.
+Does there exist a quadratic equation whose coefficients are all distinct irrationals
+but both the roots are rationals? Why?
+6.
+Is 0.2 a root of the equation x2 – 0.4 = 0? Justify.
+7.
+If  b = 0, c < 0, is it true that the roots of x2 + bx + c = 0 are numerically equal and
+opposite in sign? Justify.
+(D) Short Answer Questions
+Sample Question 1 : Find the roots of the quadratic equation 2x2 – 5x – 2 = 0 using
+the quadratic formula.
+Solution : b2 – 4ac = 5 – 4 × 2 × (–2) = 21
+Therefore, the roots are 
+5
+21
+4
+±
+, i.e., 
+5
+21
+4
++
+ and 
+5
+21
+4
+−
+Sample Question 2 : Find the roots of 6x2–
+2x – 2 = 0 by the factorisation of the
+corresponding quadratic polynomial.
+Solution :
+6x2 – 
+2x – 2 =
+6x2 – 3 2 x + 2 2 x – 2
+=
+3x (2x–
+2 ) + 
+2 (2x – 
+2 )
+=
+(3x + 
+2 ) (2x – 
+2 )
+Now, 6x2 – 
+2x – 2 = 0 gives (3x + 
+2 ) (2x – 
+2 ) = 0,  i.e.,  3x + 
+2 = 0 or
+2x – 
+2 = 0
+So, the roots are 
+2
+3
+−
+ and  
+2
+2 .
+03/05/18
+
+40
+EXEMPLAR PROBLEMS
+EXERCISE 4.3
+1.
+Find the roots of the quadratic equations by using the quadratic formula in each of
+the following:
+(i)    2x2 – 3x – 5 = 0
+(ii)  5x2 + 13x + 8 = 0
+(iii)   –3x2 + 5x + 12 = 0
+(iv)  –x2 + 7x – 10 = 0
+(v)   x2 + 2 2 x – 6 = 0
+(vi)  x2 – 3 5 x + 10 = 0
+(vii)  
+2
+1
+2 x – 11 x + 1 = 0
+2.
+Find the roots of the following quadratic equations by the factorisation method:
+(i)  2x2 + 5
+3 x – 2 = 0
+(ii)  
+2
+2
+5 x – x – 3
+5 = 0
+(iii) 
+2
+3 2x – 5x – 
+2  = 0
+(iv)  3x2 + 5 5x – 10 = 0
+(v)  21x2 – 2x + 1
+21 = 0
+(E) Long Answer Questions
+Sample Question 1 : Check whether the equation 6x2 – 7x + 2 = 0 has real roots, and
+if it has, find them by the method of completing the squares.
+Solution : The discriminant = b2 – 4ac = 49 – 4 × 6 × 2 = 1 > 0
+So, the given equation has two distinct real roots.
+Now,
+6x2 – 7x + 2 = 0
+i.e.,
+36x2 – 42x + 12 = 0
+i.e.,
+2
+7
+6 
+ 2
+x
+ 
+ 
+−
+ 
+ 
+ 
+ 
+ + 12 – 49
+4 = 0
+i.e.,
+2
+7
+6
+2
+x
+ 
+ 
+−
+ 
+ 
+ 
+ 
+ – 
+2
+1
+2
+ 
+ 
+ 
+ 
+ 
+ = 0  or 
+2
+2
+7
+1
+6 – 2
+2
+x
+
+
+
+
+=
+
+
+
+
+
+
+
+
+03/05/18
+
+QUADRATIC EQUATIONS
+41
+The roots are given by  
+7
+1
+6
+ 
+ 
+2
+2
+x −
+= ±
+i.e.,
+6x = 4, 3
+i.e.,
+x  = 2
+1
+, 
+3
+2 .
+Sample Question 2 : Had Ajita scored 10 more marks in her mathematics test out of
+30 marks, 9 times these marks would have been the square of her actual marks. How
+many marks did she get in the test?
+Solution :
+Let her actual marks be x
+Therefore,
+9 (x +10) = x2
+i.e.,
+x2 – 9x – 90 = 0
+i.e.,
+x2 – 15x + 6x – 90 = 0
+i.e.,
+x(x – 15) + 6(x –15) = 0
+i.e.,
+(x + 6) (x –15) = 0
+Therefore,
+x = – 6    or    x =15
+Since x is the marks obtained, x ≠ – 6. Therefore, x = 15.
+So, Ajita got 15 marks in her mathematics test.
+Sample Question 3 : A train travels at a certain average speed for a distance of
+63 km and then travels a distance of 72 km at an average speed of 6 km/h more than
+its original speed. If it takes 3 hours to complete the total journey, what is its original
+average speed?
+Solution : Let its original average speed be x km/h. Therefore,
+63
+72
+3
+6
+x
+x
++
+=
++
+i.e.,
+7
+8
+3
+1
+6
+9
+3
+x
+x
++
+=
+=
++
+i.e.,
+(
+)
+7(
+6) 8
+1
+6
+3
+x
+x
+x x
++
++
+=
++
+03/05/18
+
+42
+EXEMPLAR PROBLEMS
+i.e.,
+21 (x + 6) + 24x = x (x + 6)
+i.e.,
+21x + 126 + 24x = x2 + 6x
+i.e.,
+x2  – 39x – 126 = 0
+i.e.,
+(x + 3) (x – 42)  = 0
+i.e.,
+x = – 3  or   x = 42
+Since x is the average speed of the train, x cannot be negative.
+Therefore, x = 42.
+So, the original average speed of the train is 42 km/h.
+EXERCISE 4.4
+1.
+Find whether the following equations have real roots. If real roots exist, find
+them.
+(i)  8x2 + 2x – 3 = 0
+(ii)   –2x2 + 3x + 2 = 0
+(iii) 5x2 – 2x – 10 = 0
+(iv)   
+1
+1
+3
+1,
+,5
+2
+3
+5
+2
+x
+x
+x
++
+=
+≠
+−
+−
+(v)  x2 + 5 5 x – 70 = 0
+2. Find a natural number whose square diminished by 84 is equal to thrice of 8 more
+than the given number.
+3. A natural number, when increased by 12, equals 160 times its reciprocal. Find the
+number.
+4. A train, travelling at a uniform speed for 360 km, would have taken 48 minutes
+less to travel the same distance if its speed were 5 km/h more. Find the original
+speed of the train.
+5. If  Zeba were younger by 5 years than what she really is, then the square of her
+age (in years) would have been 11  more than five times her actual age. What is
+her age now?
+   6. At present Asha’s age (in years) is 2 more than the square of her daughter
+Nisha’s age. When Nisha grows to her mother’s present age, Asha’s age would
+be one year less than 10 times the present age of Nisha. Find the present ages of
+both Asha and Nisha.
+03/05/18
+
+QUADRATIC EQUATIONS
+43
+7.
+In the centre of  a rectangular lawn of dimensions 50 m × 40 m, a rectangular
+pond has to be constructed so that the area of the grass surrounding the pond
+would be 1184 m2 [see Fig. 4.1]. Find the length and breadth of the pond.
+8.
+At t minutes past 2 pm, the time needed by the minutes hand of a clock to show
+3 pm was found to be 3 minutes less than 
+2
+4
+t minutes. Find t.
+03/05/18

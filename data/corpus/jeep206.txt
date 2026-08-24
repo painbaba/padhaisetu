@@ -1,0 +1,730 @@
+(A) Main Concepts and Results
+Congruence and similarity, Conditions for similarity of two polygons, Similarity of
+Triangles, Similarity and correspondence of vertices, Criteria for similarity of triangles;
+(i) AAA or AA  (ii) SSS  (iii) SAS
+•
+If a line is drawn parallel to one side of a triangle to intersect the other two sides,
+then these two sides are divided in the same ratio (Basic Proportionality Theo-
+rem) and its converse.
+•
+Ratio of the areas of two similar triangles is equal to the ratio of the squares of
+their corresponding sides.
+•
+Perpendicular drawn from the vertex of the right angle of a right triangle to its
+hypotenuse divides the triangle into two triangles which are similar to the whole
+triangle and to each other.
+•
+In a right triangle, the square on the hypotenuse is equal to the sum of the squares
+on the other two sides (Pythagoras Theorem) and its converse.
+(B) Multiple Choice Questions
+Choose the correct answer from the given four options:
+Sample Question 1: If in Fig 6.1, O is the point of intersection of two chords AB
+and CD such that OB = OD, then triangles OAC and ODB are
+TRIANGLES
+CHAPTER 6
+03/05/18
+
+60
+EXEMPLAR PROBLEMS
+(A) equilateral but not similar
+(B) isosceles but not similar
+(C) equilateral and similar
+(D) isosceles and similar
+Solution : Answer (D)
+Sample Question 2: D and E are respectively the points on the sides AB and AC of
+a triangle ABC such that AD = 2 cm,  BD = 3 cm,   BC = 7.5 cm and  DE BC. Then,
+length of DE (in cm) is
+(A)   2.5
+(B)  3
+(C)  5
+(D)  6
+Solution : Answer (B)
+EXERCISE 6.1
+Choose the correct answer from the given four options:
+1.
+In Fig. 6.2, BAC = 90° and AD   BC. Then,
+03/05/18
+
+TRIANGLES
+61
+(A)
+BD . CD = BC
+2
+(B)
+AB . AC = BC
+2
+(C)
+ BD . CD = AD
+2
+(D)
+AB . AC =  AD
+2
+2.
+The lengths of the diagonals of a rhombus are 16 cm and 12 cm. Then, the
+length of the side of the rhombus is
+(A) 9 cm
+  (B) 10 cm
+       (C)  8 cm            (D)  20 cm
+3.
+If   A B C ~  E D F and   A B C is not similar to  D E F, then which of
+the following is not true?
+(A)
+BC . EF   = A C. FD
+(B)
+AB . EF = AC . DE
+(C)
+BC . DE = AB . EF
+(D)
+BC . DE = AB . FD
+4.
+If in two triangles ABC and PQR,  
+AB
+BC
+CA
+=
+=
+,  then
+QR
+PR
+PQ
+(A)
+ PQR ~ CAB
+(B)
+PQR ~ ABC
+(C)
+CBA ~ PQR
+(D)
+BCA ~ PQR
+5.
+In Fig.6.3, two line segments AC and BD intersect each other at the point P
+such that  PA = 6 cm, PB = 3 cm, PC = 2.5 cm,  PD = 5 cm,  APB = 50°
+and  CDP = 30°. Then,  PBA is equal to
+(A) 50°
+(B) 30°
+(C)  60°           (D)  100°
+6.
+If in two triangles DEF and PQR, D = Q and R = E, then which of the
+following is not true?
+(A)
+EF
+DF
+PR
+PQ
+
+(B)
+DE
+EF
+PQ
+RP
+
+03/05/18
+
+62
+EXEMPLAR PROBLEMS
+(C)
+DE
+DF
+QR
+PQ
+
+(D)
+EF
+DE
+RP
+QR
+
+7.
+In triangles ABC and DEF, B = E, F = C and AB = 3 DE. Then, the
+two triangles are
+(A) congruent but not similar
+(B)  similar but not congruent
+(C) neither congruent nor similar
+(D)  congruent as well as similar
+8.
+It is given that ABC ~ PQR, with 
+BC
+1
+QR
+3
+
+. Then, 
+ar (PRQ)
+ar (BCA) is equal to
+(A) 9
+(B)   3
+(C)  1
+3
+(D)  1
+9
+9.
+It is given that  ABC ~ DFE, A =30°, C = 50°,  AB = 5 cm, AC = 8 cm
+and DF= 7.5 cm. Then, the following is true:
+(A) DE = 12 cm, F = 50°
+(B)  DE = 12 cm, F = 100°
+(C) EF = 12 cm, D = 100°
+(D)  EF = 12 cm, D = 30°
+10.
+If in triangles ABC and DEF, A B
+BC 
+DE
+FD
+
+, then they will be similar, when
+(A) B = E
+(B) A = D
+(C) B = D
+(D)
+A = F
+11.
+If  ABC ~  QRP, 
+ar (A BC)
+9 
+ar (PQR)
+4
+
+, AB = 18 cm and BC = 15 cm, then PR
+is equal to
+(A) 10 cm
+(B)   12 cm
+(C)  20 cm
+3
+(D)  8 cm
+12.
+If S is a point on side PQ of a  PQR such that PS = QS = RS, then
+(A) PR . QR = RS
+2
+(B)  QS
+2 + RS
+2 = QR
+2
+(C) PR
+2 + QR
+2 = PQ
+2
+(D)  PS
+2 + RS
+2 = PR
+2
+03/05/18
+
+TRIANGLES
+63
+(C) Short Answer Questions with Reasoning
+Sample Question 1:  In  ABC,  AB = 24 cm, BC = 10 cm and AC = 26 cm. Is this
+triangle a right triangle? Give reasons for your answer.
+Solution : Here AB
+2 = 576, BC
+2 = 100 and  AC
+2 = 676. So, AC
+2 = AB
+2 + BC
+2
+Hence, the given triangle is a right triangle.
+Sample Question 2: P and Q are the points on the sides DE and DF of a triangle
+DEF such that DP = 5 cm, DE = 15 cm,  DQ= 6 cm and  QF = 18 cm. Is PQ EF?
+Give reasons for your answer.
+Solution : Here, 
+DP
+5
+1
+DQ
+6
+1
+and
+PE
+15
+5
+2
+QF
+18
+3
+
+
+
+
+
+As 
+DP
+DQ
+PE
+QF
+
+, therefore PQ is not parallel to EF.
+Sample Question 3: It is given that  FED ~  STU . Is it true to say that DE
+EF ?
+ST
+TU
+
+Why?
+Solution : No, because the correct correspondence is  F  S, E  T, D  U.
+With this correspondence, EF
+DE .
+ST
+TU
+
+EXERCISE 6.2
+1.
+Is the triangle with sides 25 cm, 5 cm and 24 cm a right triangle? Give reasons
+for your answer.
+2.
+It is given that  DEF ~  RPQ. Is it true to say that D = R and
+F = P? Why?
+3.
+A and B are respectively the points on the sides PQ and PR of a triangle PQR
+03/05/18
+
+64
+EXEMPLAR PROBLEMS
+such that PQ = 12.5 cm, PA = 5 cm, BR= 6 cm and PB = 4 cm. Is AB QR?
+Give reasons for your answer.
+4.
+In Fig 6.4, BD and CE intersect each other at the point P. Is   PBC ~ PDE?
+Why?
+5.
+In triangles PQR and MST, P = 55°, Q = 25°, M = 100° and
+S = 25°. Is  QPR ~  TSM? Why?
+6.
+Is the following statement true? Why?
+“Two quadrilaterals are similar, if their corresponding angles are equal”.
+7.
+Two sides and the perimeter of one triangle are respectively three times the
+corresponding sides and the perimeter of the other triangle. Are the two tri-
+angles similar? Why?
+8.
+If in two right triangles, one of the acute angles of one triangle is equal to an
+acute angle of the other triangle, can you say that the two triangles will be
+similar? Why?
+9.
+The ratio of the corresponding altitudes of two similar triangles is 3
+5 . Is it
+correct to say that ratio of their areas is 6
+5 ? Why?
+03/05/18
+
+TRIANGLES
+65
+10.
+D is a point on side QR of PQR such that PD  QR. Will it be correct to say
+that PQD ~ RPD? Why?
+11.
+In Fig. 6.5, if  D = C, then is it true that
+ADE ~  ACB? Why?
+12.
+Is it true to say that if in two triangles, an angle of
+one triangle is equal to an angle of another triangle
+and two sides of one triangle are proportional to the
+two sides of the other triangle, then the triangles
+are similar? Give reasons for your answer.
+(D)
+Short Answer Questions
+Sample Question 1: Legs (sides other than the hypotenuse) of a right triangle are of
+lengths 16cm and 8 cm. Find the length of the side of the largest square that can be
+inscribed in the triangle.
+Solution:  Let ABC be a right triangle right angled at  B with AB = 16 cm and BC =
+8 cm. Then, the largest square BRSP which can be inscribed in this triangle will be as
+shown in Fig.6.6.
+Let PB = x cm. So., AP = (16–x) cm. In APS and ABC, A = A and
+APS = ABC (Each 90°)
+So, APS ~ ABC (AA similarity)
+Therefore, AP
+PS
+AB
+BC
+
+or
+16
+16
+8
+x
+x
+
+
+or
+128 – 8x = 16x
+or
+x = 128
+16
+24
+3
+
+Thus, the side of the required square is of length 16
+3 cm.
+03/05/18
+
+66
+EXEMPLAR PROBLEMS
+Sample Question 2: Hypotenuse of a right triangle is 25 cm and out of the remaining
+two sides, one is longer than the other by 5 cm. Find the lengths of the other two sides.
+Solution : Let one side be x cm. Then the other side will be (x + 5) cm.
+Therefore, from Pythagoras Theorem
+x
+2 + (x + 5)
+2 = (25)
+2
+or
+x
+2 + x
+2 + 10 x + 25 = 625
+or
+x
+2 + 5 x – 300 = 0
+or
+x
+2 + 20 x – 15 x –300 = 0
+or
+x (x+20) –15 (x +20) = 0
+or
+(x–15) (x +20) = 0
+So,
+x =15 or  x= –20
+Rejecting x = – 20, we have length of one side = 15 cm
+and that of the other side = (15 + 5) cm = 20 cm
+Sample Question 3:  In Fig 6.7,
+∠D = ∠E and AD
+AE
+DB
+EC
+=
+. Prove  that BAC is an
+isosceles triangle.
+Solution : AD
+AE
+DB
+EC
+=
+ (Given)
+Therefore, DE BC (Converse of Basic Proportionality Theorem)
+So, ∠D = ∠B and ∠E = ∠C (Corresponding angles)    (1)
+But ∠D = ∠E (Given)
+Therefore, ∠B = ∠C [ From (1)]
+So, AB = AC (Sides opposite to equal angles)
+i.e., BAC is an isosceles triangle.
+EXERCISE 6.3
+1.
+In a ∆ PQR, PR
+2–PQ
+2 = QR
+2  and M is a point on side PR such that QM ⊥ PR.
+Prove that
+03/05/18
+
+TRIANGLES
+67
+QM
+2 = PM × MR.
+2.
+Find the value of x for which DE AB in Fig. 6.8.
+3.
+In Fig. 6.9, if 1 =2 and  NSQ   MTR, then prove that
+ PTS ~  PRQ.
+4.
+Diagonals of a trapezium PQRS intersect each other at the point O, PQ RS
+and PQ = 3 RS. Find the ratio of the areas of triangles POQ and ROS.
+5.
+In Fig. 6.10, if AB DC and AC and PQ intersect each other at the point O, prove
+that OA . CQ  = OC . AP.
+03/05/18
+
+68
+EXEMPLAR PROBLEMS
+6.
+Find the altitude of an equilateral triangle of side 8 cm.
+7.
+If ∆ ABC ~ ∆ DEF,  AB = 4 cm, DE = 6 cm, EF = 9 cm and FD = 12 cm,
+find the perimeter of ∆ ABC.
+8.
+ In Fig. 6.11,  if DE BC, find the ratio of ar (ADE) and ar (DECB).
+9.
+ABCD is a trapezium in which AB DC and P and Q are points on AD
+and BC, respectively such that PQ DC. If PD = 18 cm, BQ = 35 cm and
+QC = 15 cm, find AD.
+10.
+Corresponding sides of two similar triangles are in the ratio of 2 : 3. If the area
+of the smaller triangle is 48 cm
+2,  find the area of the larger triangle.
+11.
+In a triangle PQR, N is a point on PR such that Q N ⊥ PR . If PN. NR = QN
+2,
+prove that ∠PQR = 90° .
+03/05/18
+
+TRIANGLES
+69
+12.
+Areas of two similar triangles are 36 cm2 and 100 cm2. If the length of a side
+of the larger triangle is 20 cm, find the length of the corresponding side of the
+smaller triangle.
+13.
+In Fig. 6.12,  if ∠ACB = ∠CDA, AC = 8 cm and AD = 3 cm, find BD.
+14.
+A 15 metres high tower casts a shadow 24 metres long at a certain time and
+at the same time, a telephone pole casts a shadow 16 metres long. Find the
+height of the telephone pole.
+15.
+Foot of a 10 m long ladder leaning against a vertical wall is 6 m away from
+the base of the wall. Find the height of the point on the wall where the top of
+the ladder reaches.
+(E) Long Answer Questions
+Sample Question 1:  In Fig 6.13,  OB is the perpendicular bisector of the line
+segment DE, FA ⊥ OB and F E intersects OB at the point C. Prove that
+1
+1
+2
+OA
+OB
+OC
++
+=
+.
+Solution: In ∆ AOF and ∆ BOD.
+∠O = ∠O (Same angle) and ∠A = ∠B (each 90°)
+Therefore, ∆ AOF ~ ∆ BOD (AA similarity)
+So,
+OA
+FA
+OB
+DB
+=
+ (1)
+03/05/18
+
+70
+EXEMPLAR PROBLEMS
+Also, in ∆ FAC and ∆ EBC, ∠A = ∠B (Each 90°)
+and ∠FCA = ∠ECB (Vertically opposite angles).
+Therefore, ∆ FAC ~ ∆ EBC (AA similarity).
+So,
+FA
+AC
+EB
+BC
+=
+But EB = DB (B is mid-point of DE)
+So,
+FA
+AC
+DB
+BC
+=
+(2)
+Therefore, from (1) and (2), we have:
+AC
+OA
+BC
+OB
+=
+i.e.,
+OC–OA
+OA
+OB–OC
+OB
+=
+or
+ OB . OC – OA . OB = OA . OB – OA . OC
+or
+OB . OC + OA . OC = 2 OA . OB
+or
+ (OB + OA). OC = 2 OA . OB
+or
+1
+1
+2
+OA
+OB
+OC
++
+=
+ [ Dividing both the sides by OA . OB . OC]
+Sample Question 2: Prove that if in a triangle square on one side is equal to the sum
+of  the squares on the other two sides, then the angle opposite the first side is a right
+angle.
+Solution: See proof of Theorem 6.9 of Mathematics Textbook for Class X.
+03/05/18
+
+TRIANGLES
+71
+Sample Question 3: An aeroplane leaves an Airport and flies due North at
+300 km/h. At the same time, another aeroplane leaves the same Airport and flies due
+West at 400 km/h. How far apart the two aeroplanes would be after 1
+12 hours?
+Solution: Distance travelled by first aeroplane in 1
+12 hours = 300 × 3
+2 km = 450 km
+and that by second aeroplane = 400 × 3 km
+600 km
+2
+=
+Position of the two aeroplanes after 1
+12 hours would be A and B as shown in Fig. 6.14.
+That is, OA = 450 km and OB = 600 km.
+From ∆ AOB, we have
+AB2 = OA2 + OB2
+or
+AB2
+= (450)2 + (600)2
+= (150)2 × 32 + (150)2 × 42
+= 1502  (32 + 42)
+= 1502 × 52
+or
+AB = 150 × 5 = 750
+Thus, the two aeroplanes will be 750 km apart  after 1
+12 hours.
+Sample Question 4: In Fig. 6.15, if  ∆ ABC ~ ∆ DEF and their sides are of lengths
+(in cm) as marked along them, then find the lengths of the sides of each triangle.
+03/05/18
+
+72
+EXEMPLAR PROBLEMS
+Solution:  ∆ ABC ~ ∆ DEF (Given)
+Therefore, AB
+BC
+CA
+DE
+EF
+FD
+=
+=
+So,
+2
+1
+2
+2
+3
+18
+3
+9
+6
+x
+x
+x
+x
+x
+−
++
+=
+=
++
+Now, taking 2
+1
+3
+18
+6
+x
+x
+x
+−=
+, we have
+2
+1
+1
+18
+2
+x −=
+or
+4 x – 2 = 18
+or
+        x = 5
+Therefore, AB = 2 × 5 –1= 9, BC = 2 × 5 + 2 = 12,
+CA = 3 × 5 = 15, DE = 18, EF = 3× 5 + 9 = 24 and FD =  6 × 5 = 30
+Hence, AB = 9 cm,  BC = 12 cm, CA = 15 cm,
+DE = 18 cm, EF = 24 cm and FD = 30 cm.
+03/05/18
+
+TRIANGLES
+73
+EXERCISE 6.4
+1.
+In Fig. 6.16, if ∠A = ∠C, AB = 6 cm, BP = 15 cm,
+AP = 12 cm and CP = 4 cm, then find the lengths of PD
+and CD.
+2.
+It is given that ∆ ABC ~ ∆ EDF such that AB = 5 cm,
+AC = 7 cm, DF= 15 cm and DE = 12 cm. Find the lengths
+of the remaining sides of the triangles.
+3.
+Prove that if a line is drawn parallel to one side of a triangle to intersect the other
+two sides, then the two sides are divided in the same ratio.
+4.
+In Fig 6.17, if PQRS is a parallelogram and AB PS, then prove that OC SR.
+5.
+A 5 m long ladder is placed leaning towards a vertical wall such that it reaches
+the wall at a point 4 m high. If the foot of the ladder is moved 1.6 m towards the
+wall, then find the distance by which the top of the ladder would slide upwards
+on the wall.
+6.
+For going to a city B from city A, there is a route via city C such that AC⊥CB,
+AC = 2 x km and CB = 2 (x + 7) km. It is proposed to construct a 26 km highway
+which directly connects the two cities A and B. Find how much distance will be
+saved in reaching city B from city A after the construction of the highway.
+03/05/18
+
+74
+EXEMPLAR PROBLEMS
+7.
+A flag pole 18 m high casts a shadow 9.6 m long. Find the distance of the top of
+the pole from the far end of the shadow.
+8.
+A street light bulb is fixed on a pole 6 m above the level of the street. If a woman
+of height 1.5 m  casts a shadow of 3m, find how far she is away from the base
+of the pole.
+9.
+In Fig. 6.18,  ABC is a triangle right angled at B and BD ⊥ AC. If AD = 4 cm,
+and CD = 5 cm, find BD and AB.
+10.
+In Fig. 6.19,  PQR is a right triangle right angled at Q and  QS ⊥ PR . If
+PQ = 6 cm and PS = 4 cm, find QS, RS and QR.
+11.
+In ∆ PQR, PD ⊥ QR such that D lies on QR . If PQ = a, PR = b, QD = c and
+DR = d, prove that (a + b) (a – b) = (c + d) (c – d).
+12.
+In a quadrilateral ABCD, ∠A + ∠D = 90°. Prove that AC
+2 + BD
+2 = AD
+2 + BC
+2
+[Hint: Produce AB and DC to meet at E.]
+03/05/18
+
+TRIANGLES
+75
+13.
+In fig. 6.20, l  m and line segments AB, CD and EF are concurrent at point P.
+Prove that AE
+AC
+CE
+BF
+BD
+FD
+=
+=
+.
+14.
+In Fig. 6.21, PA, QB, RC and SD are all perpendiculars to a line l, AB = 6 cm,
+BC = 9 cm, CD = 12 cm and SP = 36 cm. Find PQ, QR and RS.
+15.
+O is the point of intersection of the diagonals AC and BD of a trapezium ABCD
+with AB DC. Through O, a line segment PQ is drawn parallel to AB meeting
+AD in P and BC in Q. Prove that PO = QO.
+16.
+In Fig. 6.22, line segment DF intersect the side AC of a triangle ABC at the
+point E such that E is the mid-point of CA and ∠AEF = ∠AFE . Prove that
+BD
+BF
+CD
+CE
+=
+.
+[Hint: Take point G on AB such that CG DF.]
+03/05/18
+
+76
+EXEMPLAR PROBLEMS
+17.
+Prove that the area of the semicircle drawn on the hypotenuse of a right angled
+triangle is equal to the sum of the areas of the semicircles drawn on the other
+two sides of the triangle.
+18.
+Prove that the area of the equilateral triangle drawn on the hypotenuse of a right
+angled triangle is equal to the sum of the areas of the equilateral triangles drawn
+on the other two sides of the triangle.
+03/05/18

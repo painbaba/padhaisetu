@@ -1,0 +1,3278 @@
+
+
+
+
+
+
+
+• A number that can be expressed in the form 
+p
+q , where p and q are
+integers and q ¹ 0, is called a rational number.
+• Lowest form of a rational number – A rational number 
+p
+q is said
+to be in the lowest form or simplest form if p and q have no common
+factor other than 1 and q ¹ 0.
+Addition, subtraction, multiplication and division of rational
+numbers are done in the same way as we do for fractions.
+• Rational numbers are closed under the operations of addition,
+subtraction and multiplication.
+• The operations of addition and multiplication for rational numbers
+are
+(i) commutative,
+ (ii) associative
+• The rational number 0 is the additive identity for rational numbers.
+• The rational number 1 is the multiplicative identity for rational
+numbers.
+12/04/18
+
+
+
+• The additive inverse of the rational number a
+b is –a
+b and vice-versa.
+• The reciprocal or multiplicative inverse of the rational number a
+b
+is c
+d if 
+×
+=1.
+a
+c
+b
+d
+• Distributivity of rational numbers – For all rational numbers a,
+b and c
+a (b + c) = ab + ac
+a (b – c) = ab – ac
+• Rational numbers can be represented on a number line.
+• Between any two given rational numbers there are infinitely many
+rational numbers. The idea of mean helps us to find rational
+numbers between two given rational numbers.
+
+In examples 1 to 3, there are four options out of which one is correct.
+Choose the correct answer.
+Example 1
+: Which of the following is not true?
+(a)
+2
+5
+5
+2
+3
+4
+4
+3
++
+=
++
+(b)
+2
+5
+5
+2
+3
+4
+4
+3
+−
+=
+−
+(c)
+2
+5
+5
+2
+3
+4
+4
+3
+×
+=
+×
+(d)
+2
+5
+2
+4
+3
+4
+3
+5
+÷
+=
+×
+Solution
+: The correct answer is (b).
+Example 2
+: Multiplicative inverse of 0
+1 is
+(a) 1
+(b) –1
+(c) 0
+(d) not defined
+Solution
+: The correct answer  is (d).
+Example 3
+: Three rational numbers lying between 
+−3
+4 and 1
+2 are
+(a)
+−1
+3
+, 0,
+2
+4
+(b)
+–1 1
+3
+,
+,
+4
+4 4
+12/04/18
+
+
+
+(c)
+–1
+1
+,0,
+4
+4
+(d)
+–5
+1
+,0,
+4
+4
+Solution
+: The correct answer is (c).
+In examples 4 and 5, fill in the blanks to make the statements true.
+Example 4
+: The product of a non-zero rational number and its
+reciprocal is ________.
+Solution
+: 1
+Example 5
+: If 
+1
+3
+x =
+ and 
+6
+7
+y =
+ then 
+y
+xy
+x
+−
+= _______.
+Solution
+:
+16
+7
+−
+In examples 6 and 7, state whether the given statements are true or
+false.
+Example 6
+: Every rational number has a reciprocal.
+Solution
+: False
+Example 7
+:
+−4
+5 is larger than
+−5
+4 .
+Solution
+: True
+Example 8
+: Find 
+×
+÷
+4
+14
+2 .
+7
+3
+3
+Solution
+: 4
+14
+2
+7
+3
+3
+×
+÷
+ = 
+4
+14
+3
+7
+3
+2
+
+
+×
+×
+
+
+
+
+= 4
+7
+4
+7 ×
+=
+Example 9
+: Using appropriate properties, find 
+−
+−
+ 
+ 
+ 
+ 
+×
++
++
+×
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+5
+7
+2
+2 .
+3
+7
+3
+3
+7
+Solution
+:
+2
+5
+7
+2
+2
+3
+7
+3
+3
+7
+−
+−
+
+
+
+
+×
++
++
+×
+
+
+
+
+
+
+
+
+= 5
+2
+2
+2
+7
+7
+3
+7
+3
+3
+−
+×
+−
+×
++
+12/04/18
+
+
+
+= 
+5
+2
+2
+7
+7
+7
+3
+3
+−
+
+
+−
+×
++
+
+
+
+
+= −
++
+=
+2
+7
+5
+3
+3
+3
+Example 10 : Let O, P and Z represent the numbers 0, 3 and -5
+respectively on the number line. Points Q, R and S are
+between O and P such that OQ = QR = RS = SP.
+What are the rational numbers represented by the points
+Q, R and S. Next choose a point T between Z and O so
+that ZT = TO. Which rational number does T represent?
+Solution
+:
+Z
+O
+P
+–5
+–4
+–3
+–2
+–1
+0
+1
+2
+3
+As OQ = QR = RS = SP
+and OQ + QR + RS + SP = OP
+therefore Q, R and S divide OP into four equal parts.
+So, R is the mid-point of OP, i.e.
+0
+3
+3
+R
+2
+2
++
+=
+=
+Q is the mid-point of OR, i.e.
+1
+3
+3
+Q
+0
+2
+2
+4
+
+
+=
++
+=
+
+
+
+
+and S is the mid-point of RP, i.e.
+1
+3
+9
+S
+3
+2
+2
+4
+
+
+=
++
+=
+
+
+
+
+therefore, 
+=
+=
+3
+3
+9
+Q
+, R
+and S=
+4
+2
+4
+Also Z T = TO
+So,
+T is the mid-point of OZ, i.e.
+0
+(–5)
+–5
+T
+2
+2
++
+=
+=
+
+1.
+Explain the first step in solving an addition equation with fractions
+having like denominators.
+2.
+Explain the first step in solving an addition equation with fractions
+having unlike denominators.
+12/04/18
+
+
+
+Example 11 : A farmer has a field of area 
+4
+49 5 ha. He wants to divide it
+equally among his one son and two daughters. Find the
+area of each one’s share.
+(ha means hectare; 1 hectare = 10,000 m2)
+Solution
+:
+4
+49 5 ha = 249
+5
+ha
+Each share = 1
+249
+83
+3
+ha
+ha
+16
+3
+5
+5
+5
+×
+=
+=
+ha
+Example 12 : Let a, b, c be the three rational numbers where 
+=
+=
+2
+4
+,
+3
+5
+a
+b
+and 
+5
+6
+c = −
+Verify:
+(i) a + (b + c) = (a + b) +c  (Associative property of addition)
+(ii) a × (b × c) = (a × b) × c (Associative property of
+multiplication)
+Solution
+: (i) L.H.S
+= a + (b +c)
+= 
+2
+4
+5
+3
+5
+6
+−
+
+
+
+
++
++ 
+
+
+
+
+
+
+
+= 
+2
+24
+25
+3
+30
+−
+
+
++ 
+
+
+
+= 
+2
+1
+3
+30
+−
+
+
++ 
+
+
+
+= 20
+1
+19
+30
+30
+−
+=
+R.H.S. of (i) = (a + b) + c
+= 
+2
+4
+5
+3
+5
+6
+−
+
+
+
+
++
++
+
+
+
+
+
+
+
+
+= 
+10
+12
+5
+15
+6
++
+−
+
+
+
+
++
+
+
+
+
+
+
+
+
+= 22
+5
+44
+25
+19
+15
+6
+30
+30
+−
+−
+=
+=
+So, 
+2
+4
+5
+2
+4
+5
+3
+5
+2
+3
+5
+6
+−
+−
+
+
+
+
+
+
+
+
++
++
+=
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/04/18
+
+
+
+Hence verified.
+(ii) L.H.S
+= a × (b × c)
+= 
+2
+4
+5
+3
+5
+6
+−
+
+
+
+
+×
+× 
+
+
+
+
+
+
+
+= 
+2
+20
+2
+2
+3
+30
+3
+3
+−
+−
+
+
+
+
+×
+=
+×
+
+
+
+
+
+
+
+
+= 2
+( 2)
+4
+3
+3
+9
+× −
+−
+=
+×
+R.H.S.
+= (a × b) × c
+= 
+2
+4
+5
+3
+5
+6
+−
+
+
+
+
+×
+×
+
+
+
+
+
+
+
+
+= 2
+4
+5
+3
+5
+6
+×
+−
+×
+×
+= 
+8
+5
+15
+6
+−
+
+
+× 
+
+
+
+= 
+× −
+−
+−
+=
+=
+×
+8
+( 5)
+40
+4
+15
+6
+90
+9
+So,
+2
+4
+5
+2
+4
+5
+3
+5
+6
+3
+5
+6
+−
+−
+
+
+
+
+
+
+
+
+×
+×
+=
+×
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 13 : Solve the following questions and write your observations.
+(i)
+5
+3 + 0 = ?
+(ii)
+2
+5
+−
++ 0 = ?
+(iii) 3
+7 + 0 = ?
+(iv) 2
+3 × 1 = ?
+(v)
+6
+7
+−
+× 1 = ?
+(vi)
+9
+8 × 1 = ?
+Solution
+: (i) 5
+3 + 0 = 5
+3
+(ii)
+2
+5
+−
+ + 0 = 
+2
+5
+−
+(iii) 3
+7 + 0 = 3
+7
+Rational Numbers
+Integers
+Whole Numbers
+12/04/18
+
+
+
+(iv)
+2
+3 × 1 = 2
+3
+(v)
+6
+6
+1
+7
+7
+−
+−
+×
+=
+(vi)
+9
+8 × 1 = 9
+8
+Observation
+From (i) to (iii), we observe that: (i) When we add 0 to a rational number we
+get the same rational number.
+From (iv) to (vi), we observe that: (ii) When we multiply a rational number
+by 1 we get the same rational number.
+(iii) Therefore, 0 is the additive identity of rational numbers and 1 is the
+‘multiplicative identity’ of rational numbers.
+Example 14 : Write any 5 rational numbers between 5
+6
+−
+ and 7
+8 .
+Solution
+:
+5
+5
+4
+20
+6
+6
+4
+24
+−
+−×
+−
+=
+=
+×
+and
+  7
+7
+3
+21
+8
+8
+3
+24
+×
+=
+=
+×
+Thus, rational numbers 
+19
+18
+17
+20
+,
+,
+,.....
+24
+24
+24
+24
+−
+−
+−
+ lie
+between 5
+6
+−
+ and 7.
+8
+Example 15 : Identify the rational number which is different
+from the other three : 2
+4 1 1
+,
+,
+,
+3
+5
+2 3
+−
+. Explain your reasoning.
+Solution
+:
+4
+5
+−
+ is the rational number which is different from the
+other three, as it lies on the left side of zero while others
+lie on the right side of zero on the number line.
+Example 16 : Problem Solving Strategies
+Problem
+: The product of two rational numbers is –7. If one of the
+number is –10, find the other.
+Solution
+: Understand and explore
+• What information is given in the question?
+One of the two rational numbers
+Product of two rational numbers
+• What are you finding?
+The other rational number
+12/04/18
+
+
+
+Plan a strategy
+• Let the unknown rational number be x. Form an
+equation with the conditions given. Then solve the
+equation.
+Solve
+Let the other rational number be x
+–10 × x = –7
+x = –7
+–10 , x = 7
+10
+Check
+–10 × 7
+10 = –7. Hence, the result is correct.
+
+Some other easier ways to find the answer.
+Is the product greater than both the rational numb or less than both the
+rational numbers?
+WORDS
+The order in which you add two
+numbers does not change the sum
+COMMUTATIVE PROPERTY
+OF ADDITION
+VOCABULARY HELP
+The word commute means travel
+to move
+EXAMPLE
+3 + 5 = 5 + 3
+ALGEBRA
++
+=
++
+a
+b
+b
+a
+
+Focus on Graphic Organisers
+You can use an information frame to organize information about a
+mathematical concept or property, such as the commutative property of
+addition.
+Make an information frame for the distributive property.
+12/04/18
+
+
+
+
+
+In questions 1 to 25, there are four options out of which one is correct.
+Choose the correct answer.
+1. A number which can be expressed as 
+p
+q where p and q are integers
+and q ≠ 0 is
+(a) natural number.
+(b) whole number.
+(c) integer.
+(d) rational number.
+2. A number of the form 
+p
+q is said to be a rational number if
+(a) p and q are integers.
+(b) p and q are integers and q ≠ 0
+(c) p and q are integers and p ≠ 0
+(d) p and q are integers and p ≠ 0 also q ≠ 0.
+3. The numerical expression 3
+( 5)
+19
+8
+7
+56
+−
+−
++
+=
+ shows that
+(a) rational numbers are closed under addition.
+(b) rational numbers are not closed under addition.
+(c) rational numbers are closed under multiplication.
+(d) addition of rational numbers is not commutative.
+4. Which of the following is not true?
+(a) rational numbers are closed under addition.
+(b) rational numbers are closed under subtraction.
+(c) rational numbers are closed under multiplication.
+(d) rational numbers are closed under division.
+5.
+3
+1
+1
+3
+8
+7
+7
+8
+−
+
+
+−
++
+=
++ 
+
+
+ is an example to show that
+(a) addition of rational numbers is commutative.
+(b) rational numbers are closed under addition.
+(c) addition of rational number is associative.
+(d) rational numbers are distributive under addition.
+6. Which of the following expressions shows that rational numbers are
+associative under multiplication.
+(a)
+−
+−
+
+
+
+
+×
+×
+=
+×
+×
+
+
+
+
+
+
+
+
+2
+6
+3
+2
+6
+3
+3
+7
+5
+3
+7
+5
+12/04/18
+
+
+
+(b)
+−
+−
+
+
+
+
+×
+×
+=
+×
+×
+
+
+
+
+
+
+
+
+2
+6
+3
+2
+3
+6
+3
+7
+5
+3
+5
+7
+(c)
+−
+−
+
+
+
+
+×
+×
+=
+×
+×
+
+
+
+
+
+
+
+
+2
+6
+3
+3
+2
+6
+3
+7
+5
+5
+3
+7
+(d)
+−
+−
+
+
+
+
+×
+×
+=
+×
+×
+
+
+
+
+
+
+
+
+2
+6
+3
+6
+2
+3
+3
+7
+5
+7
+3
+5
+7. Zero (0) is
+(a) the identity for addition of rational numbers.
+(b) the identity for subtraction of rational numbers.
+(c) the identity for multiplication of rational numbers.
+(d) the identity for division of rational numbers.
+8. One (1) is
+(a) the identity for addition of rational numbers.
+(b) the identity for subtraction of rational numbers.
+(c) the identity for multiplication of rational numbers.
+(d) the identity for division of rational numbers.
+9. The additive inverse of 7
+19
+−
+ is
+(a)
+7
+19
+−
+(b)
+7
+19
+(c)
+19
+7
+(d)
+19
+7
+−
+10. Multiplicative inverse of a negative rational number is
+(a) a positive rational number.
+(b) a negative rational number.
+(c) 0
+(d) 1
+11. If x + 0 = 0 + x = x, which is rational number, then 0 is called
+(a) identity for addition of rational numbers.
+(b) additive inverse of x.
+(c) multiplicative inverse of x.
+(d) reciprocal of x.
+12. To get the product 1, we should multiply 8
+21 by
+(a)
+8
+21
+(b)
+8
+21
+−
+(c)
+21
+8
+(d)
+21
+8
+−
+12/04/18
+
+
+
+13. – (–x) is same as
+(a) – x
+(b) x
+(c)
+1
+x
+(d)
+1
+x
+−
+14. The multiplicative inverse of 
+1
+17
+−
+is
+(a)
+8
+7
+(b)
+8
+7
+−
+(c)
+7
+8
+(d)
+7
+8
+−
+15. If x be any rational number then x + 0 is equal to
+(a) x
+(b) 0
+(c) – x
+(d) Not defined
+16. The reciprocal of 1 is
+(a) 1
+(b) –1
+(c) 0
+(d) Not defined
+17. The reciprocal of –1 is
+(a) 1
+(b) –1
+(c) 0
+(d) Not defined
+18. The reciprocal of 0 is
+(a) 1
+(b) –1
+(c) 0
+(d) Not defined
+19. The reciprocal of any rational number 
+p
+q , where p and q are integers
+and q ≠ 0, is
+(a)
+p
+q
+(b) 1
+(c) 0
+(d)
+q
+p
+20. If y be the reciprocal of rational number x, then the reciprocal of y
+will be
+(a) x
+(b) y
+(c)
+x
+y
+(d)
+y
+x
+21. The reciprocal of 
+3
+7
+8
+13
+−
+−
+
+
+× 
+
+
+ is
+(a)
+104
+21
+(b)
+104
+21
+−
+(c)
+21
+104
+(d)
+21
+104
+−
+22. Which of the following is an example of distributive property of
+multiplication over addition for rational numbers.
+(a)
+−
+−
+
+
+
+
+
+
+
+
+
+
+−
+×
++
+= −
+×
++ −
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+4
+1
+2
+1
+4
+4
+3
+7
+4
+3
+4
+7
+(b)
+−
+−
+
+
+
+
+
+
+
+
+−
+×
++
+=
+×
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+4
+1
+2
+4
+4
+3
+7
+4
+3
+7
+12/04/18
+
+
+
+(c)
+−
+−
+
+
+
+
+
+
+−
+×
++
+=
++ −
+×
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+4
+2
+1
+4
+4
+3
+7
+3
+4
+7
+(d)
+−
+−
+
+
+
+
+
+
+
+
+−
+×
++
+=
++
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+4
+2
+4
+1
+4
+3
+7
+3
+7
+4
+23. Between two given rational numbers, we can find
+(a) one and only one rational number.
+(b) only two rational numbers.
+(c) only ten rational numbers.
+(d) infinitely many rational numbers.
+   Plan a strategy
+•
+Some problems contain a lot of information. Read the entire
+problem carefully to be sure you understand all the facts.
+You may need to read it over several times, perhaps aloud so
+that you can hear yourself and understand it well.
+•
+Then decide which information is most important (prioritise).
+Is there any information that is absolutely necessary to solve
+the problem? This information is most important.
+•
+Finally, put the information in order (sequence). Use
+comparison words like before, after, longer, shorter, and so on
+to help you. Write down the sequence before you try to solve
+the problem.
+Read the problem given below, and then answer the questions
+that follow
+•
+Five friends are standing in line for the opening of a show.
+They are in line according to their arrival. Shreya arrived 3
+minutes after Sachin. Roy took his place in line at 9:01 P.M.
+He was 1 minute behind Reena and 7 minutes ahead of Shreya.
+The first person arrived at 9:00 P.M. Babu showed up 6
+minutes after the first person. List the time of each person’s
+arrival.
+(a) Whose arrival information helped you determine each
+person’s arrival time?
+(b) Can you determine the order without the time?
+(c) List the friends’ order of arrival from the earliest to the
+last.
+12/04/18
+
+
+
+24.
+2
+x
+y
++
+ is a rational number.
+(a) Between x and y
+(b) Less than x and y both.
+(c) Greater than x and y both.
+(d) Less than x but greater than y.
+25. Which of the following statements is always true?
+(a)
+2
+x
+y
+−
+ is a rational number between x and y.
+(b)
+2
+x
+y
++
+ is a rational number between x and y.
+(c)
+2
+x
+y
+×
+ is a rational number between x and y.
+(d)
+2
+x
+y
+÷
+ is a rational number between x and y.
+In questions 26 to 47, fill in the blanks to make the statements true.
+26. The equivalent of 5
+7 , whose numerator is 45 is ___________.
+27. The equivalent rational number of 7
+9 , whose denominator is 45 is
+___________.
+28. Between the numbers 15
+20 and 35
+40 , the greater number is __________.
+29. The reciprocal of a positive rational number is ___________.
+30. The reciprocal of a negative rational number is ___________.
+31. Zero has ___________ reciprocal.
+32. The numbers ___________ and ___________ are their own reciprocal.
+33. If y be the reciprocal of x, then the reciprocal of y2 in terms of x will
+be ___________.
+34. The reciprocal of 
+
+
+×
+
+
+
+2
+– 4
+5
+9
+ is ___________.
+35. (213 × 657)–1 = 213–1 × ___________.
+36. The negative of 1 is ___________.
+12/04/18
+
+
+
+Writing Strategy:
+Write a Convincing Argument
+Your ability to write a convincing
+argument proves that you have
+understanding of the concept. An
+effective argument should include the
+following four parts:
+(1) A goal
+(2) A response to the goal
+(3) Evidence to support the response
+(4) A summary statement
+Step 1 : Identify the goal
+For any two numbers, explain whether using the greater number as the
+base will generally result in a greater number or using it as the exponent.
+Find one exception.
+Step 2 : Provide a response to the goal
+Using the greater number as the exponent usually gives the greater
+number.
+Step 3 : Provide evidence to support your response
+For the number 10 and 2
+Using the greater number,
+10, as the exponent will
+result in a greater number.
+102 = 100
+210 = 1024
+100 < 1024
+102 < 210
+Exception for the numbers
+2 and 3. Using the greater
+number, 3, as the exponent
+will not result in a greater
+number.
+32 = 9
+23 = 8
+9 > 8
+32 > 23
+Step 4 : Summarise your argument
+Generally, for any two numbers, using the greater number as the exponent
+instead of as the base will result in a greater number.
+
+Compare 102 and 210. For any
+two numbers, what usually
+gives the greater number,
+using the greater number as
+the base or as the exponent?
+Give at least one exception.
+12/04/18
+
+
+
+37. For rational numbers 
+,
+a
+c
+b
+d and
+e
+f we have 
+a
+c
+e
+b
+d
+f
+
+
+×
++
+
+
+
+ = _________ +
+________.
+38.
+5
+7
+−
+ is ________ than –3.
+39. There are ________ rational numbers between any two rational
+numbers.
+40. The rational numbers 1
+3 and 1
+3
+− are on the ________ sides of zero on
+the number line.
+41. The negative of a negative rational number is always a ________ rational
+number.
+42. Rational numbers can be added or multiplied in any __________.
+43. The reciprocal of 5
+7
+−
+ is ________.
+44. The multiplicative inverse of 4
+3 is _________.
+45. The rational number 10.11 in the from 
+p
+q is _________.
+46.
+1
+2
+3
+1
+2
+5
+7
+8
+5
+7
+
+
+
+
+×
++
+=
+×
+
+
+
+
+
+
+
++ _________.
+47. The two rational numbers lying between –2 and –5 with denominator
+as 1 are _________ and _________.
+In each of the following, state whether the statements are true (T) or
+false (F).
+48. If 
+x
+y is a rational number, then y is always a whole number.
+49. If 
+p
+q is a rational number, then p cannot be equal to zero.
+50. If r
+s is a rational number, then s cannot be equal to zero.
+51. 5
+6 lies between 2
+3 and 1.
+12/04/18
+
+
+
+52.
+5
+10 lies between 1
+2 and 1.
+53.
+7
+2
+−
+ lies between –3 and –4.
+54. 9
+6 lies between 1 and 2.
+55. If a ≠ 0, the multiplicative inverse of a
+b is b
+a .
+56. The multiplicative inverse of 3
+5
+−
+ is 5
+3 .
+57. The additive inverse of 1
+2 is –2.
+58. If 
+x
+y is the additive inverse of c
+d , then 
+0
+x
+c
+y
+d
++
+=
+.
+59. For every rational number x, x + 1 = x.
+60. If 
+x
+y is the additive inverse of c
+d , then 
+0
+x
+c
+y
+d
+−
+=
+61. The reciprocal of a non-zero rational number 
+q
+p is the rational
+number 
+q
+p .
+62. If x + y = 0, then –y is known as the negative of x, where x and y are
+rational numbers.
+63. The negative of the negative of any rational number is the number
+itself.
+64. The negative of 0 does not exist.
+65. The negative of 1 is 1 itself.
+66. For all rational numbers x and y, x – y = y – x.
+67. For all rational numbers x and y, x × y = y × x.
+12/04/18
+
+
+
+68. For every rational number x, x × 0 = x.
+69. For every rational numbers x, y and z, x + (y × z) = (x + y) × (x + z).
+70. For all rational numbers a, b and c, a (b + c) = ab + bc.
+71. 1 is the only number which is its own reciprocal.
+72. –1 is not the reciprocal of any rational number.
+73. For any rational number x, x + (–1) = –x.
+74. For rational numbers x and y, if x < y then x – y is a positive rational
+number.
+75. If x and y are negative rational numbers, then so is x + y.
+76. Between any two rational numbers there are exactly ten rational
+numbers.
+77. Rational numbers are closed under addition and multiplication but
+not under subtraction.
+78. Subtraction of rational number is commutative.
+79.
+3
+4
+−
+ is smaller than –2.
+80. 0 is a rational number.
+81. All positive rational numbers lie between 0 and 1000.
+82. The population of India in 2004 - 05 is a rational number.
+83. There are countless rational numbers between 5
+6 and 8
+9 .
+84. The reciprocal of x –1 is 1
+x .
+85. The rational number 57
+23 lies to the left of zero on the number line.
+86. The rational number 7
+4
+−
+ lies to the right of zero on the number line.
+87. The rational number 
+8
+3
+−
+−
+ lies neither to the right nor to the left of
+zero on the number line.
+12/04/18
+
+
+
+88. The rational numbers 1
+2 and –1 are on the opposite sides of zero on
+the number line.
+89. Every fraction is a rational number.
+90. Every integer is a rational number.
+91. The rational numbers can be represented on the number line.
+92. The negative of a negative rational number is a positive rational
+number.
+93. If x and y are two rational numbers such that x > y, then x – y is
+always a positive rational number.
+94. 0 is the smallest rational number.
+95. Every whole number is an integer.
+96. Every whole number is a rational number.
+97. 0 is whole number but it is not a rational number.
+98. The rational numbers 1
+2 and 
+5
+2
+−
+ are on the opposite sides of 0 on
+the number line.
+99. Rational numbers can be added (or multiplied) in any order
+−
+−
+−
+−
+×
+=
+×
+4
+6
+6
+4
+5
+5
+5
+5
+100. Solve the following: Select the rational numbers from the list which
+are also the integers.
+9 8 7 6 9 8 7 6 5 4 3 3 1 0 –1 –2
+3
+4
+5
+6
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+, ,
+,
+,
+,
+,
+,
+,
+,
+4 4 4 4 3 3 3 3 2 2 1 2 1 1
+1
+1
+2
+2
+2
+2
+−
+−
+−
+−
+101. Select those which can be written as a rational number with
+denominator 4 in their lowest form:
+−
+−
+−
+7
+64
+36
+16
+5
+140
+,
+,
+,
+,
+,
+8 16
+12
+17
+4
+28
+12/04/18
+
+
+
+102. Using suitable rearrangement and find the sum:
+(a) 
+−
+−
+
+
+
+
++
++
++
+
+
+
+
+
+
+
+
+4
+4
+3
+13
+7
+9
+7
+9
+(b) 
+−
+−
++
++
++ −
++
++
+7
+3
+5
+4
+5
+( 3)
+10
+7
+14
+5
+103. Verify – (– x) = x for
+(i) 
+3
+5
+x =
+(ii) 
+7
+9
+x
+−
+=
+(iii) 
+13
+15
+x = −
+104. Give one example each to show that the rational numbers are closed
+under addition, subtraction and multiplication. Are rational numbers
+closed under division? Give two examples in support of your answer.
+105.
+Verify the property x + y = y + x of rational numbers by taking
+(a)
+1
+1
+,
+2
+2
+x
+y
+=
+=
+(b)
+2
+5
+,
+3
+6
+x
+y
+−
+−
+=
+=
+(c)
+3
+20
+,
+7
+21
+x
+y
+−
+=
+=
+(d)
+2
+9
+,
+5
+10
+x
+y
+−
+−
+=
+=
+106. Simplify each of the following by using suitable property. Also name
+the property.
+(a) 
+1
+1
+1
+6
+2
+4
+2
+
+
+
+
+×
++
+×
+
+
+
+
+
+
+
+
+(b) 
+1
+2
+1
+2
+5
+15
+5
+5
+
+
+
+
+×
+−
+×
+
+
+
+
+
+
+
+     (c) 
+−
+−
+
+
+
+
+×
++
+
+
+
+
+
+
+
+
+3
+3
+5
+5
+7
+6
+107. Tell which property allows you to compute
+1
+5
+7
+5
+6
+9
+
+
+×
+×
+
+
+
+ as 
+1
+5
+7
+5
+6
+9
+
+
+×
+×
+
+
+
+
+108. Verify the property x × y = y × z of rational numbers by using
+(a)
+7
+x =
+ and 
+1
+2
+y =
+(b)
+2
+3
+x =
+ and 
+9
+4
+y =
+(c)
+5
+7
+x
+−
+=
+ and 
+14
+15
+y =
+(d)
+3
+8
+x
+−
+=
+ and 
+−
+=
+4
+9
+y
+109. Verify the property x × (y × z) = (x × y) × z of rational numbers by
+using
+(a)
+1
+1,
+2
+x
+y
+−
+=
+=
+ and 
+1
+4
+z =
+(b)
+2
+3
+,
+3
+7
+x
+y
+−
+=
+=
+ and 
+1
+2
+z =
+12/04/18
+
+
+
+(c)
+2
+5
+,
+7
+6
+x
+y
+−
+−
+=
+=
+ and 
+1
+4
+z =
+(d)
+1
+0,
+2
+x
+y
+=
+=
+and  What is the name of this property?
+110. Verify the property x × (y + z) = x × y + x × z of rational numbers by
+taking.
+(a)
+1
+3
+1
+,
+,
+2
+4
+4
+x
+y
+z
+−
+=
+=
+=
+(b)
+1
+2
+3
+,
+,
+2
+3
+4
+x
+y
+z
+−
+=
+=
+=
+(c)
+2
+4
+7
+,
+,
+3
+6
+9
+x
+y
+z
+−
+−
+−
+=
+=
+=
+(d)
+1
+2
+3
+,
+,
+5
+15
+10
+x
+y
+z
+−
+−
+=
+=
+=
+111. Use the distributivity of multiplication of rational numbers over
+addition to simplify
+(a)
+3
+35
+10
+5
+24
+1
+
+
+×
++
+
+
+
+
+(b)
+5
+8
+16
+4
+5
+15
+−
+
+
+×
++
+
+
+
+
+(c)
+2
+7
+21
+7
+16
+4
+
+
+×
+−
+
+
+
+
+(d)
+3
+8
+40
+4
+9
+
+
+×
+−
+
+
+
+
+112. Simplify
+(a)
+32
+23
+22
+5
+11
+15
++
+×
+(b)
+3
+28
+14
+7
+15
+5
+×
+÷
+(c)
+3
+2
+5
+7
+21
+6
+−
+−
++
+×
+(d)
+7
+1
+1
+8
+16
+12
++
+−
+113. Identify the rational number that does not belong with the other
+three. Explain your reasoning
+5
+1
+4
+7
+,
+,
+,
+11
+2
+9
+3
+−
+−
+−
+−
+114. The cost of 19
+4 metres of wire is Rs. 171
+2 . Find the cost of one metre
+of the wire.
+115. A train travels 1445
+2
+ km in 17
+2 hours. Find the speed of the train in
+km/h.
+12/04/18
+
+
+
+116. If 16 shirts of equal size can be made out of 24m of cloth, how much
+cloth is needed for making one shirt?
+117.
+7
+11 of all the money in Hamid’s bank account is Rs. 77,000. How
+much money does Hamid have in his bank account?
+118. A 
+1
+117 3 m long rope is cut into equal pieces measuring 
+1
+7 3 m each.
+How many such small pieces are these?
+119.
+1
+6 of the class students are above average, 1
+4 are average and rest
+are below average. If there are 48 students in all, how many students
+are below average in the class?
+120.
+2
+5 of total number of students of a school come by car while 1
+4 of
+students come by bus to school. All the other students walk to school
+of which 1
+3
+ walk on their own and the rest are escorted by their
+parents. If 224 students come to school walking on their own, how
+many students study in that school?
+121. Huma, Hubna and Seema received a total of Rs. 2,016 as monthly
+allowance from their mother such that Seema gets 1
+2 of what Huma
+gets and Hubna gets 2
+13 times Seema’s share. How much money do
+the three sisters get individually?
+122. A mother and her two daughters got a room constructed for
+Rs. 62,000. The elder daughter contributes 3
+8 of her mother’s
+contribution while the younger daughter contributes 1
+2 of her
+mother’s share. How much do the three contribute individually?
+123. Tell which property allows you to compare
+2
+3
+5
+2
+5
+3
+and
+3
+4
+7
+3
+7
+4
+
+
+
+
+×
+×
+×
+×
+
+
+
+
+
+
+
+
+12/04/18
+
+
+
+124. Name the property used in each of the following.
+(i)
+7
+3
+3
+7
+11
+5
+5
+11
+−
+−
+−
+−
+×
+=
+×
+(ii)
+2
+3
+1
+2
+3
+2
+1
+3
+4
+2
+3
+4
+3
+2
+−
+−
+−
+−
+
+
+
+
+
+
+−
+×
++
+=
+×
++
+×
+
+
+
+
+
+
+
+
+
+
+
+
+(iii)
+−
+−
+
+
+
+
+
+
+
+
++
++
+=
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+4
+4
+1
+4
+4
+3
+9
+3
+3
+9
+3
+(iv)
+2
+2
+2
+0
+0
+7
+7
+7
+−
+−
++
+=
++
+= −
+(v)
+3
+3
+3
+1
+1
+8
+8
+8
+×
+=
+×
+=
+125. Find the multiplicative inverse of
+(i)
+1
+18
+−
+(ii)
+1
+3 3
+126. Arrange the numbers 1 13 5
+,
+,
+4 16 8 in the descending order.
+127. The product of two rational numbers is 14
+27
+−
+. If one of the numbers
+be 7
+9 , find the other.
+128. By what numbers should we multiply 15
+20
+−
+so that the product may
+be 5
+7
+−
+?
+129. By what number should we multiply 
+8
+13
+−
+ so that the product may
+be 24?
+130. The product of two rational numbers is –7. If one of the number
+is –5, find the other?
+131. Can you find a rational number whose multiplicative inverse is –1?
+132. Find five rational numbers between 0 and 1.
+133. Find two rational numbers whose absolute value is 1
+5 .
+12/04/18
+
+
+
+134. From a rope 40 metres long, pieces of equal size are cut. If the length
+of one piece is 10
+3 metre, find the number of such pieces.
+135.
+1
+5 2 metres long rope is cut into 12 equal pieces. What is the length
+of each piece?
+136. Write the following rational numbers in the descending order.
+8
+9
+3
+2
+,
+,
+, 0,
+7
+8
+2
+5
+−
+−
+137.
+Find   (i)   
+2
+0
+3
+÷
+(ii)
+1
+5
+21
+3
+7
+10
+−
+−
+×
+×
+138. On a winter day the temperature at a place in Himachal Pradesh
+was –16°C. Convert it in degree Fahrenheit (0F) by using the formula.
+C
+F – 32
+=
+5
+9
+139. Find the sum of additive inverse and multiplicative inverse of 7.
+140. Find the product of additive inverse and multiplicative inverse of – 1
+3 .
+141. The diagram shows the wingspans of different species of birds. Use
+the diagram to answer the question given below:
+(a) How much longer is the wingspan of an Albatross than the
+wingspan of a Sea gull?
+(b) How much longer is the wingspan of a Golden eagle than the
+wingspan of a Blue jay?
+12/04/18
+
+
+
+142. Shalini has to cut out circles of diameter 1
+14 cm from an aluminium
+strip of dimensions 
+3
+8 4 cm by 
+1
+14 cm. How many full circles can
+Shalini cut? Also calculate the wastage of the aluminium strip.
+143. One fruit salad recipe requires 1
+2 cup of sugar. Another recipe for the
+same fruit salad requires 2 tablespoons of sugar. If 1 tablespoon is
+equivalent to 1
+16 cup, how much more sugar does the first recipe
+require?
+144. Four friends had a competition to see how far could they hop on one
+foot. The table given shows the distance covered by each.
+Name
+Distance covered (km)
+Seema
+1
+25
+Nancy
+1
+32
+Megha
+1
+40
+Soni
+1
+20
+(a) How farther did Soni hop than Nancy?
+(b) What is the total distance covered by Seema and Megha?
+(c) Who walked farther, Nancy or Megha?
+145. The table given below shows the distances, in kilometres, between
+four villages of a state. To find the distance between two villages,
+12/04/18
+
+
+
+locate the square where the row for one village and the column for
+the other village intersect.
+(a) Compare the distance between Himgaon and Rawalpur to
+Sonapur and Ramgarh?
+(b) If you drove from Himgaon to Sonapur and then from Sonapur
+to Rawalpur, how far would you drive?
+146. The table shows the portion of some common materials that are
+recycled.
+Material
+Recycled
+Paper
+5
+11
+Aluminium cans
+5
+8
+Glass
+2
+5
+Scrap
+3
+4
+(a) Is the rational number expressing the amount of paper recycled
+more than 1
+2 or less than 1
+2 ?
+12/04/18
+
+
+
+(b) Which items have a recycled amount less than 1
+2 ?
+(c) Is the quantity of aluminium cans recycled more (or less) than
+half of the quantity of aluminium cans?
+(d) Arrange the rate of recycling the materials from the greatest to
+the smallest.
+147. The overall width in cm of several wide-screen televisions are 97.28 cm,
+4
+98 9 cm, 
+1
+98 25 cm and 97.94 cm. Express these numbers as rational
+numbers in the form 
+p
+q and arrange the widths in ascending order.
+148. Roller Coaster at an amusement park is 2
+3 m high. If a new roller
+coaster is built that is 3
+5 times the height of the existing coaster,
+what will be the height of the new roller coaster?
+149. Here is a table which gives the information about the total rainfall
+for several months compared to the average monthly rains of a town.
+Write each decimal in the form of rational number 
+p
+q .
+Month
+Above/Below
+normal (in cm)
+May
+2.6924
+June
+0.6096
+July
+– 6.9088
+August
+– 8.636
+150. The average life expectancies of males for several states are shown in
+the table. Express each decimal in the form 
+p
+q and arrange the
+states from the least to the greatest male life expectancy.
+State-wise data are included below; more indicators can be found in
+the “FACTFILE” section on the homepage for each state.
+12/04/18
+
+
+
+State
+Male
+p
+q form
+Lowest terms
+Andhra Pradesh
+61.6
+Assam
+57.1
+Bihar
+60.7
+Gujarat
+61.9
+Haryana
+64.1
+Himachal Pradesh
+65.1
+Karnataka
+62.4
+Kerala
+70.6
+Madhya Pradesh
+56.5
+Maharashtra
+64.5
+Orissa
+57.6
+Punjab
+66.9
+Rajasthan
+59.8
+Tamil Nadu
+63.7
+Uttar Pradesh
+58.9
+West Bengal
+62.8
+India
+60.8
+Source: Registrar General of India (2003) SRS Based Abridged Lefe Tables. SRS Analytical
+Studies, Report No. 3 of 2003, New Delhi: Registrar General of India. The data are
+for the 1995-99 period; states subsequently divided are therefore included in their
+pre-partition states (Chhatisgarh in MP, Uttaranchal in UP and Jharkhand in
+Bihar)
+151. A skirt that is 
+7
+35 8 cm long has a hem of 
+1
+8
+3
+ cm. How long will the
+skirt be if the hem is let down?
+152. Manavi and Kuber each receives an equal allowance. The table shows
+the fraction of their allowance each deposits into his/her saving
+account and the fraction each spends at the mall. If allowance of
+each is Rs. 1260 find the amount left with each.
+      Fraction of allowance
+Manavi
+Kuber
+Saving Account
+   1
+2
+1
+3
+Spend at mall
+   1
+4
+3
+5
+Left over
+    ?
+?
+Where money goes
+12/04/18
+
+
+
+
+1. Given below is a magic square. Place the numbers 
+70
+– 21
+25
+24
+,
+,
+,
+95
+–133
+95
+38
+in the appropriate squares so that sum in each row, column and
+diagonal is equal.
+32
+18
+4
+14
+38
+38
+38
+38
+18
+104
+?
+?
+57
+152
+22
+20
+?
+?
+38
+95
+1
+16
+45
+60
+19
+38
+57
+114
+−
+−
+−
+−
+−
+−
+−
+−
+Hint: (Rewrite each rational number in its lowest term.)
+2.
+Solve the given crossword filling up the given boxes. Clues are
+given below for across as well as downward filling. Also, for across
+and down clues, clue number is written at the corner of the boxes.
+Answers of clues have to be filled in their respective boxes.
+Down 1:
+2
+3 and 5
+4
+
+ are _______ numbers.
+Down 2:
+The _______ inverse of a
+b is –a
+b .
+Down 3:
+The addition and multiplication of whole number integers
+and rational numbers is _________.
+Down 4:
+Since 1
+0 doesn’t exist hence 0 has no ________.
+Down 5:
+The number line extends _______ on both the sides.
+Down 6:
+The _______ of two integers may not lead to the formation
+of another integer.
+Down 7:
+The multiplication of a number by its reciprocal
+gives_______.
+Down 8:
+Rational numbers can be represented on a _______ line.
+12/04/18
+
+
+
+Across 1: There are _______ rational numbers between two integers.
+Across 2: The multiplication of rational numbers is commutative and
+______.
+Across 3: The addition and ______ of two rational numbers lead to
+the formation of another rational number.
+Across 4: All the positive integers excluding 0 are known as _______
+numbers.
+Across 5: For any rational a ; a ÷ 0 is _______.
+Across 6: Reciprocal is also known as the multiplicative
+_____________.
+12/04/18
+
+
+
+3.
+Break the Code
+Solve this riddle by reducing each rational number to its lowest
+term. The magnitude of the numerator of rational number so obtained
+gives you the letter you have to encircle in the word following it. Use
+the encircled letters to fill in the blanks given below:
+S.No.
+Rational Number
+Lowest Term
+Word
+(1)
+12
+30
+
+SPIN
+(2)
+24
+–36
+
+TYPE
+(3)
+39
+52
+WITH
+(4)
+–48
+144
+HOST
+(5)
+27
+90
+SHARP
+(6)
+–34
+–170
+GAIN
+(7)
+76
+95
+PROOF
+(8)
+46
+92
+
+RAIN
+(9)
+29
+116
+AWAY
+(10)
+14
+–42
+SWEET
+_____ _____
+_____
+_____
+_____
+_____
+_____
+_____
+____
+____
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+12/04/18
+
+RATIONAL NUMBERS  31
+UNIT-1
+2
+5
+×(–11
+2 )
+÷ 3
+5
+× (– 1
+2 )
+Its
+reciprocal
+÷ –2
+5 + 3
+20
+(
+÷
+3
+4(
+–
+2
+× Its additive
+inverse
+× Its multiplicative
+inverse
+ONE
++ Its additive
+identity
+÷
+1
+3
+–1
+(
+×(–2)
+× 3
+4 + 1
+12÷(–2)
+1
+3
+×
+4
+3
+×
+6
+1
+3
+–
+)
+1
+3
+(
+÷ 2
+5
+÷ 1
+2 ÷ –
+(
+×
+)
+1
+–2 3
+)
+)
+× Its multiplicative
+inverse
+(
+(
+(
+æ
+ö
+¸
+-
+ç
+÷
+è
+ø
+2
+1
+5
+2
+12/04/18
+
+32    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18

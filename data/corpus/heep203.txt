@@ -1,0 +1,1455 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• A natural number is called a perfect square
+perfect square
+perfect square
+perfect square
+perfect square if it is the square of
+some natural number.
+i.e., if m = n2, then m is a perfect square where m and n are natural
+numbers.
+• A natural number is called a perfect cube
+perfect cube
+perfect cube
+perfect cube
+perfect cube if it is the cube of some
+natural number.
+i.e., if m = n3, then m is a perfect cube where m and n are natural
+numbers.
+• Number obtained when a number is multiplied by itself is called
+the square of the number.
+• Number obtained when a number is multiplied by itself three times
+are called cube number
+cube number
+cube number
+cube number
+cube number.
+• Squares and cubes of even numbers are even.
+• Squares and cubes of odd numbers are odd.
+• A perfect square can always be expressed as the product of pairs of
+prime factors.
+• A perfect cube can always be expressed as the product of triplets
+of prime factors.
+
+12/04/18
+
+
+
+• The unit digit of a perfect square can be only 0, 1, 4, 5, 6 or 9.
+• The square of a number having:
+1 or 9 at the units place ends in1.
+2 or 8 at the units place ends in 4.
+3 or 7 at the units place ends in 9.
+4 or 6 at the units place ends in 6.
+5 at the units place ends in 5.
+• There are 2n natural numbers between the squares of numbers n
+and n+1.
+• A number ending in odd numbers of zeroes is not a perfect square.
+• The sum of first n odd natural numbers is given by n2.
+• Three natural numbers a, b, c are said to form a pythagorean
+triplet if a2 + b2 = c2.
+• For every natural number m > 1, 2m, m2–1 and m2 + 1 form a
+pythagorean triplet.
+• The square root of a number x is the number whose square is x.
+Positive square root of a number x is denoted by 
+x .
+• The cube root of a number x is the number whose cube is x. It is
+denoted by 3 x .
+• Square root and cube root are the inverse operations of squares
+and cubes respectively.
+• If a perfect square is of n digits, then its square root will have 2
+n
+digit if n is even or 
+1
+2
+n +
+
+
+
+
+
+ digit if n is odd.
+• Cubes of the numbers ending with the digits 0, 1, 4, 5, 6 and 9
+end with digits 0, 1, 4, 5, 6 and 9 respectively.
+
+
+Describe what is meant by a perfect square. Give an example.
+
+Explain how many square roots a positive number can have. How are
+these square roots different?
+12/04/18
+
+
+
+• Cube of the number ending in 2 ends in 8 and cube root of the
+number ending in 8 ends in 2.
+• Cube of the number ending in 3 ends in 7 and cube root of the
+number ending in 7 ends in 3.
+
+
+In examples 1 to 7, out of given four choices only one is correct. Write
+the correct answer.
+Example 1
+: Which of the following is the square of an odd number?
+(a) 256
+(b) 361
+(c) 144
+(d) 400
+Solution
+: Correct answer is (b).
+Example 2
+: Which of the following will have 1 at its units place?
+(a) 192
+(b) 172
+(c) 182
+(d) 162
+Solution
+: Correct answer is (a).
+Example 3
+: How many natural numbers lie between 182 and 192?
+(a) 30
+(b) 37
+(c) 35
+(d) 36
+Solution
+: Correct answer is (d).
+
+SQUARE ROOTS
+
+
+A square root of a number n is a number m which, when
+multiplied by itself, equals n.
+
+The square roots of 16 are 4 and – 4 because 42 = 16 and (– 4)2  =
+16.
+
+If m2 = n, then m is a square root of n.
+
+
+Which type of number has an exact square root?
+
+Which type of number has an approximate square root?
+
+How can we use perfect squares to estimate a square root, such as
+8 ?
+12/04/18
+
+
+
+Example 4
+: Which of the following is not a perfect square?
+(a) 361
+(b) 1156
+(c) 1128
+(d) 1681
+Solution
+: Correct answer is (c).
+Example 5
+: A perfect square can never have the following digit at
+ones place.
+(a) 1
+(b) 6
+(c) 5
+(d) 3
+Solution
+: Correct answer is (d).
+Example 6
+: The value of 176
+2401
++
+ is
+(a) 14
+(b) 15
+(c) 16
+(d) 17
+Solution
+: Correct answer is (b).
+(
+)
+176
+2401
+176
+49
+225
+15
++
+=
++
+=
+=
+Example 7
+: Given that 5625 =75, the value of 0.5625
+56.25
++
+ is:
+(a) 82.5
+(b) 0.75
+(c) 8.25
+(d) 75.05
+Solution
+: Correct answer is (c).
+If ( 5625 = 75, then 0.5625 = 0.75 and 56.25 = 7.5)
+In examples 8 to 14, fill in the blanks to make the statements true.
+Example 8
+: There are __________ perfect squares between 1 and 50.
+Solution
+: 6
+Example 9
+: The cube of 100 will have __________ zeroes.
+Solution
+: 6
+Example 10 : The square of 6.1 is ____________.
+Solution
+: 37.21
+
+Squaring a number and taking a square root are inverse operations.
+What other inverse operations do you know?
+
+When the factors of a perfect square are written in order from the least
+to greatest, what do you notice?
+
+Why do you think numbers such as 4, 9, 16, ... are called perfect
+squares?
+
+Suppose you list the factors of a perfect square. Why is one factor
+square root and not the other factors?
+12/04/18
+
+
+
+Example 11 : The cube of 0.3 is ____________.
+Solution
+: 0.027
+
+
+Discuss whether 9.5 is a good first guess for
+75 .
+
+Determine which square root or roots would have 7.5 as a good first
+guess.
+
+here are some ways to tell whether a number is a square number.
+
+If we can find a division sentence for a number so that the quotient is
+equal to the divisor, the number is a square number.
+For example, 16 ÷ 4 = 4, so 16 is a square number.
+           dividend  divisor   quotient
+
+We can also use factoring.
+Factors of a number occur in pairs.
+These are the dimensions of a rectangle.
+1 and 16 are factors of 16
+16 unit
+2 and 8 factors is of 16
+8 unit
+4 unit
+4 unit
+2 unit
+4 is factor
+of 16
+It occurs
+twice.
+Sixteen has 5 factors: 1, 2, 4, 8, 16
+Since there is an odd number of factors,
+one rectangle is a square.
+The square has side length of 4 units.
+We say that 4 is a square root of 16.
+We write 4 = 
+16
+When a number has an odd number of factors, it is a square number.
+↑
+↑
+↑
+A factor that occurs twice
+is only written once in the
+list of factors.
+12/04/18
+
+
+
+Example 12 : 682 will have __________ at the units place.
+Solution
+: 4
+Example 13 : The positive square root of a number x is denoted by
+__________.
+Solution
+:
+x
+Example 14 : The least number to be multiplied with 9 to make it a
+perfect cube is _______________.
+Solution
+: 3
+In examples 15 to 19, state whether the statements are true (T) or false (F)
+Example 15 : The square of 0.4 is 0.16.
+Solution
+: True
+Example 16 : The cube root of 729 is 8.
+Solution
+: False
+Example 17 : There are 21 natural numbers between 102 and 112.
+Solution:
+False
+Example 18 : The sum of first 7 odd natural numbers is 49.
+Solution
+: True
+Example 19 : The square root of a perfect square of n digits will have
+2
+n digits if n is even.
+Solution
+: True
+Example 20 : Express 36 as a sum of successive odd natural numbers.
+Solution
+: 1+3+5+7+9+11 = 36
+A rectangle is a quadrilateral with 4 right angles.
+A square also has 4 right angles.
+A rectangle with base 4 cm and height 1cm is the same as
+a rectangle with base 1cm and height 4 cm.
+These two rectangles are congruent.
+Is every square a rectangle?
+Is every rectangle a square?
+1cm
+4cm
+12/04/18
+
+
+
+Example 21 : Check whether 90 is a perfect square or not by using
+prime factorisation.
+Solution
+: Prime factorisation of 90 is
+2
+90
+3
+45
+3
+15
+5
+5
+1
+90 = 2 × 3 × 3 × 5
+The prime factors 2 and 5 do not occur in pairs. Therefore,
+90 is not a perfect square.
+Example 22 : Check whether 1728 is a perfect cube by using prime
+factorisation.
+Solution
+: Prime factorisation of 1728 is
+1728 = 2 × 2 × 2 × 2 × 2 × 2 × 3 × 3 × 3
+Since all prime factors can be grouped in triplets.
+Therefore, 1728 is a perfect cube.
+Apply
+Use square tiles. Make as many different rectangles
+as you can with area 28 square units.
+Draw your rectangles on grid paper.
+Is 28 a perfect square? Justify your answer.
+Copy this diagram on grid paper.
+Then estimate the value of 
+7 to one decimal place.
+12/04/18
+
+
+
+Example 23 : Using distributive law, find the square of 43.
+Solution
+: 43 = 40 + 3
+So 432 = (40 + 3)2 = (40 + 3) (40 + 3) = 40 (40 +3) + 3(40 + 3)
+    = 40 × 40 + 40 × 3 + 3 × 40 + 3 × 3
+    = 1600 + 240 + 9
+    = 1849
+So, 432 = 1849
+Example 24 : Write a pythagorean triplet whose smallest number is 6.
+Solution
+: Smallest number is 6
+2m = 6 or m = 3
+m2 + 1 = 32 + 1 = 9 + 1 = 10
+m2 – 1 = 32 – 1 = 9 – 1 = 8
+So, the pythagorean triplet is 6, 8, 10.
+
+Here is one way to estimate the value of 
+20 :
+
+25 is the square number closest to 20, but greater than 20.
+On grid paper, draw a square with
+area 25.
+Its side length: 
+25 = 5
+
+16 is the square number closest to
+20, but less than 20.
+Draw a square with area 16
+Its side length: 
+16 = 4
+Draw the squares so that they overlap.
+A square with area 20 lies between these two squares.
+Its side length 
+20 .
+20 is between 16 and 25, but closer to 16.
+So, 
+20 is between 
+16 and 
+25 , but
+closer to 16 .
+So, 
+20 is between 4 and 5, but closer to 4.
+An estimate of 
+20 is 4.4 to one decimal place.
+9 square units
+7 square units
+4 square units
+7
+4
+9
+12/04/18
+
+
+
+
+Understand the problem
+First find the length of a side. Then you can use the length of the
+side to find the perimeter – the length of the trim around the window.
+Make a Plan
+The length of a side, in cm, is the number that you multiply by
+itself to get 500. Find this number to the nearest tenth.
+Use guess and check to find 
+500 .
+Solve
+Because 5000 is between 222 (484) and 232 (529), the square root
+of 500 is between 22 and 23.
+The square root is between 22.3 and 22.4. To round to the nearest tenth,
+consider 22.35.
+22.352 = 499.5225   low
+A couple wants to install a square glass window that has
+an area of 500 square cm. Calculate the length of each side
+and the length of trim needed to the nearest tenth of cm.
+Guess 22.5
+22.52 506.25
+high
+Square root is
+between 22 and
+22.5
+Guess 22.2
+22.22 492.84
+low
+Square root is
+between 22.2
+and 22.5
+Guess 22.4
+22.42 501.76
+high
+Square root is
+between 22.2
+and 22.4
+Guess 22.3
+22.32 497.29
+low
+Square root is
+between 22.3
+and 22.4
+22.1
+22.8
+22.7
+22.2
+22.3
+22.4
+22.5
+22.6
+22.0
+500
+1
+3
+4
+2
+Guess
+The square root must be
+greater than 22.35, so you
+can round up.
+To the nearest tenth,
+500 is about 22.4.
+Now estimate the length around the window. The length of a side of the
+window to the nearest tenth of an inch is 22.4 inches.
+4 × 22.4 = 89.6
+(Perimeter = 4 × side)
+The trim is about 89.6 cm long.
+Look Back
+The length 90 cm divided by 4 is 22.5 cm. A 22.5 cm square has an
+area of 506 square cm, which is close to 500, so the answers are
+reasonable.
+12/04/18
+
+
+
+Example 25 : Using prime factorisation, find the cube root of 5832.
+Solution
+: The prime factorisation of 5832 is
+2
+5832
+2
+2916
+2
+1458
+3
+729
+3
+243
+3
+81
+3
+27
+3
+9
+3
+3
+1
+5832 = 2 × 2 × 2  × 3  × 3  × 3  × 3  × 3  × 3
+Therefore, 3 5832
+= 3 2
+2
+2
+3
+3
+3
+3
+3
+3
+×
+×
+×
+×
+×
+×
+×
+×
+= 2 × 3 × 3
+= 18
+
+
+Is 1 a square number? How can you tell?
+
+Suppose you know the area of a square. How can you find its perimeter?
+
+Suppose you know the perimeter of a square. How can you find its area?
+Take It Further
+a)
+Find the square root of each palindromic number.
+A palindromic number is a number that reads the same – forward and
+backward.
+(i)
+121
+(ii)
+12321
+(iii)
+1 234321
+(iv)
+123454321
+b)
+Continue the pattern.
+Write the next 4 palindromic numbers in the pattern and their square
+roots.
+12/04/18
+
+
+
+Example 26 : Evaluate the square root of 22.09 by long division
+method.
+Solution
+: 4.7
+4
+22.09
+16
+87
+  609
+  609
+     0
+Therefore, 
+22.09 = 4.7
+Example 27 : Find the smallest perfect square divisible by 3, 4, 5 and 6.
+Solution
+: The least number divisible by 3, 4, 5 and 6 is their LCM.
+The LCM of 3, 4, 5 and 6 is 60. Now, 60 = 2 × 2 × 5 × 3.
+We see that prime factors 5 and 3 are not in pairs.
+Therefore 60 is not a perfect square. So, 60 should be
+multiplied by 5 × 3 = 15 to get a perfect square.
+Thus, the required least square number = 60 × 15 = 900.
+Example 28 : A ladder 10m long rests
+against a vertical wall. If the
+foot of the ladder is 6m away
+from the wall and the ladder
+just reaches the top of the
+wall, how high is the wall?
+Solution
+: Let AC be the ladder.
+Therefore, AC = 10m
+Let BC be the distance between the foot of the ladder
+and the wall.
+Therefore,BC = 6m
+∆ABC forms a right angled triangle, right angled at B.
+By Pythagoras theorem,
+AC2 = AB2 + BC2
+102 = AB2 + 62
+or
+AB2 = 102 –62 = 100 – 36 = 64
+or
+AB = 
+64 = 8m
+Hence, the wall is 8m high.
+6m
+C
+B
+A
+10m
+ladder
+wall
+12/04/18
+
+
+
+Example 29 : Find the length of a diagonal of a rectangle with
+dimensions 20m by 15m.
+Solution
+: Using Pythagoras theorem, we have
+Length of diagonal of the rectangle
+= 
+2
+2
+(
+)
+l
+b
++
+units
+= 
+2
+2
+(20
+15 )
++
+m
+= 
+400
+225
++
+m
+= 
+625 m
+= 25 m
+Hence, the length of diagonal is 25m.
+
+Compare your strategies and results with those of another pair of
+classmates.
+Find two areas greater than 20 square units for which you could use tiles
+to make a square.
+How do you know you could make a square for each of these areas?
+
+Work with a partner.
+You will need grid paper and 20 square tiles.
+Use the tiles to make as many different rectangles as you can with each
+area.
+4 square units
+12 square units
+6 square units
+16 square units
+8 square units
+20 square units
+9 square units
+Draw the rectangles on grid paper.
+
+For how many areas given above were you able to make a square?
+
+What is the side length of each square you made?
+
+How is the side length of a square related to its area?
+12/04/18
+
+
+
+Example 30 : The area of a rectangular field whose length is twice its
+breadth is 2450 m2. Find the perimeter of the field.
+Solution
+: Let the breadth of the field be x metres. Then length of
+the field is 2x metres.
+Therefore, area of the rectangular field = length × breadth
+         = (2x)(x) = (2x2) m2
+Given that area is 2450 m2.
+Therefore, 2x2 = 2450
+x2 = 2450
+2
+x  = 1225 or x = 35m
+Hence, breadth = 35m and length 35 × 2 = 70m
+Perimeter of the field = 2 (l + b)
+      = 2(70+35)m = 2×105m = 210m
+Example 31 : During a mass drill exercise, 6250 students of different
+schools are arranged in rows such that the number of
+students in each row is equal to the number of rows. In
+doing so, the instructor finds out that 9 children are left
+out. Find the number of children in each row of the square.
+Solution
+: Total number of students = 6250
+Number of students forming a square = 6250 – 9
+= 6241
+Thus, 6241 students form a big square which has number
+of rows equal to the number of students in each row.
+Let the number of students in each row be x, then the
+number of rows = x
+Therefore,
+x × x = 6241
+or
+x = 6241 = 79
+Hence, there are 79 students in each row of the square
+formed.
+12/04/18
+
+
+
+Example 32 : Find the least number that must be added to 1500 so as
+to get a perfect square. Also find the square root of the
+perfect square.
+Solution
+:
+38
+3
+1500
+9
+68
+600
+544
+56
+We observe that 382 < 1500 < 392
+Hence the number to be added = 392 – 1500
+= 1521 – 1500
+= 21
+Therefore, the perfect square is 1500 + 21 = 1521
+1521 = 39
+Hence the required number is 21 and the square root is 39.
+Tsunamis, sometimes called tidal waves,
+move across deep oceans at high speeds with
+barely a ripple on the water surface. It is
+only when tsunamis hit shallow water that
+their energy moves them upward into a huge
+destructive force.
+
+The speed of a tsunami, in metre per
+second, can be found by the formula r =
+9.7344d , where d is the water depth
+in metre. Suppose the water depth is
+6400m. How fast is the
+tsunami moving?
+
+The speed of a tsunami in
+km per hour can be found
+using r = 
+4.4944d where
+d is the water depth in
+metre. Suppose the water
+depth is 8100 metre
+a)
+How fast is the tsunami
+moving in km per hour?
+b)
+How long would it take
+a tsunami to travel
+3000 km if the water depth was a consistent 3000 m?
+As the wave
+approaches the
+beach, it slows,
+builds in height
+and crashes on
+shore
+Tsunamis can be caused by
+earthquakes, volcanoes,
+landslides, or meteorites.
+12/04/18
+
+
+
+Example 33 : Application of problem solving strategies
+• Find the smallest number by which 1620 must be
+divided to get a perfect square.
+Solution
+: Understand and Explore
+• What information is given in the question? – A number
+which is not a perfect square.
+• What are you trying to find? – The smallest number
+by which 1620 must be divided to get a perfect square.
+Plan a strategy
+• You have already learnt prime factorisation. Use it to
+find the product of prime factors of 1620.
+• Pair the prime factors to see if any factor is left unpaired.
+• This unpaired factor will be the smallest number that
+must be divided to get a perfect square.
+Solve
+Prime factorisation of 1620 is
+2
+1620
+2
+810
+5
+405
+3
+81
+3
+27
+3
+9
+3
+3
+1
+The product of prime factors = 2 × 2 × 5 × 3 × 3 × 3 × 3
+Pair these prime factors        = 2 × 2 × 5 × 3 × 3 × 3 × 3
+The factor 5 is left unpaired.
+Hence, the required smallest number is 5.
+Revise
+Divide 1620 by 5 and check if it is a perfect square.
+1620 ÷ 5 = 324
+We see that 324 is a perfect square, hence our answer is
+verified.
+12/04/18
+
+
+
+
+In each of the questions, 1 to 24, write the correct answer from the
+given four options.
+1. 196 is the square of
+(a) 11
+(b) 12
+(c) 14
+(d) 16
+2. Which of the following is a square of an even number?
+(a) 144
+(b) 169
+(c) 441
+(d) 625
+3. A number ending in 9 will have the units place of its square as
+(a) 3
+(b) 9
+(c) 1
+(d) 6
+
+A magic square is a square with numbers
+arranged so that the sum of the numbers
+in each row, column and diagonal is the
+same.
+Complete each magic square below.
+Use the numbers –4, – 3, –2, –1, 0, 1, 2,
+3 and 4 to make a magic square with
+row, column and diagonal sums of 0.
+
+1.
+Find the square root of the number obtained in step IV.
+2.
+Can you find the smallest number that can be multiplied to 1620
+to get a perfect square?
+3.
+Find the square root.
+12/04/18
+
+
+
+4. Which of the following will have 4 at the units place?
+(a) 142
+(b) 622
+(c) 272
+(d) 352
+5. How many natural numbers lie between 52 and 62?
+(a) 9
+(b) 10
+(c) 11
+(d) 12
+6. Which of the following cannot be a perfect square?
+(a) 841
+(b) 529
+(c) 198
+(d) All of the above
+7. The one’s digit of the cube of 23 is
+(a) 6
+(b) 7
+(c) 3
+(d) 9
+8. A square board has an area of 144 square units. How long is each
+side of the board?
+(a) 11 units
+(b) 12 units
+(c) 13 units
+(d) 14 units
+9. Which letter best represents the location of 
+25 on a number line?
+(a) A
+(b) B
+(c) C
+(d) D
+0
+1
+2 3
+4 5
+6 7
+A
+B
+C
+D
+10. If one member of a pythagorean triplet is 2m, then the other two
+members are
+(a) m, m2+1
+(b) m2+1, m2–1
+(c) m2, m2–1
+(d) m2, m+1
+11. The sum of successive odd numbers 1, 3, 5, 7, 9, 11, 13 and 15 is
+(a) 81
+(b) 64
+(c) 49
+(d) 36
+12. The sum of first n odd natural numbers is
+(a) 2n+1
+(b) n2
+(c) n2–1
+(d) n2+1
+13. Which of the following numbers is a perfect cube?
+(a) 243
+(b) 216
+(c) 392
+(d) 8640
+14. The hypotenuse of a right triangle with its legs of lengths 3x × 4x is
+(a) 5x
+(b) 7x
+(c) 16x
+(d) 25x
+15. The next two numbers in the number pattern 1, 4, 9, 16, 25 ... are
+(a)35, 48
+(b) 36, 49
+(c) 36, 48
+(d) 35,49
+12/04/18
+
+
+
+16. Which among 432, 672, 522, 592 would end with digit 1?
+(a) 432
+(b) 672
+(c) 522
+(d) 592
+17. A perfect square can never have the following digit in its ones place.
+(a) 1
+(b) 8
+(c) 0
+(d) 6
+18. Which of the following numbers is not a perfect cube?
+(a) 216
+(b) 567
+(c) 125
+(d) 343
+19.
+31000 is equal to
+(a) 10
+(b) 100
+(c) 1
+(d) None of these
+20. If m is the square of a natural number n, then n is
+(a) the square of m
+(b) greater than m
+(c) equal to m
+(d)
+m
+21. A perfect square number having n digits where n is even will have
+square root with
+(a) n+1 digit
+(b)
+2
+n digit
+(c)
+3
+n digit
+(d)
+1
+2
+n +
+ digit
+22. If m is the cube root of n, then n is
+(a) m3
+(b)
+m
+(c)
+3
+m
+(d)
+3 m
+23. The value of 248
+52
+144
++
++
+ is
+(a) 14
+(b) 12
+(c) 16
+(d) 13
+24. Given that 4096 = 64, the value of 
+4096
+40.96
++
+ is
+(a) 74
+(b) 60.4
+(c) 64.4
+(d) 70.4
+In questions 25 to 48, fill in the blanks to make the statements true.
+25. There are _________ perfect squares between 1 and 100.
+26. There are _________ perfect cubes between 1 and 1000.
+27. The units digit in the square of 1294 is _________.
+12/04/18
+
+
+
+28. The square of 500 will have _________ zeroes.
+29. There are _________ natural numbers between n2 and (n + 1)2
+30. The square root of 24025 will have _________ digits.
+31. The square of 5.5 is _________.
+32. The square root of 5.3 × 5.3 is _________.
+33. The cube of 100 will have _________ zeroes.
+34. 1m2 = _________ cm2.
+35. 1m3 = _________ cm3.
+36. Ones digit in the cube of 38 is _________.
+37. The square of 0.7 is _________.
+38. The sum of first six odd natural numbers is _________.
+39. The digit at the ones place of 572 is _________.
+40. The sides of a right triangle whose hypotenuse is 17cm are _________
+and _________.
+41.
+1.96 =  _________.
+42. (1.2)3 = _________.
+43. The cube of an odd number is always an _________ number.
+44. The cube root of a number x is denoted by _________.
+45. The least number by which 125 be multiplied to make it a perfect
+square is _____________.
+46. The least number by which 72 be multiplied to make it a perfect
+cube is _____________.
+47. The least number by which 72 be divided to make it a perfect cube
+is _____________.
+48. Cube of a number ending in 7 will end in the digit _______________.
+In questions 49 to 86, state whether the statements are true (T) or false (F).
+49. The square of 86 will have 6 at the units place.
+50. The sum of two perfect squares is a perfect square.
+51. The product of two perfect squares is a perfect square.
+52. There is no square number between 50 and 60.
+12/04/18
+
+
+
+53. The square root of 1521 is 31.
+54. Each prime factor appears 3 times in its cube.
+55. The square of 2.8 is 78.4.
+56. The cube of 0.4 is 0.064.
+57. The square root of 0.9 is 0.3.
+58. The square of every natural number is always greater than the number
+itself.
+59. The cube root of 8000 is 200.
+60. There are five perfect cubes between 1 and 100.
+61. There are 200 natural numbers between 1002 and 1012.
+62. The sum of first n odd natural numbers is n2.
+63. 1000 is a perfect square.
+64. A perfect square can have 8 as its units digit.
+65. For every natural number m, (2m –1, 2m2–2m, 2m2–2m + 1) is a
+pythagorean triplet.
+66. All numbers of a pythagorean triplet are odd.
+67. For an integer a, a3 is always greater than a2.
+68. If x and y are integers such that x2 > y2, then x3 > y3.
+69. Let x and y be natural numbers. If x divides y, then x3 divides y3.
+70. If a2 ends in 5, then a3 ends in 25.
+71. If a2 ends in 9, then a3 ends in 7.
+72. The square root of a perfect square of n digits will have 
+1
+2
+n +
+
+
+
+
+
+ digits,
+if n is odd.
+73. Square root of a number x is denoted by 
+x .
+74. A number having 7 at its ones place will have 3 at the units place of
+its square.
+What’s the Error? A student said that since the square roots of a certain
+number are 1.5 and –1.5, the number must be their product, –2.25. What
+error did the student make?
+12/04/18
+
+
+
+75. A number having 7 at its ones place will have 3 at the ones place of
+its cube.
+76. The cube of a one digit number cannot be a two digit number.
+77. Cube of an even number is odd.
+78. Cube of an odd number is even.
+79. Cube of an even number is even.
+80. Cube of an odd number is odd.
+81. 999 is a perfect cube.
+82. 363 × 81 is a perfect cube.
+83. Cube roots of 8 are +2 and –2.
+84.
+3 8
+27
++
+ = 
+3
+3 8
+27
++
+.
+85. There is no cube root of a negative integer.
+86. Square of a number is positive, so the cube of that number will also
+be positive.
+Solve the following questions.
+87. Write the first five square numbers.
+88. Write cubes of first three multiples of 3.
+89. Show that 500 is not a perfect square.
+90. Express 81 as the sum of first nine consecutive odd numbers.
+91. Using prime factorisation, find which of the following are perfect
+squares.
+(a)484
+(b) 11250
+(c) 841
+(d) 729
+92. Using prime factorisation, find which of the following are perfect
+cubes.
+(a)128
+(b) 343
+(c) 729
+(d) 1331
+93. Using distributive law, find the squares of
+(a)101
+(b) 72
+94. Can a right triangle with sides 6cm, 10cm and 8cm be formed? Give
+reason.
+95. Write the Pythagorean triplet whose one of the numbers is 4.
+12/04/18
+
+
+
+96. Using prime factorisation, find the square roots of
+(a)11025
+(b) 4761
+97. Using prime factorisation, find the cube roots of
+(a)512
+(b) 2197
+98. Is 176 a perfect square? If not, find the smallest number by which it
+should be multiplied to get a perfect square.
+99. Is 9720 a perfect cube? If not, find the smallest number by which it
+should be divided to get a perfect cube.
+100. Write two Pythagorean triplets each having one of the numbers as 5.
+101. By what smallest number should 216 be divided so that the quotient
+is a perfect square. Also find the square root of the quotient.
+102. By what smallest number should 3600 be multiplied so that the
+quotient is a perfect cube. Also find the cube root of the quotient.
+103. Find the square root of the following by long division method.
+(a)1369
+(b) 5625
+104. Find the square root of the following by long division method.
+(a)27.04
+(b) 1.44
+105. What is the least number that should be subtracted from 1385 to get
+a perfect square? Also find the square root of the perfect square.
+106. What is the least number that should be added to 6200 to make it a
+perfect square?
+107. Find the least number of four digits that is a perfect square.
+108. Find the greatest number of three digits that is a perfect square.
+109. Find the least square number which is exactly divisible by 3, 4, 5, 6
+and 8.
+110. Find the length of the side of a square if the length of its diagonal is
+10cm.
+111. A decimal number is multiplied by itself. If the product is 51.84, find
+the number.
+112. Find the decimal fraction which when multiplied by itself gives 84.64.
+12/04/18
+
+
+
+113. A farmer wants to plough his square field of side 150m. How much
+area will he have to plough?
+114. What will be the number of unit squares on each side of a square
+graph paper if the total number of unit squares is 256?
+115. If one side of a cube is 15m in length, find its volume.
+116. The dimensions of a rectangular field are 80m and 18m. Find the
+length of its diagonal.
+117. Find the area of a square field if its perimeter is 96m.
+118. Find the length of each side of a cube if its volume is 512 cm3.
+119. Three numbers are in the ratio 1:2:3 and the sum of their cubes is
+4500. Find the numbers.
+120. How many square metres of carpet will be required for a square room
+of side 6.5m to be carpeted.
+121. Find the side of a square whose area is equal to the area of a rectangle
+with sides 6.4m and 2.5m.
+122. Difference of two perfect cubes is 189. If the cube root of the smaller
+of the two numbers is 3, find the cube root of the larger number.
+123. Find the number of plants in each row if 1024 plants are arranged
+so that number of plants in a row is the same as the number of rows.
+124. A hall has a capacity of 2704 seats. If the number of rows is equal to
+the number of seats in each row, then find the number of seats in
+each row.
+125. A General wishes to draw up his 7500 soldiers in the form of a square.
+After arranging, he found out that some of them are left out. How
+many soldiers were left out?
+126. 8649 students were sitting in a lecture room in such a manner that
+there were as many students in the row as there were rows in the
+lecture room. How many students were there in each row of the lecture
+room?
+127. Rahul walks 12m north from his house and turns west to walk 35m
+to reach his friend’s house. While returning, he walks diagonally
+from his friend’s house to reach back to his house. What distance
+did he walk while returning?
+12/04/18
+
+
+
+128. A 5.5m long ladder is leaned against a wall. The ladder reaches the
+wall to a height of 4.4m. Find the distance between the wall and the
+foot of the ladder.
+129. A king wanted to reward his advisor, a wise man of the kingdom. So
+he asked the wiseman to name his own reward. The wiseman thanked
+the king but said that he would ask only for some gold coins each
+day for a month. The coins were to be counted out in a pattern of one
+coin for the first day, 3 coins for the second day, 5 coins for the third
+day and so on for 30 days. Without making calculations, find how
+many coins will the advisor get in that month?
+130. Find three numbers in the ratio 2:3:5, the sum of whose squares is
+608.
+131. Find the smallest square number divisible by each one of the numbers
+8, 9 and 10.
+132. The area of a square plot is 
+1
+101 400 m2. Find the length of one side
+of the plot.
+133. Find the square root of 324 by the method of repeated subtraction.
+134. Three numbers are in the ratio 2:3:4. The sum of their cubes is
+0.334125. Find the numbers.
+135. Evaluate : 3
+3
+3
+27
+0.008
+0.064
++
++
+136.
+(
+)
+3
+1
+2
+2
+2
+5
+12
+
+
+
+
++
+
+
+
+
+
+
+
+
+137.
+(
+)
+3
+1
+2
+2
+2
+6
+8
+
+
+
+
++
+
+
+
+
+
+
+
+
+138. A perfect square number has four digits, none of which is zero. The
+digits from left to right have values that are: even, even, odd, even.
+Find the number.
+139. Put three different numbers in the circles so that
+when you add the numbers at the end of each line
+you always get a perfect square.
+12/04/18
+
+
+
+140. The perimeters of two squares are 40 and 96 metres respectively.
+Find the perimeter of another square equal in area to the sum of the
+first two squares.
+141. A three digit perfect square is such that if it is viewed upside down,
+the number seen is also a perfect square. What is the number?
+(Hint: The digits 1, 0 and 8 stay the same when viewed upside down,
+whereas 9 becomes 6 and 6 becomes 9.)
+142. 13 and 31 is a strange pair of numbers such that their squares 169
+and 961 are also mirror images of each other. Can you find two other
+such pairs?
+Let me teach you
+a trick, Karan.
+Alright Geeta.
+Pick any 2-digit
+number ending
+in 5.
+45
+Take the tens part
+of the number and
+multiply it with
+its successor.
+Tens part of 45 is 4.
+Its successor is 5,
+so 4 × 5 = 20.
+Now prefix this
+number to the
+square of 5.
+Square of 5 is 25, so
+number obtained
+is 2025.
+
+1. Quick Tricks.
+12/04/18
+
+98    EXEMPLAR PROBLEMS
+MATHEMATICS
+12/04/18
+
+SQUARE-SQUARE ROOT AND CUBE-CUBE ROOT  99
+UNIT-3
+Sure
+This trick can help
+you to find the cube root
+of any 4, 5 or 6-digit
+perfect cube orally.
+Alright. But what do
+we have to
+do for it?
+Good. Check it by
+actual
+multiplication.
+The square is correct.
+Friends, you can also
+try this trick for 425 or
+705 or any other 3-digit
+number ending in 5.
+You will definitely
+enjoy it.
+Geeta, now let me
+teach you one
+trick.
+91125
+91, 125
+See the digit at the units
+place and find the
+units place of its cube.
+From the right put a
+comma after 3
+digits.
+1
+n
+Pick any 4, 5 or 6
+digit  perfect cube.
+1
+n
+12/04/18
+
+100    EXEMPLAR PROBLEMS
+MATHEMATICS
+Digit at units
+place is 5 and digit
+at ones place of
+its cube
+is also 5.
+Good! This number is
+the digit at units place
+of the cube root. Now
+see the digits before
+the comma.
+91
+Ascertain which
+number's cube is
+less than this
+number.
+The cube of 4 is
+64 which is less
+than 91.
+So it means
+that the cube
+root is 45.
+You are right.
+Fascinating!
+Friends, you can
+also try the same for
+13824, 2197, 50653 or
+any other perfect cube
+of 4, 5 or 6 digit.
+Absolutely. This is the
+digit at the tens place
+of the cube root.
+Bye for now!
+12/04/18
+
+
+
+2. Cross Number Puzzle
+ Down
+1.
+Cube of 9.
+2. Missing number to make 12, ____, 37, a pythagorean triplet.
+4. Smallest number by which 248 be multiplied to make the resultant
+a perfect cube number.
+5. Square of 75.
+6. Smallest square number that is divisible by each of 5 and 11
+9. Without adding, find the sum of 1 + 3 + 5 + 7 + 9 + 11.
+10. Smallest number which when added to 7669 makes the resultant a
+perfect square.
+ Across
+2. Square of 19.
+3. Look at the numbers given below and find the number which cannot
+be a perfect square.
+81, 100, 144, 25000
+7. Square root of 4489
+8. Smallest natural number other than 1 which is a perfect square as
+well as a perfect cube number.
+10. Cube root of 357911.
+11. Smallest number which when subtracted from 374695 makes the
+resultant a perfect square number.
+12/04/18
+
+102    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18
+
+SQUARE-SQUARE ROOT AND CUBE-CUBE ROOT  103
+UNIT-3
+Rough Work
+12/04/18
+
+104    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18

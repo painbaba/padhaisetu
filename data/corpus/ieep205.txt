@@ -1,0 +1,595 @@
+(A) Main Concepts and Results
+Points, Line, Plane or surface, Axiom, Postulate and Theorem, The Elements, Shapes
+of altars or vedis in ancient India, Equivalent versions of Euclid’s fifth Postulate,
+Consistency of a system of axioms.
+Ancient India
+•
+The geometry of the Vedic period originated with the construction of altars (or
+vedis) and fireplaces for performing Vedic rites. Square and circular altars were
+used for household rituals, while altars, whose shapes were combinations of
+rectangles, triangles and trapeziums, were required for public worship.
+Egypt, Babylonia and Greece
+•
+Egyptians developed a number of geometric techniques and rules for calculating
+simple areas and doing simple constructions. Babylonians and Egyptains used
+geometry mostly for practical purposes and did very little to develop it as a systematic
+science. The Greeks were interested in establishing the truth of the statements
+they discovered using deductive reasoning. A Greek mathematician, Thales is
+credited with giving the first known proof.
+Euclid’s Elements
+•
+Euclid around 300 B.C. collected all known work in the field of mathematics and
+arranged it in his famous treatise called Elements. Euclid assumed certain properties,
+which were not to be proved. These assumptions are actually “obvious universal
+truths”. He divided them into two types.
+INTRODUCTION  TO  EUCLID’S  GEOMETRY
+CHAPTER 5
+16/04/18
+16/04/18
+
+44
+EXEMPLAR PROBLEMS
+Axioms
+1.
+The things which are equal to the same thing are equal to one another.
+2.
+If equals be added to the equals, the wholes are equal.
+3.
+If equals be subtracted from equals, the remainders are equals.
+4.
+Things which coincide with one another are equal to one another.
+5.
+The whole is greater than the part.
+6.
+Things which are double of the same thing are equal to one another.
+7.
+Things which are halves of the same thing are equal to one another.
+Postulates
+1.
+A straight line may be drawn from any point to any other point.
+2.
+A terminated line (line segment) can be produced indefinitely.
+3.
+A circle may be described with any centre and any radius.
+4.
+All right angles are equal to one another.
+5.
+If a straight line falling on two straight lines makes the interior angles on the same
+side of it, taken together less than two right angles, then the the two straight lines if
+produced indefinitely, meet on that side on which the sum of angles is taken together
+less than two right angles.
+Euclid used the term postulate for the assumptions that were specific to geometry
+and otherwise called axioms. A theorem is a mathematical statement whose truth
+has been logically established.
+Present Day Geometry
+•
+A mathematical system consists of axioms, definitions and undefined terms.
+•
+Point, line and plane are taken as undefined terms.
+•
+A system of axioms is said to be consistent if there are no contradictions in the
+axioms and theorems that can be derived from them.
+•
+Given two distinct points, there is a unique line passing through them.
+•
+Two distinct lines can not have more than one point in common.
+•
+Playfair’s Axiom (An equivalent version of Euclid’s fifth postulate).
+(B) Multiple Choice Questions
+Write the correct answer :
+Sample Question 1 : Euclid’s second axiom (as per order given in the Textbook for
+Class IX) is
+16/04/18
+16/04/18
+
+INTRODUCTION TO EUCLID’S GEOMETRY
+45
+(A) The things which are equal to the same thing are equal to one another.
+(B) If equals be added to equals, the wholes are equal.
+(C) If equals be subtracted from equals, the remainders are equals.
+(D) Things which coincide with one another are equal to one another.
+Solution : Answer (B)
+Sample Question 2 : Euclid’s fifth postulate is
+(A) The whole is greater than the part.
+(B) A circle may be described with any centre and any radius.
+(C) All right angles are equal to one another.
+(D) If a straight line falling on two straight lines makes the interior angles on the same
+side of it taken together less than two right angles, then the two straight lines if
+produced indefinitely, meet on that side on which the sum of angles is less than two
+right angles.
+Solution : Answer (D)
+Sample Question 3 : The things which are double of the same thing are
+(A) equal
+(B) unequal
+(C) halves of the same thing
+(D) double of the same thing
+Solution : Answer (A)
+Sample Question 4 : Axioms are assumed
+(A) universal truths in all branches of mathematics
+(B) universal truths specific to geometry
+(C) theorems
+(D) definitions
+Solution : Answer (A)
+Sample Question 5 : John is of the same age as Mohan. Ram is also of the same age
+as Mohan. State the Euclid’s axiom that illustrates the relative ages of John and Ram
+(A)
+First Axiom
+(B)
+Second Axiom
+(C)
+Third Axiom
+(D)
+Fourth Axiom
+Solution : Answer (A)
+Sample Question 6 : If a straight line falling on two straight lines makes the interior
+angles on the same side of it, whose sum is 120°, then the two straight lines, if produced
+indefinitely, meet on the side on which the sum of angles is
+16/04/18
+16/04/18
+
+46
+EXEMPLAR PROBLEMS
+(A)
+less than 120°
+(B)
+greater than 120°
+(C)
+is equal to 120°
+(D)
+greater than 180°
+Solution : Answer (C)
+EXERCISE 5.1
+1.
+The three steps from solids to points are :
+(A)
+Solids - surfaces - lines - points
+(B)
+Solids - lines - surfaces - points
+(C)
+Lines - points - surfaces - solids
+(D)
+Lines - surfaces - points - solids
+2.
+The number of dimensions, a solid has :
+(A)
+1
+(B)
+2
+(C)
+3
+(D)
+0
+3.
+The number of dimensions, a surface has :
+(A)
+1
+(B)
+2
+(C)
+3
+(D)
+0
+4.
+The number of dimension, a point has :
+(A)
+0
+(B)
+1
+(C)
+2
+(D)
+3
+5.
+Euclid divided his famous treatise “The Elements” into :
+(A)
+13 chapters
+(B)
+12 chapters (C)
+11 chapters
+(D)
+9 chapters
+6.
+The total number of propositions in the Elements are :
+(A)
+465
+(B)
+460
+(C)
+13
+(D) 55
+7.
+Boundaries of solids are :
+(A)
+surfaces
+(B)
+curves
+(C)
+lines
+(D)
+points
+8.
+Boundaries of surfaces are :
+(A)
+surfaces
+(B)
+curves
+(C)
+lines
+(D)
+points
+9.
+In Indus Valley Civilisation (about 3000 B.C.), the bricks used for construction
+work were having dimensions in the ratio
+(A)
+1 : 3 : 4
+(B)
+4 : 2 : 1
+(C)
+4 : 4 : 1
+(D)
+4 : 3 : 2
+10. A pyramid is a solid figure, the base of which is
+(A)
+only a triangle
+(B)
+only a square
+(C)
+only a  rectangle
+(D)
+any polygon
+11. The side faces of a pyramid are :
+(A)
+Triangles
+(B)
+Squares
+(C)
+Polygons
+(D)   Trapeziums
+16/04/18
+16/04/18
+
+INTRODUCTION TO EUCLID’S GEOMETRY
+47
+12. It is known that if x + y = 10 then x + y + z = 10 + z. The Euclid’s axiom that
+illustrates this statement is :
+(A)
+First Axiom
+(B)
+Second Axiom
+(C)
+Third Axiom
+(D)
+Fourth Axiom
+13. In ancient India, the shapes of altars used for house hold rituals were :
+(A)
+Squares and circles
+(B)
+Triangles and rectangles
+(C)
+Trapeziums and pyramids
+(D)
+Rectangles and squares
+14. The number of interwoven isosceles triangles in Sriyantra (in the Atharvaveda) is:
+(A)
+Seven
+(B)
+Eight
+(C)
+Nine
+(D)
+Eleven
+15. Greek’s emphasised on :
+(A)
+Inductive reasoning
+(B)
+Deductive reasoning
+(C)
+Both A and B
+(D)
+Practical use of geometry
+16. In Ancient India, Altars with combination of shapes like rectangles, triangles and
+trapeziums were used for :
+(A)
+Public worship
+(B)
+Household rituals
+(C)
+Both A and B
+(D)
+None of A, B, C
+17. Euclid belongs to the country :
+(A)
+Babylonia
+(B)
+Egypt
+(C)
+Greece
+(D)
+India
+18. Thales belongs to the country :
+(A)
+Babylonia
+(B)
+Egypt
+(C)
+Greece
+(D)
+Rome
+19. Pythagoras was a student of :
+(A)
+Thales
+(B)
+Euclid
+(C)
+Both A and B
+(D)
+Archimedes
+20. Which of the following needs a proof ?
+(A)
+Theorem
+(B)
+Axiom
+(C)
+Definition
+(D)
+Postulate
+21. Euclid stated that all right angles are equal to each other in the form of
+(A)
+an axiom
+(B)
+a definition
+(C)
+a postulate
+(D)
+a proof
+22. ‘Lines are parallel if they do not intersect’ is stated in the form of
+(A)
+an axiom
+(B)
+a definition
+(C)
+a postulate
+(D)
+a proof
+(C) Short Answer Questions  with Reasoning
+Sample Question 1 : Write whether the following statements are True or False?
+Justify your answer.
+16/04/18
+16/04/18
+
+48
+EXEMPLAR PROBLEMS
+(i) Pyramid is a solid figure, the base of which is a triangle or square or some other
+polygon and its side faces are equilateral triangles that converges to a point at the
+top.
+(ii) In Vedic period, squares and circular shaped altars were used for household rituals,
+while altars whose shapes were combination of rectangles, triangles and trapeziums
+were used for public worship.
+(iii) In geometry, we take a point, a line and a plane as undefined terms.
+(iv) If the area of a triangle equals the area of a rectangle and the area of the rectangle
+equals that of a square, then the area of the triangle also equals the area of the
+square.
+(v) Euclid’s fourth axiom says that everything equals itself.
+(vi) The Euclidean geometry is valid only for figures in the plane.
+Solution :
+(i) False. The side faces of a pyramid are triangles not necessarily equilateral triangles.
+(ii) True. The geometry of Vedic period originated with the construction of vedis and
+fireplaces for performing vedic rites. The location of the sacred fires had to be in
+accordance to the clearly laid down instructions about their shapes and area.
+(iii) True. To define a point, a line and a plane in geometry we need to define many
+other things that give a long chain of definitions without an end. For such reasons,
+mathematicians agree to leave these geometric terms undefined.
+(iv) True. Things equal to the same thing are equal.
+(v) True. It is the justification of the principle of superposition.
+(vi) True. It fails on the curved surfaces. For example on curved surfaces, the sum of
+angles of a triangle may be more than 180°.
+EXERCISE 5.2
+Write whether the following statements are True or False? Justify your answer :
+1.
+Euclidean geometry is valid only for curved surfaces.
+2.
+The boundaries of the solids are curves.
+3.
+The edges of a surface are curves.
+4.
+The things which are double of the same thing are equal to one another.
+5.
+If a quantity B is a part of another quantity A, then A can be written as the sum of
+B and some third quantity C.
+6.
+The statements that are proved are called axioms.
+16/04/18
+16/04/18
+
+INTRODUCTION TO EUCLID’S GEOMETRY
+49
+7.
+“For every line l and for every point P not lying on a given line l, there exists a
+unique line m passing through P and parallel to l ” is known as Playfair’s axiom.
+8.
+Two distinct intersecting lines cannot be parallel to the same line.
+9.
+Attempts to prove Euclid’s fifth postulate using the other postulates and axioms led
+to the discovery of several other geometries.
+(D) Short Answer Questions
+Sample Question  1 : Ram and Ravi have the same weight. If they each gain weight
+by 2 kg, how will their new weights be compared ?
+Solution : Let x kg be the weight each of Ram and  Ravi. On gaining 2 kg, weight of
+Ram and Ravi will be (x + 2) each. According to Euclid’s second axiom, when equals
+are added to equals, the wholes are equal. So, weight of Ram and Ravi are again equal.
+Sample Question 2 : Solve the equation a – 15 = 25 and state which axiom do you
+use here.
+Solution : a – 15 = 25. On adding 15 to both sides, we have  a – 15 + 15 = 25 + 15 = 40
+(using Euclid’s second axiom).
+or
+a = 40
+Sample Question 3 : In the Fig. 5.1, if
+∠1 = ∠3, ∠2 = ∠4      and  ∠3 = ∠4,
+write the relation between ∠1 and ∠2, using an
+Euclid’s axiom.
+Solution : Here, ∠3 = ∠4, ∠1 = ∠3 and
+∠2 = ∠4. Euclid’s first axiom says, the things
+which are equal to equal thing are equal to one
+aother.
+So, ∠1 = ∠2.
+Sample Question 4 : In Fig. 5.2, we
+have :  AC = XD, C is the mid-point of
+AB and D is the mid-point of  XY. Using
+an Euclid’s axiom, show that AB = XY.
+Solution :
+AB = 2AC (C is the mid-point of AB)
+XY = 2XD (D is the mid-point of XY)
+Also,  AC = XD (Given)
+Fig. 5.1
+Fig. 5.2
+16/04/18
+16/04/18
+
+50
+EXEMPLAR PROBLEMS
+Therefore, AB = XY, because things which are double of the same things are equal to
+one another.
+EXERCISE 5.3
+Solve each of the following question using appropriate Euclid’s axiom :
+1.
+Two salesmen make equal sales during the month of August. In September, each
+salesman doubles his sale of the month of August. Compare their sales in September.
+2.
+It is known that x + y = 10 and that x = z. Show that z + y = 10?
+3.
+Look at the Fig. 5.3. Show that length AH > sum of lengths of AB + BC + CD.
+Fig. 5.3
+4.
+In the Fig.5.4, we have
+AB = BC, BX = BY. Show that AX = CY.
+5.
+In the Fig.5.5, we have
+X and Y are the mid-points of AC and BC and
+AX = CY. Show that AC = BC.
+Fig. 5.4
+6.
+In the Fig.5.6, we have
+BX = 
+1
+2 AB
+BY = 1
+2 BC and AB = BC. Show that
+BX = BY.
+Fig. 5.6
+Fig. 5.5
+16/04/18
+16/04/18
+
+INTRODUCTION TO EUCLID’S GEOMETRY
+51
+7.
+In the Fig.5.7, we have
+∠1 = ∠2,  ∠2 =   ∠3. Show that ∠1 = ∠3.
+8.
+In the Fig. 5.8, we have
+∠1 = ∠3 and ∠2 = ∠4. Show that ∠A = ∠C.
+Fig. 5.7
+Fig. 5.8
+Fig. 5.10
+9.
+In the Fig. 5.9, we have
+∠ABC = ∠ACB, ∠3 = ∠4. Show that ∠1 = ∠2.
+10. In the Fig. 5.10, we have
+AC = DC, CB = CE. Show that AB = DE.
+11. In the Fig. 5.11, if OX = 1
+2 XY, PX = 1
+2 XZ
+and OX = PX, show that XY = XZ.
+Fig. 5.11
+Fig. 5.9
+D
+16/04/18
+16/04/18
+
+52
+EXEMPLAR PROBLEMS
+12. In the Fig.5.12 :
+(i)
+AB = BC, M is the mid-point of AB and
+N is the mid- point of BC. Show that
+AM = NC.
+(ii)
+BM = BN, M is the mid-point of AB and
+N is the mid-point of BC. Show that
+AB = BC.
+(E)  Long Answer Questions
+Sample Question 1 : Read the following statement:
+“A square is a polygon made up of four line segments, out of which, length of  three line
+segments are equal to the length of fourth one and all its angles are right angles”.
+Define the terms used in this definition which you feel necessary. Are there any undefined
+terms in this? Can you justify that all angles and sides of a square are equal?
+Solution : The terms need to be defined are :
+Polygon :
+A simple closed figure made up of three or more line segments.
+Line segment : Part of a line with two end points.
+Line :
+Undefined term
+Point :
+Undefined term
+Angle :
+A figure formed by two rays with a common initial point.
+Ray :
+Part of a line with one end point.
+Right angle :
+Angle whose measure is 90°.
+Undefined terms used are : line, point.
+Euclid’s fourth postulate says that “all right angles are equal to one another.”
+In a square, all angles are right angles, therefore, all angles are equal (From Euclid’s
+fourth postulate).
+Three line segments are equal to fourth line segment (Given).
+Therefore, all the four sides of a square are equal. (by Euclid’s first axiom “things
+which are equal to the same thing are equal to one another.”)
+EXERCISE 5.4
+1.
+Read the following statement :
+An equilateral triangle is a polygon made up of three line segments out of which
+two line segments are equal to the third one and all its angles are 60° each.
+Fig. 5.12
+16/04/18
+16/04/18
+
+INTRODUCTION TO EUCLID’S GEOMETRY
+53
+Define the terms used in this definition which you feel necessary. Are there any
+undefined terms in this? Can you justify that all sides and all angles are equal in a
+equilateral triangle.
+2.
+Study the following statement:
+“Two intersecting lines cannot be perpendicular to the same line”.
+Check whether it is an equivalent version to the Euclid’s fifth postulate.
+[Hint : Identify the two intersecting lines l and m and the line n in the above
+statement.]
+3.
+Read the following statements which are taken as axioms :
+(i)
+If a transversal intersects two parallel lines, then corresponding angles are
+not necessarily equal.
+(ii)
+If a transversal intersect two parallel lines, then alternate interior angles are
+equal.
+Is this system of axioms consistent? Justify your answer.
+4.
+Read the following two statements which are taken as axioms :
+(i)
+If two lines intersect each other, then the vertically opposite angles are not
+equal.
+(ii)
+If a ray stands on a line, then the sum of two adjacent angles so formed is
+equal to 180°.
+Is this system of axioms consistent? Justify your answer.
+5.
+Read the following axioms:
+(i)
+Things which are equal to the same thing are equal to one another.
+(ii)
+If equals are added to equals, the wholes are equal.
+(iii)
+Things which are double of the same thing are equal to one another.
+Check whether the given system of axioms is consistent or inconsistent.
+16/04/18
+16/04/18

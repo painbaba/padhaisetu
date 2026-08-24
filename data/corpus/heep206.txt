@@ -1,0 +1,1605 @@
+
+
+
+
+
+
+
+
+
+
+
+
+• 3D shapes/objects are those which do not  lie completely in a
+plane.
+• 3D objects have different views from different positions.
+• A solid is a polyhedron if it is made up of only polygonal faces, the
+faces meet at edges which are line segments and the edges meet at
+a point called vertex.
+• Euler’s formula for any polyhedron is,
+F + V – E = 2
+Where F stands for number of faces, V for number of vertices and
+E for number of edges.
+• Types of polyhedrons:
+(a) Convex polyhedron
+A convex polyhedron is one in which all faces make it convex.
+e.g.
+(1)
+(2)
+(3)
+(4)
+12/04/18
+
+
+
+(1) and (2) are convex polyhedrons whereas
+(3) and (4) are non convex polyhedron.
+(b) Regular polyhedra or platonic solids:
+A polyhedron is regular if its faces are congruent regular
+polygons and the same number of faces meet at each vertex.
+For example, a cube is a platonic solid because all six of its
+faces are congruent squares. There are five such solids–
+tetrahedron, cube, octahedron, dodecahedron and icosahedron.
+e.g.
+• A prism is a polyhedron whose bottom and top faces (known as
+bases) are congruent polygons and  faces known as lateral faces
+are parallelograms (when the side faces are rectangles, the shape
+is known as right prism).
+• A pyramid is a polyhedron whose base is a polygon and lateral
+faces are triangles.
+• A map depicts the location of a particular object/place in relation
+to other objects/places.
+
+The front, top and side of a figure are shown. Use centimetre cubes to
+build the figure. Then sketch the figure.
+1.
+    2.
+3.
+The views below represent a three-dimensional figure that cannot be
+built from cubes. Determine which three-dimensional figures match
+the views.
+A
+B
+C
+D
+Front
+ Top
+Side
+Front
+Top
+Side
+Front
+Top
+Side
+12/04/18
+
+
+
+
+In examples 1 and 2, write the correct answer from the given four
+options.
+Example 1
+: A prism is a polyhedron whose lateral faces are
+(a) Circles
+(b) Triangles
+(c) Parallelograms
+(d) Rhombuses or Rhombi
+Solution
+: Correct answer is (c).
+Example 2
+: A pyramid is a polyhedron whose lateral faces are
+(a) Rectangles
+(b) Triangles
+(c) Parallelograms
+(d) Rhombuses or Rhombi
+Solution
+: Correct answer is (b).
+In examples 3 and 4, fill in the blanks to make the statements true
+Example 3
+: In a regular polyhedron ______ number
+of faces meet at each vertex.
+Solution
+: same.
+Example 4
+: A pentagonal prism has ______ edges.
+Solution
+: 15.
+In examples 5 and 6, state whether the statements are
+true or false.
+Example 5
+: A sphere is a polyhedron.
+Solution
+: False.
+• Scale is the relationship between the drawing’s/model’s
+dimensions to the actual object’s dimensions.
+• In a map, symbols are used to depict the different objects and places.
+• Maps involve a scale which is fixed for a particular map.
+
+
+Explain how you would find the surface area of an open-top box that is
+shaped like a rectangular prism.
+
+Describe the shapes in a net used to cover a cylinder.
+12/04/18
+
+
+
+Example 6
+: In a prism the lateral faces need not be congruent
+Solution
+: True.
+Example 7
+: Draw the top, front and side views of the given solid.
+Solution
+:
+Front view
+Top view
+Side view
+
+Use a compass and straight edge to create a larger version of each net
+on a cardboard. Fold each net into a polyhedron.
+REGULAR POLYHEDRONS
+     NAME
+FACES
+EXAMPLE
+NET
+Tetrahedron
+4 triangles
+Octahedron
+8 triangles
+Icosahedron
+20 triangles
+Cube
+6 squares
+Dodecahedron
+12 pentagons
+12/04/18
+
+
+
+Example 8
+: Use isometric dot paper to sketch a rectangular prism
+with length 4 units, height 2 units and width 3 units.
+Solution
+: Steps:
+(1) Draw a parallelogram
+with sides 4 units and
+3 units.
+This is top of the prism
+(Fig 1).
+(2) Start at one vertex.
+Draw a line passing
+through two dots.
+Repeat for other three
+vertices. Draw the
+hidden  edges as
+dashed line (Fig 2).
+(3) Connect the ends of
+the lines to complete
+the prism (Fig 3).
+
+1. Complete the table for
+the number of vertices
+V, edges E and faces F
+for 
+each 
+of 
+the
+polyhedrons you made.
+2. Make a Conjecture
+What do you think is
+true 
+about 
+the
+relationship between
+the number of vertices,
+edges and faces of a
+polyhedron?
+POLYHEDRON
+V
+E
+F
+V - E + F
+Tetrahedron
+Octahedron
+Icosahedron
+Cube
+Dodecahedron
+Width
+Length
+   Fig.1
+Height
+Fig. 2
+ Fig. 3
+12/04/18
+
+
+
+Example 9
+: Identify the shape whose net is given below.
+Solution
+: This shape is entirely made of equilateral triangles. When
+folded, it results in a regular octahedron. Note that since
+these are all equilateral and congruent faces, it is a
+regular polyhedron.
+Example 10 : The solid given below is a rectangular prism or cuboid.
+Make all the diagonals of this shape.
+Solution
+: There are only four diagonals as shown below.
+                     
+
+A polyhedron is formed by four or more polygons that intersect only at their
+edges. The faces of a regular polyhedron are all congruent regular polygons
+and the same number of faces intersect at each vertex, Regular polyhedrons
+are also called Platonic solid. There are exactly five regular polyhedrons.
+12/04/18
+
+
+
+Example 11: Count the number of cubes in the given shapes.
+Solution
+: (i) 8 cubes
+(ii)  6 cubes
+Example 12 : Name the following polyhedrons and verify the Euler’s
+formula for each of them.
+(a)
+(b)
+(c)
+Solution
+:
+S. No Polyhedron
+F
+V
+F + V
+E
+F + V –E
+(a)
+Tetrahedron
+4
+4
+8
+6
+2
+(b)
+Cube
+6
+8
+14
+12
+2
+(c)
+Pentagonal
+7
+10
+17
+15
+2
+prism
+Volume, the space inside a three-dimensional object, is measured in cubic
+unit. If the blocks you build are each 1 cubic unit, then the volume of a
+block structure is equal to the number of blocks in the structure. For example,
+a structure made from eight blocks has a volume of 8 cubic units. If the
+blocks have an edge length of 1 cm, the structure’s volume is 8 cm3.
+Note that in a 3D shape, diagonals connect two vertices
+that do not lie on the same face.
+E.g. the line segment from A to H in figure below is not
+a diagonal for the solid. Diagonals must pass through
+the inside of the shape. However, AH is diagonal of face
+ADHE.
+12/04/18
+
+
+
+
+Example 13 : A polyhedron has 7 faces and 10 vertices. How many
+edges does the polyhedron have?
+Solution
+: For any polyhedron,
+F + V – E = 2
+Here, F = 7, V = 10, E = ?
+Using above formula,
+⇒7 + 10 – E = 2
+⇒17 – E = 2
+⇒17 – 2 = E
+⇒ Ε = 15
+Example 14 : Find the number of vertices in a polyhedron which has
+30 edges and 12 faces.
+Solution
+: For any polyhedron,
+F + V – E = 2
+Here, F = 12, V = ?, E = 30
+Using above formula,
+12 + V – 30 = 2
+V – 18 = 2
+V = 2 + 18
+V = 20
+Example 15 : The distance between City A and City B on a map is
+given as 6 cm. If the scale represents 1 cm = 200 km,
+then find the actual distance between City A and City B.
+Solution
+: Actual distance represented by 1cm  = 200 km
+What is the surface area of a single block in square units?
+If the edge lengths of a block are 2 cm, what is the block’s surface area?
+What is the volume of the structure at the right in cubic units?
+What is the surface area of the structure above in square units?
+(Remember: Count only the squares on the outside of the structure.)
+12/04/18
+
+
+
+Actual distance represented by 6 cm = 6 × 200 km
+= 1200 km
+So, actual distance between City A and City B is
+1200 km.
+Example 16 : Height of a building is 9 m and this building is represented
+by 9 cm on a map. What is the scale used for the map?
+Solution
+: Scale of map   = 
+Size drawn
+Actual size
+9cm
+900cm
+
+ (because 9 m = 900 cm)
+1
+100
+
+Thus, scale is 1:100.
+Example 17 : The scale on a map is 1 mm : 4 m. Find the distance on
+the map for an actual distance of 52 m.
+Solution
+: Distance on map for an actual distance of 4 m  = 1 mm
+Distance on map for actual distance of 52 m
+1
+52
+4
+
+
+= 13 mm
+Thus, distance on map for actual distance of 52 m is
+13 mm.
+All prisms have two identical, parallel faces. These two faces are always
+polygons. A prism’s other faces are always parallelograms.
+A prism is sometimes referred to by the shape of the two identical faces on
+its ends. For example, a triangular prism has triangular faces on its ends,
+and a rectangular prism has rectangular faces on its ends.
+Triangular Prism
+Rectangular Prism
+Example 18 : Application of problem
+solving strategy
+Determine the number of
+edges, vertices and in the
+following figure:
+12/04/18
+
+
+
+Solution
+: Understand and Explore the problem
+• What information is given in the question?
+A cube with one of its corner cut.
+• What are you trying to find?
+The no. of edges, vertices and faces.
+• Is there any information that is not needed?
+The measures of edges are not needed.
+Plan a strategy
+• Think of the definitions of an edge, vertex and faces
+and try to co-relate them to the figure given above.
+Solve
+• The polygonal regions are called faces, hence there are
+7 faces.
+• The line segment formed by the intersection of two faces
+is called edges, hence there are 15 edges.
+• Edges meet at vertices which are points, hence there
+are 10 vertices.
+Revise
+• The above answer is verified using Euler’s Formula.
+F + V = E + 2
+For the above problem, F = 7, V = 10, E = 15
+F + V = 7 + 10 = 17
+E + 2 = 15 + 2 = 17
+Hence F + V = E + 2 is verified.
+These figures are prisms.
+These figures are not prisms.
+12/04/18
+
+
+
+
+
+In each of the questions 1 to 21, out of four options only one is correct.
+Write the correct answer.
+1. Which amongst the following is not a polyhedron?
+ 
+  (a)
+(b)
+   (c)
+    (d)
+2. Which of the following will not form a polyhedron?
+(a)
+3 triangles
+(b)  2 triangles and 3 parallelogram
+(c)
+8 triangles
+(d)  1 pentagon and 5 triangles
+3. Which of the following is a regular polyhedron?
+(a)
+Cuboid
+(b)
+Triangular prism
+(c)
+Cube
+(d)
+Square prism
+4. Which of the following is a two Dimensional figure?
+(a)
+Rectangle
+(b)
+Rectangular Prism
+(c)
+Square Pyramid
+(d)
+Square Prism
+5. Which of the following can be the base of a pyramid?
+(a)
+Line segment
+ (b) Circle
+(c) Octagon
+(d)
+Oval
+6. Which of the following 3D shapes does not have a vertex?
+(a)
+Pyramid
+(b)
+Prism
+(c) Cone
+(d)
+Sphere
+7. Solid having only line segments as its edges is a
+(a)
+Polyhedron
+(b)  Cone
+(c)  Cylinder
+(d)  Polygon
+
+What do all the prisms have in common?
+How are the non-prisms different from the prisms?
+12/04/18
+
+
+
+8. In a solid if F = V = 5, then the number of edges in this shape is
+(a)
+6
+(b)
+4
+(c)
+8
+(d) 2
+9. Which of the following is the top view of the given shape?
+(a)
+(b)
+      (c)
+(d)
+10.
+The net shown below can be folded into the shape of a cube. The
+face marked with the letter L is opposite to the face marked with
+which letter?
+(a)
+M
+(b)
+N
+(c)
+Q
+(d) O
+A net is a flat figure that can be folded to form a closed, three-dimensional
+object. Such an object is called a solid.
+12/04/18
+
+
+
+11.
+Which of the nets given below will generate a cone?
+(a)
+(b)
+    (c)
+(d)
+12.
+Which of the following is not a prism?
+(a)
+(b)
+    (c)
+(d)
+13.
+We have 4 congruent equilateral triangles. What do we need more to
+make a pyramid?
+(a)
+An equilateral triangle.
+(b) A square with same side length as of triangle.
+(c)
+2 equilateral triangles with side length same as triangle.
+(d) 2 squares with side length same as triangle.
+
+1. Explain how to find the surface area of a solid
+from the net for that solid.
+2. Here is a net for a rectangular solid. Take
+whatever measurements you think are
+necessary to find the solid’s volume and
+surface area. Explain what measurements you
+took and what you did with them.
+The surface area of a three-dimensional object is the space covering the
+object’s surface. If you could pick up the object and flatten it so you could
+see all sides at once, the area of the flat figure would be the surface area.
+(Don’t forget to count the bottom surface!) Surface area is also measured
+in square units.
+12/04/18
+
+
+
+14.
+Side of a square garden is 30 m. If the scale used to draw its picture
+is 1cm: 5m, the perimeter of the square in the picture is
+(a)
+20 cm
+(b)
+24 cm
+(c)
+28 cm
+(d) 30 cm
+15.
+Which of the following shapes has a vertex.
+(a)
+(b)
+    (c)
+(d)
+16.
+In the given map, the distance between the places is shown using
+the scale 1 cm : 0.5 km. Then the actual distance (in km) between
+school and the book shop is
+Police
+Station
+Post
+Office
+Book
+shop
+General
+store
+School
+4 cm
+2 cm
+2.2 cm
+5 cm
+2 cm
+(a)
+1.25
+(b)
+2.5
+(c)
+2
+(d) 1.1
+
+To become familiar with some of the vocabulary terms in the chapter,
+consider the following.
+1. What does the term area total tell you about the meaning of surface
+area?
+2. The word edge comes from the Latin word acer, meaning sharp. How
+does the Latin root help you define an edge of a three-dimensional
+figure?
+3. The word vertex can mean peak or highest point. What part of a cone
+or pyramid is the vertex?
+4. The word prism comes from the Greek word priein, meaning to saw.
+How might you describe a prism in terms of something sawn or cut
+off?
+12/04/18
+
+
+
+17.
+Which of the following cannot be true for a polyhedron?
+(a)
+V = 4, F = 4, E = 6
+(b)
+V = 6, F = 8, E = 12
+(c)
+V = 20, F = 12, E = 30
+(d)
+V = 4, F = 6, E = 6
+18.
+In a blueprint of a room, an architect has shown the height of the
+room as 33 cm. If the actual height of the room is 330 cm, then the
+scale used by her is
+(a)
+1:11
+(b)
+1:10
+(c)
+1:100
+(d) 1:3
+19.
+The following is the map of a town. Based on it answer question 19-21.
+The number of hospitals in the town is
+(a)
+1
+(b)
+2
+(c)
+3
+(d) 4
+There are two rectangular bases.
+There are four rectangular faces.
+The figure is a rectangular prism.
+There is one rectangular base.
+There are four triangular faces.
+The figure is a rectangular pyramid.
+There are two triangular bases.
+There are three rectangular faces.
+The figure is a triangular prism.
+There is one hexagonal base.
+There are six triangular faces.
+The figure is a hexagonal pyramid.
+12/04/18
+
+
+
+20.
+The ratio of the number of general stores and that of the ground is
+(a)
+1 : 2
+(b)
+2 : 1
+(c)
+2 : 3
+(d) 3 : 2
+21.
+According to the map, the number of schools in the town is
+(a)
+4
+(b)
+3
+(c)
+5
+(d) 2
+In questions 22 to 41,  fill in the blanks to make the statements true.
+22.
+Square prism is also called a _______.
+23.
+Rectangular prism is also called a  ________.
+24.
+In the figure, 
+ the number of faces meeting at B is ________.
+25.
+A pyramid on an n sided polygon has  ______ faces.
+26.
+If a solid shape has 12 faces and 20 vertices, then the number of
+edges in this solid is ______.
+27.
+The given net  
+ can be folded to make a ______.
+28.
+A solid figure with only 1 vertex is a ______.
+29.
+Total number of faces in a pyramid which has eight edges is______.
+30.
+The net of a rectangular prism has ______ rectangles.
+(Hint: Every square is a rectangle but every rectangle is not a square.)
+Three-dimensional figures have three dimensions: length, width and
+height. A flat surface of a three-dimensional figure is a face. An edge is
+where two faces meet.
+A polyhedron is a three-dimensional figure whose faces are all polygons.
+A vertex of a polyhedron is a point where three or more edges meet. The
+face that is used to name a polyhedron is called a base.
+12/04/18
+
+
+
+31.
+In a three-dimensional shape, diagonal is a line segment that joins
+two vertices that do not lie on the ______ face.
+32.
+If 4 km on a map is represented by 1 cm, then 16 km is represented
+by ______ cm.
+33.
+If actual distance between two places A and B is 110 km and it is
+represented on a map by 25 mm. Then the scale used is ______.
+34.
+A pentagonal prism has ______ faces.
+35.
+If a pyramid has a hexagonal base, then the number of vertices is
+______.
+36.
+ is the _______ view of 
+37.
+The number of cubes in 
+ are ______.
+38.
+If the sum of number of vertices and faces in a polyhedron is 14,
+then the number of edges in that shape is ______.
+39.
+Total number of regular polyhedra is ______.
+A prism has two bases, and a pyramid has one base.
+Prisms
+Pyramids
+A Prism is a polyhedron that has
+two parallel, congruent bases. The
+bases can be any polygon. The
+other faces are parallelograms.
+A pyramid is a polyhedron that
+has one base. The base can be
+any polygon. The other faces are
+triangles.
+12/04/18
+
+
+
+40.
+A regular polyhedron is a solid made up of ______ faces.
+41.
+For each of the following solids, identify the front, side and top views
+and write it in the space provided.
+(a)
+(b)
+The faces are all polygons, so the figure
+is a polyhedron.
+There is one triangular base.
+The figure is a triangular pyramid.
+The faces are not all polygons, so the figure
+is not a polyhedron.
+There are two circular bases.
+The figure is a cylinder.
+The faces are not all polygons, so the figure
+is not a polyhedron.
+There is one circular base.
+The figure is a cone.
+12/04/18
+
+
+
+
+1. Explain how to identify a prism or a pyramid.
+2. Compare and contrast cylinders and prisms. How are they alike? How
+are they different?
+3. Compare and contrast pyramids and cones. How are they alike? How
+are they different?
+(c)
+(d)
+In each of the questions 42 to 61, state whether the following
+statements  are true (T) or false (F).
+42.
+The other name of cuboid is tetrahedron.
+43.
+A polyhedron can have 3 faces.
+44.
+A polyhedron with least number of faces is known as a triangular
+pyramid.
+45.
+Regular octahedron has 8 congruent faces which are isosceles
+triangles.
+12/04/18
+
+
+
+46.
+Pentagonal prism has 5 pentagons.
+47.
+Every cylinder has 2 opposite faces as congruent circles, so it is also
+a prism.
+48.
+Euler’s formula is true for all three-dimensional shapes.
+49.
+A polyhedron can have 10 faces, 20 edges and 15 vertices.
+50.
+The top view of
+ 
+51.
+The number of edges in a parallelogram is 4.
+52.
+Every solid shape has a unique net.
+53.
+Pyramids do not have a diagonal.
+54.
+The given shape is a cylinder.
+55.
+A cuboid has atleast 4 diagonals.
+56.
+All cubes are prisms.
+Cylinders and cones are not polyhedrons because they are not made of
+faces that are all polygons.
+Cylinders
+Cones
+A cylinder has two parallel,
+congruent bases that are circles.
+A cone has one base that is a circle
+and a surface that comes to a point
+called the vertex.
+is
+12/04/18
+
+
+
+57.
+A cylinder is a 3-D shape having two circular faces of different radii.
+58.
+On the basis of the given figure, the length of a rectangle in the net
+of a cylinder is same as circumference of circles in its net.
+59.
+If a length of 100 m is represented on a map by 1 cm, then the
+actual distance corresponding to 2 cm is 200 m.
+60.
+The model of a ship shown is of height 3.5 cm. The actual height of
+the ship is 210 cm if the scale chosen is 1: 60.
+61.
+The actual width of a store room is 280 cm. If the scale chosen to
+make its drawing is 1:7, then the width of the room in the drawing
+will be 40 cm.
+
+2.
+1.
+3.
+Find the volume of each prism.
+12/04/18
+
+
+
+62.
+Complete the table given below:
+S.
+ Solid
+Shape of
+Number
+Number
+Number
+F + V
+E + 2
+No
+Solid
+of faces F
+of Vertices V
+of edges E
+ a.
+Cuboid
+ b.
+Triangular
+Pyramid
+ c.
+Square
+Pyramid
+ d.
+Rectangular
+Pyramid
+ e.
+Pentagonal
+Pyramid
+  f.
+Hexagonal
+Pyramid
+ g.
+Triangular
+Prism
+ h.
+Square
+Prism
+  i.
+Cube
+   j.
+Pentagonal
+Prism
+ k.
+Octagonal
+Prism
+   l.
+Heptagonal
+Prism
+63.
+How many faces does each of the following solids, have?
+(a)
+Tetrahedron
+(b)
+Hexahedron
+(c)
+Octagonal Pyramid
+(d)
+Octahedron
+12/04/18
+
+
+
+64.
+Draw a prism with its base as regular hexagon with one of its face
+facing you. Now draw the top view, front view and side view of this
+solid.
+65.
+How many vertices does each of the following solids have?
+(a)
+Cone
+(b)
+Cylinder
+(c)
+Sphere
+(d)
+Octagonal Pyramid
+(e)
+Tetrahedron
+(f)
+Hexagonal Prism
+66.
+How many edges does each of following solids have?
+(a)
+Cone
+(b)
+Cylinder
+(c)
+Sphere
+(d)
+Octagonal Pyramid
+(e)
+Hexagonal Prism
+(f)
+Kaleidoscope
+
+The volume of a three-dimensional figure is the number of cubes it can
+hold. One cube represents one cubic unit of volume.
+
+1.
+Use centimetre cubes to build the rectangular prism
+shown. What are the length, width and height of the
+prism? How many cubes does the prism hold?
+2.
+You can find out how many cubes the prism holds
+without counting every cube. First look at the prism
+from above. How can you find the number of cubes in
+the top layer without counting every cube?
+3.
+Now look at the prism from the side. How many layers
+does the prism have? How can you use this to find the
+total number of cubes in the prism?
+Top
+Side
+
+1.
+Describe a shortcut for finding the number of cubes in a rectangular
+prism.
+2.
+Suppose you know the area of the base of a prism and the height of the
+prism. How can you find the prism’s volume?
+3.
+Let the area of the base of a prism be B and the height of the prism be
+h. Write a formula for the prism’s volume V.
+12/04/18
+
+
+
+67.
+Look at the shapes given below and state which of these are polyhedra
+using Euler’s formula.
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+(k)
+(l)
+(m)
+
+Find the volume of each cylinder.
+Use 3.14 for π and round to the nearest tenth.
+2.
+1.
+3.
+12/04/18
+
+
+
+
+1. Use a similar process to that in earlier Activity to develop
+the formula for the volume of a cylinder. You will need an
+empty can or other cylindrical pot. Remove one of the bases.
+2. Arrange centimetre cubes in a single layer at the bottom of
+the cylinder. Fit as many cubes into the layer as possible.
+How many cubes are in this layer?
+3. To find how many layers of cubes would fit in the cylinder,
+make a stack of cubes along the inside of the cylinder.
+How many layers would fit in the cylinder?
+4. How can you use what you know to find the approximate
+number of cubes that would fit in the cylinder?
+68.
+Count the number of cubes in the given shapes.
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+(k)
+(l)
+(a)
+(b)
+(c)
+(d)
+12/04/18
+
+
+
+69.
+Draw the front, side and top view of the given shapes.
+        
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+
+1. Use a net to construct a rectangular prism that is 3 cm by 6 cm by 9 cm.
+2. Use a net to construct a cylinder with a height of 3 cm and a radius of
+1.5 cm (Hint: The length of the rectangle in the net must match the
+circumference of the circles, so the length should be 2π r = 2π (1.5) ≈
+9.42 cm.)
+
+1. Suppose you know the area of the base of a cylinder and the height of
+the cylinder. How can you find the cylinder’s volume?
+2. Let the area of the base of a cylinder be B and the height of the cylinder
+be h. Write a formula for the cylinder’s volume V.
+3. The base of a cylinder is a circle with radius r. How can you find the
+area of the base? How can you use this in your formula for the volume
+of a cylinder?
+12/04/18
+
+
+
+
+1. What are the dimensions, in inches, of the rectangular prism that you
+built?
+2. What is the height, in cm, of the cylinder that you built? What is the
+cylinder’s radius?
+70.
+Using Euler’s formula, find the value of unknown x, y, z, p, q, r, in
+the following table.
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+Faces
+7
+y
+9
+p
+6
+8
+Vertices
+10
+12
+z
+6
+q
+11
+Edges
+x
+18
+16
+12
+12
+r
+
+A net is a pattern of two-dimensions that can be folded to make a three-
+dimensional figure. You can use 1 cm graph paper to help you make nets.
+
+1. Use 
+a net to construct a
+rectangular prism.
+a. Draw the net at right on a piece
+of graph paper. Each rectangle is
+10 squares by 4 squares. The two
+squares are 4 small squares on
+each side.
+b. Cut out the net. Fold the net along the edges
+of each rectangle to make a rectangular prism.
+Tape the edges to hold them in place.
+2. Use a net to construct a cylinder.
+a. Draw the net at right on a piece of graph
+paper. The rectangle is 25 squares by 8
+squares. Use a compass to make the circles.
+Each circle has a radius of 4 squares.
+b. Cut out the net. Fold the net as shown to
+make a cylinder. Tape the edges to hold them
+in place.
+12/04/18
+
+
+
+71.
+Can a polyhedron have V = F = 9 and  E = 16 ? If yes, draw its figure.
+72.
+Check whether a polyhedron can have V = 12, E = 6 and F = 8.
+73.
+A polyhedron has 60 edges and 40 vertices. Find the number of its
+faces.
+74.
+Find the number of faces in the given shapes:
+75.
+A polyhedron has 20 faces and 12 vertices. Find the edges of the
+polyhedron.
+76.
+A solid has forty faces and, sixty edges. Find the number of vertices
+of the solid.
+77.
+Draw the net of a regular hexahedron with side 3 cm. (Hint: Regular
+hexahedron - cube)
+78.
+Draw the net of a regular tetrahedron with side 6 cm.
+79.
+Draw the net of the following cuboid:
+
+1. Tell whether a figure’s surface area has increased or decreased if each
+dimension of the figure is changed by a factor of 1
+3 .
+2. Explain how the surface area of a figure is changed if each dimension
+is multiplied by a factor of 3.
+3. Explain how the volume of a figure is changed if each dimension is
+multiplied by a factor of 2.
+12/04/18
+
+
+
+80.
+Match the following:
+Figure
+Name
+(a)
+(a)
+Hexahedron
+(b)
+(b)
+Hexagonal Prism
+(c)
+(c)
+Square Pyramid
+(d)
+(d)
+Cone
+81.
+Complete the table given below by putting tick mark across the
+respective property found in the solids mentioned.
+Solids
+Properties
+Cone
+Cylinder
+Prism Pyramid
+1. The figure is a Polyhedron.
+2. The figure has diagonals.
+3. The shape has curved edges
+4. The base of figure is a polygon.
+5. The bases are congruent
+6. The base of figure is a polygon
+ and other faces meet at a
+single point.
+7. The base of figure is a curved
+ edge and other faces meet at
+ a single point.
+82.
+Draw the net of the following shape.
+12/04/18
+
+
+
+83.
+Draw the net of the following solid.
+(Hint: Pentagons are not congruent.)
+84.
+Find the number of cubes in the base layer of the following figure.
+85.
+In the above figure, if only the shaded cubes are visible from the top,
+draw the base layer.
+86.
+How many faces, edges and vertices does a pyramid have with n
+sided polygon as its base?
+87.
+Draw a figure that represents your mathematics textbook. What is
+the name of this figure? Is it a prism?
+88.
+In the given figures, identify the different shapes involved.
+89.
+What figure is formed if only the height of a cube is increased or
+decreased?
+90.
+Use isometric dot paper to draw each figure.
+(a)
+A tetrahedron.
+(b) A rectangular prism with length 4 units, width 2 units and height
+2 units.
+12/04/18
+
+
+
+91.
+Identify the nets given below and mention the name of the
+corresponding solid in the space provided.
+Nets
+Name of Solid
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+12/04/18
+
+
+
+92.
+Draw a map of your school playground. Mark all necessary places
+like  2 library, Playground, Medical Room, Classrooms, Assembly
+area, etc.
+93.
+Refer to the given map to answer the following questions.
+(a) What is the built-up area of Govt. Model School I ?
+(b) Name the schools shown in the picture.
+(c) Which park is nearest to the dispensary?
+(d) To which block does the main market belong?
+(e) How many parks have been represented in the map?
+94.
+Look at the map given below.
+Answer the following questions.
+(a) Which two hospitals are opposite to each other?
+(b) A person residing at Niti Bagh has to go to Chirag Delhi after
+dropping her daughter at Asiad Tower. Mention the important
+landmarks he will pass alongwith the roads taken.
+12/04/18
+
+
+
+(c) Name of which road is similar to the name of some month.
+                  
+B Town, India
+1
+2
+3
+4
+5
+6
+7
+Fire
+Station
+9
+Police
+Station
+8
+20
+m
+a
+r
+k
+e
+t
+Sector 27
+17
+18
+19
+15
+14
+11
+1
+2
+3
+4
+5
+6
+College 7
+8
+9
+10
+12
+13
+Stadium
+16
+Sector 19
+6
+5
+4
+3
+2
+1
+Bank 1 (A)
+Nicolson Road
+Khel Marg
+Mall Road
+Sneha Marg
+Flower Road
+Khel Marg
+Sports
+Complex
+Sector 20
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+16
+15
+14
+School
+13
+Sector 26
+95.
+Look at the map given below.
+ Houses
+            
+B Town, India
+1
+2
+3
+4
+5
+6
+7
+Fire
+Station
+9
+Police
+Station
+8
+20
+m
+a
+r
+k
+e
+t
+Sector 27
+17
+18
+19
+15
+14
+11
+1
+2
+3
+4
+5
+6
+College 7
+8
+9
+10
+12
+13
+Stadium
+16
+Sector 19
+6
+5
+4
+3
+2
+1
+Bank 1 (A)
+Nicolson Road
+Khel Marg
+Mall Road
+Sneha Marg
+Flower Road
+Khel Marg
+Sports
+Complex
+Sector 20
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+16
+15
+14
+School
+13
+Sector 26
+12/04/18
+
+
+
+Now answer the following questions.
+(a) Name the roads that meet at round about.
+(b) What is the address of the stadium?
+(c) On which road is the Police Station situated?
+(d) If Ritika stays adjacent to bank and you have to send her a card,
+what address will you write?
+(e) Which sector has maximum number of houses?
+(f) In which sector is Fire Station located?
+(g) In the map, how many sectors have been shown?
+96.
+A photographer uses a computer program to enlarge a photograph.
+What is the scale according to which the width has enlarged?
+97.
+The side of a square board is 50 cm. A student has to draw its image
+in her notebook. If the drawing of the square board in the notebook
+has perimeter of 40 cm, then by which scale the figure has been
+drawn?
+98.
+The distance between school and house of a girl is given by 5 cm in
+a picture, using the scale 1 cm : 5 km. Find the actual distance
+between the two places?
+12/04/18
+
+
+
+99.
+Use a ruler to measure the distance in cm between the places joined
+by dotted lines. If the map has been drawn using the scale 1 cm :10
+km, find the actual distances between
+(1) School and Library
+(2) College and Complex
+(3) House and School
+100. The actual length of a painting was 2 m. What is its length in the
+photograph if the scale used is 1 mm : 20 cm.
+101. Find the scale.
+(a)
+Actual size 12 m
+Drawing size 3 cm
+(b) Actual size 45 feet
+Drawing size 5 inches
+102. In a town, an ice cream parlour has displayed an ice cream sculpture
+of height 360 cm. The parlour claims that these ice creams and the
+sculpture are in the scale 1:30. What is the height of the ice creams
+served?
+12/04/18
+
+
+
+
+Activity 1
+: Find the most appropriate way to reach from start to
+finish.
+(Use a coloured pen of your choice to show the path
+traced.)
+Start
+Finish
+                  
+Start
+Finish
+12/04/18
+
+
+
+Activity 2
+: Rohit is a 7 year old young boy. His uncle Raj asked him
+to draw a map to reach Sport’s Complex from his (Rohit’s)
+house. He drew the following map.
+      
+Can you help Uncle Raj by drawing a better map
+considering yourself as Rohit’s Father/Mother.
+Activity 3
+: Look at the map of city given on the next page:
+(a) Colour the map using the given colour code as follows.
+Blue-water, Red-Fire station, White-Hospital, Green-
+Parks, Cream-River Bed, Brown-Mountains.
+(b) Mark the shortest route from House to Pool with the
+help of arrowes.
+(c) Put X at the intersection of Chatra Marg and House
+Lane.
+    
+School
+Fire Station
+Pool
+Home
+Library
+Park
+Hospital
+Chatra Marg
+Health Lane
+Lake Street
+River Lane
+House Lane
+River
+Sand
+Main Street
+12/04/18
+
+
+
+Activity 4
+: Draw the nets given below on coloured sheets by taking
+each side of the triangle as 3cm, and try to form the
+shapes shown in front of it. Count the number of edges,
+faces and vertices in ends and verify the Euler’s formula.
+(a)
+4 equilateral triangles
+(b)
+(c)
+(d)
+2 squares and 8 triangles
+12/04/18
+
+
+
+(e)
+2 pentagons and 10 triangles
+(f)
+6 squares and 8 triangles
+(g)
+Activity 5
+: Guess who am I? My name is given in the box below.
+Oops! Spelling of my name is jumbled up.
+Try to identify it from the clues given below and write it
+in the blank space.
+   (1)  I am a polyhedron with least number of faces. ________
+  (2)  I am a prism whose all faces are square. ________
+  (3)  Looks like marbles but have no vertex. ________
+  (4)  I am a solid whose base is polygonal and other faces
+are triangles. ________
+12/04/18
+
+
+
+6. Draw the map of your locality, showing the details of your sector/
+block. Also highlight the appropriate landmarks which will help
+your friend to locate your house in your sector/block.
+Activity 7 : Crossword Puzzle
+Answer the following based on the hints given below.
+Across
+1.
+Polyhedron whose lateral faces are parallelograms.
+2.
+Prism having fifteen edges.
+5.
+Another name for a square prism.
+7.
+Polyhedron made up of four triangles.
+9.
+Polyhedron made up of convex polygons.
+Down
+2.
+Polyhedron whose lateral faces are triangles.
+3.
+In a solid shape, the line segment joining two vertices not lying
+on the same face.
+4.
+A 3-D shape having no vertex.
+6.
+A solid figure having only one vertex.
+7.
+Number of pentagons in a pentagonal prism.
+10. Point where edges of a solid shape meet.
+12/04/18
+
+VISUALISING SOLID SHAPES  211
+UNIT-6
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+10.
+12/04/18
+
+212    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18

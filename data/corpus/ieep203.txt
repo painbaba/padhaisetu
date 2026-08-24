@@ -1,0 +1,524 @@
+(A) Main Concepts and Results
+Cartesian system
+Coordinate axes
+Origin
+Quadrants
+Abscissa
+Ordinate
+Coordinates of a point
+Ordered pair
+Plotting of points in the cartesian plane:
+•
+In the Cartesian plane, the horizontal line is called the x-axis and the vertical line
+is called the y-axis,
+•
+The coordinate axes divide the plane into four parts called quadrants,
+•
+The point of intersection of the axes is called the origin,
+•
+Abscissa or the x-coordinate of a point is its distance from the y-axis and the
+ordinate or the y-coordinate is its distance from the x-axis,
+•
+(x, y) are called the coordinates of the point whose abscissa is x and the ordinate
+is y,
+•
+Coordinates of a point on the x-axis are of the form (x, 0) and that of the point
+on the y-axis  is of the form (0, y),
+COORDINATE  GEOMETRY
+CHAPTER 3
+16/04/18
+16/04/18
+
+•
+The coordinates of the origin are (0, 0),
+•
+Signs of the coordinates of a point in the first quadrant are (+, +), in the second
+quadrant (–, +), in the third quadrant (–, –) and in the fourth quadrant (+, –).
+(B) Multiple Choice Questions
+Write the correct answer :
+Sample Question 1: The points (other than origin) for which abscissa is equal to the
+ordinate will lie in
+(A)
+I quadrant only
+(B)
+I and II quadrants
+(C)
+I and III quadrants
+(D)
+II and IV quadrants
+Solution : Answer (C)
+EXERCISE 3.1
+Write the correct answer in each of the following :
+1.
+Point (–3, 5) lies in the
+(A)
+first quadrant
+(B)
+second quadrant
+(C)
+third quadrant
+(D)
+fourth quadrant
+2.
+Signs of the abscissa and ordinate of a point in the second quadrant are respectively
+(A)
++, +
+(B)
+–, –
+(C)
+–, +
+(D)
++, –
+3.
+Point (0, –7) lies
+(A)
+on the x –axis
+(B) in the second quadrant
+(C)
+on the y-axis
+(D) in the fourth quadrant
+4.
+Point (– 10, 0) lies
+(A)
+on the negative direction of the x-axis
+(B)
+on the negative direction of the y-axis
+(C)
+in the third quadrant
+(D)
+in the fourth quadrant
+5.
+Abscissa of all the points on the x-axis is
+(A)
+0
+(B)
+1
+(C)
+2
+(D)
+any number
+6.
+Ordinate of all points on the x-axis is
+(A)
+0
+(B)
+1
+(C)
+– 1
+(D)
+any number
+COORDINATE GEOMETRY
+25
+16/04/18
+16/04/18
+
+26
+EXEMPLAR PROBLEMS
+7.
+The point at which the two coordinate axes meet is called the
+(A)
+abscissa
+(B)
+ordinate
+(C)
+origin
+(D)
+quadrant
+8.
+A point both of whose coordinates are negative will lie in
+(A)
+I quadrant
+(B)
+II quadrant
+(C)
+III quadrant
+(D)
+IV quadrant
+9.
+Points (1, – 1), (2, – 2), (4, – 5), (– 3, – 4)
+(A)
+lie in II quadrant
+(B)
+lie in III quadrant
+(C)
+lie in IV quadrant
+(D)
+do not lie in the same quadrant
+10. If y coordinate of a point is zero, then this point always lies
+(A)
+in I quadrant
+(B)
+in II quadrant
+(C)
+on x - axis
+(D)
+on y - axis
+11. The points (–5, 2) and (2, – 5) lie in the
+(A)
+same quadrant
+(B)
+II and III quadrants, respectively
+(C)
+II and IV quadrants, respectively (D)
+IV and II quadrants, respectively
+12. If the perpendicular distance of a point P from the x-axis is 5 units and the foot of
+the perpendicular lies on the negative direction of x-axis, then the point P has
+(A)
+x coordinate  = – 5
+(B)
+y coordinate = 5 only
+(C)
+y coordinate = – 5 only
+(D)
+y coordinate = 5 or –5
+13. On plotting the points O (0, 0), A (3, 0), B (3, 4), C (0, 4) and joining OA, AB, BC
+and CO which of the following figure is obtained?
+(A)
+Square
+(B)
+Rectangle
+(C)
+Trapezium
+(D)
+Rhombus
+14. If P (– 1, 1), Q (3, – 4), R(1, –1), S(–2, –3) and T (– 4, 4) are plotted on the graph
+paper, then the point(s) in the fourth quadrant are
+(A)    P and T
+(B)
+Q and R
+(C)
+Only S
+(D)
+P and R
+15. If the coordinates of the two points are P (–2, 3) and Q(–3, 5), then (abscissa of  P)
+– (abscissa of Q) is
+(A)   – 5
+(B)
+1
+(C)   – 1
+(D)
+– 2
+16. If P (5, 1), Q (8, 0), R (0, 4), S (0, 5) and O (0, 0) are plotted on the graph paper,
+then the point(s) on the x-axis are
+(A)    P and R
+(B)
+R and S
+(C)
+Only Q
+(D)
+Q and O
+17. Abscissa of a point is positive in
+(A)
+I and II quadrants
+(B)
+I and IV quadrants
+(C)
+I quadrant only
+(D)
+II quadrant  only
+16/04/18
+16/04/18
+
+COORDINATE GEOMETRY
+27
+Fig. 3.1
+18. The points whose abscissa and ordinate
+have different signs will lie in
+(A)
+I and II quadrants
+(B)
+II and III quadrants
+(C)
+I and III quadrants
+(D)
+II and IV quadrants
+19. In Fig. 3.1, coordinates of P are
+(A)
+(– 4, 2)
+(B)
+(–2, 4)
+(C)
+(4, – 2)
+(D)
+(2, – 4)
+20. In Fig. 3.2, the point identified by the
+coordinates (–5, 3) is
+(A)
+T
+(B)
+R
+(C)
+L
+(D)
+S
+21. The point whose ordinate is 4 and
+which lies on y-axis is
+(A)
+(4, 0)
+(B)
+(0, 4)
+(C)
+(1, 4)
+(D)
+(4, 2)
+22. Which of the points P(0, 3),
+Q(1, 0), R(0, – 1), S(–5, 0),
+T(1, 2) do not lie on the x-axis?
+(A)
+P and R only
+(B)
+Q and S only
+(C)
+P, R and T
+(D)
+Q, S and T
+23. The point which lies on y-axis at
+a distance of 5 units in the
+negative direction of y-axis is
+(A)    (0, 5)
+(B)
+(5, 0)
+(C)
+(0, – 5)
+(D)
+(– 5, 0)
+24. The perpendicular distance of the point P (3, 4) from the y-axis is
+(A)
+3
+(B)
+4
+(C)
+5
+(D)
+7
+Fig. 3.2
+16/04/18
+16/04/18
+
+28
+EXEMPLAR PROBLEMS
+(C) Short Answer Questions with Reasoning
+Sample Question 1 :  Write whether the following statements are True or False?
+Justify your answer.
+(i)
+Point (0, –2) lies on y-axis.
+(ii)
+The perpendicular distance of the point (4, 3) from the x-axis is 4.
+Solution :
+(i)
+True, because a point on the y-axis is of the form (0, y).
+(ii)
+False, because the perpendicular distance of a point from the x-axis is its
+ordinate. Hence it is 3, not 4.
+EXERCISE 3.2
+1.
+Write whether the following statements are True or False? Justify your answer.
+(i)
+Point (3, 0) lies in the first quadrant.
+(ii)
+Points (1, –1) and (–1, 1) lie in the same quadrant.
+(iii)
+The coordinates of a point whose ordinate is 
+1
+2
+−
+ and abscissa is 1 are
+1 ,1
+2
+ 
+ 
+−
+ 
+ 
+ 
+ .
+(iv)
+A point lies on y-axis at a distance of 2 units from the x-axis. Its coordinates
+are (2, 0).
+(v)
+(–1, 7) is a point in the II quadrant.
+(D) Short Answer Questions
+Sample Question 1 : Plot the point P (– 6, 2) and from it draw PM and PN as
+perpendiculars to x-axis and y-axis, respectively. Write the coordinates of the points
+M and N.
+Solution :
+Fig. 3.3
+16/04/18
+16/04/18
+
+COORDINATE GEOMETRY
+29
+From the graph, we see that M(– 6, 0)
+and N(0, 2).
+Sample Question 2 : From the Fig. 3.4,
+write the following:
+(i)
+Coordinates of B, C and E
+(ii)
+The point identified by the
+coordinates (0, – 2)
+(iii)
+The abscissa of the point H
+(iv)
+The ordinate of the point D
+Solution :
+(i)
+B = (–5, 2), C(–2, –3),
+E = (3, –1)
+(ii)
+F
+(iii)
+1
+(iv)
+0
+EXERCISE 3.3
+1.
+Write the coordinates of each of the points P, Q, R, S, T and O from the Fig. 3.5.
+Fig. 3.5
+Fig. 3.4
+16/04/18
+16/04/18
+
+30
+EXEMPLAR PROBLEMS
+2.
+Plot the following points and write the name of the figure obtained by joining them
+in order:
+P(– 3, 2), Q (– 7, – 3), R (6, – 3), S (2, 2)
+3.
+Plot the points (x, y) given by the following table:
+x
+2
+4
+– 3
+– 2
+   3
+0
+y
+4
+2
+0
+5
+– 3
+0
+4.
+Plot the following points and check whether they are collinear or not :
+(i)
+(1, 3), (– 1, – 1), (– 2, – 3)
+(ii)
+(1, 1), (2, – 3), (– 1, – 2)
+(iii)
+(0, 0), (2, 2), (5, 5)
+5.
+Without plotting the points indicate the quadrant in which they will lie, if
+(i)
+ordinate is 5 and abscissa is – 3
+(ii)
+abscissa is – 5 and ordinate is – 3
+(iii)
+abscissa is – 5 and ordinate is 3
+(iv)
+ordinate is 5 and abscissa is 3
+6.
+In Fig. 3.6, LM is a line parallel to the y-axis at a
+distance of 3 units.
+(i)
+What are the coordinates of the points P, R
+and Q?
+(ii)
+What is the difference between the abscissa
+of the points L and M?
+7.
+In which quadrant or on which axis each of the
+following points lie?
+(– 3, 5), (4, – 1), (2, 0), (2, 2), (– 3, – 6)
+8.
+Which of the following points lie on y-axis?
+A (1, 1), B (1, 0), C (0, 1), D (0, 0), E (0, – 1),
+F (– 1, 0), G (0, 5), H (– 7, 0), I (3, 3).
+9.
+Plot the points (x, y) given by the following table.
+Use scale 1 cm = 0.25 units
+   x
+1.25
+0.25
+1.5
+– 1.75
+    y
+– 0.5
+1
+1.5
+– 0.25
+Fig. 3.6
+16/04/18
+16/04/18
+
+COORDINATE GEOMETRY
+31
+10. A point lies on the x-axis at a distance of 7 units from the  y-axis. What are its
+coordinates? What will be the coordinates if it lies on y-axis at a distance of
+–7 units from x-axis?
+11. Find the coordinates of the point
+(i)
+which lies on x and y axes both.
+(ii)
+whose ordinate is – 4 and which lies on y-axis.
+(iii)
+whose abscissa is 5 and which lies on x-axis.
+12. Taking 0.5 cm as 1 unit, plot the following points on the graph paper :
+A (1, 3), B (– 3, – 1), C (1, – 4), D (– 2, 3), E (0, – 8), F (1, 0)
+(E) Long Answer Questions
+Sample Question 1 : Three vertices of a rectangle are (3, 2), (– 4, 2) and (– 4, 5).
+Plot these points and find the coordinates of the fourth vertex.
+Solution : Plot the three vertices of the rectangle as A(3, 2), B(– 4, 2), C(– 4, 5)
+(see Fig. 3.7).
+Fig. 3.7
+16/04/18
+16/04/18
+
+32
+EXEMPLAR PROBLEMS
+We have to find the coordinates of the fourth vertex D so that ABCD is a rectangle.
+Since the opposite sides of a rectangle are equal, so the abscissa of D should be equal
+to abscissa of A, i.e., 3 and the ordinate of D should be equal to the ordinate of
+C, i.e., 5.
+So, the coordinates of D are (3, 5).
+EXERCISE 3.4
+1.
+Points A (5, 3), B (– 2, 3) and D (5, – 4) are three vertices of a square ABCD. Plot
+these points on a graph paper and hence find the coordinates of the vertex C.
+2.
+Write the coordinates of the vertices of a rectangle whose length and breadth are
+5 and 3 units respectively, one vertex at the origin, the longer side lies on the x-axis
+and one of the vertices lies in the third quadrant.
+3.
+Plot the points P (1, 0), Q (4, 0) and S (1, 3). Find the coordinates of the point R
+such that PQRS is a square.
+4.
+From the Fig. 3.8, answer
+the following :
+(i)
+Write the points
+whose abscissa is 0.
+(ii)
+Write the points
+whose ordinate is 0.
+(iii)
+Write the points
+whose abscissa is – 5.
+5.
+Plot the points A (1, – 1)
+and B (4, 5)
+ (i)
+Draw a line segment
+joining these points.
+Write the coordinates
+of a point on this line
+segment between the
+points A and B.
+(ii)
+Extend this line segment and write the coordinates of a point on this line
+which lies outside the line segment AB.
+Fig. 3.8
+16/04/18
+16/04/18

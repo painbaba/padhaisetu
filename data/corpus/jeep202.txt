@@ -1,0 +1,424 @@
+(A) Main Concepts and Results
+•
+Geometrical meaning of zeroes of a polynomial: The zeroes of a polynomial p(x)
+are precisely the x-coordinates of the points where the graph of y = p(x) intersects
+the x-axis.
+•
+Relation between the zeroes and coefficients of a polynomial: If α and β are the
+zeroes of a quadratic polynomial ax2 + bx + c, then α + β 
+b
+– a
+=
+, αβ 
+c
+a
+=
+ .
+•
+If α, β and γ  are the zeroes of a cubic polynomial ax3 + bx2 + cx + d, then
+α+β+γ 
+b
+– a
+=
+, α β + β γ + γ α 
+c
+a
+=
+ and α β γ 
+–d
+a
+=
+.
+•
+The division algorithm states that given any polynomial p(x) and any non-zero
+polynomial g(x), there are polynomials q(x) and r(x) such that
+p(x) = g(x) q(x) + r(x), where r(x) = 0 or degree r(x) < degree g(x).
+(B) Multiple Choice Questions
+Choose the correct answer from the given four options:
+Sample Question 1: If one zero of the quadratic polynomial x2 + 3x + k is 2, then the
+value of k is
+(A)
+10
+(B)
+–10
+(C)
+5            (D)    –5
+Solution : Answer (B)
+POLYNOMIALS
+CHAPTER 2
+03/05/18
+
+POLYNOMIALS
+9
+Sample Question 2: Given that two of the zeroes of the cubic polynomial
+ax3 + bx2 + cx + d are 0, the third zero is
+(A)
+–b
+a
+(B)
+b
+a
+(C)
+c
+a
+(D)
+– d
+a
+Solution : Answer (A). [Hint: Because if third zero is α, sum of the zeroes
+= α + 0 + 0 =  –b
+a ]
+EXERCISE 2.1
+Choose the correct answer from the given four options in the following questions:
+1. If one of the zeroes of the quadratic polynomial (k–1) x2 + k x + 1 is –3, then the
+value of k is
+(A)
+4
+3
+(B)
+–4
+3
+(C)
+2
+3
+(D)
+–2
+3
+2. A quadratic polynomial, whose zeroes are –3 and 4, is
+(A)
+x2 – x + 12
+(B)
+x2 + x + 12
+(C)
+2
+–
+– 6
+2
+2
+x
+x
+(D)
+2x2 + 2x –24
+3. If the zeroes of the quadratic polynomial x2 + (a + 1) x + b are 2 and –3, then
+(A)
+a = –7, b = –1
+(B)
+a = 5, b = –1
+(C)
+a = 2, b = – 6
+(D)
+a = 0, b = – 6
+4. The number of polynomials having zeroes as –2 and 5 is
+(A) 1
+(B)
+2
+(C)
+3
+(D)   more than 3
+5. Given that one of the zeroes of the cubic polynomial ax3 + bx2 + cx + d is zero, the
+product of the other two zeroes is
+(A) – c
+a
+(B)
+c
+a
+(C)
+0
+(D)  – b
+a
+6. If one of the zeroes of the cubic polynomial x3 + ax2 + bx + c is –1, then the
+product of the other two zeroes is
+(A) b – a + 1
+(B)  b – a – 1
+(C)  a – b + 1   (D)  a – b –1
+03/05/18
+
+10
+EXEMPLAR PROBLEMS
+7. The zeroes of the quadratic polynomial x2 + 99x + 127 are
+(A)   both positive
+(B) both negative
+(C)   one positive and one negative
+(D) both equal
+8. The zeroes of the quadratic polynomial x2 + kx + k, k ≠ 0,
+(A) cannot both be positive
+(B) cannot both be negative
+(C) are always unequal
+(D) are always equal
+9. If the zeroes of the quadratic polynomial ax2 + bx + c, c ≠ 0 are equal, then
+(A) c and a have opposite signs
+(B) c and b have opposite signs
+(C) c and a have the same sign
+(D) c and b have the same sign
+10. If one of the zeroes of a quadratic polynomial of the form x2+ax + b is the negative
+of the other, then it
+(A) has no linear term and the constant term is negative.
+(B) has no linear term and the constant term is positive.
+(C) can have a linear term but the constant term is negative.
+(D) can have a linear term but the constant term is positive.
+11. Which of the following is not the graph of a quadratic polynomial?
+(A)
+      (B)
+(C)
+      (D)
+03/05/18
+
+POLYNOMIALS
+11
+(C) Short Answer Questions with Reasoning
+Sample Question 1: Can x – 1 be the remainder on division of a polynomial p (x) by
+2x + 3? Justify your answer.
+Solution : No, since degree (x – 1) = 1 = degree (2x + 3).
+Sample Question 2: Is the following statement True or False? Justify your answer.
+If the zeroes of a quadratic polynomial ax2 + bx + c are both negative, then a, b and c
+all have the same sign.
+Solution : True, because – b
+a = sum of the zeroes < 0, so that 
+b
+a > 0. Also the product
+of the zeroes = c
+a > 0.
+EXERCISE 2.2
+1.
+Answer the following and justify:
+(i)
+Can x2 – 1 be the quotient on division of x6 + 2x3 + x – 1 by a polynomial
+in x of degree 5?
+(ii)
+What will the quotient and remainder be on division of ax2 + bx + c by
+px3 + qx2 + rx + s, p ≠ 0?
+(iii)
+If on division of a polynomial p (x) by a polynomial g (x), the quotient
+is zero, what is the relation between the degrees of p (x) and g (x)?
+(iv)
+If on division of a non-zero polynomial p (x) by a polynomial g (x),  the
+remainder is zero, what is the relation between the degrees of p (x)
+and g (x)?
+(v)
+Can the quadratic polynomial x2 + kx + k have equal zeroes for some
+odd integer k > 1?
+2.
+Are the following statements ‘True’ or ‘False’? Justify your answers.
+(i)
+If the zeroes of a quadratic polynomial ax2 + bx + c are both positive,
+then a, b and c all have the same sign.
+(ii)
+If the graph of a polynomial intersects the x-axis at only one point, it
+cannot be a quadratic polynomial.
+(iii)
+If the graph of a polynomial intersects the x-axis at exactly two points,
+it need not be a quadratic polynomial.
+(iv)
+If two of the zeroes of a cubic polynomial are zero, then it does not
+have linear and constant terms.
+03/05/18
+
+12
+EXEMPLAR PROBLEMS
+(v)
+If all the zeroes of a cubic polynomial are negative, then all the
+coefficients and the constant term of the polynomial have the same
+sign.
+(vi)
+If all three zeroes of a cubic polynomial x3 + ax2 – bx + c are positive,
+then at least one of a, b and c is non-negative.
+(vii)
+The only value of k for which the quadratic polynomial kx2 + x + k has
+equal zeros is 
+1
+2
+(D) Short Answer Questions
+Sample Question 1:Find the zeroes of the polynomial x2 + 1
+6 x – 2, and verify the
+relation between  the coefficients and the zeroes of the polynomial.
+Solution : x2 + 1
+6 x –  2 = 1
+6 (6x2 + x – 12) = 1
+6 [6x2 + 9x – 8x – 12]
+         = 1
+6 [3x (2x + 3) – 4 (2x + 3)] = 1
+6 (3x – 4) (2x + 3)
+Hence, 4
+3 and 
+3
+– 2 are the zeroes of the given polynomial.
+The given polynomial is x2 + 1
+6 x – 2.  
+The sum of zeroes = 4
+3 + 
+3
+–1
+– 2
+6
+ 
+ =
+ 
+ 
+ 
+ 
+= – 
+2
+Coefficient of 
+Coefficient of 
+ 
+x
+x
+and
+the product of zeroes = 
+4
+–3
+– 2
+3
+2
+ 
+ 
+×
+=
+ 
+ 
+ 
+ 
+ = 
+2
+Constant term
+Coefficient of 
+ 
+x
+EXERCISE 2.3
+Find the zeroes of the following polynomials by factorisation method and verify the
+relations between the zeroes and the coefficients of the polynomials:
+1.   4x2 – 3x – 1
+2. 3x2 + 4x – 4
+03/05/18
+
+POLYNOMIALS
+13
+3. 5t2 + 12t + 7
+4.
+t3 – 2t2 – 15t
+5. 2x2 + 7
+2 x + 3
+4
+6.
+4x2 + 5 2 x – 3
+7. 2s2 – (1 + 2 2 )s + 
+2
+8.
+v2 + 4 3 v – 15
+9. y2 + 3
+5
+2
+y – 5
+10.
+7y2 – 11
+3 y – 2
+3
+(E) Long Answer Questions
+Sample Question 1: Find a quadratic polynomial, the sum and product of whose
+zeroes are 
+2 and 
+3
+– 2 ,  respectively. Also find  its zeroes.
+Solution : A quadratic polynomial, the sum and product of whose zeroes are
+2 and 
+3
+– 2 is x2 –
+2 x  
+3
+– 2
+x2 –
+2 x  
+3
+– 2 = 1
+2 [2x2 – 2
+2 x – 3]
+= 1
+2 [2x2 + 
+2 x – 3 2x – 3]
+= 
+1
+2 [ 2 x (
+2 x + 1) – 3 ( 2 x + 1)]
+= 1
+2 [
+2 x + 1] [
+2 x – 3]
+Hence, the zeroes are 
+1
+–
+2 and 
+3
+2 .
+Sample Question 2: If the remainder on division of x3 + 2x2 + kx +3 by x – 3 is 21,
+find the quotient and the value of k. Hence, find the zeroes of the cubic polynomial
+x3 + 2x2 + kx – 18.
+03/05/18
+
+14
+EXEMPLAR PROBLEMS
+Solution : Let p(x) =  x3 + 2x2 + kx + 3
+Then,  p(3) = 33 + 2 × 32 + 3k + 3 = 21
+i.e.,      3k = –27
+i.e.,        k = –9
+Hence, the given polynomial will become x3 + 2x2 – 9x + 3.
+Now,
+x – 3) x3 + 2x2 – 9x +3(x2 + 5x +6
+        x3 – 3x2
+    5x2 – 9x +3
+   5x2 – 15x
+6x + 3
+6x – 18
+         21
+So,         x3 + 2x2 – 9x + 3   = (x2 + 5x + 6) (x – 3) + 21
+i.e.,        x3 + 2x2 – 9x – 18 = (x – 3) (x2 + 5x + 6)
+                                         = (x – 3) (x + 2) (x + 3)
+So, the zeroes of 
+3
+2
+2
+–18
+x
+x
+kx
++
++
+are 3, – 2, – 3.
+EXERCISE 2.4
+1. For each of the following, find a quadratic polynomial whose sum and product
+respectively of the zeroes are as given. Also find the zeroes of these polynomials
+by factorisation.
+(i)  
+–8
+3 ,  
+4
+3
+(ii)  21
+8 ,  5
+16
+(iii)  –2 3, – 9
+(iv)  
+–3
+2 5 ,  
+1
+– 2
+2. Given that the zeroes of the cubic polynomial x3 – 6x2 + 3x + 10 are of the form a,
+a + b, a + 2b for some real numbers a and b, find the values of a and b as well as
+the zeroes of the given polynomial.
+03/05/18
+
+POLYNOMIALS
+15
+3. Given that 
+2 is a zero of the cubic polynomial 6x3 + 
+2 x2 – 10x – 4
+2 , find
+its other two zeroes.
+4. Find k so that x2 + 2x + k is a factor of 2x4 + x3 – 14 x2 + 5x + 6. Also find all the
+zeroes of the two polynomials.
+5. Given that x – 5 is a factor of the cubic polynomial x3 – 3
+2
+5x + 13x – 3 5 ,
+find all the zeroes of the polynomial.
+6. For which values of a and b, are the zeroes of q(x) = x3 + 2x2 + a also the zeroes
+of the polynomial p(x) = x5 – x4 – 4x3 + 3x2 + 3x + b? Which zeroes of  p(x) are
+not the zeroes of q(x)?
+03/05/18

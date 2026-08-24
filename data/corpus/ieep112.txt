@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+Multiple Choice Questions
+1.
+Note is a sound
+(a) of mixture of several frequencies
+(b) of mixture of two frequencies only
+(c) of a single frequency
+(d) always unpleasant to listen
+2.
+A key of a mechanical piano struck gently and then struck again but much
+harder this time. In the second case
+(a) sound will be louder but pitch will not be different
+(b) sound will be louder and pitch will also be higher
+(c) sound will be louder but pitch will be lower
+(d) both loudness and pitch will remain unaffected
+3.
+In SONAR, we use
+(a) ultrasonic waves
+(b) infrasonic waves
+(c) radio waves
+(d) audible sound waves
+4.
+Sound travels in air if
+(a) particles of medium travel from one place to another
+(b) there is no moisture in the atmosphere
+(c) disturbance moves
+(d) both particles as well as disturbance travel from one place to another.
+5.
+When we change feeble sound to loud sound we increase its
+(a) frequency
+(b) amplitude
+(c) velocity
+(d) wavelength
+6.
+In the curve (Fig.12.1) half the wavelength is
+(a) A B
+(b) B D
+(c) D E
+(d) A E
+Fig. 12.1
+16-04-2018
+
+EXEMPLAR PROBLEMS
+72
+7.
+Earthquake produces which kind of sound before the main shock wave
+begins
+(a) ultrasound
+(b) infrasound
+(c) audible sound
+(d) none of the above
+8.
+Infrasound can be heard by
+(a) dog
+(b) bat
+(c) rhinoceros
+(d) human beings
+9.
+Before playing the orchestra in a musical concert, a sitarist tries to adjust
+the tension and pluck the string suitably. By doing so, he is adjusting
+(a) intensity of sound only
+(b) amplitude of sound only
+(c) frequency of the sitar string with the frequency of other musical
+instruments
+(d) loudness of sound
+Short Answer Question
+10.
+The given graph (Fig.12.2) shows the displacement versus time relation for
+a disturbance travelling with velocity of 1500 m s–1. Calculate the wavelength
+of the disturbance.
+11.   Which of the above two graphs (a) and (b) (Fig.12.3) representing the human
+voice is likely to be the male voice? Give reason for your answer.
+Fig. 12.2
+Fig. 12.3
+16-04-2018
+
+SOUND
+73
+12.
+A girl is sitting in the middle of a park of dimension 12 m × 12 m. On the
+left side of it there is a building adjoining the park and  on right side of the
+park, there is a road adjoining the park. A sound is produced on the road
+by a cracker.  Is it possible for the girl to hear the echo of this sound?
+Explain your answer.
+13.
+Why do we hear the sound produced by the humming bees while the sound
+of vibrations of pendulum is not heard?
+14.
+If any explosion takes place at the bottom of a lake, what type of shock
+waves in water will take place?
+15.
+Sound produced by a thunderstorm is heard 10 s after the lightning is
+seen. Calculate the approximate distance of the thunder cloud. (Given speed
+of sound = 340 m s–1.)
+16.
+For hearing the loudest ticking sound heard by the ear, find the angle x  in
+the Fig.12.4.
+17.
+Why is the ceiling and wall behind the stage of good conference halls or
+concert halls made curved?
+Long Answer Questions
+18.
+Represent graphically by two separate diagrams in each case
+(i) Two sound waves having the same amplitude but different frequencies?
+(ii) Two sound waves having the same frequency but different amplitudes.
+(iii) Two sound waves having different amplitudes and also different
+wavelengths.
+19.
+Establish the relationship between speed of sound, its wavelength and
+frequency. If velocity of sound in air is 340 m s–1, calculate
+(i) wavelength when frequency is 256 Hz.
+(ii) frequency when wavelength is 0.85 m.
+20.
+Draw a curve showing density or pressure variations with respect to
+distance for a disturbance produced by sound. Mark the position of
+compression and rarefaction on this curve. Also define wavelengths and
+time period using this curve.
+Fig. 12.4
+16-04-2018

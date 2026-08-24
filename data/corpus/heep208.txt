@@ -1,0 +1,2800 @@
+
+
+
+
+
+
+
+• Exponential notation is a powerful way to express repeated
+multiplication of the same number. Specifically, powers of 10
+express very large and very small numbers in a manner which is
+convenient to read, write and compare.
+• For any non-zero integer a, a–m 
+1
+m
+a
+=
+• Laws of exponents are
+(a) am × an = am+n
+(b) am ÷ an = am–n
+(c) (am)n = amn
+(d) am × bm = (ab)m
+(e) a° = 1, where a ≠ 0
+(f)
+m
+m
+m
+a
+a
+b
+b
+
+
+=
+
+
+
+• Numbers can be expressed in expanded form by using exponents.
+• Very large and very small numbers can be expressed in standard
+form.
+• Standard form is also called scientific notation form.
+12/04/18
+
+
+
+
+In example 1 and 2, there are four options given out of which one is
+correct. Write the correct answer.
+Example 1
+: Multiplicative inverse of 27 is
+(a) 2–7
+(b) 72
+(c) – 27
+(d) – 27
+Solution
+: The Correct answer is (a).
+Example 2
+: The human body has about 100 billion cells. This number
+can be written in exponential form as
+(a) 10–11
+(b) 1011
+(c) 109
+(d) 10–9
+Solution
+: The correct answer is (b).
+In examples 3 to 5, fill in the blanks to make the statements true.
+Example 3
+:
+4
+4
+5
+(– 4)
+______
+4
+
+
+×
+=
+
+
+
+
+Solution
+: 54
+Example 4
+: (
+)
+(
+)
+2
+3
+–3
+–2
+2
+3
+_____
+×
+=
+Solution
+: 6–6
+Example 5
+: The distance between earth and sun is 150 million
+kilometres which can be written in exponential form as
+_______.
+Solution
+: 1.5 × 108 km
+In examples 6 and 7, state whether the statements are true (T) or false (F):
+Example 6
+: Very small numbers can be expressed in standard form
+using positive exponents.
+Solution
+: False.
+Example 7
+: (–10) × (–10) × (–10) × (–10) = 10–4
+Solution
+: False.
+12/04/18
+
+
+
+Example 8
+: Simplify 
+3
+7
+6
+( 2)
+( 2)
+3
+4
+−
+× −
+×
+Solution
+:
+(
+)
+3
+7
+3
+7
+6
+6
+2
+( 2)
+( 2)
+( 2)
+3
+4
+3
+2
++
+−
+× −
+−
+=
+×
+×
+ {am × an = am+n}
+= 
+10
+12
+( 2)
+3
+2
+−
+×
+ {(am)n = am×n}
+= 
+10
+12
+( 2)
+3
+2
+−
+×
+=  
+10 12
+2
+3
+−
+ {am ÷ an = am–n, (–2)10 = 210}
+= 
+–2
+2
+2
+1
+1
+3
+12
+3 2
+=
+=
+×
+Example 9
+: Find x so that (–5)x+1 × (–5)5 = (–5)7
+Solution
+: (–5)x+1 × (–5)5 = (–5)7
+(–5)x+1+5 = (–5)7
+{am × an = am+n}
+(–5)x+6 = (–5)7
+On both sides, powers have the same base, so their
+exponents must be equal.
+Therefore,
+x + 6 = 7
+x = 7 – 6 = 1
+x = 1
+
+Find x so that (–5)x+1 × (–5)5 = (–5)7
+Example 10 :
+Understand and Explore the Problem
+•
+What are you trying to find?
+The value of x which satisfies the given equation.
+Plan a Strategy
+•
+You know the laws of exponents. Applying the laws of exponent
+in the given equation to find the value of x.
+12/04/18
+
+
+
+Solve
+•
+Given (–5)x+1 × (–5)5 = (–5)7
+Using the Law of exponents, am × an = am+n, we get
+(–5)x+1+5 = (–5)7
+(–5)x+6   = (–5)7
+On both the sides, power has the same base, so their exponents
+must be equal,
+Therefore, x + 6 = 7
+x = 7 – 6
+So, x = 1
+Hence, the value of x is 1.
+Revise
+•
+Substitute the value of x in the equation and check if it
+satisfies the equation.
+LHS
+= (– 5)x+1 × (–5)5
+= (– 5)1+1 × (–5)5
+= (–5)2 × (–5)5
+= (–5)2+5
+= (–5)7 = RHS
+x = 1 satisfies the equation. Hence our answer is correct.
+
+(a) Try to find the value of x in the question by changing – 5 to 2. What
+difference do you find in the value of x ? What do you infer from your
+answer?
+(b) See if you can find the value of x if the equation is changed to
+(i)
+(–5)x+1 × (5)5 = (5)7
+(ii)
+(–5)2x × (5)5 = (5)7
+12/04/18
+
+
+
+
+In questions 1 to 33, out of the four options, only one is correct. Write
+the correct answer.
+1. In 2n, n  is known as
+(a)
+Base
+(b) Constant
+(c) x
+(d)
+Variable
+2. For a fixed base, if the exponent decreases by 1, the number  becomes
+(a)
+One-tenth of the previous number.
+(b) Ten times of the previous number.
+(c)
+Hundredth of the previous number.
+(d) Hundred times of the previous number.
+3. 3–2 can be written as
+(a)
+32
+(b)
+2
+1
+3
+(c)
+2
+1
+3−
+(d)
+2
+3
+−
+4. The value of 
+2
+1
+4− is
+(a)
+16
+(b)
+8
+(c)
+1
+16
+(d)
+1
+8
+
+You might have to deal with fractions that have negative exponents in the
+numerator and denominator, like 
+–4
+7
+2
+3−. It’s useful to be able to change them
+into fractions with only positive exponents because it’s a simpler form. A
+number with negative exponent in the numerator is equivalent to the same
+number with positive exponent in the denominator 
+ 
+–4
+4
+4
+2
+1
+2
+1
+2
+−=
+=
+. A
+number with a negative exponent in the denominator is equivalent to the
+same number with positive exponent in the numerator 
+ 
+7
+7
+7
+1
+3
+3
+1
+3−
+=
+=
+.
+So.
+4
+7
+7
+4
+2
+3
+3
+2
+−
+−
+=
+2–4 gets moved from the
+numerator to the denominator,
+where it is written as 24.
+3–7 moved 
+from 
+the
+denominator and becomes
+37 in the numerator.
+12/04/18
+
+
+
+5. The value of 35 ÷ 3–6 is
+(a)
+35
+(b)
+3–6
+(c)
+311
+(d) 3–11
+6. The value of  
+2
+2
+5
+−
+
+
+
+
+
+
+is
+(a) 4
+5
+(b) 4
+25
+(c) 25
+4
+(d) 5
+2
+7. The reciprocal of 
+–1
+2
+5
+
+
+
+
+
+
+is
+(a) 2
+5
+(b) 5
+2
+(c) – 5
+2
+(d) – 2
+5
+8. The multiplicative inverse of 10–100 is
+(a) 10
+(b) 100
+(c) 10100
+(d) 10–100
+9. The value of (–2)2×3 –1 is
+(a) 32
+(b) 64
+(c) – 32
+(d) – 64
+10.
+The value of 
+4
+2
+3
+
+
+−
+
+
+
+
+is equal to
+(a) 16
+81
+(b) 81
+16
+(c) 16
+81
+−
+(d) 81
+16
+−
+The table shows several powers of
+10 in various forms. Note the
+following:
+•
+Powers of 10 with positive
+integer exponents involve
+repeated multiplication by 10.
+•
+Power of 10 with negative
+integer exponents involve
+repeated multiplication by 
+1
+10
+(the multiplicative inverse of
+10), or repeated division by 10.
+•
+The power of 10 with an
+exponent of 0 equals 1.
+Power
+Repeated
+Standard
+multiplication
+form
+103
+1 × 10 × 10 × 10
+1000
+102
+1 × 10 × 10
+100
+101
+1 × 10
+10
+100
+1
+1
+10–1
+1 × 
+1
+10
+0.1
+10–2
+1 × 
+1
+10 × 
+1
+10
+0.01
+10–3
+1 × 
+1
+10 × 
+1
+10 × 
+1
+10
+0.001
+12/04/18
+
+
+
+11.
+The multiplicative inverse of 
+99
+5
+9
+−
+
+
+−
+
+
+
+
+is
+(a) 
+99
+5
+9
+
+
+−
+
+
+
+
+(b) 
+99
+5
+9
+
+
+
+
+
+
+(c) 
+99
+9
+5
+
+
+
+
+−
+
+
+      (d)
+99
+9
+5
+
+
+
+
+
+
+12.
+If x be any non-zero integer and m, n be negative integers, then
+xm × xn  is equal to
+(a) xm
+(b) xm+n
+(c) xn
+(d) xm–n
+13.
+If y be any non-zero integer, then y0 is equal to
+(a) 1
+(b) 0
+(c) – 1
+(c) Not defined
+14.
+If x be any non-zero integer, then x–1 is equal to
+(a) x
+(b) 1
+x
+(c) – x
+(c) 1
+x
+−
+15.
+If x be any integer different from zero and m be any positive integer,
+then x–m is equal to
+(a) xm
+(b) –xm
+(c) 1
+m
+x
+(d) 
+1
+m
+x
+−
+16.
+ If x be any integer different from zero and m, n be any integers, then
+(xm)n is equal to
+(a) xm+n
+(b) xmn
+(c) 
+m
+n
+x
+(d) xm–n
+17.
+Which of the following is equal to 
+–3
+3
+4
+
+
+−
+
+
+
+
+?
+(a) 
+–3
+3
+4
+
+
+
+
+
+
+(b) –
+–3
+3
+4
+
+
+
+
+
+
+(c) 
+3
+4
+3
+
+
+
+
+
+
+(d) 
+3
+4
+3
+
+
+−
+
+
+
+
+18.
+–5
+5
+7
+
+
+−
+
+
+
+
+ is equal to
+(a) 
+–5
+5
+7
+
+
+
+
+
+
+(b) 
+5
+5
+7
+
+
+
+
+
+
+(c) 
+5
+7
+5
+
+
+
+
+
+
+(d) 
+5
+7
+5
+ 
+ 
+−
+ 
+ 
+ 
+ 
+12/04/18
+
+
+
+19.
+–1
+7
+5
+−
+
+
+
+
+
+
+ is equal to
+(a) 5
+7
+(b) – 5
+7
+(c) 7
+5
+(d) 
+7
+5
+−
+20.
+(–9)3 ÷ (–9)8 is equal to
+(a) (9)5
+(b) (9)–5
+(c) (– 9)5
+(d) (– 9)–5
+21.
+For a non-zero integer x, x7 ÷ x12 is equal to
+(a) x5
+(b) x19
+(c) x–5
+(d) x–19
+22.
+For a non-zero integer x, (x4)–3 is equal to
+(a) x12
+(b) x–12
+(c) x64
+(d) x–64
+23.
+The value of (7–1 – 8–1)–1 – (3–1 – 4–1)–1 is
+(a) 44
+(b) 56
+(c) 68
+(d) 12
+24.
+The standard form for 0.000064 is
+(a) 64 × 104
+(b) 64 × 10–4
+(c) 6.4 × 105
+(d) 6.4 × 10–5
+25.
+The standard form for 234000000 is
+(a) 2.34 × 108
+(b) 0.234 × 109
+(c) 2.34 × 10–8
+(d) 0.234×10–9
+26.
+The usual form for 2.03 × 10–5
+(a) 0.203
+(b) 0.00203
+(c) 203000
+    (d) 0.0000203
+
+Use a pattern to raise 10 to a zero or negative
+power
+Step 1:
+Copy the table and complete the next
+two rows by evaluating 102 and 101.
+Step 2:
+Look at the rows you have completed.
+How does the standard form changes
+each time the exponent decreases by
+1?
+Step 3:
+Use the pattern you identified in Step
+2 to complete the remaining rows in
+the table.
+Power
+Standard
+103
+1000
+102
+?
+101
+?
+100
+?
+10–1
+?
+10–2
+?
+10–3
+?
+12/04/18
+
+
+
+27.
+0
+1
+10
+
+
+
+
+
+ is equal to
+(a) 0
+(b) 1
+10
+(c) 1
+(d) 10
+28.
+5
+5
+3
+5
+4
+3
+
+
+
+
+÷
+
+
+
+
+
+
+
+is equal to
+(a) 
+5
+3
+5
+4
+3
+
+
+÷
+
+
+
+
+(b) 
+1
+3
+5
+4
+3
+
+
+÷
+
+
+
+
+(c) 
+0
+3
+5
+4
+3
+
+
+÷
+
+
+
+
+(d) 
+10
+3
+5
+4
+3
+
+
+÷
+
+
+
+
+29.
+For any two non-zero rational numbers x and y, x4 ÷ y4 is equal to
+(a) (x ÷ y)0
+(b) (x ÷ y)1
+(c) (x ÷ y)4
+(d) (x ÷ y)8
+30.
+For a non-zero rational number p, p13 ÷ p8 is equal to
+(a) p5
+(b) p21
+(c) p–5
+(d) p–19
+31.
+For a non-zero rational number 
+–2 3
+, (
+)
+z
+z
+ is equal to
+(a) z6
+(b) z–6
+(c)z1
+(d) z4
+32.
+Cube of  
+1
+2
+−
+ is
+(a) 1
+8
+(b) 1
+16
+(c) 
+1
+8
+−
+(d) 
+1
+16
+−
+33.
+Which of the following is not the reciprocal of 
+4
+2
+3
+
+
+
+
+
+?
+(a) 
+4
+3
+2
+
+
+
+
+
+
+(b) 
+4
+3
+2
+−
+
+
+
+
+
+
+(c) 
+4
+2
+3
+−
+ 
+ 
+ 
+ 
+ 
+ 
+(d) 
+4
+4
+3
+2
+In questions 34 to 65, fill in the blanks to make the statements true.
+34.
+The multiplicative inverse of 1010 is ___________.
+35.
+a3 × a–10 = __________.
+
+Use your observations to complete this exercise.
+Write the power of 10 in standard form.
+1.
+104
+2.
+109
+3.
+10–4
+4. 10–6
+12/04/18
+
+
+
+36.
+50 = __________.
+37.
+55 × 5–5 = __________.
+38.
+The value of 
+2
+3
+1
+2
+
+
+
+
+
+ is equal to _________.
+39.
+The expression for 8–2 as a power with the base 2 is _________.
+40.
+Very small numbers can be expressed in standard form by using
+_________ exponents.
+41.
+Very large numbers can be expressed in standard form by using
+_________ exponents.
+42.
+By multiplying (10)5 by (10)–10 we get ________.
+43.
+3
+–6
+3
+–9
+2
+2
+2
+_______
+13
+13
+13
+
+
+
+
+
+
+
+
+÷
+×
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44.
+Find the value [4–1 +3–1 + 6–2]–1.
+45.
+[2–1 + 3–1 + 4–1]0 = ______
+46.
+The standard form of 
+1
+100000000
+
+
+
+
+
+ is ______.
+47.
+The standard form of 12340000 is ______.
+48.
+The usual form of 3.41 × 106 is _______.
+49.
+The usual form of 2.39461 × 106 is _______.
+50.
+If 36 = 6 × 6 = 62, then 1
+36 expressed as a power with the base 6 is
+________.
+
+Scientific Notation
+A number is written in scientific notation if it has the form c × 10n where
+c > 1, c < 10, and n is an integer.
+Standard form
+Product form
+Scientific notation
+325,000
+3.25 × 100,000
+3.25 × 105
+0.0005
+5 × 0.0001
+5 × 10–4
+12/04/18
+
+
+
+51.
+By multiplying 
+4
+5
+3
+
+
+
+
+
+by ________ we get 54.
+52.
+35 ÷ 3–6 can be simplified as __________.
+53.
+The value of 3 × 10¯7 is equal to ________.
+54.
+To add the numbers given in standard form, we first convert them
+into numbers with __ exponents.
+55.
+The standard form for 32,50,00,00,000 is __________.
+56.
+The standard form for 0.000000008 is __________.
+57.
+The usual form for 2.3 × 10-10  is ____________.
+58.
+On dividing 85 by _________ we get 8.
+59.
+On multiplying _________ by 2–5 we get 25.
+60.
+The value of [3–1 × 4–1]2 is _________.
+61.
+The value of [2–1 × 3–1]–1 is _________.
+62.
+By solving (60 – 70) × (60 + 70) we get  ________.
+63.
+The expression for 35 with a negative exponent is _________.
+64.
+The value for (–7)6 ÷ 76 is _________.
+65.
+The value of [1–2 + 2–2 + 3–2] × 62 is ________ .
+In questions 66 to 90, state whether the given statements are true (T)
+or false (F).
+66.
+The multiplicative inverse of (– 4)–2 is (4)–2.
+67.
+The multiplicative inverse of 
+2
+3
+2
+
+
+
+
+
+ is not equal to 
+2
+2
+3
+−
+
+
+
+
+
+
+.
+68.
+10–2 = 1
+100
+69.
+24.58 = 2 × 10 + 4 × 1 + 5 × 10 + 8 × 100
+70.
+329.25 = 3 × 102 + 2 × 101 + 9 × 100 + 2 × 10–1 + 5 × 10–2
+71.
+(–5)–2 × (–5)–3 = (–5)–6
+72.
+(–4)–4 × (4)–1 = (4)5
+12/04/18
+
+
+
+73.
+–2
+–5
+10
+2
+2
+2
+3
+3
+3
+
+
+
+
+
+
+×
+=
+
+
+
+
+
+
+
+
+
+
+
+
+74.
+50 = 5
+75.
+(–2)0 = 2
+76.
+0
+8
+2
+
+
+−
+
+
+
+= 0
+77.
+(–6)0 = –1
+78.
+(–7)–4 × (–7)2 = (–7)–2
+79.
+The value of 
+–2
+1
+4
+ is equal to 16.
+80.
+The expression for 4–3 as a power with the base 2 is 26.
+81.
+ap × bq = (ab)pq
+82.
+–m
+m
+m
+x
+y
+x
+y
+
+
+=
+
+
+
+83.
+–
+1
+m
+m
+a
+a
+=
+84.
+The expontential form for (–2)4 × 
+4
+5
+2
+
+
+
+
+
+is 54.
+85.
+The standard form for 0.000037 is 3.7 × 10–5.
+ 
+
+Definition of Zero and Negative Exponents
+Let a be a non-zero number, and let n be an integer.
+Words
+Algebra
+Example
+a to the zero power is 1.
+a0 = 1
+50 = 1
+a–n is the reciprocal of an.
+a–n = 
+n
+a
+1
+2–3 = 
+3
+1
+2
+an is the reciprocal of a–n.
+an = 
+–n
+a
+1
+2 = 
+–1
+1
+2
+12/04/18
+
+
+
+86.
+The standard form for 203000 is 2.03 × 105
+87.
+The usual form for 2 × 10–2 is not equal to 0.02.
+88.
+The value of 5–2 is equal to 25.
+89.
+Large numbers can be expressed in the standard form by using
+positive exponents.
+90.
+am × bm = (ab)m
+91.
+Solve the following:
+(i)
+100–10
+(ii) 2–2 × 2–3
+         (iii) 
+–2
+–3
+1
+1
+2
+2
+ 
+ 
+ 
+ 
+÷
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+92.
+Express 3–5 × 3–4 as a power of 3 with positive exponent.
+93.
+Express 16–2 as a power with the base 2.
+94.
+Express 27
+27
+and
+64
+64
+−
+ as powers of a rational number.
+95.
+Express 16
+16
+and
+81
+81
+−
+ as powers of a rational number.
+96.
+Express as a power of a rational number with negative exponent.
+(a)
+–3
+–2
+3
+2
+
+
+−
+
+
+
+
+
+
+
+
+
+
+
+
+(b) (25 ÷ 28) × 2–7
+97.
+Find the product of the cube of (–2) and the square of (+4).
+98.
+Simplify:
+(i)
+–2
+–2
+–2
+1
+1
+1
+4
+2
+3
+
+
+
+
+
+
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+(ii)
+3
+–2
+–4
+–1
+–2
+1
+1
+3
+3
+3
+6
+
+
+
+
+
+
+×
+×
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(iii)
+–3
+–3
+–5
+49
+(
+0)
+7
+10
+z
+z
+z
+×
+≠
+×
+×
+(iv) (25 ÷ 28) × 2–7
+12/04/18
+
+
+
+99.
+Find the value of x so that
+(i)
+–2
+–14
+8
+5
+5
+5
+3
+3
+3
+x
+
+
+
+
+
+
+×
+=
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) (–2)3 × (–2)–6 = (–2)2x–1
+(iii) (2–1 + 4–1 + 6–1 + 8–1)x = 1
+100. Divide 293 by 10,00,000 and express the result in standard form.
+101. Find the value of x–3 if x = (100)1–4 ÷ (100)0.
+102. By what number should we multiply (–29)0 so that the product
+becomes (+29)0.
+103. By what number should (–15)–1 be divided so that quotient may be
+equal to (–15)–1?
+   Plan Strategy :
+•
+Identify too much/too little information.
+When you read a problem, you must decide if the problem has too much or
+too little information. If the problem has too much information, you must
+decide what information to use to solve the problem. If the problem has too
+little information, then you should determine what additional information
+you need to solve the problem.
+•
+Read the problems below and decide if there is too much or too little
+information in each problem. If there is too much information, tell what
+information you would use to solve the problem. If there is too little
+information, tell what additional information you would need to solve
+the problem.
+•
+On Monday, 20 students took
+an examination. There were
+10 students who scored above
+85 and 10 students who
+scored below 85. What was
+the average score?
+•
+Aayesha is practising for a
+marathon. She ran for 50
+minutes on Monday, 70 minutes
+on Wednesday, and 45 minutes
+on Friday. On Tuesday and
+Thursday, she lifted weights at
+the gym for 45 minutes each day.
+She swam for 45 minutes over
+the weekend. What was the
+average amount of time per day
+Aayesha spent running last
+week?
+12/04/18
+
+
+
+104. Find the multiplicative inverse of (–7)–2 ÷ (90)–1.
+105. If 53x–1 ÷  25 = 125, find the value of x.
+106. Write 39,00,00,000 in the standard form.
+107. Write 0.000005678 in the standard form.
+108. Express the product of 3.2 × 106 and 4.1 × 10–1 in the standard
+form.
+109. Express 
+6
+–4
+1.5 10
+2.5 10
+×
+×
+ in the standard form.
+110. Some migratory birds travel as much as 15,000 km to escape the
+extreme climatic conditions at home. Write the distance in metres
+using scientific notation.
+111. Pluto is 59,1,30,00, 000 m from the sun. Express this in the standard
+form.
+112. Special balances can weigh something as 0.00000001 gram. Express
+this number in the standard form.
+113. A sugar factory has annual sales of 3 billion 720 million kilograms
+of sugar. Express this number in the standard form.
+114. The number of red blood cells per cubic millimetre of blood is
+approximately 5.5 million. If the average body contains 5 litres of
+blood, what is the total number of red cells in the body? Write the
+standard form. (1 litre = 1,00,000 mm3)
+115. Express each of the following in standard form:
+(a)
+The mass of a proton in gram is
+ 
+1673
+1000000000000000000000000000
+(b) A Helium atom has a diameter of 0.000000022 cm.
+(c)
+Mass of a molecule of hydrogen gas is about
+0.00000000000000000000334 tons.
+(d) Human body has 1 trillon of cells which vary in shapes and
+sizes.
+12/04/18
+
+
+
+(e)
+Express 56 km in m.
+(f)
+Express 5 tons in g.
+(g)
+Express 2 years in seconds.
+(h) Express 5 hectares in cm2 (1 hectare = 10000 m2)
+116. Find x so that 
+3
+–6
+2
+1
+2
+2
+2
+9
+9
+9
+x −
+
+
+
+
+
+
+×
+=
+
+
+
+
+
+
+
+
+
+
+
+
+117. By what number should 
+3
+3
+2
+−
+−
+
+
+
+
+
+
+ be divided so that the quotient may
+be 
+2
+4
+27
+−
+
+
+
+
+
+
+?
+In questions 118 and 119, find the value of n.
+118.
+3
+–2
+6
+6
+6
+n
+=
+119.
+6
+18
+–3
+2
+2
+2
+2
+n ×
+=
+120.
+x
+x
+–3
+–3
+–6
+125
+5
+25
+×
+×
+×
+121.
+2
+4
+2
+16 10
+64
+2
+4
+×
+×
+×
+122. If 
+3
+–2
+12
+–5
+5
+5
+5
+5
+5
+m ×
+×
+=
+, find m.
+123. A new born bear weighs 4 kg. How many kilograms might a five year
+old bear weigh if its weight increases by the power of 2 in 5 years?
+124. The cells of a bacteria double in every 30 minutes. A scientist begins
+with a single cell. How many cells will be there after
+(a)
+12 hours
+(b)
+24 hours
+125. Planet A is at a distance of 9.35 × 106 km from Earth and planet B is
+6.27 × 107 km from Earth. Which planet is nearer to Earth?
+126. The cells of a bacteria double itself every hour. How many cells will
+there be after 8 hours, if initially we start with 1 cell. Express the
+answer in powers.
+12/04/18
+
+
+
+127. An insect is on the 0 point of a number line, hopping towards 1. She
+covers half the distance from her current location to 1 with each
+hop. So, she will be at 1
+2 after one hop, 3
+4 after two hops, and so on.
+(a)
+Make a table showing the insect’s location for the first 10 hops.
+(b) Where will the insect be after n hops?
+(c)
+Will the insect ever get to 1? Explain.
+128. Predicting the ones digit, copy and complete this table and answer
+the questions that follow.
+Powers Table 
+x 
+1
+x 
+2
+x 
+3
+x 
+4
+x 
+5
+x 
+6
+x 
+7
+x 
+8
+x 
+9
+x 
+10
+x 
+1 
+1 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+1 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+1 
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+1 
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+1 
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+1 
+64 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+1 
+128 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+1 
+256 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ones 
+Digits 
+of the 
+Powers 
+1 
+2,4,8,6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a)
+Describe patterns you see in the ones digits of the powers.
+(b) Predict the ones digit in the following:
+1. 412
+2. 920
+3. 317
+4. 5100
+5. 10500
+(c)
+Predict the ones digit in the following:
+1. 3110
+2. 1210
+3. 1721
+4. 2910
+12/04/18
+
+
+
+129. Astronomy The table shows the mass of the planets, the sun and
+the moon in our solar system.
+(a)
+Write the mass of each planet and the Moon in scientific notation.
+(b) Order the planets and the moon by mass, from least to greatest.
+(c)
+Which planet has about the same mass as earth?
+130. Investigating Solar System The table shows the average distance
+from each planet in our solar system to the sun.
+(a) Complete the table by expressing the distance from each planet
+to the Sun in scientific notation.
+(b) Order the planets from closest to the sun to farthest from the sun.
+131. This table shows the mass of one atom for five chemical elements.
+Use it to answer the question given.
+Element
+   Mass of atom (kg)
+Titanium
+7.95 × 10–26
+Lead
+3.44 × 10–25
+Planet 
+Distance from Sun 
+(km) 
+Distance from Sun 
+(km) Standard 
+Notation 
+Earth 
+149,600,000 
+1.496 × 10
+8 
+Jupiter 
+778,300,000  
+Mars 
+227,900,000  
+Mercury 
+57,900,000  
+Neptune 
+4,497,000,000  
+Pluto 
+5,900,000,000  
+Saturn 
+1,427,000,000  
+Uranus 
+2,870,000,000  
+Venus 
+108,200,000  
+ 
+Celestial 
+Body 
+Mass (kg) 
+Mass (kg) 
+Standard 
+Notation 
+Sun 
+1,990,000,000,000,000,000,000,000,000,000 1.99 × 10
+30 
+Mercury 
+330,000,000,000,000,000,000,000  
+Venus 
+4,870,000,000,000,000,000,000,000  
+Earth 
+5,970,000,000,000,000,000,000,000  
+Mars 
+642,000,000,000,000,000,000,000,000,000  
+Jupiter 
+1,900,000,000,000,000,000,000,000,000  
+Saturn 
+568,000,000,000,000,000,000,000,000  
+Uranus 
+86,800,000,000,000,000,000,000,000  
+Neptune 
+102,000,000,000,000,000,000,000,000  
+Pluto 
+12,700,000,000,000,000,000,000  
+Moon 
+73,500,000,000,000,000,000,000  
+ 
+12/04/18
+
+
+
+Silver
+1.79 × 10–25
+Lithium
+1.15 × 10–26
+Hydrogen
+1.674 × 10–27
+(a)
+Which is the heaviest element?
+(b) Which element is lighter, Silver or Titanium?
+(c)
+List all five elements in order from lightest to heaviest.
+132. The planet Uranus is approximately 2,896,819,200,000 metres away
+from the Sun. What is this distance in standard form?
+133. An inch is approximately equal to 0.02543 metres. Write this distance
+in standard form.
+134. The volume of the Earth is approximately 7.67 × 10–7 times the
+volume of the Sun. Express this figure in usual form.
+135. An electron’s mass is approximately 9.1093826 × 10–31 kilograms.
+What is this mass in grams?
+136. At the end of the 20th century, the world population was
+approximately 6.1 × 109 people. Express this population in usual
+form. How would you say this number in words?
+137. While studying her family’s history. Shikha discovers records of
+ancestors 12 generations back. She wonders how many ancestors
+she has had in the past 12 generations. She starts to make a diagram
+to help her figure this out. The diagram soon becomes very complex.
+Shikha
+Parents,
+Past (Generation 1)
+Grandparents,
+Past (Generation 2)
+Great-grandparents,
+Past (Generation 3)
+(a)
+Make a table and a graph showing the number of ancestors in
+each of the 12 generations.
+(b) Write an equation for the number of ancestors in a given
+generation n.
+12/04/18
+
+
+
+138. About 230 billion litres of water flows through a river each day. How
+many litres of water flows through that river in a week? How many
+litres of water flows through the river in an year? Write your answer
+in standard notation.
+139. A half-life is the amount of time that it takes for a radioactive
+substance to decay to one half of its original quantity.
+Suppose radioactive decay causes 300 grams of a substance to
+decrease to 300 × 2–3 grams after 3 half-lives. Evaluate 300 × 2–3 to
+determine how many grams of the substance are left.
+Explain why the expression 300 × 2–n can be used to find the amount
+of the substance that remains after n half-lives.
+140. Consider a quantity of a radioactive substance. The fraction of this
+quantity that remains after t half-lives can be found by using the
+expression 3–t.
+(a)
+What fraction of substance remains after 7 half-lives?
+(b) After how many half-lives will the fraction be 1
+243 of the original?
+141. One Fermi is equal to 10–15 metre. The radius of a proton is 1.3
+Fermis. Write the radius of a proton in metres in standard form.
+142. The paper clip below has the indicated length. What is the length in
+standard form.
+143. Use the properties of exponents to verify that each statement is true.
+(a)
+n
+n –2
+1 (2 )
+2
+4
+=
+(b) 
+( )
+–1
+1
+4
+4
+4
+n
+n
+=
+              (c) 25(5n–2) = 5n
+144. Fill in the blanks
+145. There are 864,00 seconds in a day. How many days long is a second?
+Express your answer in scientific notation.
+12/04/18
+
+
+
+146. The given table shows the crop production of a State in the year
+2008 and 2009. Observe the table given below and answer the given
+questions.
+Crop
+2008 Harvest
+Increase/Decrease
+(Hectare)
+(Hectare) in 2009
+Bajra
+1.4 × 103
+– 100
+Jowar
+1.7 × 106
+– 440,000
+Rice
+3.7 × 103
+– 100
+Wheat
+5.1 × 105
++ 190,000
+(a)
+For which crop(s) did the production decrease?
+(b)
+Write the production of all the crops in 2009 in their standard form.
+(c)
+Assuming the same decrease in rice production each year as in 2009,
+how many acres will be harvested in 2015? Write in standard form.
+147.
+Stretching Machine
+Suppose you have a stretching machine which could stretch almost
+anything. For example, if you put a 5 metre stick into a (× 4)
+stretching machine (as shown below), you get a 20 metre stick.
+Now if you put 10 cm carrot into a (× 4) machine, how long will it be
+when it comes out?
+×4
+10 cm
+?
+148.
+Two machines can be hooked together. When something is sent
+through this hook up, the output from the first machine becomes
+the input for the second.
+(a)
+Which two machines hooked together do the same work a ( ×102)
+machine does? Is there more than one arrangement of two machines
+that will work?
+12/04/18
+
+
+
+(b) Which stretching machine does
+the same work as two (× 2)
+machines hooked together?
+149. Repeater Machine
+Similarly, repeater machine is a hypothetical machine which
+automatically enlarges items several times. For example, sending a
+piece of wire through a (× 24) machine is the same as putting it
+through a (× 2) machine four times. So, if you send a 3 cm piece of
+wire through a (× 24) machine, its length becomes 3 × 2 × 2 × 2 × 2 =
+48 cm. It can also be written that a base (2) machine is being applied
+4 times.
+What will be the new length of a 4 cm strip inserted in the machine?
+150. For the following repeater machines, how many times the base
+machine is applied and how much the total stretch is?
+(a)
+(b)
+(c)
+151. Find three repeater machines that will do the same work as a (×64)
+machine. Draw them, or describe them using exponents.
+152. What will the following machine do to a 2 cm long piece of chalk?
+12/04/18
+
+
+
+153. In a repeater machine with 0 as an exponent, the base machine is
+applied 0 times.
+(a)
+What do these machines do to a piece of chalk?
+(b) What do you think the value of 60 is?
+You have seen that a hookup of repeater machines with the same
+base can be replaced by a single repeater machine. Similarly, when
+you multiply exponential expressions with the same base, you can
+replace them with a single expression.
+Asif Raza thought about how he could rewrite the expression 2
+× 2 .
+20
+5
+2 ×
+25
+2 ... it's too long
+to write out... hmmm...
+But it's 25 factors of 2 and 5
+more. So it's 25 factors of
+2, which is 2 . I see... I can
+just add the exponents!
+5
+25
+Asif Raza’s idea is one of the product laws of exponents, which can
+be expressed like this:
+Multiplying Expressions with the Same Base
+ab × ac  = ab+c
+Actually, this law can be used with more than two expressions. As
+long as the bases are the same, to find the product you can add the
+exponents and use the same base. For example:
+32 × 33 × 310 = 32+3+10
+               = 315
+12/04/18
+
+
+
+154. Shrinking Machine
+In a shrinking machine, a piece of stick is compressed to reduce its
+length. If 9 cm long sandwich is put into the shrinking machine
+below, how many cm long will it be when it emerges?
+155. What happens when 1 cm worms are sent through these hook-ups?
+(i) 
+      (ii) 
+156. Sanchay put a 1cm stick of gum through a (1 × 3–2) machine. How
+long was the stick when it came out?
+157. Ajay had a 1cm piece of gum. He put it through repeater machine
+given below and it came out 
+1
+100,000 cm long. What is the missing
+value?
+158. Find a single machine that will do the same job as the given hook-up.
+(a)
+a  (× 23) machine followed by (× 2–2)  machine.
+(b) a (× 24) machine followed by 
+2
+1
+2
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+ machine.
+(c)
+a (× 599)  machine followed by a (5–100) machine.
+12/04/18
+
+
+
+Maya multiplied (42 × 32) by thinking about stretching machines.
+Use Maya’s idea to multiply 53 × 23
+Maya’s idea is another product law of exponents.
+Multiplying Expressions with the Same Exponents
+ac × bc = (a × b)c
+You can use this law with more than two expressions. If the exponents
+are the same, multiply the expressions by multiplying the bases and
+using the same exponent. For example, 28 × 38 × 78 = (2 × 3 × 7)8 = 428
+159. Find a single repeater machine that will do the same work as each
+hook-up.
+(a)
+(b)
+(c)
+12/04/18
+
+
+
+(d)
+(e)
+(f)
+160. For each hook-up, determine whether there is a single repeater
+machine that will do the same work. If so, describe or draw it.
+(a)
+(b)
+(c)
+(d)
+12/04/18
+
+
+
+(e)
+161. Shikha has an order from a golf course designer to put palm trees
+through a (× 23) machine and then through a (× 33) machine. She
+thinks she can do the job with a single repeater machine. What
+single repeater machine should she use?
+162. Neha needs to stretch some sticks to 252 times their original lengths,
+but her (×25) machine is broken. Find a hook-up of two repeater
+machines that will do the same work as a (×252) machine. To get
+started, think about the hookup you could use to replace the (×25)
+machine.
+163. Supply the missing information for each diagram.
+(a)
+?
+5 cm
+5 cm
+(b)
+?
+3 cm
+15 cm
+12/04/18
+
+
+
+(c)
+(d)
+×4
+×3
+?
+36 cm
+164. If possible, find a hook-up of prime base number machine that will
+do the same work as the given stretching machine. Do not use (× 1)
+machines.
+(a)
+(b)
+(c)
+(d)
+165. Find two repeater machines that will do the same work as a (× 81)
+machine.
+166, Find a repeater machine that will do the same work as a (× 1
+8 )
+machine.
+167. Find three machines that can be replaced with hook-ups of (× 5)
+machines.
+168. The left column of the chart lists the lengths of input pieces of ribbon.
+Stretching machines are listed across the top. The other entries are
+the outputs for sending the input ribbon from that row through the
+machine from that column. Copy and complete the chart.
+Input Length
+Machine
+× 2
+1
+5
+         3
+15
+14
+   7
+12/04/18
+
+
+
+169. The left column of the chart lists the lengths of input chains of gold.
+Repeater machines are listed across the top. The other entries are
+the outputs you get when you send the input chain from that row
+through the repeater machine from that column. Copy and complete
+the chart.
+Input Length
+Repeater Machine
+× 23
+   40
+               125
+         2
+  162
+170. Long back in ancient times, a farmer saved the life of a king’s
+daughter. The king decided to reward the farmer with whatever he
+wished. The farmer, who was a chess champion, made an unusal
+request:
+“I would like you to place 1 rupee on the first square of my chessboard,
+2 rupees on the second square, 4 on the third square, 8 on the
+fourth square, and so on, until you have covered all 64 squares.
+Each square should have twice as many rupees as the previous
+square.” The king thought this to be too less and asked the farmer to
+think of some better reward, but the farmer didn’t agree.
+How much money has the farmer earned?
+[Hint: The following table may help you. What is the first square on
+which the king will place at least Rs 10 lakh?]
+Position of Square
+Amount
+on chess board
+(in Rs)
+1st square
+1
+2nd square
+2
+3rd square
+4
+171. The diameter of the Sun is 1.4 × 109 m and the diameter of the Earth
+is 1.2756 × 107 m. Compare their diameters by division.
+172. Mass of Mars is 6.42 × 1029 kg and mass of the Sun is 1.99 × 1030
+kg. What is the total mass?
+12/04/18
+
+
+
+173. The distance between the Sun and the Earth is 1.496 × 108 km and
+distance between the Earth and the Moon is 3.84 × 108 m. During
+solar eclipse the Moon comes in between the Earth and the Sun.
+What is distance between the Moon and the Sun at that particular
+time?
+174. A particular star is at a distance of about 8.1 × 1013 km from the
+Earth. Assuring that light travels at 3 × 108 m per second, find how
+long does light takes from that star to reach the Earth.
+175. By what number should (–15)–1 be divided so that the quotient may
+be equal to (–5)–1?
+176. By what number should (–8)–3  be multiplied so that that the product
+may be equal to (–6)–3?
+177. Find x.
+(1)
+x
+–5
+–7
+1
+1
+( 7)
+7
+7
+ 
+ 
+ 
+ 
+−
+÷ −
+= −
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2)
+x
+x
+2
+6
+3
+2
+2
+2
+2
+5
+5
+5
++
++
+ 
+ 
+ 
+ 
+ 
+ 
+×
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3)
+2x + 2x + 2x = 192
+(4)
+x 7
+6
+1
+7
+−
+−
+ 
+ 
+=
+ 
+ 
+ 
+ 
+(5)
+23x = 82x+1
+(6)
+5x + 5x–1 = 750
+178. If a = – 1, b = 2, then find the value of the following:
+(1) ab + ba
+(2)
+ab – ba
+(3)
+ab × b2
+(4) ab  ba
+179. Express each of the following in exponential form:
+(1)
+1296
+14641
+−
+(2)
+125
+343
+−
+(3)
+400
+3969
+(4)
+625
+10000
+−
+180. Simplify:
+(1) 
+1
+2
+3
+–3
+1
+1
+2
+2
+4
+−
+ 
+ 
+ 
+ 
+ 
+ 
+−
+= ×
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12/04/18
+
+
+
+(2)
+(
+)
+2
+2
+2
+4
+3
+3
+4
+−
+−
+ 
+ 
+ 
+ 
+ 
+ 
+−
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3) 
+4
+2
+3
+4
+13
+7
+13
+7
+4
+
+
+
+
+
+
+×
+×
+
+
+
+
+
+
+
+
+
+
+
+
+(4) 
+45
+–60
+28
+–43
+1
+1
+1
+1
+5
+5
+5
+5
++
+
+
+
+
+
+
+
+
+×
+−
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5)
+t
+t
+3
+4
+–2
+4
+2
+(9)
+27
+(3)
+(3)
+×
+×
+×
+×
+(6)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+t
+t
+2
+3
+2
+–2
+2
+–3
+5
+2
+3
+–2
+3
+–4
+3
+5
+3
+5
+−
+−
+×
+×
+×
+×
+
+Activity 1
+To make ballot papers for the upcoming school elections, cut a sheet
+of paper in half. Stack the two pieces and cut them in half again.
+Stack the resulting four pieces and cut them in half again. Repeat
+this process, creating smaller sized ballot papers.
+Count the ballots and record the result in the table below.
+Number of Cuts
+Number of
+Ballot papers
+1
+  2
+2
+  4
+3
+  8
+4
+16
+12/04/18
+
+
+
+Now, answer the following:
+(a)
+Can you predict the number of ballot papers after n number of
+cuts?
+(b) Suppose you could make 40 cuts. How many ballot papers would
+you have?
+(c)
+How many cuts would it take to make enough ballot papers for
+512 students at school?
+(d) Suppose you start with a sheet of paper having area 324 cm2.
+Copy and complete the table to show the area of each ballot
+paper after each of the first 10 cuts.
+Number of Cuts
+Area (cm2)
+0
+324
+1
+162
+2
+81
+3
+4
+5
+6
+7
+8
+9
+10
+Observe the table and write an expression which gives the area
+of  ballot papers after n number of cuts on sheet of given area A.
+(e)
+If you want 512 ballot papers each having area 16 cm2, then
+what will be the area of starting paper?
+Activity 2
+1. To meke ballot papers cut a sheet of paper into three. Stack the
+three pieces and cut the stack into three. Stack all the pieces and
+cut the stack into three again.
+12/04/18
+
+
+
+            
+ so on.
+1st Step
+2nd Step
+3rd Step
+(a)
+Complete the table to show the number of ballot papers after
+five such steps:
+Number of Steps
+Number of Ballot Paper
+1
+3
+2
+3
+4
+5
+(b)
+Suppose you continue this process. How many ballot papers would
+you have after 15 steps? How many would you have after n cuts?
+(c)
+How  many steps would it take to make at least one lakh ballot
+paper?
+Crossword
+Across
+(1) In xm × xn = xp , p is the _________ of m and n.
+(1)
+–7 is the _______ of 2 exponents –5 and –2.
+(2)
+Very large numbers like 6,250,000,000 can be conveniently written
+using _______.
+(3)
+The value of an if n = 0.
+(4)
+Very small numbers can be expressed in standard form using
+_____ exponents.
+Down
+(5)
+The value of 3–2.
+12/04/18
+
+
+
+(6) The value of 
+–3
+1
+2
+.
+(7) 57 is read as 5 raised to the ______ of 7.
+(8) As the exponent decreases by 1, the value becomes ______ of the
+previous value.
+(9) a–m is the ______ inverse of am.
+(10) 1.24 × 10–4 is known as the ________ form of 0.000124.
+12/04/18
+
+EXPONENTS AND POWERS  279
+UNIT-8
+Rough Work
+12/04/18
+
+280    EXEMPLAR PROBLEMS
+MATHEMATICS
+Rough Work
+12/04/18

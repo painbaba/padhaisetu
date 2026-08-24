@@ -1,0 +1,179 @@
+(A) Main Concepts and Results
+•
+To bisect a given angle,
+•
+To draw the perpendicular bisector of a line segment,
+•
+To construct angles of 15°, 30°, 45°, 60°, 90°, etc.
+•
+To construct a triangle given its base, a base angle and the sum of other two sides,
+•
+To construct a triangle given its base, a base angle and the difference of other two
+sides,
+•
+To construct a triangle given its perimeter and the two base angles
+•
+Geometrical construction means using only a ruler and a pair of compasses as
+geometrical instruments.
+(B) Multiple Choice Questions
+Sample Question 1: With the help of a ruler and a compass, it is possible to
+construct an angle of :
+(A)
+35°
+(B)
+40°
+(C)
+37.5°
+(D)
+47.5°
+Solution : Answer (C)
+Sample Question 2: The construction of a triangle ABC in which AB = 4 cm,
+∠A = 60° is not possible when difference of  BC and AC is equal to:
+(A)
+3.5 cm
+(B)
+4.5 cm
+(C)
+3 cm
+(D)
+2.5 cm
+Solution : Answer (B)
+CONSTRUCTIONS
+CHAPTER 11
+16/04/18
+16/04/18
+
+EXERCISE 11.1
+1.
+With the help of a ruler and a compass it is not possible to construct an angle of :
+(A)
+37.5°
+(B)
+40°
+(C)
+22.5°
+(D)
+67.5°
+2.
+The construction of a triangle ABC, given that BC = 6 cm, ∠B = 45° is not
+possible when difference of AB and AC is equal to:
+(A)     6.9 cm
+(B)   5.2 cm
+(C)    5.0 cm
+(D)4.0 cm
+3.
+The construction of a triangle ABC, given that BC = 3 cm, ∠C = 60° is possible
+when difference of  AB and AC is equal to :
+(A)
+3.2 cm
+(B)
+3.1 cm
+(C)
+3 cm
+(D)
+2.8 cm
+(C) Short Answer Questions with Reasoning
+Write True or False and give reasons for your answer.
+Sample Question 1 : An angle of 67.5° can be constructed.
+Solution : True. As 67.5° = 135
+1 (90
+45 )
+2
+2
+° =
+° +
+° .
+EXERCISE 11.2
+Write True or False in each of the following. Give reasons for your answer:
+1.
+An angle of 52.5° can be constructed.
+2.
+An angle of 42.5° can be constructed.
+3.
+A triangle ABC can be constructed in which AB = 5 cm, ∠A = 45° and BC +
+AC = 5 cm.
+4.
+A triangle ABC can be constructed in which BC = 6 cm, ∠C = 30° and AC –
+AB = 4 cm.
+5.
+A triangle ABC can be constructed in which ∠ B = 105°,  ∠C =  90° and  AB + BC +
+AC = 10 cm.
+6.
+A triangle ABC can be constructed in which ∠ B = 60°,  ∠C =  45° and  AB + BC + AC =
+12 cm.
+(D) Short Answer Questions
+Sample Question 1 : Construct a triangle ABC in which BC = 7.5 cm, ∠B = 45° and
+AB – AC = 4 cm.
+Solution : See Mathematics Textbook for Class IX.
+CONSTRUCTIONS
+109
+16/04/18
+16/04/18
+
+110
+EXEMPLAR PROBLEMS
+EXERCISE 11.3
+1.
+Draw an angle of 110° with the help of a protractor and bisect it. Measure each
+angle.
+2.
+Draw a line segment AB of 4 cm in length. Draw a line perpendicular to AB
+through A and B, respectively. Are these lines parallel?
+3.
+Draw an angle of 80° with the help of a protractor. Then construct angles of (i) 40°
+(ii)160° and (iii) 120°.
+4.
+Construct a triangle whose sides are 3.6 cm, 3.0 cm and 4.8 cm. Bisect the smallest
+angle and measure each part.
+5.
+Construct a triangle ABC in which BC = 5 cm, ∠B = 60° and AC + AB = 7.5 cm.
+6.
+Construct a square of side 3 cm.
+7.
+Construct a rectangle whose adjacent sides are of lengths 5 cm and 3.5 cm.
+8.
+Construct a rhombus whose side is of length 3.4 cm and one of its angles is 45°.
+(E) Long Answer Questions
+Sample Question 1 : Construct an equilateral triangle if its altitude is 6 cm. Give
+justification for your construction.
+Solution : Draw a line XY. Take any point D on this line. Construct perpendicular PD
+on XY. Cut a line segment AD from D equal to 6 cm.
+Make 
+angles
+equal to 30° at A
+on both sides of
+AD, say ∠CAD
+and ∠BAD where
+B and C lie on XY.
+Then ABC is the
+required triangle.
+Justification
+Since ∠A = 30° +
+30° = 60° and
+AD ⊥BC, ∆ABC
+is an equilateral
+triangle 
+with
+altitude AD =
+6 cm.
+Fig. 11.1
+16/04/18
+16/04/18
+
+CONSTRUCTIONS
+111
+EXERCISE 11.4
+Construct each of the following and give justification :
+1.
+A triangle if its perimeter is 10.4 cm and two angles are 45° and 120°.
+2.
+A triangle PQR given that QR = 3cm, ∠ PQR = 45° and QP – PR = 2 cm.
+3.
+A right triangle when one side is 3.5 cm and sum of other sides and the hypotenuse
+is 5.5 cm.
+4.
+An equilateral triangle if its altitude is 3.2 cm.
+5.
+A rhombus whose diagonals are 4 cm and 6 cm in lengths.
+16/04/18
+16/04/18

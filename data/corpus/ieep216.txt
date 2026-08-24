@@ -1,0 +1,987 @@
+The weightage or the distribution of marks over different dimensions of the question
+paper shall be as follows:
+1.   Weightage to Content/ Subject Units
+S.No.
+Units
+Marks
+1.
+Number Systems
+06
+2.
+Algebra
+20
+3.
+Coordinate Geometry
+06
+4.
+Geometry
+22
+5.
+Mensuration
+14
+6.
+Statistics and Probability
+12
+2   Weightage to Forms of Questions
+S.No.
+Forms of
+Marks for each
+Number of
+Total Marks
+Questions
+Question
+Questions
+1.
+MCQ
+01
+10
+10
+2.
+SAR
+02
+05
+10
+3.
+SA
+03
+10
+30
+4.
+LA
+06
+05
+30
+Total
+30
+80
+DESIGN  OF  THE  QUESTION  PAPER
+MATHEMATICS – CLASS IX
+Time : 3 Hours
+Maximum Marks : 80
+SET-II
+16/04/18
+16/04/18
+
+3.   Scheme of Options
+All questions are compulsory, i.e., there is no overall choice. However, internal
+choices are provided in two questions of 3 marks each and 1 question of 6 marks.
+4.   Weightage to Difficulty Level of Questions
+S.No.
+Estimated Difficulty
+Percentage of Marks
+Level of Questions
+1.
+Easy
+20
+2.
+Average
+60
+3.
+Difficult
+20
+Note
+A question may vary in difficulty level from individual to individual. As such, the
+assessment in respect of each question will be made by the paper setter/ teacher on
+the basis of general anticipation from the groups as whole taking the examination. This
+provision is only to make the paper balanced in its weight, rather to determine the
+pattern of marking at any stage.
+DESIGN OF THE QUESTION PAPER, SET-II
+185
+16/04/18
+16/04/18
+
+186
+EXEMPLAR PROBLEMS
+BLUE PRINT
+MATHEMATICS – CLASS  IX
+Forms of Questions →
+MCQ
+SAR
+SA
+LA
+Total
+Content Units
+↓
+NUMBER SYSTEMS
+1 (1)
+2 (1)
+3 (1)
+–
+6 (3)
+ALGEBRA
+Polynomials, Linear
+Equations in
+Two Variables
+1 (1)
+4 (2)
+9 (3)
+6 (1)
+20 (7)
+COORDINATE
+GEOMETRY
+1 (1)
+2 (1)
+3 (1)
+–
+6 (3)
+GEOMETRY
+Introduction to Euclid’s
+Geometry, Lines and
+Angles, Triangles,
+Quadrilaterals, Areas,
+Circles, Constructions
+4 (4)
+–
+6 (2)
+12 (2)
+22 (8)
+MENSURATION
+Areas, Surface areas
+and Volumes
+2 (2)
+–
+6 (2)
+6 (1)
+14 (5)
+STATISTICS AND
+PROBABILITY
+Statistics, Probability
+1 (1)
+2 (1)
+3 (1)
+6 (1)
+12 (4)
+Total
+10 (10)
+10 (05)
+30 (10)
+30 (05) 80 (30)
+SUMMARY
+Multiple Choice Questions (MCQ)
+Number of Questions: 10
+Marks: 10
+Short Answer with Reasoning (SAR)
+Number of Questions: 05
+Marks: 10
+Short Answer (SA)
+Number of Questions: 10
+Marks: 30
+Long Answer (LA)
+Number of Questions: 05
+Marks: 30
+Total
+30
+80
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+187
+MATHEMATICS
+CLASS IX
+Time: 3 hours
+Maximum Marks: 80
+General Instructions
+1.
+All questions are compulsory.
+2.
+The question paper consists of four sections A, B, C and D. Section A has 10
+questions of 1 mark each, section B has 5 questions of 2 marks each, section C has
+10 questions of 3 marks each and section D is of 5 questions of 6 marks each.
+3.
+There is no overall choice. However internal choices are provided in 2 questions of
+3 marks each and 1 question of 6 marks.
+4.
+Construction should be drawn neatly and exactly as per the given measurements.
+5.
+Use of calculators is not allowed.
+SECTION  A
+In Questions 1 to 10, four options of answer are given in each, out of which only one is
+correct. Write the correct option.
+1.
+Which of the following represent a line parallel to x-axis?
+(A)
+3
+x
+y
++
+=
+(B)
+2
+3
+7
+x +
+=
+(C)
+2
+3
+1
+y
+y
+−
+=
++
+   (D)
+3
+0
+x +
+=
+2.
+Zero of the polynomial ( )
+3
+5
+=
++
+p x
+x
+ is :
+(A)
+0
+(B)
+– 5
+(C)      5
+3
+   (D)
+5
+3
+−
+3.
+The abscissa of a point P, in cartesian plane, is the perpendicular distance of P
+from:
+(A)
+y-axis
+(B)
+x-axis
+(C)
+origin
+(D)
+line y = x
+4.
+The reflex angle is an angle:
+(A)
+less than 90°
+(B)
+greater than 90°
+(C)
+less than 180°
+(D)
+greater than 180°
+5.
+If the lines l, m, and n are such that l m
+
+ and m n
+
+, then
+(A)
+l
+n
+
+(B)
+l
+n
+⊥
+(C)
+l and n are intersecting
+(D)
+l
+n
+=
+16/04/18
+16/04/18
+
+188
+EXEMPLAR PROBLEMS
+6.
+In Fig.1, ∠ B   < ∠ A and
+∠D > ∠C, then:
+(A)
+AD   >   BC
+(B)
+AD   =   BC
+(C)
+AD   <   BC
+(D)
+AD   =   2BC
+7.
+In Fig. 2, the measure
+of ∠ BCD is:
+(A)
+100°
+(B)
+70°
+(C)
+80°
+(D)
+30°
+8.
+The height of a cone of diameter
+10 cm and slant height 13cm is:
+(A)
+69 cm
+(B)
+12 cm
+(C)
+13 cm
+(D)
+194 cm
+9.
+The surface area of a solid hemisphere with radius r is
+(A)
+4πr2
+(B)
+2πr2
+(C)
+3πr2
+(D)
+3
+2
+3 r
+π
+10. If the mode of the following data
+10, 11, 12, 10, 15, 14, 15, 13, 12, x, 9, 7 is 15, then the value of x is:
+(A)
+10
+(B)
+15
+(C)
+12
+(D)
+21
+2
+SECTION  B
+11. Find an irrational number between two numbers 1
+7 and 2
+7 and justify your answer.
+Fig. 1
+Fig. 2
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+189
+It is given that 1
+0.142857
+7 =
+12. Without actually dividing, find the remainder when 
+4
+3
+2
+2
+1
+x
+x
+x
+x
++
+−
++
++ is divided
+by 
+1
+x −, and justify your answer.
+13. Give the equations of two lines passing through (2, 10). How many more such lines
+are there, and why?
+14. Two points with coordinates (2, 3) and (2, –1) lie on a line, parallel to which axis?
+Justify your answer.
+15. A die was rolled 100 times and the number of times, 6 came up was noted.
+If the experimental probability calculated from this information is 2
+5 , then how
+many times 6 came up? Justify your answer.
+SECTION  C
+16. Find three rational numbers between 2
+5 and 3
+5 .
+17. Factorise: 
+3
+3
+54
+250
+a
+b
+−
+18. Check whether the polynomial
+( )
+3
+2
+2
+4
+15
+p y
+y
+y
+y
+=
++
++
+−
+ is a multiple of (2y – 3).
+19. If the point (3, 4) lies on the graph of the equation 2
+6
+y
+ax
+=
++
+, find whether (6, 5)
+also lies on the same graph.
+20. Plot (–3, 0), (5, 0) and (0, 4) on cartesian plane. Name the figure formed by joining
+these points and find its area.
+21. Diagonals AC and BD of a trapezium ABCD with AB DC
+
+, intersect each other
+at O. Prove that ar(AOD) = ar(BOC).
+OR
+ABCD is a rectangle in which diagonal AC bisects ∠A as well as ∠C. Show that
+ABCD is a square.
+22. Construct a triangle PQR in which ∠Q = 60° and  ∠R = 45° and PQ + QR + PR
+= 11 cm.
+16/04/18
+16/04/18
+
+190
+EXEMPLAR PROBLEMS
+23. Find the area of a triangle two sides of which are 18 cm and 10 cm and the
+perimeter is 42 cm.
+24. A cylindrical pillar is 50 cm in diameter and 3.5 m in height. Find the cost of
+painting the curved surface of the pillar at the rate of Rs 12.50 per m2.
+OR
+The height of a solid cone is 16 cm and its base radius is 12 cm. Find the total
+surface area of cone. 
+22
+Use 
+7
+
+
+π =
+
+
+
+
+25. A die is thrown 400 times, the frequency of the outcomes of the events are given
+as under.
+Outcome
+1
+2
+3
+4
+5
+6
+Frequency
+70
+65
+60
+75
+63
+67
+Find the probability of occurence of an odd number.
+SECTION  D
+26. A field is in the shape of a trapezium whose parallel sides are 25 m and 10 m. The
+non-parallel sides are 14 m and 13 m. Find the area of the field.
+27. Draw a histogram and frequency polygon for the following distribution:
+Marks Obtained
+0 - 10
+10 - 20 20 - 30 30 - 40 40 - 50 50 - 60 60 - 70 70 - 80
+No. of Students
+7
+10
+6
+8
+12
+3
+2
+2
+28. Prove that two triangles are congruent if two
+angles and the included side of one triangle
+are equal to two angles and the included side
+of the other triangle.
+Using above, prove that CD bisects AB, in
+Figure 3, where AD and BC are equal
+perpendiculars to line segment AB.
+Fig. 3
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+191
+29. Prove that equal chords AB and CD of a circle subtend equal angles at the centre.
+Use the above to find ∠ABO in Figure 4, where O is the centre of the circle
+Fig. 4
+30. Factorise the expression
+3
+3
+2
+2
+8
+27
+36
+54
+x
+y
+x y
+xy
++
++
++
+OR
+The Linear equation that converts Fahrenheit to Celsius is 
+9
+F
+C
+32
+5
+ 
+ 
+=
++
+ 
+ 
+ 
+ 
+Draw the graph of the equation using Celsius for x-axis and Fahrenheit for y-axis.
+From the graph find the temperature in Fahrenheit for a temprature of 30°C.
+16/04/18
+16/04/18
+
+192
+EXEMPLAR PROBLEMS
+Marking  Scheme
+MATHEMATICS – CLASS IX
+SECTION  A
+1.
+(C)
+2.
+(D)
+3.
+(A)
+4.
+(D)
+5.
+(A)
+6.
+(C)
+7.
+(C)
+8.
+(B)
+9.
+(C)
+10.
+(B)
+(1 × 10 = 10)
+SECTION  B
+11. Since 1
+7 = 0.142857 142857 ... and
+( 1
+2 )
+2
+7 = 0.285714 285714 ...
+( 1
+2 )
+Therefore, an irrational number between 1
+7 and 2
+7
+( 1
+2 )
+can be 0.1501500 15000 ...
+( 1
+2 )
+12. Let p(x) = x4 + x3 – 2x2 + x + 1, then by Remainder theorem,
+on dividing with x – 1, remainder is f (1)
+(1 1
+2 )
+Therefore, remainder = 1 + 1 – 2 + 1 + 1 = 2
+( 1
+2 )
+13. 3x – y + 4 = 0, x – y + 8 = 0
+( 1
+2 )
+Through one point, infinitely many lines can pass.
+Therefore, infinitely many such lines will be there.
+(1 1
+2 )
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+193
+14. Parallel to y-axis.
+( 1
+2 )
+Since x-coordinate of both points is 2.
+So, both points lie on the line x = 2 which is parallel to y-axis.
+(1 1
+2 )
+15. Answer is 40
+( 1
+2 )
+Probability of an event = frequency of the event occurring
+the total number of trials
+Therefore, 2
+, i.e.,
+40
+5
+100
+x
+x
+=
+=
+(1 1
+2 )
+SECTION  C
+16. 2
+8
+5
+20
+=
+ and 3
+12
+5
+20
+=
+(1)
+Therefore, three rational numbers can be 9
+10 11
+,
+,
+20 20 20
+(2)
+17. 54a3 – 250b3 = 2[27a3 – 125b3]
+(1)
+=  2[(3a)3 – (5b)3]
+( 1
+2 )
+= 2(3a – 5b) (9a2 + 15ab + 25b2)
+(1 1
+2 )
+18. p(y) is a multiple of (2y – 3) if (2y – 3) is a factor of p(y).
+(1)
+Therefore, p 3
+2
+
+
+
+
+
+ must be zero
+3
+2
+3
+3
+3
+3
+2
+4
+15
+2
+2
+2
+2
+p
+
+
+
+
+
+
+
+=
++
++
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(1)
+16/04/18
+16/04/18
+
+194
+EXEMPLAR PROBLEMS
+= 27
+9
+6
+15
+9
+6 –15
+0
+4
+4
++
++
+−
+=
++
+=
+Hence, p(y) is a multiple of (2y – 3)
+(1)
+19. Since, (3, 4) lies on 2y = ax + 6. Therefore, 8 = 3a, i.e., a = 2
+3
+(1)
+Now, we have 2y = 2
+6
+3 x +
+( 1
+2 )
+Putting x = 6, y = 5, we get 10 = 2.6
+6
+4
+6
+10
+3
++
+=
++
+=
+(1)
+Hence (6, 5) lies on the same graph
+( 1
+2 )
+20. Correct plotting figure formed is a triangle
+(1 1
+2 )
+Figure formed is a triangle
+( 1
+2 )
+Area = 1
+8
+4
+16
+2 × ×
+=
+ sq. unit
+(1)
+21. ar  (ABD) = ar  (ABC)
+(1)
+[∆s between same parallels and on the same base]
+Therefore, ar (ABD) – ar (AOB) =
+ar  (ABC) – ar  (AOB)
+(1)
+i.e., ar (AOD) = ar (BOC)
+(1)
+OR
+Given ABCD is a rectangle
+with ∠1 = ∠2 and ∠3 = ∠4
+( 1
+2 )
+But  ∠1 = ∠4            (alternate angles)
+(1)
+Therefore, we have ∠2 = ∠4, which means AB = BC, similarly AD = CD
+( 1
+2 )
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+195
+Hence, ABCD is a square.
+(1)
+22. For neat and accurate construction
+(3)
+23. a = 18 cm, b = 10 cm.       Therefore, c = 42 – 28 = 14 cm and s = 21
+( 1
+2 )
+∆ = 
+(
+) (
+) (
+)
+s s
+a
+s
+b
+s
+c
+−
+−
+−
+( 1
+2 )
+    =  
+(21) (3) (11) (7)
+(1)
+    = 21 11  or 69.69 cm2 (Approx)
+(1)
+24. r = 25 cm, h = 3.5 m
+( 1
+2 )
+C.S.A. = 2πrh
+           = 
+2
+22
+25
+35
+11
+2
+m
+7
+100
+10
+2
+×
+×
+×
+=
+(1 1
+2 )
+Therefore, cost = Rs 11 12.50
+2 ×
+ = Rs 68.75
+(1)
+OR
+h = 16 cm and r = 12 cm,    therefore, l = 
+2
+2
+20 cm
+h
+r
++
+=
+(1)
+Total surface area = πrl + πr2 = πr (l + r)
+(1)
+= 22
+6
+12
+32
+1206
+7
+7
+×
+×
+=
+ cm2
+(1)
+25. Sum of frequencies = 400
+( 1
+2 )
+Odd numbers are 1, 3, 5
+Therefore, frequency of all odd numbers = 70 + 60 + 63 = 193
+(1)
+P(event) = Frequency of occurring of event
+The total number of trials
+( 1
+2 )
+16/04/18
+16/04/18
+
+196
+EXEMPLAR PROBLEMS
+Therefore, probability of occurence of odd number = 193
+400
+(1)
+SECTION  D
+26. Let AL = x, therefore,  BM = 15 – x
+( 1
+2 )
+Now 132 – x2 = (14)2 – (15 – x)2
+1
+Solving to get x = 6.6 m
+( 1
+2 )
+Therefore, height DL = 
+2
+2
+(13)
+(6.6)
+−
+( 1
+2 )
+                                = 11.2 m
+(1)
+Therefore, area of trapezium = 1
+2 (sum of parallel sides) × height
+(1)
+                                         = 1 (10
+25) (11.2)
+2
++
+m2
+(1)
+                                         = 196 m2
+( 1
+2 )
+27. For correctly making the histogram
+(4)
+For correctly making the frequency polygon
+(2)
+16/04/18
+16/04/18
+
+DESIGN OF THE QUESTION PAPER, SET-II
+197
+28. For correct given, to prove, construction and figure
+( 1
+2 ×4 = 2)
+For correct proof
+(2)
+∠A = ∠B = 90º
+( 1
+2 )
+∠1 = ∠2             (vert. opp. angles)
+AD = BC                 (Given)
+( 1
+2 )
+Therefore, ∆ AOD ≅ ∆ BOC          [AAS]
+( 1
+2 )
+Therefore, AO = OB, i.e., CD bisects AB
+( 1
+2 )
+29. For correct given, to prove, construction and figure
+( 1
+2 ×4=2)
+For correct proof
+(2)
+∠ AOB = ∠ DOC = 70°
+(1)
+Therefore, ∠ ABO = 180° – [70° + 40°] = 70°
+(1)
+30. 8x3 + 27y3 + 36x2y + 54xy2
+= (2x)3 + (3y)3 + 18xy (2x + 3y)
+(2)
+= (2x)3 + (3y)3 + 3(2x) (3y) (2x + 3y)
+(2)
+= (2x + 3y)3 = (2x + 3y) (2x + 3y) (2x + 3y)
+(2)
+OR
+For correct graph taking Celsius on x-axis and Fahrenheit on y-axis
+(4)
+From graph getting F = 86 for C = 30
+(2)
+16/04/18
+16/04/18
+
+NOTES
+16/04/18
+16/04/18
+
+NOTES
+16/04/18
+16/04/18
+
+Other Exemplar Problems
+by NCERT
+
+Exemplar Problems in Science for Class IX
+
+Exemplar Problems in Physics for Class XI
+
+Exemplar Problems in Chemistry for Class XI
+
+Exemplar Problems in Mathematics for Class XI
+
+Exemplar Problems in Biology for Class XI
+16/04/18
+16/04/18

@@ -1,0 +1,604 @@
+(A) Main Concepts and Results
+An equation is a statement  in which one expression equals to another expression. An
+equation of the form ax + by + c = 0, where a, b and c are real numbers such that
+a ≠ 0 and b ≠ 0, is called a linear equation in two variables. The process of finding
+solution(s) is called solving an equation.
+The solution of a linear equation is not affected when
+(i)
+the same number is added to (subtracted from) both sides of the equation,
+(ii)
+both sides of the equation are multiplied or divided by the same non-zero
+number.
+Further, a linear equation in two variables has infinitely many solutions. The graph of
+every linear equation in two variables is a straight line and every point on the graph
+(straight line) represents a solution of the linear equation. Thus, every solution of the
+linear equation can be represented by a unique point on the graph of the equation. The
+graphs of x = a and y = a are lines parallel to the y-axis and x-axis, respectively.
+(B) Multiple Choice Questions
+Write the correct answer:
+Sample Question 1 : The linear equation 3x – y = x – 1 has :
+(A)
+A unique solution
+(B)
+Two solutions
+(C)
+Infinitely many solutions
+(D)
+No solution
+Solution :  Answer (C)
+Sample Question 2 : A linear equation in two variables is of the form
+ax + by + c = 0, where
+LINEAR  EQUATIONS  IN  TWO  VARIABLES
+CHAPTER 4
+16/04/18
+16/04/18
+
+34
+EXEMPLAR PROBLEMS
+(A) a ≠ 0, b ≠ 0
+(B) a = 0, b ≠ 0
+(C) a ≠ 0, b = 0
+(D) a = 0, c = 0
+Solution : Answer (A)
+Sample Question 3 : Any point on the y-axis is of the form
+(A)
+(x, 0)
+(B)
+(x, y)
+(C)
+(0, y)
+(D)
+( y, y)
+Solution : Answer (C)
+EXERCISE 4.1
+Write the correct answer in each of the following :
+1.
+The linear equation 2x – 5y = 7 has
+(A)
+A unique solution
+(B)
+Two solutions
+(C)
+Infinitely many solutions
+(D)
+No solution
+2.
+The equation 2x + 5y = 7 has a unique solution, if x, y are :
+(A)
+Natural numbers
+(B)
+Positive real numbers
+(C)
+Real numbers
+(D)
+Rational numbers
+3.
+If (2, 0) is a solution of the linear equation 2x + 3y = k, then the value of k is
+(A)
+4
+(B)
+6
+(C)    5
+(D)
+2
+4.
+Any solution of the linear equation 2x + 0y + 9 = 0 in two variables is of the form
+(A)
+(– 9
+2 , m)
+(B)
+(n, – 9
+2 )
+(C)
+(0, – 
+9
+2 )
+(D)
+(– 9, 0)
+5.
+The graph of the linear equation 2x + 3y = 6 cuts the y-axis at the point
+(A)
+(2, 0)
+(B)
+(0, 3)
+(C)
+(3, 0)
+(D)
+(0, 2)
+6.
+The equation x = 7, in two variables, can be written as
+(A)
+1 . x + 1 . y = 7
+(B)
+1. x + 0. y = 7
+(C)
+0 . x + 1 . y = 7
+(D)
+0 . x + 0 . y = 7
+7.
+Any point on the x-axis is of the form
+(A)
+(x, y)
+(B)
+(0, y)
+(C)
+(x, 0)
+(D)
+(x, x)
+8.
+Any point on the line y = x is of the form
+(A)
+(a, a)
+(B)
+(0, a)
+(C)
+(a, 0)
+(D)
+(a, – a)
+16/04/18
+16/04/18
+
+LINEAR EQUATIONS IN TWO VARIABLES
+35
+9.
+The equation of x-axis is of the form
+(A)
+x = 0
+(B)
+y = 0
+(C)
+x + y = 0
+(D)
+x = y
+10. The graph of y = 6 is a line
+(A)
+parallel to x-axis at a distance 6 units from the origin
+(B)
+parallel to y-axis at a distance 6 units from the origin
+(C)
+making an intercept 6 on the x-axis.
+(D)
+making an intercept 6 on both the axes.
+11. x = 5, y = 2 is a solution of the linear equation
+(A)
+x + 2 y = 7
+(B)
+5x + 2y = 7 (C)
+x + y = 7
+(D)
+5 x + y = 7
+12. If a linear equation has solutions (–2, 2), (0, 0) and (2, – 2), then it is of the form
+(A)
+y – x = 0
+(B)
+x + y = 0
+(C)
+–2x + y = 0
+(D)
+–x + 2y = 0
+13. The positive solutions of the equation ax + by + c = 0 always lie in the
+(A)
+1st quadrant
+(B)
+2nd quadrant
+(C)
+3rd quadrant
+(D)
+4th quadrant
+14. The graph of the linear equation 2x + 3y = 6 is a line which meets the x-axis at the
+point
+(A)
+(0, 2)
+(B)
+(2, 0)
+(C)
+(3, 0)
+(D)
+(0, 3)
+15. The graph of the linear equation y = x passes through the point
+(A)
+3
+3
+,
+2
+2
+−
+
+
+
+
+
+
+(B)
+3
+0, 2
+
+
+
+
+
+
+(C)
+(1, 1)
+(D)
+1 1
+,
+2
+2
+−
+
+
+
+
+
+
+16. If we multiply or divide both sides of a linear equation with a non-zero number, then
+the solution of the linear equation :
+(A)
+Changes
+(B)
+Remains the same
+(C)
+Changes in case of multiplication only
+(D)
+Changes in case of division only
+17. How many linear equations in x and y can be satisfied by x = 1 and y = 2?
+(A)
+Only one
+(B)
+Two
+(C)
+Infinitely many   (D) Three
+18. The point of the form (a, a) always lies on :
+(A)
+x-axis
+(B)
+y-axis
+(C)
+On the line y = x
+(D)
+On the line x + y = 0
+16/04/18
+16/04/18
+
+36
+EXEMPLAR PROBLEMS
+19. The point of the form (a, – a) always lies on the line
+(A)
+x = a
+(B)
+y = – a
+(C)
+y  =  x
+(D)
+x + y = 0
+(C) Short Answer Questions with Reasoning
+Sample Question 1 : Write whether the following statements are True or False?
+Justify your answers.
+(i)
+ax + by + c = 0, where a, b and c are real numbers, is a linear equation in
+two variables.
+(ii)
+A linear equation 2x + 3y = 5 has a unique solution.
+(iii)
+All the points (2, 0), (–3, 0), (4, 2) and (0, 5) lie on the x-axis.
+(iv)
+The line parallel to the y-axis at a distance 4 units to the left of y-axis is given
+by the equation x = – 4.
+(v)
+The graph of the equation y = mx + c passes through the origin.
+Solution :
+(i)
+False, because ax + by + c = 0 is a linear equation in two variables if both
+a and b are non-zero.
+(ii)
+False, because a linear equation in two variables has infinitely many solutions.
+(iii)
+False, the points (2, 0), (–3, 0) lie on the x-axis. The point (4, 2) lies in the
+first quadrant. The point (0, 5) lies on the  y-axis.
+(iv)
+True, since the line parallel to y-axis at a distance a units to the left of y-axis
+is given by the equation x = – a.
+(v)
+False, because  x = 0, y = 0 does not satisfy the equation.
+Sample Question 2 : Write whether the following statement is True or False? Justify
+your answer.
+The coordinates of points given in the table :
+x
+0
+1
+2
+3
+4
+y
+2
+4
+6
+8
+10
+represent some of the solutions of the equation 2x + 2 = y.
+Solution :  True, since on looking at the coordinates, we observe that each y-coordiante
+is two units more than double the x-coordinate.
+16/04/18
+16/04/18
+
+LINEAR EQUATIONS IN TWO VARIABLES
+37
+EXERCISE 4.2
+Write whether the following statements are True or False? Justify your answers :
+1.
+The point (0, 3) lies on the graph of the linear equation 3x + 4y = 12.
+2.
+The graph of the linear equation x + 2y = 7 passes through the point (0, 7).
+3.
+The graph given below represents the linear equation x + y = 0.
+Fig. 4.1
+4.
+The graph given below represents the linear equation
+x = 3 (see Fig. 4.2).
+5.
+The coordinates of points in the table:
+x
+0
+1
+2
+3
+4
+y
+2
+3
+4
+–5
+6
+represent some of the solutions of the equation
+x – y + 2 = 0.
+6.
+Every point on the graph of a linear equation in two
+variables does not represent a solution of the linear
+equation.
+7.
+The graph of every linear equation in two variables need not be a line.
+(D) Short Answer Questions
+Sample Question 1 : Find the points where the graph of the equation 3x + 4y = 12
+cuts the x-axis and the y-axis.
+Solution : The graph of the linear equation 3x + 4y = 12 cuts the x-axis at the point
+where y = 0. On putting y = 0 in the linear equation, we have 3x = 12, which gives
+x = 4. Thus, the required point is (4, 0).
+Fig. 4.2
+16/04/18
+16/04/18
+
+38
+EXEMPLAR PROBLEMS
+The graph of the linear equation 3x + 4y = 12 cuts the y-axis at the point where x = 0.
+On putting x = 0 in the given equation, we have 4y = 12, which gives y = 3. Thus, the
+required point is (0, 3).
+Sample Question 2 : At what point does the graph of the linear equation x + y = 5
+meet a line which is parallel to the  y-axis, at a distance 2 units from the origin and in the
+positive direction of x-axis.
+Solution : The coordinates of the points lying on the line parallel to the  y-axis, at a
+distance 2 units from the origin and in the positive direction of the x-axis are of the form
+(2, a). Putting x = 2, y = a in the equation x + y = 5, we get a = 3. Thus, the required
+point is (2, 3).
+Sample Question 3 : Determine the point on the graph of the equation 2x + 5y = 20
+whose x-coordinate is 5
+2 times its ordinate.
+Solution : As the x-coordinate of the point is 5
+2 times its ordinate, therefore, x = 5
+2 y.
+Now putting x = 5
+2 y in 2x + 5y = 20, we get, y = 2. Therefore, x = 5. Thus, the required
+point is (5, 2).
+Sample Question 4 : Draw the graph of the equation
+represented by the straight line which is parallel to the
+x-axis and is 4 units above it.
+Solution : Any straight line parallel to x-axis is given by
+y = k, where k is the distance of the line from the x-axis.
+Here k = 4. Therefore, the equation of the line is y = 4.
+To draw the graph of this equation, plot the points (1, 4)
+and (2, 4) and join them. This is the required graph
+(see Fig. 4.3).
+EXERCISE 4.3
+1.
+Draw the graphs of linear equations
+y = x and y = – x on the same cartesian plane.
+What do you observe?
+Fig. 4.3
+16/04/18
+16/04/18
+
+LINEAR EQUATIONS IN TWO VARIABLES
+39
+2.
+Determine the point on the graph of the linear equation 2x + 5y = 19, whose
+ordinate is 1
+12
+ times its abscissa.
+3.
+Draw the graph of the equation represented by a straight line which is parallel to
+the x-axis and at a distance 3 units below it.
+4.
+Draw the graph of the linear equation whose solutions are represented by the
+points having the sum of the coordinates as 10 units.
+5.
+Write the linear equation such that each point on its graph has an ordinate 3 times
+its abscissa.
+6.
+If the point (3, 4) lies on the graph of 3y = ax + 7, then find the value of a.
+7.
+How many solution(s) of the equation 2x + 1 = x – 3 are there on the :
+(i)
+Number line
+(ii)
+Cartesian plane
+8.
+Find the solution of the linear equation x + 2y = 8 which represents a point on
+(i)
+x-axis
+(ii)
+y-axis
+9.
+For what value of c, the linear equation 2x + cy = 8 has equal values of x and y
+for its solution.
+10. Let y varies directly as x. If y = 12 when x = 4, then write a linear equation. What
+is the value of y when x = 5?
+(E) Long Answer Questions
+Sample Question 1 : Draw the graph of the linear equation 2x + 3y = 12. At what
+points, the graph of the equation cuts the x-axis and the  y-axis?
+Solution : The given equation is 2x + 3y = 12. To draw the graph of this equation, we
+need at least two points lying on the graph.
+From the equation, we have y =  12 2
+3
+x
+−
+For x = 0, y = 4, therefore, (0, 4) lies on the graph.
+For y = 0, x = 6, therefore, (6, 0) lies on the graph.
+Now plot the points A (0, 4) and B (6, 0) and
+join them (see Fig 4.4), to get the line AB.
+Line AB is the required graph.
+You can see that the graph (line AB) cuts
+the x-axis at the point (6, 0) and the y-axis at
+the point (0, 4).
+Fig. 4.4
+16/04/18
+16/04/18
+
+40
+EXEMPLAR PROBLEMS
+Sample Question 2 : The following values of x and y are thought to satisfy a linear
+equation :
+x
+1
+2
+y
+1
+3
+Draw the graph, using the values of x, y as given in the above table.
+At what point the graph of the linear equation
+(i)
+cuts the x-axis. (ii)
+cuts the y-axis.
+Solution : From the table, we get two points
+A (1, 1) and B (2, 3) which lie on the graph of the
+linear equation. Obviously, the graph will be a
+straight line. So, we first plot the points A and B
+and join them as shown in the Fig 4.5.
+From the Fig 4.5, we see that the graph cuts the
+x-axis at the point 1 , 0
+2
+
+
+
+
+
+ and the y-axis at the
+point (0, –1).
+Sample Question 3 : The Autorikshaw fare
+in a city is charged Rs 10 for the first kilometer
+and @ Rs 4 per kilometer for subsequent
+distance covered. Write the linear equation to
+express the above statement. Draw the graph
+of the linear equation.
+Solution : Let the total distance covered be
+x km and the fare charged Rs y. Then for the
+first km, fare charged is Rs 10 and for
+remaining (x –1) km fare charged is
+Rs 4 (x – 1).
+Therefore, y = 10 + 4(x – 1) = 4x + 6
+The required equation is y = 4x + 6. Now, when
+x = 0, y = 6 and when x = –1, y = 2. The graph
+is given in Fig 4.6.
+Sample Question 4 : The work done by a body on application of a constant force is
+the product of the constant force and the distance travelled by the body in the direction
+of  force. Express this in the form of a linear equation in two variables and draw its
+Fig. 4.5
+Fig. 4.6
+16/04/18
+16/04/18
+
+LINEAR EQUATIONS IN TWO VARIABLES
+41
+graph by taking the constant force as 3 units. What is the work done when the distance
+travelled is 2 units. Verify it by plotting the graph.
+Solution: Work done = (constant force) × (distance)
+= 3 × (distance),
+i.e., y = 3x, where y (units) is the work done and
+x (units) is the distance travelled. Since x = 2 units
+(given), therefore, work done = 6 units. To plot
+the graph of the linear equation y = 3x, we need at
+least two solutions of the equation. We see that
+x = 0, y = 0 satisfies the given equation also x = 1,
+y = 3 satisfies the equation.
+Now we plot the points A (0, 0) and B (1, 3) and
+join AB (see Fig. 4.7). The graph of the equation
+is a straight line. [We have not shown the whole
+line because work done cannot be negative].
+To verify from the graph, draw a perpendicular to
+the x-axis at the point (2, 0) meeting the graph at
+the point C. Clearly the coordinates of C are
+(2, 6). It means that the work done is 6 units.
+EXERCISE 4.4
+1.
+Show that the points A (1, 2), B (– 1, – 16) and C (0, – 7) lie on the graph of the
+linear equation y = 9x – 7.
+2.
+The following observed values of x and y are thought to satisfy a linear equation.
+Write the linear equation :
+x
+6
+– 6
+y
+–2
+6
+Draw the graph using the values of x, y as given in the above table.
+At what points the graph of the linear equation
+(i)
+cuts the x-axis
+(ii)
+cuts the y-axis
+3.
+Draw the graph of the linear equation 3x + 4y = 6. At what points, the graph cuts
+the x-axis and the y-axis.
+Fig. 4.7
+16/04/18
+16/04/18
+
+42
+EXEMPLAR PROBLEMS
+4.
+The linear equation that converts Fahrenheit (F) to Celsius (C) is given by the
+relation
+5F 160
+C
+9
+−
+=
+(i)
+If the temperature is 86°F, what is the temperature in Celsius?
+(ii)
+If the temperature is 35°C, what is the temperature in Fahrenheit?
+(iii)
+If the temperature is 0°C what is the temperature in Fahrenheit and if the
+temperature is 0°F, what is the temperature in Celsius?
+(iv)
+What is the numerical value of the temperature which is same in both the
+scales?
+5.
+If the temperature of a liquid can be measured in Kelvin units as x°K or in Fahrenheit
+units as y°F, the relation between the two systems of measurement of temperature
+is given by the linear equation
+y = 9
+5 (x – 273) + 32
+(i)
+Find the temperature of the liquid in Fahrenheit if the temperature of the
+liquid is 313°K.
+(ii)
+If the temperature is 158°F, then find the temperature in Kelvin.
+6.
+The force exerted to pull a cart is directly proportional to the acceleration produced
+in the body. Express the statement as a linear equation of  two variables and draw
+the graph of the same by taking the constant mass equal to 6 kg. Read from the
+graph, the force required when the acceleration produced is (i) 5 m/sec2,
+(ii) 6 m/sec2.
+16/04/18
+16/04/18

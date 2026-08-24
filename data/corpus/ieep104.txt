@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multiple Choice Questions
+1.
+Which of the following correctly represent the electronic distribution in the
+Mg atom?
+(a) 3, 8, 1
+(b) 2, 8, 2
+(c) 1, 8, 3
+(d) 8, 2, 2
+2.
+Rutherford’s ‘alpha (α) particles scattering experiment’ resulted in to
+discovery of
+(a) Electron
+(b) Proton
+(c) Nucleus in the atom
+(d) Atomic mass
+3.
+The number of electrons in an element X is 15 and the number of neutrons
+is 16. Which of the following is the correct representation of the element?
+(a)
+31
+15 X
+(b)
+31
+16 X
+(c) 16
+15 X
+(d) 15
+16 X
+4.
+Dalton’s atomic theory successfully explained
+(i) Law of conservation of mass
+(ii) Law of constant composition
+(iii) Law of radioactivity
+(iv) Law of multiple proportion
+(a) (i), (ii) and (iii)
+(b) (i), (iii) and (iv)
+(c) (ii), (iii) and (iv)
+(d) (i), (ii) and (iv)
+16-04-2018
+
+5.
+Which of the following statements about Rutherford’s model of atom are
+correct?
+(i) considered the nucleus as positively charged
+(ii) established that the α–particles are four times as heavy as a hydrogen
+atom
+(iii) can be compared to solar system
+(iv) was in agreement with Thomson’s model
+(a) (i) and (iii)
+(b) (ii) and (iii)
+(c) (i) and (iv)
+(d) only (i)
+6.
+Which of the following are true for an element?
+(i) Atomic number = number of protons + number of electrons
+(ii) Mass number = number of protons + number of neutrons
+(iii) Atomic mass = number of protons = number of neutrons
+(iv) Atomic number = number of protons = number of electrons
+(a) (i) and (ii)
+(b) (i) and (iii)
+(c) (ii) and (iii)
+(d) (ii) and (iv)
+7.
+In the Thomson’s model of atom, which of the following statments are correct?
+(i) the mass of the atom is assumed to be uniformaly distributed over the atom
+(ii) the positive charge is assumed to be uniformaly distributed over the atom
+(iii) the electrons are uniformaly distributed in the positively charged sphere
+(iv) the electrons attract each other to stabilise the atom
+(a) (i), (ii) and (iii)
+(b) (i) and (iii)
+(c) (i) and (iv)
+(d) (i), (iii) and (iv)
+8.
+Rutherford’s  α–particle scattering experiment showed that
+(i) electrons have negative charge
+(ii) the mass and positive charge of the atom is concentrated in the nucleus
+(iii) neutron exists in the nucleus
+(iv) most of the space in atom is empty
+Which of the above statements are correct?
+(a) (i) and (iii)
+(b) (ii) and (iv)
+(c) (i) and (iv)
+(d) (iii) and (iv)
+STRUCTURE OF THE ATOM
+27
+16-04-2018
+
+EXEMPLAR PROBLEMS
+28
+9.
+The ion of an element has 3 positive charges. Mass number of the atom is
+27 and the number of neutrons is 14. What is the number of electrons in
+the ion?
+(a) 13
+(b) 10
+(c) 14
+(d) 16
+10.
+Identify the Mg2+ ion from the Fig.4.1 where, n and p represent the number
+of neutrons and protons respectively
+(a)
+(b)
+(d)
+(c)
+11.
+In a sample of ethyl ethanoate (CH3COOC2H5) the two oxygen atoms have
+the same number of electrons but different number of neutrons. Which of
+the following  is the correct reason for it?
+(a) One of the oxygen atoms has gained electrons
+(b) One of the oxygen atoms has gained two neutrons
+(c) The two oxygen atoms are isotopes
+ (d) The two oxygen atoms are isobars.
+Fig. 4.1
+16-04-2018
+
+STRUCTURE OF THE ATOM
+29
+12.
+Elements with valency 1 are
+(a) always metals
+(b) always metalloids
+(c) either metals or non-metals
+(d) always non-metals
+13.
+The first model of an atom was given by
+(a) N. Bohr
+(b) E. Goldstein
+(c) Rutherford
+(d) J.J. Thomson
+14.
+An atom with 3 protons and 4 neutrons will have a valency of
+(a) 3
+(b) 7
+(c) 1
+(d) 4
+15.
+The electron distribution in an aluminium atom is
+(a) 2, 8, 3
+(b) 2, 8, 2
+(c) 8, 2, 3
+(d) 2, 3, 8
+16.
+Which of the following in Fig. 4.2 do not represent Bohr’s model of an atom
+correctly?
+(iii)
+(iv)
+(i)
+(ii)
+(a) (i) and (ii)
+(b) (ii) and (iii)
+(c) (ii) and (iv)
+(d) (i) and (iv)
+17.
+Which of the following statement is always correct?
+(a) An atom has equal number of electrons and protons.
+(b) An atom has equal number of electrons and neutrons.
+(c) An atom has equal number of protons and neutrons.
+(d) An atom has equal number of electrons, protons and neutrons.
+Fig. 4.2
+16-04-2018
+
+EXEMPLAR PROBLEMS
+30
+18.
+Atomic models have been improved over the years. Arrange the following
+atomic models in the order of their chronological order
+(i) Rutherford’s atomic model
+(ii) Thomson’s atomic model
+(iii) Bohr’s atomic model
+(a) (i), (ii) and (iii)
+(b) (ii), (iii) and (i)
+(c) (ii), (i) and (iii)
+(d) (iii), (ii) and (i)
+Short Answer Questions
+19.
+Is it possible for the atom of an element to have one electron, one proton
+and no neutron. If so, name the element.
+20.
+Write any two observations which support the fact that atoms are divisible.
+21.
+Will 35Cl and 37Cl have different valencies? Justify your answer.
+22.
+Why did Rutherford select a gold foil in his α–ray scattering experiment?
+23.
+Find out the valency of the atoms represented by the Fig. 4.3 (a) and (b).
+(a)
+(b)
+24.
+One electron is present in the outer most shell of the atom of an element X.
+What would be the nature and value of charge on the ion formed if this
+electron is removed from the outer most shell?
+25.
+Write down the electron distribution of chlorine atom. How many electrons
+are there in the L shell? (Atomic number of chlorine is 17).
+26.
+In the atom of an element X, 6 electrons are present in the outermost shell.
+If it acquires noble gas configuration by accepting requisite number of
+electrons, then what would be the charge on the ion so formed?
+Fig. 4.3
+16-04-2018
+
+STRUCTURE OF THE ATOM
+31
+(Z)
+27.
+What information do you get from the Fig. 4.4 about the atomic number,
+mass number and valency of atoms X, Y and Z? Give your answer  in a
+tabular form.
+28.
+In response to a question, a student stated that in an atom, the number of
+protons is greater than  the number of neutrons, which in turn is greater
+than the number of electrons. Do you agree with the statement? Justify
+your answer.
+29.
+Calculate the number of neutrons present in the nucleus of an element X
+which is represented as 31
+15 X
+30.
+Match the names of the Scientists given in column A with their contributions
+towards the understanding of the atomic structure as given in column B
+(A)
+(B)
+(a) Ernest Rutherford
+(i) Indivisibility of atoms
+(b) J.J.Thomson
+(ii) Stationary orbits
+(c) Dalton
+(iii) Concept of nucleus
+(d) Neils Bohr
+(iv) Discovery of electrons
+(e) James Chadwick
+(v) Atomic number
+(f) E. Goldstein
+(vi) Neutron
+(g) Mosley
+(vii) Canal rays
+31.
+The atomic number of calcium and  argon are 20 and 18 respectively, but
+the mass number of both these elements is 40. What is the name given to
+such a pair of elements?
+32.
+Complete the Table 4.1 on the basis of information available in the symbols
+given below
+(a)
+35
+17 Cl
+(b)
+12
+6 C
+(c)
+81
+35 Br
+Element
+      np
+       nn
+Fig. 4.4
+(X)
+(Y)
+Table 4.1
+16-04-2018
+
+EXEMPLAR PROBLEMS
+32
+33.
+Helium atom has 2 electrons in its valence shell but its valency is not 2,
+Explain.
+34.
+Fill in the blanks in the following statements
+(a) Rutherford’s α-particle scattering experiment led to the discovery of
+the ———
+(b) Isotopes have same ———but different———.
+(c) Neon and chlorine have atomic numbers 10 and 17 respectively. Their
+valencies will be———and———respectively.
+(d) The electronic configuration of silicon is ———and that of sulphur
+is ———.
+35.
+An element X has a mass number 4 and atomic number 2. Write the valency
+of this element?
+Long Answer Questions
+36.
+Why do Helium, Neon and Argon have a zero valency?
+37.
+The ratio of the radii of hydrogen atom and its nucleus is ~ 105. Assuming
+the atom and the nucleus to be spherical, (i) what will be the ratio of their
+sizes? (ii) If atom is represented by planet earth ‘Re’ = 6.4 ×106 m, estimate
+the size of the nucleus.
+38.
+Enlist the conclusions  drawn by Rutherford from his α-ray scattering
+experiment.
+39.
+In what way is the Rutherford’s atomic model different from that of
+Thomson’s atomic model?
+40.
+What were the drawbacks of Rutherford’s model of an atom?
+41.
+What are the postulates of Bohr’s model of an atom?
+42.
+Show diagramatically the electron distributions in a sodium atom and a
+sodium ion and also give their atomic number.
+43.
+In the Gold foil experiment of Geiger and Marsden, that paved the way for
+Rutherford’s model of an atom, ~ 1.00% of the α-particles were found to
+deflect at angles > 50º. If one mole of α-particles were bombarded on the
+gold foil, compute the number of α-particles that would deflect at angles
+less than 500.
+16-04-2018

@@ -1,0 +1,175 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multiple Choice Questions
+1.
+When a body falls freely towards the earth, then its total energy
+(a) increases
+(b) decreases
+(c) remains constant
+(d) first increases and then decreases
+2.
+A car is accelerated on a levelled road and  attains a velocity 4 times of its
+initial velocity. In this process the potential energy of the car
+(a) does not change
+(b) becomes twice to that of initial
+(c) becomes 4 times  that of initial
+(d) becomes 16 times  that of initial
+3.
+In case of negative work the angle between the force and displacement is
+(a)  00
+(b) 450
+(c) 900
+(d ) 1800
+4.
+An iron sphere of mass 10 kg has the same diameter as an aluminium
+sphere of mass is 3.5 kg. Both spheres are dropped simultaneously from a
+tower. When they are 10 m above the ground, they have the same
+(a) acceleration
+(b) momenta
+(c) potential energy
+(d) kinetic energy
+5.
+A girl is carrying a school bag of 3 kg mass on her back and moves 200
+m on a levelled road. The work done against the gravitational force will
+be (g =10 m s–2)
+(a) 6 ×103 J
+(b) 6 J
+(c) 0.6 J
+(d) zero
+6.
+Which one of the following is not the unit of energy?
+(a) joule
+(b) newton metre
+(c) kilowatt
+(d) kilowatt hour
+16-04-2018
+
+7.
+The work done on an object does not depend upon the
+(a) displacement
+(b) force applied
+(c) angle between force and displacement
+(d) initial velocity of the object
+8.
+Water stored in a dam possesses
+(a) no energy
+(b) electrical energy
+(c) kinetic energy
+(d) potential energy
+9.
+A body is falling from a height h. After it has fallen a height 
+h
+2 , it will possess
+(a) only potential energy
+(b) only kinetic energy
+(c) half potential and half kinetic energy
+(d) more kinetic and less potential energy
+Short Answer Questions
+10.
+A rocket is moving up with a velocity v. If the velocity of this rocket is suddenly
+tripled,  what will be the ratio of two kinetic energies?
+11.
+Avinash can run with a speed of 8 m s–1 against the frictional force of 10 N,
+and Kapil can move with a speed of 3 m s–1 against the frictional force of 25 N.
+Who is more powerful and why?
+12.
+A boy is moving on a straight road against a
+frictional force of 5 N. After travelling a distance
+of 1.5 km he forgot the correct path at a round
+about (Fig. 11.1) of  radius 100 m. However,
+he moves on the circular path for one and half
+cycle  and then he moves forward upto 2.0 km.
+Calculate the work done by him.
+13.
+Can any object have mechanical energy even if its momentum is zero?
+Explain.
+14.
+Can any object have momentum even if its mechanical energy is zero?
+Explain.
+15.
+The power of a motor pump is 2 kW. How much water per minute the
+pump can raise to a height of 10 m? (Given g = 10 m s–2)
+16.
+The weight of a person on a planet A is about half that on the earth. He can
+jump upto 0.4 m height on the surface of the earth. How high he can jump
+on the planet A?
+Fig. 11.1
+WORK AND ENERGY
+69
+16-04-2018
+
+EXEMPLAR PROBLEMS
+70
+17.
+The velocity of a body moving in a straight line is increased by applying a
+constant force F, for some distance in the direction of the motion. Prove
+that the increase in the kinetic energy of the body is equal to the work done
+by the force on the body.
+18.
+Is it possible that an object is in the state of accelerated motion due to
+external force acting on it, but no work is being done by the force. Explain
+it with an example.
+19.
+A ball is dropped from a height of 10 m. If the energy of the ball reduces by 40% after
+striking the ground, how much high can the ball bounce back? (g = 10 m s–2)
+20.
+If an electric iron of 1200 W is used for 30 minutes everyday, find electric
+energy consumed in the month of April.
+Long Answer Questions
+21.
+A light and a heavy object have the same momentum. Find out the ratio of
+their kinetic energies. Which one has a larger kinetic energy?
+22.
+An automobile engine propels a 1000 kg car (A) along a levelled road at a
+speed of 36 km h–1. Find the power if the opposing frictional force is 100 N.
+Now, suppose after travelling a distance of 200 m, this car collides with
+another stationary car (B) of same mass and comes to rest. Let its engine
+also stop at the same time. Now car (B) starts moving on the same level
+road without getting its engine started. Find the speed of the car (B) just
+after the collision.
+23.
+A girl having mass of 35 kg sits on a trolley of mass 5 kg. The trolley is
+given an initial velocity of 4 m s–1 by applying a force. The trolley comes to
+rest after traversing a distance of 16 m. (a) How much work is done on the
+trolley? (b) How much work is done by the girl?
+24.
+Four men lift a 250 kg box to a height of 1 m and hold it without raising or
+lowering it. (a) How much work is done by the men in lifting the box?
+(b) How much work do they do in just holding it? (c) Why do they get tired
+while holding it? (g = 10 m s–2)
+25.
+What is power? How do you differentiate kilowatt from kilowatt hour? The
+Jog Falls in Karnataka state are nearly 20 m high. 2000 tonnes of water
+falls from it in a minute. Calculate the equivalent power if all this energy
+can be utilized? (g = 10 m s–2)
+26.
+How is the power related to the speed at which a body can be lifted? How
+many kilograms will a man working at the power of 100 W, be able to lift at
+constant speed of 1 m s–1  vertically? (g = 10 m s–2)
+27.
+Define watt. Express kilowatt in terms of joule per second. A 150 kg car
+engine develops 500 W for each kg. What force does it exert in moving the
+car at a speed of 20 m s–1?
+28.
+Compare the power at which each of the following is moving upwards
+against the force of gravity? (given g = 10 m s–2)
+(i) a butterfly  of mass 1.0 g that flies upward at a rate of 0.5 m s–1.
+(ii) a 250 g squirrel climbing up on a tree at a rate of 0.5 m s–1.
+16-04-2018

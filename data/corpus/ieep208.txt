@@ -1,0 +1,577 @@
+(A) Main Concepts and Results
+Sides, Angles and diagonals of a quadrilateral; Different types of quadrilaterals:
+Trapezium, parallelogram, rectangle, rhombus and square.
+•
+Sum of the angles of a quadrilateral is 360º,
+•
+A diagonal of a parallelogram divides it into two congruent triangles,
+•
+In a parallelogram
+(i)
+opposite angles are equal
+(ii)
+opposite sides are equal
+(iii)
+diagonals bisect each other.
+•
+A quadrilateral is a parallelogram, if
+(i)
+its opposite angles are equal
+(ii)
+its opposite sides are equal
+(iii)
+its diagonals bisect each other
+(iv)
+a pair of opposite sides is equal and parallel.
+•
+Diagonals of a rectangle bisect each other and are equal and vice-versa
+•
+Diagonals of a rhombus bisect each other at right angles and vice-versa
+•
+Diagonals of a square bisect each other at right angles and are equal and vice-versa
+•
+The line-segment joining the mid-points of any two sides of a triangle is parallel to
+the third side and is half of it.
+QUADRILATERALS
+CHAPTER 8
+16/04/18
+16/04/18
+
+•
+A line drawn through the mid-point of a side of a triangle parallel to another side bisects
+the third side,
+•
+The quadrilateral formed by joining the mid-points of the sides of a quadrilateral,
+taken in order, is a parallelogram.
+(B) Multiple Choice Questions
+Write the correct answer :
+Sample Question 1 : Diagonals of a parallelogram ABCD intersect at O. If
+∠BOC = 90º and ∠BDC = 50º, then ∠OAB is
+(A)
+90º
+(B)
+50º
+(C)
+40º
+(D)
+10º
+Solution : Answer (C)
+EXERCISE 8.1
+Write the correct answer in each of the following:
+1.
+Three angles of a quadrilateral are 75º, 90º and 75º. The fourth angle is
+(A)
+90º
+(B)
+95º
+(C)
+105º
+(D)
+120º
+2.
+A diagonal of a rectangle is inclined to one side of the rectangle at 25º. The acute
+angle between the diagonals is
+(A)
+55º
+(B)
+ 50º
+(C)
+40º
+(D)
+25º
+3.
+ABCD is a rhombus such that ∠ACB = 40º. Then ∠ADB is
+(A)
+40º
+(B)
+45º
+(C)
+50º
+(D)
+60º
+4.
+The quadrilateral formed by joining the mid-points of the sides of a quadrilateral
+PQRS, taken in order, is a rectangle, if
+(A)
+PQRS is a rectangle
+(B)
+PQRS is a parallelogram
+(C)
+diagonals of PQRS are perpendicular
+(D)
+diagonals of PQRS are equal.
+5.
+The quadrilateral formed by joining the mid-points of the sides of a quadrilateral
+PQRS, taken in order, is a rhombus, if
+(A)
+PQRS is a rhombus
+(B)
+PQRS is a parallelogram
+(C)
+diagonals of PQRS are perpendicular
+(D)
+diagonals of PQRS are equal.
+QUADRILATERALS
+73
+16/04/18
+16/04/18
+
+74
+EXEMPLAR PROBLEMS
+6.
+If angles A, B, C and D of the quadrilateral ABCD, taken in order, are in the ratio
+3:7:6:4, then ABCD is a
+(A)
+rhombus
+(B)
+parallelogram
+(C)
+trapezium
+(D)
+kite
+7.
+If bisectors of  ∠A and  ∠B of a quadrilateral ABCD intersect each other at P, of
+∠B and ∠C at Q, of ∠C and ∠D at R and of ∠D and ∠A at S, then PQRS is a
+(A)
+rectangle
+(B)
+rhombus
+(C)
+parallelogram
+(D)
+quadrilateral whose opposite angles are supplementary
+8.
+If APB and CQD are two parallel lines, then the bisectors of the angles APQ,
+BPQ, CQP and PQD form
+(A)
+a square
+(B)
+a rhombus
+(C)
+a rectangle
+(D)
+any other parallelogram
+9.
+The figure obtained by joining the mid-points of the sides of a rhombus, taken in
+order, is
+(A)
+a rhombus
+(B)
+a rectangle
+(C)
+a square
+(D)
+any parallelogram
+10. D and E are the mid-points of the sides AB and AC of ∆ABC and O is any point on
+side BC. O is joined to A. If P and Q are the mid-points of OB and OC respectively,
+then DEQP is
+(A)
+a square
+(B)
+a rectangle
+(C)
+a rhombus
+(D)
+a parallelogram
+11. The figure formed by joining the mid-points of the sides of a quadrilateral ABCD,
+taken in order, is a square only if,
+(A)
+ABCD is a rhombus
+(B)
+diagonals of ABCD are equal
+ (C)
+diagonals of ABCD are equal and perpendicular
+(D)
+diagonals of ABCD are perpendicular.
+12. The diagonals AC and BD of a parallelogram ABCD intersect each other at the
+point O. If ∠DAC = 32º and ∠AOB = 70º, then ∠DBC is equal to
+(A)
+24º
+(B)
+86º
+(C)
+38º
+(D)
+32º
+13. Which of the following is not true for a parallelogram?
+(A)
+opposite sides are equal
+(B)
+opposite angles are equal
+(C)
+opposite angles are bisected by the diagonals
+(D)
+diagonals bisect each other.
+16/04/18
+16/04/18
+
+QUADRILATERALS
+75
+14. D and E are the mid-points of the sides AB and AC respectively of ∆ABC. DE is
+produced to F. To prove that CF is equal and parallel to DA, we need an additional
+information which is
+(A)
+∠DAE = ∠EFC
+(B)
+AE = EF
+(C)
+DE = EF
+(D)
+∠ADE = ∠ECF.
+(C) Short Answer Questions with Reasoning
+Sample Question 1 : ABCD is a parallelogram. If its diagonals are equal, then find
+the value of ∠ABC.
+Solution : As diagonals of the parallelogram ABCD are equal, it is a rectangle.
+Therefore, ∠ABC = 90º
+Sample Question 2 : Diagonals of a rhombus are equal and perpendicular to each
+other. Is this statement true? Give reason for your answer.
+Solution : This statement is false, because diagonals of a rhombus are perpendicular
+but not equal to each other.
+Sample Question 3 : Three angles of a quadrilateral ABCD are equal. Is it a
+parallelogram? Why or why not?
+Solution: It need not be a parallelogram, because we may have ∠A = ∠B = ∠C = 80º
+and ∠D = 120º. Here, ∠B ≠ ∠D.
+Sample Question 4 : Diagonals AC and BD of a quadrilateral ABCD intersect each
+other at O such that OA : OC = 3: 2. Is ABCD a parallelogram? Why or why not?
+Solution : ABCD is not a parallelogram, because diagonals of a parallelogram bisect
+each other. Here OA ≠ OC.
+EXERCISE 8.2
+1.
+Diagonals AC and BD of a parallelogram ABCD intersect each other at O.
+If OA = 3 cm and OD = 2 cm, determine the lengths of AC and BD.
+2.
+Diagonals of a parallelogram are perpendicular to each other. Is this statement
+true? Give reason for your answer.
+3.
+Can the angles 110º, 80º, 70º and 95º be the angles of a quadrilateral? Why or why
+not?
+16/04/18
+16/04/18
+
+76
+EXEMPLAR PROBLEMS
+4.
+In quadrilateral ABCD, ∠A + ∠D = 180º. What special  name can be given to this
+quadrilateral?
+5.
+All the angles of a quadrilateral are equal. What special name is given to this
+quadrilateral?
+6.
+Diagonals of a rectangle are equal and perpendicular. Is this statement true? Give
+reason for your answer.
+7.
+Can all the four angles of a quadrilateral be obtuse angles? Give reason for your
+answer.
+8.
+In ∆ABC, AB = 5 cm, BC = 8 cm and CA = 7 cm. If D and E are respectively the
+mid-points of AB and BC, determine the length of DE.
+9.
+In Fig.8.1, it is given that BDEF and FDCE are parallelograms. Can you say that
+BD = CD? Why or why not?
+10. In Fig.8.2, ABCD and AEFG are two
+parallelograms. If ∠C = 55º,
+determine ∠F.
+11. Can all the angles of a quadrilateral
+be acute angles? Give reason for
+your answer.
+12. Can all the angles of a quadrilateral
+be right angles? Give reason for your
+answer.
+13. Diagonals of a quadrilateral ABCD
+bisect each other. If ∠A = 35º,
+determine ∠B.
+Fig. 8.1
+Fig. 8.2
+16/04/18
+16/04/18
+
+QUADRILATERALS
+77
+14. Opposite angles of a quadrilateral ABCD are equal. If AB = 4 cm,
+determine CD.
+(D) Short Answer Questions
+Sample Question 1 : Angles of a quadrilateral are in the ratio 3 : 4 : 4 : 7. Find all the
+angles of the quadrilateral.
+Solution : Let the angles of the quadrilateral be 3x, 4x, 4x and 7x.
+So,
+3x + 4x + 4x + 7x = 360º
+or
+18x = 360º, i.e., x = 20º
+Thus, required angles are 60º, 80º, 80º and 140º.
+Sample Question 2 : In Fig.8.3, X and Y
+are respectively the mid-points of the opposite
+sides AD and BC of a parallelogram ABCD.
+Also, BX and DY intersect AC at P and Q,
+respectively. Show that AP = PQ = QC.
+Solution :
+AD =
+BC
+(Opposite sides of a parallelogram)
+Therefore,
+DX =
+BY  ( 1
+2 AD
+= 1
+2 BC)
+Also,
+DX ||
+BY  (As AD || BC)
+So, XBYD is a parallelogram (A pair of opposite sides equal and parallel)
+i.e.,
+PX ||
+QD
+Therefore,
+AP =
+PQ
+(From ∆AQD where X is mid-point of AD)
+Similarly, from ∆CPB, CQ =
+PQ
+(1)
+Thus,
+AP =
+PQ = CQ [From (1) and (2)]
+(2)
+Sample Question 3 : In Fig.8.4, AX and
+CY are respectively the bisectors of the
+opposite angles A and C of a parallelogram
+ABCD.
+Show that AX || CY.
+Fig. 8.3
+Fig. 8.4
+16/04/18
+16/04/18
+
+78
+EXEMPLAR PROBLEMS
+Solution : ∠A = ∠C
+(Opposite angles of parallelogram ABCD)
+Therefore,
+1
+2 ∠A = 1
+2 ∠C
+i.e.,
+∠YAX = ∠YCX
+(1)
+Also,
+∠AYC + ∠YCX = 180º  (Because YA || CX)
+(2)
+Therefore,
+∠AYC + ∠YAX = 180º
+[From (1) and (2)]
+So, AX || CY (As interior angles on the same side of the transversal are supplementary)
+EXERCISE 8.3
+1.
+One angle of a quadrilateral is of 108º and the remaining three angles are equal.
+Find each of the three equal angles.
+2.
+ABCD is a trapezium in which AB || DC and ∠A = ∠B = 45º. Find angles C and
+D of the trapezium.
+3.
+The angle between two altitudes of a parallelogram through the vertex of an obtuse
+angle of the parallelogram is 60º. Find the angles of the parallelogram.
+4.
+ABCD is a rhombus in which altitude from D to side AB bisects AB. Find the
+angles of the rhombus.
+5.
+E and F are points on diagonal AC of a parallelogram ABCD such that AE = CF.
+Show that BFDE is a parallelogram.
+6.
+E is the mid-point of the side AD of the
+trapezium ABCD with AB || DC. A line
+through E drawn parallel to AB intersect
+BC at F. Show that F is the mid-point of
+BC. [Hint: Join AC]
+7.
+Through A, B and C, lines RQ, PR and
+QP have been drawn, respectively parallel
+to sides BC, CA and AB of a ∆ ABC as
+shown in Fig.8.5. Show that BC = 1
+2 QR.
+8.
+D, E and F are the mid-points of the sides
+BC, CA and AB, respectively of an
+Fig. 8.5
+16/04/18
+16/04/18
+
+QUADRILATERALS
+79
+equilateral triangle ABC. Show that ∆
+DEF is also an equilateral triangle.
+9.
+Points P and Q have been taken on
+opposite sides AB and CD,
+respectively of a parallelogram ABCD
+such that AP = CQ (Fig. 8.6). Show
+that AC and PQ bisect each other.
+10. In Fig. 8.7, P is the mid-point of side
+BC of a parallelogram ABCD such that ∠BAP = ∠DAP. Prove that
+AD = 2CD.
+Fig. 8.7
+(E) Long Answer Questions
+Sample Question 1 : PQ and RS are two equal and parallel line-segments. Any point
+M not lying on PQ or RS is joined to Q and S and lines through P parallel to QM and
+through R parallel to SM meet at N. Prove that line segments MN and PQ are equal
+and parallel to each other.
+Solution : We draw the figure as per the given conditions (Fig.8.8).
+Fig. 8.8
+Fig. 8.6
+16/04/18
+16/04/18
+
+80
+EXEMPLAR PROBLEMS
+It is given that PQ = RS and PQ || RS. Therefore, PQSR is a parallelogram.
+So,
+PR = QS and PR || QS
+(1)
+Now,
+PR || QS
+Therefore,
+∠RPQ + ∠PQS = 180º
+(Interior angles on the same side of the transversal)
+i.e.,
+∠RPQ + ∠PQM + ∠MQS = 180º
+(2)
+Also,
+PN || QM  (By construction)
+Therefore,
+∠NPQ + ∠PQM = 180º
+i.e.,
+∠NPR + ∠RPQ + ∠PQM = 180º
+(3)
+So,
+∠NPR = ∠MQS [From (2) and (3)]
+(4)
+Similarly,
+∠NRP = ∠MSQ
+(5)
+Therefore,
+∆PNR ≅∆QMS [ASA, using (1), (4) and (5)]
+So,
+PN = QM and NR = MS (CPCT)
+As,
+PN = QM and
+PN || QM, we have PQMN is a parallelogram
+So,
+MN = PQ and NM || PQ.
+Sample Question 2 : Prove that a diagonal of a parallelogram divides it into two
+congruent triangles.
+Solution : See proof of Theorem 8.1 in the textbook.
+Sample Question 3 : Show that the quadrilateral formed by joining the mid-points the
+sides of a rhombus, taken in order, form a rectangle.
+Solution :  Let ABCD be a rhombus and P, Q, R and S be the mid-points of sides AB,
+BC, CD and DA, respectively (Fig. 8.9). Join AC and BD.
+Fig. 8.9
+16/04/18
+16/04/18
+
+QUADRILATERALS
+81
+From triangle ABD, we have
+SP =
+1
+2 BD and
+SP  || BD (Because S and P are mid-points)
+Similarly,
+RQ =
+1
+2 BD and RQ  || BD
+Therefore,
+SP = RQ and SP || RQ
+So, PQRS is a parallelogram.
+(1)
+Also,AC ⊥ BD (Diagonals of a rhombus are perpendicular)
+Further
+PQ || AC (From ∆BAC)
+As
+SP || BD, PQ || AC and AC ⊥ BD,
+therefore, we have
+SP ⊥ PQ, i.e. ∠SPQ = 90º.
+(2)
+Therefore, PQRS is a rectangle[From (1) and (2)]
+Sample Question 4 : A diagonal of a parallelogram bisects one of its angle. Prove
+that it will bisect its opposite angle also.
+Solution : Let us draw the figure as per given condition (Fig.8.10). In it, AC is a
+diagonal which bisects ∠BAD of the parallelogram ABCD, i.e., it is given that ∠BAC
+= ∠DAC. We need to prove that ∠BCA = ∠DCA.
+AB || CD and AC is a transversal.
+Therefore,
+∠BAC = ∠DCA (Alternate angles)
+(1)
+Similarly,
+∠DAC = ∠BCA (From AD || BC)
+(2)
+But it is given that
+∠BAC = ∠DAC
+(3)
+Therefore, from (1), (2) and (3), we have
+∠BCA = ∠DCA
+Fig. 8.10
+16/04/18
+16/04/18
+
+82
+EXEMPLAR PROBLEMS
+EXERCISE 8.4
+1.
+A square is inscribed in an isosceles right triangle so that the square and the triangle
+have one angle common. Show that the vertex of the square opposite the vertex of
+the common angle bisects the hypotenuse.
+2.
+In a parallelogram ABCD, AB = 10 cm and AD = 6 cm. The bisector of ∠A meets
+DC in E. AE and BC produced meet at F. Find the length of CF.
+3.
+P, Q, R and S are respectively the mid-points of the sides AB, BC, CD and DA of
+a quadrilateral ABCD in which AC = BD. Prove that PQRS is a rhombus.
+4.
+P, Q, R and S are respectively the mid-points of the sides AB, BC, CD and DA of
+a quadrilateral ABCD such that AC ⊥ BD. Prove that PQRS is a rectangle.
+5.
+P, Q, R and S are respectively the mid-points of sides AB, BC, CD and DA of
+quadrilateral ABCD in which AC = BD and AC ⊥ BD. Prove that PQRS is a
+square.
+6.
+A diagonal of a parallelogram bisects one of its angles. Show that it is a rhombus.
+7.
+P and Q are the mid-points of the opposite sides AB and CD of a parallelogram
+ABCD. AQ intersects DP at S and BQ intersects CP at R. Show that PRQS is a
+parallelogram.
+8.
+ABCD is a quadrilateral in which AB || DC and AD = BC. Prove that ∠A = ∠B
+and ∠C = ∠D.
+9.
+In Fig. 8.11, AB || DE, AB = DE, AC || DF and AC = DF. Prove that BC || EF and
+BC = EF.
+Fig. 8.11
+10. E is the mid-point of a median AD of ∆ABC and BE is produced to meet AC at F.
+Show that AF = 1
+3 AC.
+11. Show that the quadrilateral formed by joining the mid-points of the consecutive
+sides of a square is also a square.
+16/04/18
+16/04/18
+
+QUADRILATERALS
+83
+12. E and F are respectively the mid-points of the non-parallel sides AD and BC of a
+trapezium ABCD. Prove that EF || AB and EF = 1
+2 (AB + CD).
+[Hint: Join BE and produce it to meet CD produced at G.]
+13. Prove that the quadrilateral formed by the bisectors of the angles of a parallelogram
+is a rectangle.
+14. P and Q are points on opposite sides AD and BC of a parallelogram ABCD such
+that PQ passes through the point of intersection O of its diagonals AC and BD.
+Show that PQ is bisected at O.
+15. ABCD is a rectangle in which diagonal BD bisects ∠B. Show that ABCD is a
+square.
+16. D, E and F are respectively the mid-points of the sides AB, BC and CA of a
+triangle ABC. Prove that by joining these mid-points D, E and F, the triangles ABC
+is divided into four congruent triangles.
+17. Prove that the line joining the mid-points of the diagonals of a trapezium is parallel
+to the parallel sides of the trapezium.
+18. P is the mid-point of the side CD of a parallelogram ABCD. A line through C
+parallel to PA intersects AB at Q and DA produced at R. Prove that DA = AR and
+CQ = QR.
+16/04/18
+16/04/18

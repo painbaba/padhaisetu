@@ -1,0 +1,267 @@
+CONSTRUCTIONS
+CHAPTER 10
+(A) Main Concepts and Results
+•
+Division of a line segment internally in a given ratio.
+•
+Construction of a triangle similar to a given triangle as per given scale factor
+which may be less than 1 or greater than 1.
+•
+Construction of the pair of tangents from an external point to a circle.
+(B) Multiple Choice Questions
+Choose the correct answer from the given four options:
+Sample Question 1 : To divide a line segment AB in the ratio p : q (p, q are positive
+integers), draw a ray AX so that ∠BAX is an acute angle and then mark points on ray
+AX at equal distances such that the minimum number of these points is
+(A) greater of p and q
+(B) p + q
+(C) p + q – 1
+(D) pq
+Solution : Answer (B)
+Sample Question 2 : To draw a pair of tangents to a circle which are inclined to each
+other at an angle of 35°, it is required to draw tangents at the end points of those two
+radii of the circle, the angle between which is
+(A) 105°
+(B) 70°
+(C) 140°
+(D) 145°
+Solution : Answer (D)
+03/05/18
+
+114
+EXEMPLAR PROBLEMS
+EXERCISE 10.1
+Choose the correct answer from the given four options:
+1.
+To divide a line segment AB in the ratio 5:7, first a ray AX is drawn so that
+∠BAX is an acute angle and then at  equal distances points are marked on
+the ray AX such that the minimum number of these points is
+(A) 8
+(B) 10
+(C) 11
+(D) 12
+2.
+To divide a line segment AB in the ratio 4:7, a ray AX is drawn first such that
+∠BAX is an acute angle and then points A1, A2, A3, .... are located at equal
+distances on the ray AX and the point B is joined to
+(A) A12
+(B) A11
+(C) A10
+(D) A9
+3.
+To divide a line segment AB in the ratio 5 : 6, draw a ray AX such that ∠BAX
+is an acute angle, then draw a ray BY parallel to AX and the points
+A1, A2, A3, ... and B1, B2, B3, ... are located at equal distances on ray
+AX and BY, respectively. Then the points joined are
+(A) A5 and B6
+(B) A6 and B5
+(C) A4 and B5
+(D) A5 and B4
+4.
+To construct a triangle similar to a given ∆ABC with its sides 3
+7 of the
+corresponding sides of ∆ABC, first draw a ray BX such that ∠CBX is an
+acute angle and X lies on the opposite side of A with respect to BC. Then
+locate points B1, B2, B3, ... on BX at equal distances and next step is to join
+(A) B10 to C
+(B) B3 to C
+ (C) B7 to C
+(D) B4 to C
+5.
+To construct a triangle similar to a given ∆ABC with its sides 8
+5 of the
+corresponding sides of ∆ABC draw a ray BX such that ∠CBX is an acute
+angle and X is on the opposite side of A with respect to BC. The minimum
+number of points to be located at equal distances on ray BX is
+(A) 5
+(B) 8
+(C) 13
+(D) 3
+6.
+To draw a pair of tangents to a circle which are inclined to each other at an
+angle of 60°, it is required to draw tangents at end points of those two radii of
+the circle, the angle between them should be
+(A) 135°
+(B) 90°
+(C) 60°
+(D) 120°
+03/05/18
+
+CONSTRUCTION
+115
+(C) Short Answer Questions with Reasoning
+Write True or False and give reasons for your answer.
+Sample Questions 1 : By geometrical construction, it is possible to divide a line
+segment in the ratio 2
+3 : 2
+3
++
+−
+.
+Solution : False. As 2
+3 : 2
+3
++
+−
+ can be simplified as 7
+4 3 :1
++
+ and 7
+4 3
++
+ is
+not a positive integer, while 1 is.
+EXERCISE 10.2
+Write True or False and give reasons for your answer in each of the following:
+1.
+By geometrical construction, it is possible to divide a line segment in the ratio
+1
+3 :
+3 .
+2.
+To construct a triangle similar to a given ∆ABC with its sides 7
+3 of the
+corresponding sides of ∆ABC, draw a ray BX making acute angle with BC
+and X lies on the opposite side of A with respect to BC. The points B1, B2, ....,
+B7 are located at equal distances on BX, B3 is joined to C and then a line
+segment B6C' is drawn parallel to B3C where C' lies on BC produced. Finally,
+line segment A'C' is drawn parallel to AC.
+3.
+A pair of tangents can be constructed from a point P to a circle of radius
+3.5 cm situated at a distance of 3 cm from the centre.
+4.
+A pair of tangents can be constructed to a circle inclined at an angle of 170°.
+(D) Short Answer Questions
+Sample Question 1 : Draw an equilateral triangle ABC of each side 4 cm. Construct
+a triangle similar to it and of scale factor 3
+5 . Is the new triangle also an equilateral?
+Solution : Follow the similar steps as given in Mathematics Textbook for Class X. Yes,
+the new triangle  is also equilateral.
+03/05/18
+
+116
+EXEMPLAR PROBLEMS
+EXERCISE 10.3
+1.
+Draw a line segment of length 7 cm. Find a point P on it which divides it in the
+ratio 3:5.
+2.
+Draw a right triangle ABC in which BC = 12 cm, AB = 5 cm and ∠B = 90°.
+Construct a triangle similar to it and of scale factor 2
+3
+. Is the new triangle
+also a right triangle?
+3.
+Draw a triangle ABC in which BC = 6 cm, CA = 5 cm and AB = 4 cm.
+Construct a triangle similar to it and of scale factor 5
+3
+.
+4.
+Construct a tangent to a circle of radius 4 cm from a point which is at a
+distance of 6 cm from its centre.
+(E) Long Answer Questions
+Sample Questions 1 : Given a rhombus ABCD in which AB = 4 cm and
+∠ABC = 60°, divide it into two triangles say, ABC and ADC. Construct the triangle
+AB'C' similar to ∆ABC with scale factor 2
+3 . Draw a line segment C'D' parallel to CD
+where D' lies on AD. Is AB'C'D'
+a rhombus? Give reasons.
+Solution : First draw the
+rhombus ABCD in which
+AB = 4 cm and ∠ABC = 60° as
+given in Fig. 10.1 and join AC.
+Construct the triangle AB'C'
+similar to ∆ABC with scale
+factor 2
+3 as instructed in the
+Mathematics Textbook for Class
+X (See Fig. 10.1).
+Finally draw the line segment
+C'D'  parallel to CD.
+03/05/18
+
+CONSTRUCTION
+117
+Now
+AB '
+2
+A 'C '
+ = 
+ = 
+AB
+3
+AC
+Also
+AC
+C D
+AD
+2
+ 
+ 
+ = 
+ = 
+ 
+AC
+CD
+AD
+3
+'
+' '
+'
+=
+Therefore, AB' = B'C' = C'D' = AD' = 2
+3 AB.
+i.e., AB'C'D' is a rhombus.
+EXERCISE 10.4
+1.
+Two line segments AB and AC include an angle of 60° where AB = 5 cm and
+AC = 7 cm. Locate points P and Q on AB and AC, respectively such that
+AP = 3
+4 AB and AQ = 1
+4 AC. Join P and Q and measure the length PQ.
+2.
+Draw a parallelogram ABCD in which BC = 5 cm, AB = 3 cm and
+∠ABC = 60°, divide it into triangles BCD and ABD by the diagonal BD.
+Construct the triangle BD' C' similar to ∆BDC with scale factor 4
+3
+. Draw the
+line segment D'A' parallel to DA where A' lies on extended side BA. Is A'BC'D'
+a parallelogram?
+3.
+Draw two concentric circles of radii 3 cm and 5 cm. Taking a point on outer
+circle construct the pair of tangents to the other. Measure the length of a
+tangent and verify it by actual calculation.
+4.
+Draw an isosceles triangle ABC in which AB = AC = 6 cm and BC = 5 cm.
+Construct a triangle PQR similar to 
+ABC
+∆
+in which PQ = 8 cm. Also justify the
+construction.
+5.
+Draw a triangle ABC in which AB = 5 cm, BC = 6 cm and 
+ABC=60º
+∠
+.
+Construct a triangle similar to 
+ABC
+∆
+with scale factor 5
+7
+. Justify the
+construction.
+03/05/18
+
+118
+EXEMPLAR PROBLEMS
+6.
+Draw a circle of radius 4 cm. Construct a pair of tangents to it, the angle
+between which is 60º. Also justify the construction. Measure the distance be-
+tween the centre of the circle and the point of intersection of tangents.
+7.
+Draw a triangle ABC in which AB = 4 cm, BC = 6 cm and AC = 9 cm. Construct
+a triangle similar to ∆ABC with scale factor 3
+2 . Justify the construction. Are
+the two triangles congruent? Note that all the three angles and two sides of the
+two triangles are equal.
+03/05/18

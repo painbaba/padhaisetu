@@ -1,0 +1,1063 @@
+(A) Main Concepts and Results
+Meaning of a Polynomial
+Degree of a polynomial
+Coefficients
+Monomials, Binomials etc.
+Constant, Linear, Quadratic Polynomials etc.
+Value of a polynomial for a given value of the variable
+Zeroes of a polynomial
+Remainder theorem
+Factor theorem
+Factorisation of a quadratic polynomial by splitting the middle term
+Factorisation of algebraic expressions by using the Factor theorem
+Algebraic identities –
+(x + y)2 = x2 + 2xy + y2
+(x – y)2 = x2 – 2xy + y2
+x2 – y2 = (x + y) (x – y)
+(x + a) (x + b) = x2 + (a + b) x + ab
+(x + y + z)2 = x2 + y2 + z2 + 2xy + 2yz + 2zx
+(x + y)3 = x3 + 3x2y + 3xy2 + y3 = x3 + y3 + 3xy (x + y)
+(x – y)3 = x3 – 3x2y + 3xy2 – y3 = x3 – y3 – 3xy (x – y)
+POLYNOMIALS
+CHAPTER 2
+16/04/18
+16/04/18
+
+14
+EXEMPLAR PROBLEMS
+x3 + y3 = (x + y) (x2 – xy + y2)
+x3 – y3 = (x – y) (x2 + xy + y2)
+x3 + y3 + z3 – 3xyz = (x + y + z) (x2 + y2 + z2 – xy – yz – zx)
+(B) Multiple Choice Questions
+Sample Question 1 : If x2 + kx + 6 = (x + 2) (x + 3) for all x, then the value of k is
+(A)
+1
+(B)
+–1
+(C)
+5
+(D)
+3
+Solution : Answer (C)
+EXERCISE 2.1
+Write the correct answer in each of the following :
+1.
+Which one of the following is a polynomial?
+(A)
+2
+2
+2
+–
+2
+x
+x
+(B)
+2
+1
+x −
+(C)
+3
+2
+2
+3x
+x
+x
++
+(D)
+1
+1
+x
+x
+−
++
+2.
+2 is a polynomial of degree
+(A)
+2
+(B)
+0
+(C)
+1
+(D)
+1
+2
+3.
+Degree of the polynomial 4x4 + 0x3 + 0x5 + 5x + 7 is
+(A)
+4
+(B)
+5
+(C)
+3
+(D)
+7
+4.
+Degree of the zero polynomial is
+(A)
+0
+(B)
+1
+(C)
+Any natural number
+(D)
+Not defined
+5.
+If ( )
+2 – 2 2
+1
+p x
+x
+x
+=
++ , then (
+)
+2 2
+p
+ is equal to
+(A)
+0
+(B)
+1
+(C)
+4 2
+(D)
+8 2
+1
++
+6.
+The value of the polynomial 5x – 4x2 + 3, when x = –1 is
+(A)
+– 6
+(B)
+6
+(C)
+2
+(D)
+–2
+16/04/18
+16/04/18
+
+POLYNOMIALS
+15
+7.
+If p(x) = x + 3, then p(x) + p(–x) is equal to
+(A)
+3
+(B)
+2x
+(C)
+0
+(D)
+6
+8.
+Zero of the zero polynomial is
+(A)
+0
+(B)
+1
+(C)
+Any real number
+(D)
+Not defined
+9.
+Zero of the polynomial p(x) = 2x + 5 is
+(A)
+2
+– 5
+(B)
+5
+– 2
+(C)
+2
+5
+(D)
+5
+2
+10. One of the zeroes of the polynomial 2x2 + 7x –4 is
+(A)
+2
+(B)
+1
+2
+(C)
+1
+– 2
+(D)
+–2
+11. If x51 +  51 is divided by x + 1, the remainder is
+(A)
+0
+(B)
+1
+(C)
+49
+(D)
+50
+12. If x + 1 is a factor of the polynomial 2x2 + kx, then the value of k is
+(A)
+–3
+(B)
+4
+(C)
+2
+(D)
+–2
+13. x + 1 is a factor of the polynomial
+(A)
+x3 + x2 – x + 1
+(B)
+x3 + x2 + x + 1
+(C)
+x4 + x3 + x2 + 1
+(D)
+x4 + 3x3 + 3x2 + x + 1
+14. One of the factors of (25x2 – 1) + (1 + 5x)2 is
+(A)
+5 + x
+(B)
+5 – x
+(C)
+5x – 1
+(D)
+10x
+15. The value of 2492 – 2482 is
+(A)
+12
+(B)
+477
+(C)
+487
+(D)
+497
+16. The factorisation of 4x2 + 8x + 3 is
+(A)
+(x + 1) (x + 3)
+(B)
+(2x + 1) (2x + 3)
+(C)
+(2x + 2) (2x + 5)
+(D)
+(2x –1) (2x –3)
+17. Which of the following is a factor of (x + y)3 – (x3 + y3)?
+(A)  x2 + y2 + 2xy
+(B)  x2 + y2 – xy
+(C)
+xy 2
+(D)
+3xy
+18. The coefficient of x in the expansion of (x + 3)3 is
+(A)
+1
+(B)
+9
+(C)
+18
+(D)
+27
+19. If 
+–1
+x
+y
+y
+x
++
+=
+ (
+)
+,
+0
+x y ≠
+, the value of x3 – y3 is
+16/04/18
+16/04/18
+
+16
+EXEMPLAR PROBLEMS
+(A)
+1
+(B)
+–1
+(C)
+0
+(D)
+1
+2
+20. If 49x2 – b = 
+1
+1
+7
+7 –
+2
+2
+x
+x
+
+
+
++
+
+
+
+
+
+, then the value of b is
+(A)
+0
+(B)
+1
+2
+(C)
+1
+4
+(D)
+1
+2
+21. If a + b + c = 0, then a3 + b3 + c3 is equal to
+(A)
+0
+(B)
+abc
+(C)
+3abc
+(D)
+2abc
+(C) Short Answer Questions with Reasoning
+Sample Question 1 : Write whether the following statements are True or False.
+Justify your answer.
+(i)
+1
+2
+1
+1
+5
+x + is a polynomial
+(ii)
+3
+2
+6 x
+x
+x
++
+ is a polynomial, x ≠ 0
+Solution :
+(i)
+False, because the exponent of the variable is not a whole number.
+(ii)
+True, because 
+3
+2
+6
+6
+x
+x
+x
+x
++
+=
++
+, which is a polynomial.
+EXERCISE 2.2
+1.
+Which of the following expressions are polynomials? Justify your answer:
+(i)
+8
+                   (ii)
+2
+3
+– 2
+x
+x
+           (iii)
+1–
+5x
+(iv)
+–2
+1
+5
+7
+5
+x
+x
++
++
+                (v)
+(
+)(
+)
+– 2
+– 4
+x
+x
+x
+           (vi)
+1
+1
+x +
+(vii)
+3
+2
+1
+2
+–
+4 – 7
+7
+3
+a
+a
+a
++
+    (viii)
+1
+2x
+16/04/18
+16/04/18
+
+POLYNOMIALS
+17
+2.
+Write whether the following statements are True or False. Justify your answer.
+(i)
+A binomial can have atmost two terms
+(ii)
+Every polynomial is a binomial
+(iii)
+A binomial may have degree 5
+(iv)
+Zero of a polynomial is always 0
+(v)
+A polynomial cannot have more than one zero
+(vi)
+The degree of the sum of two polynomials each of degree 5 is always 5.
+(D) Short Answer Questions
+Sample Question 1 :
+(i)
+Check whether p(x) is a multiple of g(x) or not, where
+p(x) = x3 – x + 1,   g(x) = 2 – 3x
+(ii)
+Check whether g(x) is a factor of p(x) or not, where
+p(x) = 8x3 – 6x2 – 4x + 3,   g(x) = 
+1
+3
+4
+x −
+Solution :
+ (i)
+p(x) will be a multiple of g(x) if g(x) divides p(x).
+Now,      g(x) = 2 – 3x = 0 gives  x = 2
+3
+Remainder
+= 
+3
+2
+2
+2
+1
+3
+3
+3
+p
+
+
+
+
+
+=
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
+= 8
+2
+1
+27
+3
+−
++ = 17
+27
+Since remainder ≠ 0, so, p(x) is not a multiple of g(x).
+(ii)
+g(x) = 
+1
+0
+3
+4
+x −
+=
+ gives x = 3
+4
+g(x) will be a factor of p(x) if 
+3
+0
+4
+p
+=
+
+
+
+
+(Factor theorem)
+Now,
+3
+2
+3
+3
+3
+3
+8
+6
+4
+3
+4
+4
+4
+4
+p
+
+
+
+
+
+
+
+=
+−
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16/04/18
+16/04/18
+
+18
+EXEMPLAR PROBLEMS
+= 
+27
+9
+8
+6
+3
+3
+64
+16
+×
+−
+×
+−
++
+ = 0
+Since,
+3
+4
+p
+
+
+
+
+= 0, so, g(x) is a factor of p(x).
+Sample Question 2 : Find the value of a, if x – a is a factor of x3 – ax2 + 2x + a – 1.
+Solution : Let p(x) = x3 – ax2 + 2x + a – 1
+Since x – a is a factor of p(x), so p(a) = 0.
+i.e.,
+a3 – a(a)2 + 2a + a – 1 = 0
+a3 – a3 + 2a + a – 1 = 0
+3a = 1
+Therefore, a = 1
+3
+Sample Question 3 : (i)Without actually calculating the cubes, find the value of
+483 – 303 – 183.
+(ii)Without finding the cubes, factorise (x – y)3 + (y – z)3 + (z – x)3.
+Solution : We know that x3 + y3 + z3 – 3xyz = (x + y + z) (x2 + y2 + z2 – xy – yz – zx).
+If x + y + z = 0, then x3 + y3 + z3 – 3xyz = 0 or x3 + y3 + z3 = 3xyz.
+(i)
+We have to find the value of 483 – 303 – 183 = 483 + (–30)3 + (–18)3.
+Here, 48 + (–30) + (–18) = 0
+So, 483 + (–30)3 + (–18)3 = 3 × 48 × (–30) × (–18) = 77760
+(ii)
+Here, (x – y) + (y – z) + (z – x) = 0
+Therefore, (x – y)3 + (y – z)3 + (z – x)3 = 3(x – y) (y – z) (z – x).
+EXERCISE 2.3
+1.
+Classify the following polynomials as polynomials in one variable, two variables etc.
+(i)
+x2 + x + 1
+(ii)
+y3 – 5y
+(iii)
+xy + yz + zx
+(iv)
+x2 – 2xy + y2 + 1
+16/04/18
+16/04/18
+
+POLYNOMIALS
+19
+2.
+Determine the degree of each of the following polynomials :
+(i)
+2x – 1
+(ii)
+–10
+(iii)
+x3 – 9x + 3x5
+(iv)
+y3 (1 – y4)
+3.
+For the polynomial
+3
+6
+2
+1
+7
+–
+–
+5
+2
+x
+x
+x
+x
+2
++
++
+, write
+(i)
+the degree of the polynomial
+(ii)
+the coefficient of x3
+(iii)
+the coefficient of x6
+(iv)
+the constant term
+4.
+Write the coefficient of x2 in each of the following :
+(i)
+2
+
+–1
+6 x
+x
++
+(ii)
+3x – 5
+(iii)
+(x –1) (3x –4)
+(iv)
+(2x –5) (2x2  – 3x + 1)
+5.
+Classify the following as a constant, linear, quadratic and cubic polynomials :
+(i)
+2 – x2 + x3
+(ii)
+3x3
+(iii)
+5 –
+7
+t
+(iv)
+4 – 5y2
+(v)
+3
+(vi)
+2 + x
+(vii)
+y3 – y
+(viii)
+1 + x + x2
+(ix)
+t2
+(x)
+2 – 1
+x
+6.
+Give an example of a polynomial, which is :
+(i)
+monomial of degree 1
+(ii)
+binomial of degree 20
+(iii)
+trinomial of degree 2
+7.
+Find the value of the polynomial 3x3 – 4x2 + 7x – 5, when x = 3 and also when
+x = –3.
+8.
+If p(x) = x2 – 4x + 3, evaluate : p(2) – p(–1) + p
+1
+2
+
+
+
+
+
+
+9.
+Find p(0), p(1), p(–2) for the following polynomials :
+(i)
+p(x) = 10x – 4x2 – 3
+(ii)
+p(y) = (y + 2) (y – 2)
+10. Verify whether the following are True or False :
+(i)
+–3 is a zero of x – 3
+16/04/18
+16/04/18
+
+20
+EXEMPLAR PROBLEMS
+(ii)
+1
+– 3 is a zero of 3x + 1
+(iii)
+– 4
+5 is a zero of 4 –5y
+(iv)
+0 and 2 are the zeroes of t2 – 2t
+(v)
+–3 is a zero of y2 + y – 6
+11. Find the zeroes of the polynomial in each of the following :
+(i)
+p(x) = x – 4
+(ii)
+g(x) = 3 – 6x
+(iii)
+q(x) = 2x –7
+(iv)
+h(y) = 2y
+12. Find the zeroes of the polynomial :
+p(x) = (x – 2)2 – (x + 2)2
+13. By actual division, find the quotient and the remainder when the first polynomial is
+divided by the second polynomial : x4 + 1; x –1
+14. By Remainder Theorem find the remainder, when p(x) is divided by g(x), where
+(i)
+p(x) = x3 – 2x2 – 4x – 1,    g(x) = x + 1
+(ii)
+p(x) = x3 – 3x2 + 4x + 50,    g(x) = x – 3
+(iii)
+p(x) = 4x3 – 12x2 + 14x – 3,   g(x) = 2x – 1
+(iv)
+p(x) = x3 – 6x2 + 2x – 4,   g(x) = 1 – 3
+2 x
+15. Check whether p(x) is a multiple of g(x) or not :
+(i)
+p(x) = x3 – 5x2 + 4x – 3,    g(x) = x – 2
+(ii)
+p(x) = 2x3 – 11x2 – 4x + 5,    g(x) = 2x + 1
+16. Show that :
+(i)
+x + 3 is a factor of 69 + 11x – x2 + x3 .
+(ii)
+2x – 3 is a factor of x + 2x3 – 9x2 + 12 .
+17. Determine which of the following polynomials has x – 2 a factor :
+(i)
+3x2 + 6x – 24
+(ii)
+4x2 + x – 2
+18. Show that p – 1 is a factor of p10 – 1 and also of p11 – 1.
+19. For what value of m is x3 – 2mx2 + 16 divisible by x + 2 ?
+20. If x + 2a is a factor of x5 – 4a2x3 + 2x + 2a + 3, find a.
+21. Find the value of m so that 2x – 1 be a factor of 8x4 + 4x3 – 16x2 + 10x + m.
+16/04/18
+16/04/18
+
+POLYNOMIALS
+21
+22. If x + 1 is a factor of ax3 + x2 – 2x + 4a – 9, find the value of a.
+23. Factorise :
+(i)
+x2 + 9x + 18
+(ii)
+6x2 + 7x – 3
+(iii)
+2x2 – 7x – 15
+(iv)
+84 – 2r – 2r2
+24. Factorise :
+(i)
+2x3 – 3x2 – 17x + 30
+(ii)
+x3 – 6x2 + 11x – 6
+(iii)
+x3 + x2 – 4x – 4
+(iv)
+3x3 – x2 – 3x + 1
+25. Using suitable identity, evaluate the following:
+(i)
+1033
+(ii)
+101 × 102
+(iii)
+9992
+26. Factorise the following:
+(i)
+4x2 + 20x + 25
+(ii)
+9y2 – 66yz + 121z2
+(iii)
+2
+2
+1
+1
+2
+3
+2
+x
+x
+
+
+
+
++
+−
+−
+
+
+
+
+
+
+
+
+27. Factorise the following :
+(i)
+9x2 – 12x + 3
+(ii)
+9x2 – 12x + 4
+28. Expand the following :
+(i)
+(4a – b + 2c)2
+(ii)
+(3a – 5b – c)2
+(iii)
+(– x + 2y – 3z)2
+29. Factorise the following :
+(i)
+9x2 + 4y2 + 16z2 + 12xy – 16yz – 24xz
+(ii)
+25x2 + 16y2 + 4z2 – 40xy + 16yz – 20xz
+(iii)
+16x2 + 4y2 + 9z2 – 16xy – 12yz + 24 xz
+30. If a + b + c = 9 and ab + bc + ca = 26, find a2 + b2 + c2.
+31. Expand the following :
+       (i)     (3a – 2b)3
+(ii) 
+3
+1
+3
+y
+x
+
+
++
+
+
+
+
+(iii) 
+3
+1
+4 – 3x
+
+
+
+
+
+
+32. Factorise the following :
+(i)
+1 – 64a3 – 12a + 48a2
+16/04/18
+16/04/18
+
+22
+EXEMPLAR PROBLEMS
+(ii)
+3
+2
+12
+6
+1
+8
+5
+25
+125
+p
+p
+p
++
++
++
+33. Find the following products :
+(i)
+2
+2
+2
+–
+4
+2
+4
+x
+x
+y
+xy
+y
+
+
+
+
++
++
+
+
+
+
+
+
+
+(ii)
+(x2 – 1) (x4 + x2 + 1)
+34. Factorise :
+(i)
+1 + 64x3
+(ii)
+3
+3
+– 2 2
+a
+b
+35. Find the following product :
+(2x – y + 3z) (4x2 + y2 + 9z2 + 2xy + 3yz – 6xz)
+36. Factorise :
+(i)
+a3 – 8b3 – 64c3 – 24abc
+(ii)
+2 2 a3 + 8b3 – 27c3 + 18
+2 abc.
+37. Without actually calculating the cubes, find the value of :
+(i)
+3
+3
+3
+1
+1
+5
+–
+2
+3
+6
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+(ii)
+(0.2)3 – (0.3)3 + (0.1)3
+38. Without finding the cubes, factorise
+(x – 2y)3 + (2y – 3z)3 + (3z – x)3
+39. Find the value of
+(i)
+x3 + y3 – 12xy + 64, when x + y = – 4
+(ii)
+x3 – 8y3 – 36xy – 216, when x = 2y + 6
+40. Give possible expressions for the length and breadth of the rectangle whose area is
+given by 4a2 + 4a –3.
+(E) Long Answer Questions
+Sample Question 1 : If x + y = 12 and xy = 27, find the value of x3 + y3.
+Solution :
+x3 + y3
+= (x + y) (x2 – xy + y2)
+= (x + y) [(x + y)2 – 3xy]
+= 12 [122 – 3 × 27]
+= 12 × 63 = 756
+16/04/18
+16/04/18
+
+POLYNOMIALS
+23
+Alternative Solution :
+x3 + y3
+=
+(x + y)3 – 3xy (x + y)
+=
+123 – 3 × 27 × 12
+=
+12 [122 – 3 × 27]
+=
+12 × 63 = 756
+EXERCISE 2.4
+1.
+If the polynomials az3 + 4z2 + 3z – 4 and z3 – 4z + a leave the same remainder
+when divided by z – 3, find the value of a.
+2.
+The polynomial p(x) = x4 – 2x3 + 3x2 – ax + 3a – 7 when divided by x + 1 leaves
+the remainder 19. Find the values of a. Also find the remainder when p(x) is
+divided by x + 2.
+3.
+If both x – 2 and x – 
+1
+2 are factors of px2 + 5x + r, show that p = r.
+4.
+Without actual division, prove that 2x4 – 5x3 + 2x2 – x + 2 is divisible by x2 – 3x + 2.
+[Hint: Factorise x2 – 3x + 2]
+5.
+Simplify (2x – 5y)3 – (2x + 5y)3.
+6.
+Multiply x2 + 4y2 + z2 + 2xy + xz – 2yz by (– z + x – 2y).
+7.
+If a, b, c are all non-zero and a + b + c = 0, prove that 
+2
+2
+2
+3
+a
+b
+c
+bc
+ca
+ab
++
++
+=
+.
+8.
+If a + b + c = 5 and ab + bc + ca = 10, then prove that a3 + b3 + c3 –3abc = – 25.
+9.
+Prove that (a + b + c)3 – a3 – b3 – c3 = 3(a + b ) (b + c) (c + a).
+16/04/18
+16/04/18

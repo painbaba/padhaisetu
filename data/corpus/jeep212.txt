@@ -1,0 +1,1121 @@
+(A) Main Concepts and Results
+•
+The surface area of an object formed by combining any two of the basic solids,
+namely, cuboid, cone, cylinder, sphere and hemisphere.
+•
+The volume of an object formed by combining any two of  the basic solids
+namely, cuboid, cone, cylinder, sphere and hemisphere.
+•
+The formulae involving the frustum of a cone are:
+(i)
+Volume of the frustum of the cone = 
+2
+2
+1
+2
+1 2
+1
+[
+]
+3
+h r
+r
+r r
+π
++
++
+(ii)
+Curved surface area of the frustum of the cone = π(r1+r2)l,
+(iii)
+Total surface area of the frustum of the solid cone
+= πl(r1+r2)+ 
+2
+2
+1
+2
+π
+π
++
+r
+r , where 
+2
+2
+1
+2
+(
+–
+)
+=
++
+l
+h
+r
+r
+,
+h = vertical height of the frustum, l  = slant height of the frustum and
+r1 and r2 are radii of the two bases (ends) of the frustum.
+•
+Solid hemisphere: If r is the radius of a hemisphere, then
+curved surface area = 2πr2
+total surface area = 3πr2, and volume = 
+3
+2
+3πr
+•
+Volume of a spherical shell = 
+(
+)
+3
+3
+1
+2
+4
+–
+3
+r
+r
+π
+, where r1 and r2 are respectively its
+external and internal radii.
+Throughout this chapter, take 
+22
+7
+π =
+, if not stated otherwise.
+SURFACE AREAS AND VOLUMES
+CHAPTER 12
+03/05/18
+
+SURFACE AREAS AND VOLUMES
+137
+(B)
+Multiple Choice Questions :
+Choose the correct answer from the given four options:
+Sample Question 1 :  A funnel (see Fig.12.1) is the
+combination of
+(A) a cone and a cylinder
+(B) frustum of a cone and a cylinder
+(C) a hemisphere and a cylinder
+(D) a hemisphere and a cone
+Solution : Answer (B)
+Sample Question 2 : If a marble of radius 2.1 cm is put into a cylindrical cup full of water
+of radius 5cm and height 6 cm, then how much water flows out of the cylindrical cup?
+(A) 38.8 cm3
+(B) 55.4  cm3
+(C) 19.4  cm3
+(D) 471.4 cm3
+Solution : Answer (A)
+Sample Question 3 : A cubical ice cream brick of edge 22 cm is to be distributed
+among some children by filling ice cream cones of radius 2 cm and height 7 cm upto its
+brim. How many children will get the ice cream cones?
+(A) 163
+(B) 263
+(C) 363
+(D) 463
+Solution : Answer (C)
+Sample Question 4 : The radii of the ends of a frustum of a cone of height h cm are
+r1 cm and r2 cm. The volume in cm3 of the frustum of the cone is
+(A) 
+2
+2
+1
+2
+1 2
+1
+[
+]
+3 h r
+r
+r r
+π
++
++
+(B) 
+2
+2
+1
+2
+1 2
+1
+[
+–
+]
+3 h r
+r
+r r
+π
++
+(C) 
+2
+2
+1
+2
+1 2
+1
+[
+–
+]
+3 h r
+r
+r r
+π
++
+(D) 
+2
+2
+1
+2
+1 2
+1
+[
+–
+–
+]
+3 h r
+r
+r r
+π
+Solution : Answer (A)
+Sample Question 5 : The volume of the largest right circular cone that  can be cut out
+from a cube of edge 4.2 cm is
+(A) 9.7 cm3
+(B) 77.6 cm3
+(C) 58.2 cm3
+(D) 19.4 cm3
+Solution : Answer (D)
+03/05/18
+
+138
+EXEMPLAR PROBLEMS
+EXERCISE 12.1
+Choose the correct answer from the given four options:
+1.
+A cylindrical pencil sharpened at one edge is the combination of
+(A) a cone and a cylinder
+(B) frustum of a cone and a cylinder
+(C) a hemisphere and a cylinder
+(D) two cylinders.
+2.
+A surahi is the combination of
+(A) a sphere and a cylinder
+(B) a hemisphere and a cylinder
+(C) two hemispheres
+(D) a cylinder and a cone.
+3.
+A plumbline (sahul) is the combination of (see Fig. 12.2)
+(A) a cone and a cylinder
+(B) a hemisphere and a cone
+(C) frustum of a cone and a cylinder
+(D) sphere and cylinder
+4.
+The shape of a glass (tumbler) (see Fig. 12.3) is usually in the form of
+(A) a cone
+(B) frustum of a cone
+(C) a cylinder
+(D) a sphere
+03/05/18
+
+SURFACE AREAS AND VOLUMES
+139
+5.
+The shape of a gilli, in the gilli-danda game (see Fig. 12.4), is a combination of
+(A) two cylinders
+(B) a cone and a cylinder
+(C)  two cones and a cylinder
+(D) two cylinders and a cone
+6.
+A shuttle cock used for playing badminton has the shape of the combination of
+(A) a cylinder and a sphere
+(B) a cylinder and a hemisphere
+(C) a sphere and a cone
+(D) frustum of a cone and a hemisphere
+7.
+A cone is cut through a plane parallel to its base and then the cone that is formed
+on one side of that plane is removed. The new part that is left over on the other
+side of the plane is called
+(A) a frustum of a cone
+(B) cone
+(C) cylinder
+(D) sphere
+8.
+A hollow cube of internal edge 22cm is filled with spherical marbles of diameter
+0.5 cm and it is assumed that 1
+8 space of the cube remains unfilled. Then the
+number of marbles that the cube can accomodate is
+(A) 142296
+(B) 142396
+(C) 142496
+(D) 142596
+9.
+A metallic spherical shell of internal and external diameters 4 cm and 8 cm, respec-
+tively is melted and recast into the form a cone of base diameter 8cm. The height of
+the cone is
+(A) 12cm
+(B) 14cm (C) 15cm
+(D) 18cm
+10. A solid piece of iron in the form of a cuboid of dimensions 49cm × 33cm × 24cm,
+is moulded to form a solid sphere. The radius of the sphere is
+(A) 21cm
+(B) 23cm (C) 25cm
+(D) 19cm
+11. A mason constructs a wall of dimensions 270cm× 300cm × 350cm with the bricks
+each of size 22.5cm × 11.25cm × 8.75cm and it is assumed that 1
+8 space is
+03/05/18
+
+140
+EXEMPLAR PROBLEMS
+covered by the mortar. Then the number of bricks used to construct the wall is
+(A) 11100
+(B) 11200
+(C) 11000
+(D) 11300
+12.
+Twelve solid spheres of the same size are made by melting a solid metallic
+cylinder of base diameter 2 cm and height 16 cm. The diameter of each
+sphere is
+(A) 4 cm
+(B) 3 cm
+(C) 2 cm
+(D) 6 cm
+13.
+The radii of the top and bottom of a bucket of slant height 45 cm are 28 cm and
+7 cm, respectively. The curved surface area of the bucket is
+(A) 4950 cm2
+(B) 4951 cm2
+(C) 4952 cm2
+(D) 4953 cm2
+14.
+A medicine-capsule is in the shape of a cylinder of diameter 0.5 cm with two
+hemispheres stuck to each of its ends. The length of entire capsule is 2 cm. The
+capacity of the capsule is
+(A)  0.36 cm3
+(B) 0.35 cm3
+(C)  0.34 cm3
+(D) 0.33 cm3
+15.
+If two solid hemispheres of same base radius r are joined together along their
+bases, then curved surface area of this new solid is
+(A) 4πr2
+(B) 6πr2
+(C) 3πr2
+(D) 8πr2
+16.
+A right circular cylinder of radius r cm and height h cm (h>2r) just encloses a
+sphere of diameter
+(A)  r cm
+(B) 2r cm
+(C) h cm
+(D) 2h cm
+17.
+During conversion of a solid from one shape to another, the volume of the new
+shape will
+(A) increase
+(B) decrease
+ (C) remain unaltered (D) be doubled
+18.
+The diameters of the two circular ends of the bucket are 44 cm and 24 cm. The
+height of the bucket is 35 cm. The capacity of the bucket is
+(A) 32.7 litres
+(B) 33.7 litres
+(C) 34.7 litres
+(D) 31.7 litres
+19.
+In a right circular cone, the cross-section made by a plane parallel to the base
+is a
+(A) circle
+(B) frustum of a cone (C) sphere
+(D) hemisphere
+20.
+Volumes of two spheres are in the ratio 64:27. The ratio of their surface areas is
+(A) 3 : 4
+(B) 4 : 3
+(C) 9 : 16
+(D) 16 : 9
+03/05/18
+
+SURFACE AREAS AND VOLUMES
+141
+(C) Short Answer Questions with Reasoning
+Write ‘True’ or ‘False’ and justify your answer.
+Sample Question 1 : If a solid cone of base radius r and height h is placed over a
+solid cylinder having same base radius and height as that of the cone, then the curved
+surface area of the shape is 
+2
+2
+
+
+r h
+r
+rh
++
++
+.
+Solution : True. Since the curved surface area taken together is same as the sum of
+curved surface areas measured separately.
+Sample Question 2 : A spherical steel ball is melted to make eight new identical balls.
+Then, the radius of each new ball be 1
+8 th the radius of the original ball.
+Solution :  False. Let r be the radius of the original steel ball and r1 be the radius of the
+new ball formed after melting.
+Therefore, 
+3
+3
+1
+4
+4
+8
+3
+3
+π
+π
+=
+×
+.
+r
+r
+This implies r1 = 2
+r .
+Sample Question 3 : Two identical solid cubes of side a are joined end to end. Then
+the total surface area of the resulting cuboid is 12a2.
+Solution : False. The total surface area of a cube having side a is 6a2. If two identical
+faces of side a are joined together, then the total surface area of the cuboid so formed
+is 10a2.
+Sample Question 4 : Total surface area of a lattu (top) as shown in the Fig. 12.5  is
+the sum of total surface area of hemisphere and the total surface area of cone.
+Solution : False. Total surface area of the lattu is the sum of the curved surface
+area of the hemisphere and curved surface area of the cone.
+03/05/18
+
+142
+EXEMPLAR PROBLEMS
+Sample Question 5 : Actual capacity of a vessel as shown in the Fig. 12.6 is
+equal to the difference of volume of the cylinder and volume of the hemisphere.
+Solution : True. Actual capacity of the vessel is the empty space inside the glass that
+can accomodate something when poured in it.
+EXERCISE 12.2
+Write ‘True’ or ‘False’ and justify your answer in the following:
+1.
+Two identical solid hemispheres of equal base radius r cm are stuck together along
+their bases. The total surface area of the combination is 6πr2.
+2.
+A solid cylinder of radius r and height h is placed over other cylinder of same
+height and radius. The total surface area of the shape so formed is 4πrh + 4πr2.
+3.
+A solid cone of  radius r and height h is placed over a solid cylinder having same
+base radius and height as that of a cone. The total surface area of the combined
+solid is 
+2
+2
+
+
+
+r
+r
+h
+r
+h
+
+
++
++
++
+
+.
+4.
+A solid ball is exactly fitted inside the cubical box of side a. The volume of the ball
+is 
+3
+4 
+3 a .
+5.
+The volume of the frustum of a cone is 
+2
+2
+1
+2
+1 2
+1 
+
+
+3 h r
+r
+r r
++
+, where h is vertical
+height of the frustum and r1, r2 are the radii of the ends.
+6.
+The capacity of a cylindrical vessel with a hemispherical portion raised upward at
+the bottom as shown in the Fig. 12.7 is 
+[
+]
+2
+3 – 2
+3
+r
+h
+r
+π
+.
+03/05/18
+
+SURFACE AREAS AND VOLUMES
+143
+7.
+The curved surface area of a frustum of a cone is πl (r1+r2), where
+2
+2
+1
+2
+(
+)
+l
+h
+r
+r
+=
++
++
+, r1 and r2 are the radii of the two ends of the frustum and h is
+the vertical height.
+8.
+An open metallic bucket is in the shape of a frustum of a cone, mounted on a
+hollow cylindrical base made of the same metallic sheet. The surface area of the
+metallic sheet used is equal to
+curved surface area of frustum of a cone + area of circular base + curved surface
+area of cylinder
+(C) Short Answer Questions
+Sample Question 1 :  A cone of maximum size is carved out from a cube of edge
+14 cm. Find the surface area of the cone and of the remaining solid left out after the
+cone carved out.
+Solution :  The cone of maximum size that is carved out from a cube of edge 14 cm
+will be of base radius 7 cm and the height 14 cm.
+Surface area of the cone = πrl + πr2
+=
+2
+2
+22
+22
+7
+7
+14
+7
+7
+× ×
++
++
+(7)2
+=
+(
+)
+2
+2
+22 7
+245 154 (154 5 154)cm
+154
+5
+1 cm
+7 × ×
++
+=
++
+=
++
+Surface area of the cube = 6 × (14)2 = 6 × 196 = 1176 cm2
+So, surface area of the remaining solid left out after the cone is carved out
+= (
+)
+2
+1176–154
+154 5 cm
++
+= (1022 + 154 5 ) cm2.
+03/05/18
+
+144
+EXEMPLAR PROBLEMS
+Sample Question 2 : A solid metallic sphere of radius 10.5 cm is melted and recast
+into a number of smaller cones, each of radius 3.5 cm and height 3 cm. Find the
+number of cones so formed.
+Solution : The volume of the solid metallic sphere = 4
+3 π(10.5)3 cm3
+Volume of a cone of radius 3.5 cm and height 3 cm = 
+2
+1 
+
+3
+× cm3
+Number of cones so formed = 
+4 
+3
+1 
+
+3
+×
+×
+×
+×
+×
+×
+ = 126
+Sample Question 3 : A canal is 300 cm wide and 120 cm deep. The water in the
+canal is flowing with a speed of 20 km/h. How much area will it irrigate in 20 minutes
+if 8 cm of standing water is desired?
+Solution : Volume of water flows in the canal in one hour = width of the canal × depth
+of the canal × speed of the canal water = 3 × 1.2 × 20 × 1000m3 = 72000m3.
+In 20 minutes the volume of water = 
+3
+3
+72000
+20 m
+24000m
+60
+×
+=
+.
+Area irrigated in 20 minutes, if 8 cm, i.e., 0.08 m standing water is required
+2
+2
+24000 m
+300000 m
+0.08
+=
+=
+= 30 hectares.
+Sample Question 4 : A cone of radius 4 cm is divided into two parts by drawing a
+plane through the mid point of its axis and parallel to its base. Compare the volumes of
+the two parts.
+Solution : Let h be the height of the given cone. On dividing the cone through the
+mid-point of its axis and parallel to its base into two parts, we obtain the following
+(see Fig. 12.8):
+03/05/18
+
+SURFACE AREAS AND VOLUMES
+145
+In two similar triangles OAB and DCB, we have OA
+OB
+CD
+BD
+=
+. This implies 
+4
+2
+h
+h
+r =
+.
+Therefore,  r = 2.
+Therefore,  
+Volumeof thesmallercone
+Volumeof thefrustumof thecone = 
+2
+2
+2
+1 
+3
+2
+1 
+
+
+
+
+3
+2
+h
+h
+
+
+×
+× 
+
+
+
+
+
+×
++
++
+×
+
+
+
+
+ 
+1
+7
+=
+Therefore, the ratio of volume of the smaller cone to the volume of the frustum of the
+cone is 1: 7.
+Sample Question 5 :  Three cubes of a metal whose edges are in the ratio 3:4:5 are
+melted and converted into a single cube whose diagonal is 12 3 cm. Find the edges of
+the three cubes.
+Solution :  Let the edges of three cubes (in cm) be 3x, 4x and 5x, respectively.
+Volume of the cubes after melting is = (3x)3 + (4x)3 + (5x)3 = 216x3 cm3
+Let a be the side of new cube so formed after melting. Therefore, a3 = 216x3
+So, a = 6x, Diagonal = 
+2
+2
+2
+3
+a
+a
+a
+a
++
++
+=
+But it is given that diagonal of the new cube is 12 3 cm. Therefore, 
+3 12 3
+a
+=
+,
+i.e., a = 12.
+03/05/18
+
+146
+EXEMPLAR PROBLEMS
+This gives x = 2. Therefore, edges of the three cubes are 6 cm, 8 cm and 10 cm,
+respectively.
+EXERCISE 12.3
+1.
+Three metallic solid cubes whose edges are 3 cm, 4 cm and 5 cm are melted and
+formed into a single cube.Find the edge of the cube so formed.
+2.
+How many shots each having diameter 3 cm can be made from a cuboidal lead
+solid of dimensions 9cm × 11cm × 12cm?
+3.
+A bucket is in the form of a frustum of a cone and holds 28.490 litres of water.
+The radii of the top and bottom are 28 cm and 21 cm, respectively. Find the height
+of the bucket.
+4.
+A cone of radius 8 cm and height 12 cm is divided into two parts by a plane
+through the mid-point of its axis parallel to its base. Find the ratio of the volumes
+of two parts.
+5.
+Two identical cubes each of  volume 64 cm3 are joined together end to end. What
+is the surface area of the resulting cuboid?
+6.
+From a solid cube of side 7 cm, a conical cavity of height 7 cm and radius 3 cm is
+hollowed out. Find the volume of the remaining solid.
+7.
+Two cones with same base radius 8 cm and height 15 cm are joined together
+along their bases. Find the surface area of the shape so formed.
+8.
+Two solid cones A and B are placed in a cylinderical tube as shown in the Fig.12.9.
+The ratio of their capacities are 2:1. Find the heights and capacities of cones.
+Also, find the volume of the remaining portion of the cylinder.
+9.
+An ice cream cone full of ice cream having radius 5 cm and height 10 cm as
+shown in the Fig.12.10. Calculate the volume of ice cream, provided that its 1
+6
+part is left unfilled with ice cream.
+03/05/18
+
+SURFACE AREAS AND VOLUMES
+147
+10.
+Marbles of diameter 1.4 cm are dropped into a cylindrical beaker of diameter
+7 cm containing some water. Find the number of marbles that should be dropped
+into the beaker so that the water level rises by 5.6 cm.
+11.
+How many spherical lead shots each of diameter 4.2 cm can be obtained from a
+solid rectangular lead piece with dimensions 66 cm, 42 cm and 21 cm.
+12.
+How many spherical lead shots of diameter 4 cm can be made out of a solid cube
+of lead whose edge measures 44 cm.
+13.
+A wall 24 m long, 0.4 m thick and 6 m high is constructed with the bricks each of
+dimensions 25 cm × 16 cm × 10 cm. If the mortar occupies 1
+10 th of the volume
+of the wall, then find the number of bricks used in constructing the wall.
+14.
+Find the number of metallic circular disc with 1.5 cm base diameter and of height
+0.2 cm to be melted to form a right circular cylinder of height 10 cm and diameter
+4.5 cm.
+(E) Long Answer Questions
+Sample Question 1 : A bucket is in the form of a frustum of a cone of height 30 cm
+with radii of its lower and upper ends as 10 cm and 20 cm, respectively. Find the
+capacity and surface area of the bucket. Also, find the cost of milk which can completely
+fill the container, at the rate of Rs 25 per litre ( use π = 3.14).
+Solution : Capacity (or volume) of the bucket = 
+2
+2
+1
+2
+1 2
+[
+]
+3
+h r
+r
+r r
++
++
+.
+Here, h = 30 cm, r1 = 20 cm and r2 = 10 cm.
+03/05/18
+
+148
+EXEMPLAR PROBLEMS
+So, the capacity of bucket = 
+2
+2
+3.14
+30[20
+10
+20
+10]
+3
+×
++
++
+×
+ cm3 = 21.980 litres.
+Cost of 1 litre of milk = Rs 25
+Cost of 21.980 litres of milk = Rs 21.980 × 25 = Rs 549.50
+Surface area of the bucket = curved surface area of the bucket
+    + surface area of the bottom
+    = 
+2
+1
+2
+2
+
+
+
+l r
+r
+r
++
++
+, 
+2
+2
+1
+2
+(
+–
+)
+l
+h
+r
+r
+=
++
+Now, 
+900
+100
+l =
++
+cm    = 31.62 cm
+Therefore, surface area of the bucket  
+2
+22
+3.14
+31.62(20
+10)
+(10)
+7
+=
+×
++
++
+3.14 [948.6
+100]
+=
++
+ cm2
+          = 3.14 [1048.6]cm2 = 3292.6 cm2 (approx.)
+Sample Question 2 : A solid toy is in the form of a hemisphere surmounted by a right
+circular cone. The height of the cone is 4 cm and the diameter of the base is 8 cm.
+Determine the volume of the toy. If a cube circumscribes the toy, then find the differ-
+ence of the volumes of cube and the toy. Also, find the total surface area of the toy.
+Solution :  Let r be the radius of the hemisphere and the cone and h be the height of
+the cone (see Fig. 12.11).
+Volume of the toy = Volume of the hemisphere + Volume of the cone
+  = 
+3
+2
+2
+1
+
+
+3
+3
+r
+r h
++
+3
+2
+3
+2
+22
+1
+22
+×4
+×4
+4 cm
+3
+7
+3
+7
+
+
+=
+×
++ ×
+×
+
+
+
+
+1408
+7
+=
+ cm3.
+A cube circumscribes the given solid. Therefore, edge of the cube
+should be 8 cm.
+Volume of the cube = 83 cm3 = 512 cm3.
+03/05/18
+
+SURFACE AREAS AND VOLUMES
+149
+Difference in the volumes of the cube and the toy = 
+1408
+512 –
+7
+
+
+
+
+
+cm3 = 310.86 cm3
+Total surface area of the toy
+= Curved surface area of cone
+   + curved surface area of hemisphere
+2
+2
+2
+2
+, where =
+rl
+r
+l
+h
+r
+π
+π
+=
++
++
+= πr ( l + 2r)
+= 
+2
+2
+22 4
+4
+4
+2 4
+7
+ 
+ 
+×
++
++ ×
+ 
+  cm2
+= 22
+4 4 2
+8
+7
+ 
+ 
+×
++
+ 
+  cm2
+88 4
+2
+2
+7
+×
+ 
+ 
+=
++
+ 
+  cm2
+= 171.68 cm2
+Sample Question 3 : A building is in the form of a cylinder
+surmounted by a hemispherical dome (see Fig. 12.12). The
+base diameter of the dome is equal to 2
+3 of the total height of
+the building. Find the height of the building, if it contains
+1
+67 21 m3 of air.
+Solution : Let the radius of the hemispherical dome be r metres and the total height of
+the building be h metres.
+Since the base diameter of the dome is equal to 2
+3 of the total height, therefore
+2r = 2
+3 h. This implies  r = 3
+h . Let H metres  be the height of the cylindrical portion.
+Therefore, H = 
+2
+– 3
+3
+h
+h
+h
+=
+ metres.
+03/05/18
+
+150
+EXEMPLAR PROBLEMS
+Volume of the air inside the building = Volume of air inside the dome + Volume of the
+air inside the cylinder 
+3
+2
+2 
+
+3 r
+r
+=
++
+, where H is the height of the cylindrical portion
+3
+2
+2
+2
+
+
+3
+3
+3
+3
+h
+h
+h
+ 
+ 
+ 
+ 
+ 
+ 
+=
++
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+8 
+81 h
+=
+ cu. metres
+Volume of the air inside the building is 
+1
+67 21 m3. Therefore, 
+3
+8
+1408
+
+81
+21
+h =
+. This
+gives h = 6 m.
+EXERCISE 12.4
+1.
+A solid metallic hemisphere of radius 8 cm is melted and recasted into a right
+circular cone of base radius 6 cm. Determine the height of the cone.
+2.
+A rectangular water tank of base 11 m × 6 m contains water upto a height of 5 m.
+If the water in the tank is transferred to a cylindrical tank of radius 3.5 m, find the
+height of the water level in the tank.
+3.
+How many cubic centimetres of iron is required to construct an open box whose
+external dimensions are 36 cm, 25 cm and 16.5 cm provided the thickness of the
+iron is 1.5 cm. If one cubic cm of iron weighs 7.5 g, find the weight of the box.
+4.
+The barrel of a fountain pen, cylindrical in shape, is 7 cm long and 5 mm in diameter.
+A full barrel of ink in the pen is used up on writing 3300 words on an average.
+How many words can be written in a bottle of ink containing one fifth of a litre?
+5.
+Water flows at the rate of 10m/minute through a cylindrical pipe 5 mm in diameter.
+How long would it take to fill a conical vessel whose diameter at the base is 40 cm
+and depth 24 cm?
+6.
+A heap of rice is in the form of a cone of diameter 9 m and height 3.5 m. Find the
+volume of the rice. How much canvas cloth is required to just cover the heap?
+7.
+A factory manufactures 120000 pencils daily. The pencils are cylindrical in shape
+each of length 25 cm and circumference of base as 1.5 cm. Determine the cost of
+colouring the curved surfaces of the pencils manufactured in one day at Rs 0.05
+per dm2.
+03/05/18
+
+SURFACE AREAS AND VOLUMES
+151
+8.
+Water is flowing at the rate of 15 km/h through a pipe of diameter 14 cm into a
+cuboidal pond which is 50 m long and 44 m wide. In what time will the level of
+water in pond rise by 21 cm?
+9.
+A solid iron cuboidal block of dimensions 4.4 m × 2.6 m × 1m is  recast into a
+hollow cylindrical pipe of internal radius 30 cm and thickness 5 cm. Find the length
+of the pipe.
+10. 500 persons are taking a dip into a cuboidal pond which is 80 m long and 50 m
+broad. What is the rise of water level in the pond, if the average displacement of
+the water by a person is 0.04m3?
+11. 16 glass spheres each of radius 2 cm are packed into a cuboidal box of internal
+dimensions 16 cm × 8 cm × 8 cm and then the box is filled with water. Find the
+volume of water filled in the box.
+12. A milk container of height 16 cm is made of metal sheet in the form of a frustum
+of a cone with radii of its lower and upper ends as 8 cm and 20 cm respectively.
+Find the cost of milk at the rate of Rs. 22 per litre which the container can hold.
+13. A cylindrical bucket of height 32 cm and base radius 18 cm is filled with sand. This
+bucket is emptied on the ground and a conical heap of sand is formed. If the height
+of the conical heap is 24 cm, find the radius and slant height of the heap.
+14. A rocket is in the form of a right circular cylinder closed at the lower end and
+surmounted by a cone with the same radius as that of the cylinder. The diameter
+and height of the cylinder are 6 cm and 12 cm, respectively. If the the slant height
+of the conical portion is 5 cm, find the total surface area and volume of the rocket
+[Use π = 3.14].
+15. A building is in the form of a cylinder surmounted by a hemispherical vaulted
+dome and contains 
+19
+4121 m3 of air. If the internal diameter of dome is equal to its
+total height above the floor, find the height of the building?
+16. A hemispherical bowl of internal radius 9 cm is full of liquid. The liquid is to be
+filled into cylindrical shaped bottles each of radius 1.5 cm and height 4 cm. How
+many bottles are needed to empty the bowl?
+17. A solid right circular cone of height 120 cm and radius 60 cm is placed in a right
+circular cylinder full of water of height 180 cm such that it touches the bottom.
+Find the volume of water left in the cylinder, if the radius of the cylinder is equal to
+the radius of the cone.
+03/05/18
+
+152
+EXEMPLAR PROBLEMS
+18. Water flows through a cylindrical pipe, whose inner radius is 1 cm, at the rate of
+80 cm/sec in an empty cylindrical tank, the radius of whose base is 40 cm. What
+is the rise of water level in tank in half an hour?
+19. The rain water from a roof of dimensions 22 m × 20 m drains into a cylindrical
+vessel having diameter of base 2 m and height 3.5 m. If the rain water collected
+from the roof just fill the cylindrical vessel, then find the rainfall in cm.
+20. A pen stand made of wood is in the shape of a cuboid with four conical depres-
+sions and a cubical depression to hold the pens and pins, respectively. The dimen-
+sion of the cuboid are 10 cm, 5 cm and 4 cm. The radius of each of the conical
+depressions is 0.5 cm and the depth is 2.1 cm. The edge of the cubical depression
+is 3 cm. Find the volume of the wood in the entire stand.
+03/05/18

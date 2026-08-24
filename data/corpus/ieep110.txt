@@ -1,0 +1,188 @@
+
+
+
+
+
+
+
+Multiple Choice Questions
+1.
+Two objects of different masses falling freely near the surface of moon would
+(a) have same velocities at any instant
+(b) have different accelerations
+(c) experience forces of same magnitude
+(d) undergo a change in their inertia
+2.
+The value of acceleration due to gravity
+(a) is same on equator and poles
+(b) is least on poles
+(c) is least on equator
+(d) increases from pole to equator
+3.
+The gravitational force between two objects is F. If masses of both objects
+are halved without changing distance between them, then the gravitational
+force would become
+(a) F/4   (b)  F/2
+(c)  F
+(d)  2 F
+4.
+A boy is whirling a stone tied with a string in an horizontal circular path. If
+the string breaks, the stone
+(a) will continue to move in the circular path
+(b) will move along a straight line towards the centre of the circular path
+(c) will move along a straight line tangential to the circular path
+(d) will move along a straight line perpendicular to the circular path away
+from the boy
+5.
+An object is put one by one in three liquids having different densities. The
+object floats with 
+1
+2
+3
+,
+and
+9 11
+7 parts of their volumes outside the liquid
+surface in liquids of densities d1, d2 and d3 respectively. Which of the
+following statement is correct?
+(a) d1> d2> d3
+(b) d1> d2< d3
+(c) d1< d2> d3
+(d) d1< d2< d3
+16-04-2018
+
+6.
+In the relation F = G M m/d2, the quantity  G
+(a) depends on the value of g at the place of observation
+(b) is used only when the earth is one of the two masses
+(c) is greatest at the surface of the earth
+(d) is universal constant of nature
+7.
+Law of gravitation gives the gravitational force between
+(a) the earth and a point mass only
+(b) the earth and Sun only
+(c) any two bodies having some mass
+(d) two charged bodies only
+8.
+The value of  quantity G in the law of gravitation
+(a) depends on mass of earth only
+(b) depends on radius of earth only
+(c) depends on both mass and radius of earth
+(d) is independent of mass and radius of the earth
+9.
+Two particles are placed at some distance. If the mass of each of the two
+particles is doubled, keeping the distance between them unchanged, the
+value of gravitational force between them will be
+(a)
+1
+4 times
+(b) 4 times
+(c) 
+1
+2 times
+(d) unchanged
+10.
+The atmosphere is held to the earth by
+(a) gravity
+(b) wind
+(c) clouds
+(d) earth’s magnetic field
+11.
+The force of attraction between two unit point masses separated by a unit
+distance is called
+(a) gravitational potential
+(b) acceleration due to gravity
+(c) gravitational field
+(d) universal gravitational constant
+12.
+The weight of an object  at the centre of the earth of radius R is
+(a) zero
+(b) infinite
+(c) R times the weight at the surface of the earth
+(d) 1/R2 times the weight at surface of the earth
+GRAVITATION
+65
+16-04-2018
+
+EXEMPLAR PROBLEMS
+66
+13.
+An object weighs 10 N in air. When immersed fully in water, it weighs only
+8 N. The weight of the liquid displaced by the object will be
+(a) 2 N
+(b) 8 N
+(c) 10 N
+(d) 12 N
+14.
+A girl stands on a box having 60 cm length, 40 cm breadth and 20 cm
+width in three ways. In which of the following cases, pressure exerted by
+the brick will be
+(a) maximum when length and breadth form the base
+(b) maximum when breadth and width form the base
+(c) maximum when width and length form the base
+(d) the same in all the above three cases
+15.
+An apple falls from a tree because of gravitational attraction between the
+earth and apple. If F1 is the magnitude of force exerted by the earth on the
+apple and F2 is the magnitude of force exerted by apple on earth, then
+(a) F1 is very much greater than F2
+(b) F2 is very much greater than F1
+(c) F1 is only a little greater than F2
+(d) F1 and F2 are equal
+Short Answer Questions
+16.
+What is the source of centripetal force that a planet requires to revolve
+around the Sun? On what factors does that force depend?
+17.
+On the earth, a stone is thrown from a height in a direction parallel to the
+earth’s surface while another stone is simultaneously dropped from the
+same height. Which stone would reach the ground first and why?
+18.
+Suppose gravity of earth suddenly becomes zero, then in which direction
+will the moon begin to move if no other celestial body affects it?
+19.
+Identical packets are dropped from two aeroplanes, one above the equator
+and the other above the north pole, both at height h. Assuming all conditions
+are identical, will those packets take same time to reach the surface of
+earth. Justify your answer.
+20.
+The weight of any person on the moon is about 1/6 times that on the
+earth. He can lift a mass of 15 kg on the earth. What will be the maximum
+mass, which can be lifted by the same force applied by the person on the
+moon?
+21.
+Calculate the average density of the earth in terms of g, G and R.
+22.
+The earth is acted upon by gravitation of Sun, even though it does not fall
+into the Sun. Why?
+16-04-2018
+
+GRAVITATION
+67
+Long Answer Questions
+23.
+How does the weight of an object vary with respect to mass and radius of
+the earth. In a hypothetical case, if the diameter of the earth becomes half
+of its present value and its mass becomes four times of its present value,
+then how would the weight of any object on the surface of the earth be
+affected?
+24.
+How does the force of attraction between the two bodies depend upon their
+masses and distance between them? A student thought that two bricks
+tied together would fall faster than a single one under the action of gravity.
+Do you agree with his hypothesis or not? Comment.
+25.
+Two objects of masses m1 and m2 having the same size are dropped
+simultaneously from heights h1 and h2 respectively. Find out the ratio of
+time they would take in reaching the ground. Will this ratio remain the
+same if (i) one of the objects is hollow and the other one is solid and (ii) both
+of them are hollow, size remaining the same in each case. Give reason.
+26.
+(a) A cube of side 5 cm is immersed in water and then in saturated salt
+solution. In which case will it experience a greater buoyant force. If
+each side of the cube is reduced to 4 cm and then immersed in water,
+what will be the effect on the buoyant force experienced by the cube as
+compared to the first case for water. Give reason for each case.
+(b) A ball weighing 4 kg of density 4000 kg m–3 is completely immersed in
+water of density 103 kg m–3 Find the force of buoyancy on it. (Given g = 10 m s–2.)
+16-04-2018
