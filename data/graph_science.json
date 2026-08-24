@@ -1,0 +1,130 @@
+{
+  "classes": [
+    {
+      "class": 8,
+      "subject": "science",
+      "chapters": [
+        {"id": "s8c1", "name_hi": "फसल उत्पादन एवं प्रबंधन", "name_en": "Crop Production & Management", "skills": [
+          {"id": "s8c1s1", "name_hi": "कृषि औज़ार व बुनियादी प्रथाएँ", "name_en": "Farm tools & basic practices", "prereqs": [], "weight": 1.0},
+          {"id": "s8c1s2", "name_hi": "बुवाई व मृदा तैयारी", "name_en": "Sowing & soil preparation", "prereqs": ["s8c1s1"], "weight": 1.0},
+          {"id": "s8c1s3", "name_hi": "सिंचाई की विधियाँ", "name_en": "Irrigation methods", "prereqs": ["s8c1s2"], "weight": 1.1},
+          {"id": "s8c1s4", "name_hi": "फसल सुरक्षा व भंडारण", "name_en": "Crop protection & storage", "prereqs": ["s8c1s1"], "weight": 1.1}
+        ]},
+        {"id": "s8c2", "name_hi": "सूक्ष्मजीव: मित्र एवं शत्रु", "name_en": "Microorganisms: Friend & Foe", "skills": [
+          {"id": "s8c2s1", "name_hi": "सूक्ष्मजीवों के प्रकार", "name_en": "Types of microorganisms", "prereqs": [], "weight": 1.0},
+          {"id": "s8c2s2", "name_hi": "सूक्ष्मजीवों से रोग", "name_en": "Diseases caused by microbes", "prereqs": ["s8c2s1"], "weight": 1.1},
+          {"id": "s8c2s3", "name_hi": "खाद्य संरक्षण", "name_en": "Food preservation", "prereqs": ["s8c2s1"], "weight": 1.0},
+          {"id": "s8c2s4", "name_hi": "नाइट्रोजन स्थिरीकरण", "name_en": "Nitrogen fixation", "prereqs": ["s8c2s1"], "weight": 1.1}
+        ]},
+        {"id": "s8c3", "name_hi": "धातु एवं अधातु", "name_en": "Metals & Non-metals", "skills": [
+          {"id": "s8c3s1", "name_hi": "भौतिक गुण", "name_en": "Physical properties", "prereqs": [], "weight": 1.0},
+          {"id": "s8c3s2", "name_hi": "ऑक्सीजन/अम्ल से अभिक्रिया", "name_en": "Reactions with oxygen/acids", "prereqs": ["s8c3s1"], "weight": 1.1},
+          {"id": "s8c3s3", "name_hi": "उपयोग व विस्थापन", "name_en": "Uses & displacement reactions", "prereqs": ["s8c3s2"], "weight": 1.1},
+          {"id": "s8c3s4", "name_hi": "मिश्रधातु", "name_en": "Alloys", "prereqs": ["s8c3s3"], "weight": 1.1}
+        ]},
+        {"id": "s8c4", "name_hi": "कोयला और पेट्रोलियम", "name_en": "Coal & Petroleum", "skills": [
+          {"id": "s8c4s1", "name_hi": "जीवाश्म ईंधन का निर्माण", "name_en": "Formation of fossil fuels", "prereqs": [], "weight": 1.0},
+          {"id": "s8c4s2", "name_hi": "परिष्करण व उत्पाद", "name_en": "Refining & products", "prereqs": ["s8c4s1"], "weight": 1.1},
+          {"id": "s8c4s3", "name_hi": "प्राकृतिक गैस", "name_en": "Natural gas (CNG)", "prereqs": ["s8c4s2"], "weight": 1.0},
+          {"id": "s8c4s4", "name_hi": "संरक्षण के उपाय", "name_en": "Conservation of fuels", "prereqs": ["s8c4s1"], "weight": 1.0}
+        ]},
+        {"id": "s8c5", "name_hi": "कोशिका — संरचना एवं कार्य", "name_en": "Cell — Structure & Functions", "skills": [
+          {"id": "s8c5s1", "name_hi": "कोशिका की खोज व संरचना", "name_en": "Cell discovery & structure", "prereqs": [], "weight": 1.0},
+          {"id": "s8c5s2", "name_hi": "कोशिकांगों के कार्य", "name_en": "Functions of organelles", "prereqs": ["s8c5s1"], "weight": 1.1},
+          {"id": "s8c5s3", "name_hi": "पादप बनाम जंतु कोशिका", "name_en": "Plant vs animal cell", "prereqs": ["s8c5s1"], "weight": 1.0},
+          {"id": "s8c5s4", "name_hi": "कोशिका विभाजन", "name_en": "Cell division", "prereqs": ["s8c5s2"], "weight": 1.1}
+        ]},
+        {"id": "s8c6", "name_hi": "बल तथा दाब", "name_en": "Force & Pressure", "skills": [
+          {"id": "s8c6s1", "name_hi": "बल के प्रकार व प्रभाव", "name_en": "Types & effects of force", "prereqs": [], "weight": 1.0},
+          {"id": "s8c6s2", "name_hi": "दाब की मूल बातें", "name_en": "Pressure basics", "prereqs": ["s8c6s1"], "weight": 1.1},
+          {"id": "s8c6s3", "name_hi": "द्रवों व गैसों में दाब", "name_en": "Pressure in liquids & gases", "prereqs": ["s8c6s2"], "weight": 1.1},
+          {"id": "s8c6s4", "name_hi": "संपर्क व असंपर्क बल", "name_en": "Contact & non-contact forces", "prereqs": ["s8c6s1"], "weight": 1.0}
+        ]}
+      ]
+    },
+    {
+      "class": 9,
+      "subject": "science",
+      "chapters": [
+        {"id": "s9c1", "name_hi": "हमारे आस-पास के पदार्थ", "name_en": "Matter in Our Surroundings", "skills": [
+          {"id": "s9c1s1", "name_hi": "पदार्थ की अवस्थाएँ", "name_en": "States of matter", "prereqs": [], "weight": 1.0},
+          {"id": "s9c1s2", "name_hi": "अवस्था परिवर्तन", "name_en": "Change of state", "prereqs": ["s9c1s1"], "weight": 1.1},
+          {"id": "s9c1s3", "name_hi": "वाष्पीकरण से ठंडक", "name_en": "Evaporation & cooling", "prereqs": ["s9c1s2"], "weight": 1.1},
+          {"id": "s9c1s4", "name_hi": "संघनन व ऊर्ध्वपातन", "name_en": "Condensation & sublimation", "prereqs": ["s9c1s2"], "weight": 1.0}
+        ]},
+        {"id": "s9c2", "name_hi": "परमाणु एवं अणु", "name_en": "Atoms & Molecules", "skills": [
+          {"id": "s9c2s1", "name_hi": "रासायनिक संयोग के नियम", "name_en": "Laws of chemical combination", "prereqs": [], "weight": 1.1},
+          {"id": "s9c2s2", "name_hi": "परमाण्विक/आण्विक द्रव्यमान", "name_en": "Atomic & molecular mass", "prereqs": ["s9c2s1"], "weight": 1.2},
+          {"id": "s9c2s3", "name_hi": "सूत्र लिखना व संयोजकता", "name_en": "Writing formulae & valency", "prereqs": ["s9c2s2"], "weight": 1.2},
+          {"id": "s9c2s4", "name_hi": "मोल अवधारणा", "name_en": "Mole concept basics", "prereqs": ["s9c2s2"], "weight": 1.3}
+        ]},
+        {"id": "s9c3", "name_hi": "परमाणु की संरचना", "name_en": "Structure of the Atom", "skills": [
+          {"id": "s9c3s1", "name_hi": "उपपरमाण्विक कण", "name_en": "Subatomic particles", "prereqs": [], "weight": 1.0},
+          {"id": "s9c3s2", "name_hi": "बोर मॉडल व कोश", "name_en": "Bohr model & shells", "prereqs": ["s9c3s1"], "weight": 1.1},
+          {"id": "s9c3s3", "name_hi": "संयोजकता निकालना", "name_en": "Finding valency", "prereqs": ["s9c3s2"], "weight": 1.1},
+          {"id": "s9c3s4", "name_hi": "समस्थानिक व समभारिक", "name_en": "Isotopes & isobars", "prereqs": ["s9c3s1"], "weight": 1.2}
+        ]},
+        {"id": "s9c4", "name_hi": "गति", "name_en": "Motion", "skills": [
+          {"id": "s9c4s1", "name_hi": "दूरी बनाम विस्थापन", "name_en": "Distance vs displacement", "prereqs": [], "weight": 1.0},
+          {"id": "s9c4s2", "name_hi": "चाल व वेग", "name_en": "Speed & velocity", "prereqs": ["s9c4s1"], "weight": 1.0},
+          {"id": "s9c4s3", "name_hi": "त्वरण", "name_en": "Acceleration", "prereqs": ["s9c4s2"], "weight": 1.2},
+          {"id": "s9c4s4", "name_hi": "गति के ग्राफ", "name_en": "Graphs of motion", "prereqs": ["s9c4s2"], "weight": 1.1}
+        ]},
+        {"id": "s9c5", "name_hi": "बल तथा गति के नियम", "name_en": "Force & Laws of Motion", "skills": [
+          {"id": "s9c5s1", "name_hi": "जड़त्व व न्यूटन का प्रथम नियम", "name_en": "Inertia & Newton's first law", "prereqs": [], "weight": 1.1},
+          {"id": "s9c5s2", "name_hi": "F=ma द्वितीय नियम", "name_en": "Newton's second law F=ma", "prereqs": ["s9c5s1", "s9c4s3"], "weight": 1.2},
+          {"id": "s9c5s3", "name_hi": "क्रिया-प्रतिक्रिया तृतीय नियम", "name_en": "Action-reaction, third law", "prereqs": ["s9c5s1"], "weight": 1.1},
+          {"id": "s9c5s4", "name_hi": "संवेग संरक्षण", "name_en": "Conservation of momentum", "prereqs": ["s9c5s2"], "weight": 1.3}
+        ]},
+        {"id": "s9c6", "name_hi": "जीवन की मौलिक इकाई", "name_en": "The Fundamental Unit of Life", "skills": [
+          {"id": "s9c6s1", "name_hi": "कोशिका झिल्ली, विसरण व परासरण", "name_en": "Plasma membrane, diffusion & osmosis", "prereqs": [], "weight": 1.1},
+          {"id": "s9c6s2", "name_hi": "कोशिकांग", "name_en": "Organelles", "prereqs": ["s9c6s1"], "weight": 1.1},
+          {"id": "s9c6s3", "name_hi": "कोशिका विभाजन", "name_en": "Cell division", "prereqs": ["s9c6s2"], "weight": 1.2},
+          {"id": "s9c6s4", "name_hi": "कोशिकीय विविधता", "name_en": "Cell diversity & shape", "prereqs": ["s9c6s1"], "weight": 1.0}
+        ]}
+      ]
+    },
+    {
+      "class": 10,
+      "subject": "science",
+      "chapters": [
+        {"id": "s10c1", "name_hi": "रासायनिक अभिक्रियाएँ एवं समीकरण", "name_en": "Chemical Reactions & Equations", "skills": [
+          {"id": "s10c1s1", "name_hi": "समीकरण संतुलित करना", "name_en": "Balancing equations", "prereqs": [], "weight": 1.1},
+          {"id": "s10c1s2", "name_hi": "संयोग/अपघटन अभिक्रियाएँ", "name_en": "Combination & decomposition reactions", "prereqs": ["s10c1s1"], "weight": 1.2},
+          {"id": "s10c1s3", "name_hi": "उपचयन व अपचयन", "name_en": "Oxidation & reduction", "prereqs": ["s10c1s1"], "weight": 1.3},
+          {"id": "s10c1s4", "name_hi": "संक्षारण व विरंजन", "name_en": "Corrosion & rancidity", "prereqs": ["s10c1s3"], "weight": 1.1}
+        ]},
+        {"id": "s10c2", "name_hi": "अम्ल, क्षारक एवं लवण", "name_en": "Acids, Bases & Salts", "skills": [
+          {"id": "s10c2s1", "name_hi": "गुण व सूचक", "name_en": "Properties & indicators", "prereqs": [], "weight": 1.0},
+          {"id": "s10c2s2", "name_hi": "pH पैमाना", "name_en": "pH scale & importance", "prereqs": ["s10c2s1"], "weight": 1.2},
+          {"id": "s10c2s3", "name_hi": "उदासीनीकरण व लवण", "name_en": "Neutralisation & salts", "prereqs": ["s10c2s1"], "weight": 1.1},
+          {"id": "s10c2s4", "name_hi": "महत्वपूर्ण लवण", "name_en": "Important salts (baking soda etc.)", "prereqs": ["s10c2s3"], "weight": 1.2}
+        ]},
+        {"id": "s10c3", "name_hi": "विद्युत", "name_en": "Electricity", "skills": [
+          {"id": "s10c3s1", "name_hi": "विद्युत धारा व परिपथ", "name_en": "Current & circuit basics", "prereqs": [], "weight": 1.0},
+          {"id": "s10c3s2", "name_hi": "ओम का नियम", "name_en": "Ohm's law", "prereqs": ["s10c3s1"], "weight": 1.2},
+          {"id": "s10c3s3", "name_hi": "श्रेणी/समांतर प्रतिरोध", "name_en": "Series & parallel resistance", "prereqs": ["s10c3s2"], "weight": 1.3},
+          {"id": "s10c3s4", "name_hi": "विद्युत धारा का ऊष्मीय प्रभाव", "name_en": "Heating effect of current", "prereqs": ["s10c3s2"], "weight": 1.2}
+        ]},
+        {"id": "s10c4", "name_hi": "प्रकाश — परावर्तन तथा अपवर्तन", "name_en": "Light — Reflection & Refraction", "skills": [
+          {"id": "s10c4s1", "name_hi": "परावर्तन व दर्पण", "name_en": "Reflection & mirrors", "prereqs": [], "weight": 1.0},
+          {"id": "s10c4s2", "name_hi": "दर्पण सूत्र/आवर्धन", "name_en": "Mirror formula & magnification", "prereqs": ["s10c4s1"], "weight": 1.3},
+          {"id": "s10c4s3", "name_hi": "अपवर्तन व लेंस", "name_en": "Refraction & lenses", "prereqs": ["s10c4s1"], "weight": 1.2},
+          {"id": "s10c4s4", "name_hi": "लेंस सूत्र व क्षमता", "name_en": "Lens formula & power", "prereqs": ["s10c4s3"], "weight": 1.3}
+        ]},
+        {"id": "s10c5", "name_hi": "जैव प्रक्रम", "name_en": "Life Processes", "skills": [
+          {"id": "s10c5s1", "name_hi": "पोषण", "name_en": "Nutrition", "prereqs": [], "weight": 1.0},
+          {"id": "s10c5s2", "name_hi": "श्वसन", "name_en": "Respiration", "prereqs": ["s10c5s1"], "weight": 1.1},
+          {"id": "s10c5s3", "name_hi": "परिवहन", "name_en": "Transportation", "prereqs": ["s10c5s1"], "weight": 1.1},
+          {"id": "s10c5s4", "name_hi": "उत्सर्जन", "name_en": "Excretion", "prereqs": ["s10c5s3"], "weight": 1.1}
+        ]},
+        {"id": "s10c6", "name_hi": "जनन", "name_en": "Reproduction", "skills": [
+          {"id": "s10c6s1", "name_hi": "अलैंगिक जनन की विधियाँ", "name_en": "Asexual reproduction modes", "prereqs": [], "weight": 1.0},
+          {"id": "s10c6s2", "name_hi": "पुष्पी पादपों में लैंगिक जनन", "name_en": "Sexual reproduction in plants", "prereqs": ["s10c6s1"], "weight": 1.2},
+          {"id": "s10c6s3", "name_hi": "मानव जनन तंत्र", "name_en": "Human reproductive system", "prereqs": ["s10c6s1"], "weight": 1.2},
+          {"id": "s10c6s4", "name_hi": "जनन स्वास्थ्य", "name_en": "Reproductive health", "prereqs": ["s10c6s3"], "weight": 1.0}
+        ]}
+      ]
+    }
+  ]
+}

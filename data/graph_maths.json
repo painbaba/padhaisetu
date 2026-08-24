@@ -1,0 +1,184 @@
+{
+  "classes": [
+    {
+      "class": 8,
+      "subject": "maths",
+      "chapters": [
+        {"id": "m8c1", "name_hi": "परिमेय संख्याएँ", "name_en": "Rational Numbers", "skills": [
+          {"id": "m8c1s1", "name_hi": "परिमेय संख्याओं का जोड़ व घटाव", "name_en": "Addition & subtraction of rational numbers", "prereqs": [], "weight": 1.0},
+          {"id": "m8c1s2", "name_hi": "परिमेय संख्याओं का गुणा व भाग", "name_en": "Multiplication & division of rational numbers", "prereqs": ["m8c1s1"], "weight": 1.1},
+          {"id": "m8c1s3", "name_hi": "परिमेय संख्याओं के गुणधर्म", "name_en": "Properties of rational numbers", "prereqs": ["m8c1s1"], "weight": 1.0},
+          {"id": "m8c1s4", "name_hi": "संख्या रेखा पर परिमेय संख्याएँ", "name_en": "Rational numbers on the number line", "prereqs": [], "weight": 0.9}
+        ]},
+        {"id": "m8c2", "name_hi": "एक चर वाले रैखिक समीकरण", "name_en": "Linear Equations in One Variable", "skills": [
+          {"id": "m8c2s1", "name_hi": "सरल समीकरण हल करना (ax+b=c)", "name_en": "Solving simple equations ax+b=c", "prereqs": [], "weight": 1.0},
+          {"id": "m8c2s2", "name_hi": "दोनों ओर चर वाले समीकरण", "name_en": "Variables on both sides", "prereqs": ["m8c2s1"], "weight": 1.1},
+          {"id": "m8c2s3", "name_hi": "समीकरण बनाकर हल (शब्द-समस्याएँ)", "name_en": "Word problems with equations", "prereqs": ["m8c2s2"], "weight": 1.2},
+          {"id": "m8c2s4", "name_hi": "सरल करने पर समीकरण", "name_en": "Reducible equations", "prereqs": ["m8c2s2"], "weight": 1.1}
+        ]},
+        {"id": "m8c3", "name_hi": "चतुर्भुजों को समझना", "name_en": "Understanding Quadrilaterals", "skills": [
+          {"id": "m8c3s1", "name_hi": "चतुर्भुज के कोणों का योग", "name_en": "Angle sum of a quadrilateral", "prereqs": [], "weight": 1.0},
+          {"id": "m8c3s2", "name_hi": "समांतर चतुर्भुज के गुण", "name_en": "Parallelogram properties", "prereqs": ["m8c3s1"], "weight": 1.1},
+          {"id": "m8c3s3", "name_hi": "विशेष समांतर चतुर्भुज", "name_en": "Special parallelograms", "prereqs": ["m8c3s2"], "weight": 1.1},
+          {"id": "m8c3s4", "name_hi": "बहुभुजों के कोण", "name_en": "Angles of polygons", "prereqs": ["m8c3s1"], "weight": 1.0}
+        ]},
+        {"id": "m8c4", "name_hi": "आँकड़ों का प्रबंधन", "name_en": "Data Handling", "skills": [
+          {"id": "m8c4s1", "name_hi": "आँकड़ों का संगठन (बारंबारता)", "name_en": "Organising data (frequency)", "prereqs": [], "weight": 1.0},
+          {"id": "m8c4s2", "name_hi": "आयत चित्र", "name_en": "Histograms", "prereqs": ["m8c4s1"], "weight": 1.0},
+          {"id": "m8c4s3", "name_hi": "वृत्त आरेख", "name_en": "Pie charts", "prereqs": ["m8c4s1"], "weight": 1.1},
+          {"id": "m8c4s4", "name_hi": "प्रायिकता का परिचय", "name_en": "Introduction to probability", "prereqs": [], "weight": 1.0}
+        ]},
+        {"id": "m8c5", "name_hi": "वर्ग और वर्गमूल", "name_en": "Squares and Square Roots", "skills": [
+          {"id": "m8c5s1", "name_hi": "पूर्ण वर्ग संख्याएँ", "name_en": "Perfect squares", "prereqs": [], "weight": 1.0},
+          {"id": "m8c5s2", "name_hi": "वर्गमूल ज्ञात करना", "name_en": "Finding square roots", "prereqs": ["m8c5s1"], "weight": 1.2},
+          {"id": "m8c5s3", "name_hi": "दशमलव संख्याओं का वर्गमूल", "name_en": "Square roots of decimals", "prereqs": ["m8c5s2"], "weight": 1.1},
+          {"id": "m8c5s4", "name_hi": "वर्गमूल का अनुमान", "name_en": "Estimating square roots", "prereqs": ["m8c5s1"], "weight": 1.0}
+        ]},
+        {"id": "m8c6", "name_hi": "घन और घनमूल", "name_en": "Cubes and Cube Roots", "skills": [
+          {"id": "m8c6s1", "name_hi": "घन ज्ञात करना", "name_en": "Finding cubes", "prereqs": [], "weight": 1.0},
+          {"id": "m8c6s2", "name_hi": "पूर्ण घन पहचानना", "name_en": "Recognising perfect cubes", "prereqs": ["m8c6s1"], "weight": 1.1},
+          {"id": "m8c6s3", "name_hi": "घनमूल", "name_en": "Cube roots", "prereqs": ["m8c6s2"], "weight": 1.2},
+          {"id": "m8c6s4", "name_hi": "ऋणात्मक संख्याओं के घन", "name_en": "Cubes of negative numbers", "prereqs": ["m8c6s1"], "weight": 1.0}
+        ]},
+        {"id": "m8c7", "name_hi": "तुलनात्मक राशियाँ", "name_en": "Comparing Quantities", "skills": [
+          {"id": "m8c7s1", "name_hi": "प्रतिशत", "name_en": "Percentages", "prereqs": [], "weight": 1.0},
+          {"id": "m8c7s2", "name_hi": "प्रतिशत वृद्धि व कमी", "name_en": "Percentage increase & decrease", "prereqs": ["m8c7s1"], "weight": 1.1},
+          {"id": "m8c7s3", "name_hi": "बट्टा", "name_en": "Discount", "prereqs": ["m8c7s1"], "weight": 1.1},
+          {"id": "m8c7s4", "name_hi": "चक्रवृद्धि ब्याज", "name_en": "Compound interest", "prereqs": ["m8c7s2"], "weight": 1.2}
+        ]},
+        {"id": "m8c8", "name_hi": "क्षेत्रमिति", "name_en": "Mensuration", "skills": [
+          {"id": "m8c8s1", "name_hi": "आयत व वर्ग का क्षेत्रफल-परिमाप", "name_en": "Area & perimeter of rectangle/square", "prereqs": [], "weight": 1.0},
+          {"id": "m8c8s2", "name_hi": "समांतर चतुर्भुज व त्रिभुज का क्षेत्रफल", "name_en": "Area of parallelogram & triangle", "prereqs": ["m8c8s1"], "weight": 1.1},
+          {"id": "m8c8s3", "name_hi": "घनाभ का पृष्ठीय क्षेत्रफल", "name_en": "Surface area of cuboid", "prereqs": ["m8c8s1"], "weight": 1.2},
+          {"id": "m8c8s4", "name_hi": "घनाभ का आयतन", "name_en": "Volume of cuboid", "prereqs": ["m8c8s3"], "weight": 1.2}
+        ]},
+        {"id": "m8c9", "name_hi": "घातांक और घात", "name_en": "Exponents and Powers", "skills": [
+          {"id": "m8c9s1", "name_hi": "घातांक के नियम (गुणा)", "name_en": "Laws of exponents (multiplication)", "prereqs": [], "weight": 1.0},
+          {"id": "m8c9s2", "name_hi": "ऋणात्मक घातांक", "name_en": "Negative exponents", "prereqs": ["m8c9s1"], "weight": 1.1},
+          {"id": "m8c9s3", "name_hi": "शून्य घातांक", "name_en": "Zero exponent", "prereqs": ["m8c9s1"], "weight": 1.0},
+          {"id": "m8c9s4", "name_hi": "बड़ी संख्याओं का मानक रूप", "name_en": "Standard form of large numbers", "prereqs": ["m8c9s1"], "weight": 1.0}
+        ]},
+        {"id": "m8c10", "name_hi": "सीधा और प्रतिलोम समानुपात", "name_en": "Direct and Inverse Proportions", "skills": [
+          {"id": "m8c10s1", "name_hi": "सीधा समानुपात", "name_en": "Direct proportion", "prereqs": [], "weight": 1.0},
+          {"id": "m8c10s2", "name_hi": "प्रतिलोम समानुपात", "name_en": "Inverse proportion", "prereqs": [], "weight": 1.0},
+          {"id": "m8c10s3", "name_hi": "समानुपात का प्रकार पहचानना", "name_en": "Identifying proportion type", "prereqs": ["m8c10s1", "m8c10s2"], "weight": 1.1},
+          {"id": "m8c10s4", "name_hi": "मिश्रित अनुप्रयोग", "name_en": "Mixed applications", "prereqs": ["m8c10s3"], "weight": 1.2}
+        ]},
+        {"id": "m8c11", "name_hi": "गुणनखंडन", "name_en": "Factorisation", "skills": [
+          {"id": "m8c11s1", "name_hi": "सर्वनिष्ठ गुणनखंड", "name_en": "Common factors", "prereqs": [], "weight": 1.0},
+          {"id": "m8c11s2", "name_hi": "समूहन विधि", "name_en": "Factorisation by grouping", "prereqs": ["m8c11s1"], "weight": 1.1},
+          {"id": "m8c11s3", "name_hi": "सर्वसमिकाओं पर आधारित गुणनखंड", "name_en": "Identities-based factorisation", "prereqs": ["m8c11s1"], "weight": 1.2},
+          {"id": "m8c11s4", "name_hi": "बहुपदों का भाग", "name_en": "Division of polynomials", "prereqs": ["m8c11s2"], "weight": 1.1}
+        ]}
+      ]
+    },
+    {
+      "class": 9,
+      "subject": "maths",
+      "chapters": [
+        {"id": "m9c1", "name_hi": "संख्या पद्धति", "name_en": "Number Systems", "skills": [
+          {"id": "m9c1s1", "name_hi": "परिमेय/अपरिमेय पहचान", "name_en": "Identifying rational & irrational numbers", "prereqs": [], "weight": 1.0},
+          {"id": "m9c1s2", "name_hi": "वास्तविक संख्याएँ व दशमलव प्रसार", "name_en": "Real numbers & decimal expansions", "prereqs": ["m9c1s1"], "weight": 1.1},
+          {"id": "m9c1s3", "name_hi": "संख्या रेखा पर निरूपण", "name_en": "Representing reals on number line", "prereqs": ["m9c1s1"], "weight": 1.0},
+          {"id": "m9c1s4", "name_hi": "वास्तविक संख्याओं के घातांक", "name_en": "Exponents for real numbers", "prereqs": ["m8c9s1"], "weight": 1.1}
+        ]},
+        {"id": "m9c2", "name_hi": "बहुपद", "name_en": "Polynomials", "skills": [
+          {"id": "m9c2s1", "name_hi": "बहुपद व उसकी घात", "name_en": "Polynomials & degree", "prereqs": [], "weight": 1.0},
+          {"id": "m9c2s2", "name_hi": "बिंदु पर बहुपद का मान", "name_en": "Value of a polynomial at a point", "prereqs": ["m9c2s1"], "weight": 1.1},
+          {"id": "m9c2s3", "name_hi": "बहुपद के शून्यक", "name_en": "Zeros of a polynomial", "prereqs": ["m9c2s2"], "weight": 1.2},
+          {"id": "m9c2s4", "name_hi": "शेषफल प्रमेय", "name_en": "Remainder theorem", "prereqs": ["m9c2s2"], "weight": 1.2}
+        ]},
+        {"id": "m9c3", "name_hi": "दो चरों वाले रैखिक समीकरण", "name_en": "Linear Equations in Two Variables", "skills": [
+          {"id": "m9c3s1", "name_hi": "समीकरण युग्म हल करना", "name_en": "Solving a pair of equations", "prereqs": ["m8c2s1"], "weight": 1.0},
+          {"id": "m9c3s2", "name_hi": "रैखिक समीकरण का ग्राफ", "name_en": "Graph of a linear equation", "prereqs": ["m9c3s1"], "weight": 1.1},
+          {"id": "m9c3s3", "name_hi": "अक्षों के समांतर रेखाएँ", "name_en": "Lines parallel to axes", "prereqs": ["m9c3s2"], "weight": 1.0},
+          {"id": "m9c3s4", "name_hi": "शब्द-समस्याएँ", "name_en": "Word problems", "prereqs": ["m9c3s1"], "weight": 1.1}
+        ]},
+        {"id": "m9c4", "name_hi": "निर्देशांक ज्यामिति", "name_en": "Coordinate Geometry", "skills": [
+          {"id": "m9c4s1", "name_hi": "कार्तीय तल व चतुर्थांश", "name_en": "Cartesian plane & quadrants", "prereqs": [], "weight": 1.0},
+          {"id": "m9c4s2", "name_hi": "बिंदुओं का आलेखन", "name_en": "Plotting points", "prereqs": ["m9c4s1"], "weight": 1.0},
+          {"id": "m9c4s3", "name_hi": "भुज व कोटि", "name_en": "Abscissa & ordinate", "prereqs": ["m9c4s1"], "weight": 1.0},
+          {"id": "m9c4s4", "name_hi": "ग्राफ से बिंदु पढ़ना", "name_en": "Reading points from a graph", "prereqs": ["m9c4s2"], "weight": 1.0}
+        ]},
+        {"id": "m9c5", "name_hi": "त्रिभुज", "name_en": "Triangles", "skills": [
+          {"id": "m9c5s1", "name_hi": "त्रिभुज के कोणों का योग", "name_en": "Angle sum property", "prereqs": [], "weight": 1.0},
+          {"id": "m9c5s2", "name_hi": "सर्वांगसमता नियम", "name_en": "Congruence criteria", "prereqs": ["m9c5s1"], "weight": 1.1},
+          {"id": "m9c5s3", "name_hi": "समद्विबाहु त्रिभुज के गुण", "name_en": "Isosceles triangle properties", "prereqs": ["m9c5s1"], "weight": 1.1},
+          {"id": "m9c5s4", "name_hi": "त्रिभुज की असमानताएँ", "name_en": "Triangle inequalities", "prereqs": ["m9c5s1"], "weight": 1.0}
+        ]},
+        {"id": "m9c6", "name_hi": "हीरोन का सूत्र", "name_en": "Heron's Formula", "skills": [
+          {"id": "m9c6s1", "name_hi": "हीरोन सूत्र लगाना", "name_en": "Applying Heron's formula", "prereqs": [], "weight": 1.2},
+          {"id": "m9c6s2", "name_hi": "अर्धपरिमाप निकालना", "name_en": "Computing semi-perimeter", "prereqs": ["m9c6s1"], "weight": 1.0},
+          {"id": "m9c6s3", "name_hi": "चतुर्भुज का क्षेत्रफल", "name_en": "Area of quadrilateral by splitting", "prereqs": ["m9c6s1"], "weight": 1.3},
+          {"id": "m9c6s4", "name_hi": "व्यवहारिक अनुप्रयोग", "name_en": "Practical applications", "prereqs": ["m9c6s1"], "weight": 1.1}
+        ]},
+        {"id": "m9c7", "name_hi": "पृष्ठीय क्षेत्रफल एवं आयतन", "name_en": "Surface Areas & Volumes", "skills": [
+          {"id": "m9c7s1", "name_hi": "लंब वृत्तीय शंकु", "name_en": "Right circular cone", "prereqs": [], "weight": 1.1},
+          {"id": "m9c7s2", "name_hi": "गोला व अर्धगोला", "name_en": "Sphere & hemisphere", "prereqs": ["m9c7s1"], "weight": 1.2},
+          {"id": "m9c7s3", "name_hi": "लंब वृत्तीय बेलन", "name_en": "Right circular cylinder", "prereqs": ["m9c7s1"], "weight": 1.1},
+          {"id": "m9c7s4", "name_hi": "वक्र व कुल पृष्ठीय क्षेत्रफल", "name_en": "Curved vs total surface area", "prereqs": ["m9c7s3"], "weight": 1.1}
+        ]},
+        {"id": "m9c8", "name_hi": "सांख्यिकी", "name_en": "Statistics", "skills": [
+          {"id": "m9c8s1", "name_hi": "अवर्गीकृत आँकड़ों का माध्य", "name_en": "Mean of raw data", "prereqs": [], "weight": 1.0},
+          {"id": "m9c8s2", "name_hi": "बारंबारता सारणी से माध्य", "name_en": "Mean from frequency table", "prereqs": ["m9c8s1"], "weight": 1.2},
+          {"id": "m9c8s3", "name_hi": "माध्यिका", "name_en": "Median", "prereqs": ["m9c8s1"], "weight": 1.1},
+          {"id": "m9c8s4", "name_hi": "बहुलक", "name_en": "Mode", "prereqs": ["m9c8s1"], "weight": 1.0}
+        ]}
+      ]
+    },
+    {
+      "class": 10,
+      "subject": "maths",
+      "chapters": [
+        {"id": "m10c1", "name_hi": "वास्तविक संख्याएँ", "name_en": "Real Numbers", "skills": [
+          {"id": "m10c1s1", "name_hi": "म.स. व ल.स.", "name_en": "HCF & LCM", "prereqs": [], "weight": 1.0},
+          {"id": "m10c1s2", "name_hi": "अभाज्य गुणनखंड", "name_en": "Prime factorisation", "prereqs": ["m10c1s1"], "weight": 1.1},
+          {"id": "m10c1s3", "name_hi": "sqrt2 की अपरिमेयता", "name_en": "Irrationality of sqrt2", "prereqs": ["m10c1s2"], "weight": 1.2},
+          {"id": "m10c1s4", "name_hi": "संयुक्त संख्याएँ व परिणाम", "name_en": "Composite-based results", "prereqs": ["m10c1s2"], "weight": 1.2}
+        ]},
+        {"id": "m10c2", "name_hi": "बहुपद", "name_en": "Polynomials", "skills": [
+          {"id": "m10c2s1", "name_hi": "मूल व गुणांक संबंध", "name_en": "Zeros & coefficient relation", "prereqs": ["m9c2s3"], "weight": 1.2},
+          {"id": "m10c2s2", "name_hi": "मूलों का योग व गुणनफल", "name_en": "Sum & product of roots", "prereqs": ["m10c2s1"], "weight": 1.2},
+          {"id": "m10c2s3", "name_hi": "द्विघात बहुपद बनाना", "name_en": "Forming quadratic polynomials", "prereqs": ["m10c2s2"], "weight": 1.3},
+          {"id": "m10c2s4", "name_hi": "विभाजन एल्गोरिथ्म", "name_en": "Division algorithm", "prereqs": ["m10c2s1"], "weight": 1.3}
+        ]},
+        {"id": "m10c3", "name_hi": "द्विघात समीकरण", "name_en": "Quadratic Equations", "skills": [
+          {"id": "m10c3s1", "name_hi": "गुणनखंड विधि से मूल", "name_en": "Roots by factorisation", "prereqs": ["m8c11s3"], "weight": 1.2},
+          {"id": "m10c3s2", "name_hi": "विविक्तकर व मूलों की प्रकृति", "name_en": "Discriminant & nature of roots", "prereqs": ["m10c3s1"], "weight": 1.2},
+          {"id": "m10c3s3", "name_hi": "द्विघात सूत्र", "name_en": "Quadratic formula", "prereqs": ["m10c3s1"], "weight": 1.3},
+          {"id": "m10c3s4", "name_hi": "शब्द-समस्याएँ", "name_en": "Word problems", "prereqs": ["m10c3s3"], "weight": 1.3}
+        ]},
+        {"id": "m10c4", "name_hi": "समांतर श्रेणियाँ", "name_en": "Arithmetic Progressions", "skills": [
+          {"id": "m10c4s1", "name_hi": "सार्व अंतर", "name_en": "Common difference", "prereqs": [], "weight": 1.0},
+          {"id": "m10c4s2", "name_hi": "n वाँ पद", "name_en": "nth term", "prereqs": ["m10c4s1"], "weight": 1.2},
+          {"id": "m10c4s3", "name_hi": "n पदों का योग", "name_en": "Sum of n terms", "prereqs": ["m10c4s2"], "weight": 1.3},
+          {"id": "m10c4s4", "name_hi": "श्रेणी के अनुप्रयोग", "name_en": "AP applications", "prereqs": ["m10c4s2"], "weight": 1.2}
+        ]},
+        {"id": "m10c5", "name_hi": "त्रिकोणमिति", "name_en": "Trigonometry", "skills": [
+          {"id": "m10c5s1", "name_hi": "मानक कोणों के अनुपात", "name_en": "Ratios of standard angles", "prereqs": [], "weight": 1.1},
+          {"id": "m10c5s2", "name_hi": "मान ज्ञात करना", "name_en": "Evaluating expressions", "prereqs": ["m10c5s1"], "weight": 1.2},
+          {"id": "m10c5s3", "name_hi": "त्रिकोणमितीय सर्वसमिकाएँ", "name_en": "Trigonometric identities", "prereqs": ["m10c5s1"], "weight": 1.3},
+          {"id": "m10c5s4", "name_hi": "पूरक कोण", "name_en": "Complementary angles", "prereqs": ["m10c5s1"], "weight": 1.2}
+        ]},
+        {"id": "m10c6", "name_hi": "निर्देशांक ज्यामिति", "name_en": "Coordinate Geometry", "skills": [
+          {"id": "m10c6s1", "name_hi": "दूरी सूत्र", "name_en": "Distance formula", "prereqs": [], "weight": 1.2},
+          {"id": "m10c6s2", "name_hi": "विभाजन सूत्र", "name_en": "Section formula", "prereqs": ["m10c6s1"], "weight": 1.3},
+          {"id": "m10c6s3", "name_hi": "त्रिभुज का क्षेत्रफल", "name_en": "Area of a triangle", "prereqs": ["m10c6s1"], "weight": 1.3},
+          {"id": "m10c6s4", "name_hi": "चतुर्भुजों का वर्गीकरण", "name_en": "Classifying quadrilaterals", "prereqs": ["m10c6s1"], "weight": 1.2}
+        ]},
+        {"id": "m10c7", "name_hi": "सांख्यिकी", "name_en": "Statistics", "skills": [
+          {"id": "m10c7s1", "name_hi": "वर्गीकृत आँकड़ों का माध्य", "name_en": "Mean of grouped data", "prereqs": [], "weight": 1.3},
+          {"id": "m10c7s2", "name_hi": "वर्गीकृत बहुलक", "name_en": "Mode of grouped data", "prereqs": ["m10c7s1"], "weight": 1.3},
+          {"id": "m10c7s3", "name_hi": "वर्गीकृत माध्यिका", "name_en": "Median of grouped data", "prereqs": ["m10c7s1"], "weight": 1.3},
+          {"id": "m10c7s4", "name_hi": "तोरण (ओजाइव)", "name_en": "Ogives", "prereqs": ["m10c7s3"], "weight": 1.2}
+        ]},
+        {"id": "m10c8", "name_hi": "प्रायिकता", "name_en": "Probability", "skills": [
+          {"id": "m10c8s1", "name_hi": "सैद्धांतिक प्रायिकता", "name_en": "Theoretical probability", "prereqs": ["m8c4s4"], "weight": 1.1},
+          {"id": "m10c8s2", "name_hi": "पासे की प्रायिकता", "name_en": "Dice probability", "prereqs": ["m10c8s1"], "weight": 1.2},
+          {"id": "m10c8s3", "name_hi": "सिक्कों की प्रायिकता", "name_en": "Coin probability", "prereqs": ["m10c8s1"], "weight": 1.1},
+          {"id": "m10c8s4", "name_hi": "पत्तों की प्रायिकता", "name_en": "Card probability", "prereqs": ["m10c8s1"], "weight": 1.2}
+        ]}
+      ]
+    }
+  ]
+}

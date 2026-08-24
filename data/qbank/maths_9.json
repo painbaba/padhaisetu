@@ -1,0 +1,2176 @@
+{
+ "subject": "maths",
+ "grade": 9,
+ "generator": "gen_math.py seed=42",
+ "items": [
+  {
+   "skill_id": "m9c1s1",
+   "difficulty": 1,
+   "text_hi": "इनमें से कौन-सी अपरिमेय संख्या है?",
+   "text_en": "Which of these is an irrational number?",
+   "options": [
+    "√23",
+    "√4",
+    "√9",
+    "√36"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पूर्ण वर्ग का वर्गमूल परिमेय होता है।",
+   "hint_en": "Square roots of perfect squares are rational.",
+   "solution_hi": "√23 को p/q रूप में नहीं लिखा जा सकता, शेष सभी परिमेय हैं।",
+   "solution_en": "√23 cannot be written as p/q; all others are rational.",
+   "gen_params": {
+    "tpl": "irrational_pick",
+    "irr": "√23"
+   }
+  },
+  {
+   "skill_id": "m9c1s1",
+   "difficulty": 1,
+   "text_hi": "इनमें से कौन-सी अपरिमेय संख्या है?",
+   "text_en": "Which of these is an irrational number?",
+   "options": [
+    "√11",
+    "√4",
+    "√16",
+    "2/5"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पूर्ण वर्ग का वर्गमूल परिमेय होता है।",
+   "hint_en": "Square roots of perfect squares are rational.",
+   "solution_hi": "√11 को p/q रूप में नहीं लिखा जा सकता, शेष सभी परिमेय हैं।",
+   "solution_en": "√11 cannot be written as p/q; all others are rational.",
+   "gen_params": {
+    "tpl": "irrational_pick",
+    "irr": "√11"
+   }
+  },
+  {
+   "skill_id": "m9c1s1",
+   "difficulty": 1,
+   "text_hi": "इनमें से कौन-सी अपरिमेय संख्या है?",
+   "text_en": "Which of these is an irrational number?",
+   "options": [
+    "√25",
+    "√9",
+    "√36",
+    "√15"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "पूर्ण वर्ग का वर्गमूल परिमेय होता है।",
+   "hint_en": "Square roots of perfect squares are rational.",
+   "solution_hi": "√15 को p/q रूप में नहीं लिखा जा सकता, शेष सभी परिमेय हैं।",
+   "solution_en": "√15 cannot be written as p/q; all others are rational.",
+   "gen_params": {
+    "tpl": "irrational_pick",
+    "irr": "√15"
+   }
+  },
+  {
+   "skill_id": "m9c1s1",
+   "difficulty": 1,
+   "text_hi": "इनमें से कौन-सी अपरिमेय संख्या है?",
+   "text_en": "Which of these is an irrational number?",
+   "options": [
+    "√7",
+    "√4",
+    "0.75",
+    "√16"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पूर्ण वर्ग का वर्गमूल परिमेय होता है।",
+   "hint_en": "Square roots of perfect squares are rational.",
+   "solution_hi": "√7 को p/q रूप में नहीं लिखा जा सकता, शेष सभी परिमेय हैं।",
+   "solution_en": "√7 cannot be written as p/q; all others are rational.",
+   "gen_params": {
+    "tpl": "irrational_pick",
+    "irr": "√7"
+   }
+  },
+  {
+   "skill_id": "m9c1s1",
+   "difficulty": 1,
+   "text_hi": "इनमें से कौन-सी अपरिमेय संख्या है?",
+   "text_en": "Which of these is an irrational number?",
+   "options": [
+    "√36",
+    "0.75",
+    "√19",
+    "0.333..."
+   ],
+   "correct_idx": 2,
+   "hint_hi": "पूर्ण वर्ग का वर्गमूल परिमेय होता है।",
+   "hint_en": "Square roots of perfect squares are rational.",
+   "solution_hi": "√19 को p/q रूप में नहीं लिखा जा सकता, शेष सभी परिमेय हैं।",
+   "solution_en": "√19 cannot be written as p/q; all others are rational.",
+   "gen_params": {
+    "tpl": "irrational_pick",
+    "irr": "√19"
+   }
+  },
+  {
+   "skill_id": "m9c1s1",
+   "difficulty": 1,
+   "text_hi": "इनमें से कौन-सी अपरिमेय संख्या है?",
+   "text_en": "Which of these is an irrational number?",
+   "options": [
+    "√13",
+    "√36",
+    "√25",
+    "√16"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "पूर्ण वर्ग का वर्गमूल परिमेय होता है।",
+   "hint_en": "Square roots of perfect squares are rational.",
+   "solution_hi": "√13 को p/q रूप में नहीं लिखा जा सकता, शेष सभी परिमेय हैं।",
+   "solution_en": "√13 cannot be written as p/q; all others are rational.",
+   "gen_params": {
+    "tpl": "irrational_pick",
+    "irr": "√13"
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "(3/3)^-3 = ?",
+   "text_en": "(3/3)^-3 = ?",
+   "options": [
+    "100",
+    "1000",
+    "1",
+    "10"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "व्युत्क्रम लें, फिर घात लगाएँ।",
+   "hint_en": "Take reciprocal, then raise to the power.",
+   "solution_hi": "(3/3)^-3 = (3/3)^3 = 1।",
+   "solution_en": "(3/3)^3 = 1.",
+   "gen_params": {
+    "tpl": "neg_exp_frac",
+    "num": 3,
+    "den": 3,
+    "e": 3
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "3^-3 = ?",
+   "text_en": "3^-3 = ?",
+   "options": [
+    "1/3",
+    "27",
+    "1/27",
+    "-1/27"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "ऋणात्मक घात पर व्युत्क्रम लीजिए।",
+   "hint_en": "Negative power means reciprocal.",
+   "solution_hi": "3^-3 = 1/3^3 = 1/27।",
+   "solution_en": "3^-3 = 1/3^3 = 1/27.",
+   "gen_params": {
+    "tpl": "neg_exp_int",
+    "b": 3,
+    "e": 3
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "(4/2)^-3 = ?",
+   "text_en": "(4/2)^-3 = ?",
+   "options": [
+    "1/80",
+    "1/16",
+    "8",
+    "1/8"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "व्युत्क्रम लें, फिर घात लगाएँ।",
+   "hint_en": "Take reciprocal, then raise to the power.",
+   "solution_hi": "(4/2)^-3 = (2/4)^3 = 1/8।",
+   "solution_en": "(2/4)^3 = 1/8.",
+   "gen_params": {
+    "tpl": "neg_exp_frac",
+    "num": 4,
+    "den": 2,
+    "e": 3
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "2^-3 = ?",
+   "text_en": "2^-3 = ?",
+   "options": [
+    "8",
+    "1/2",
+    "-1/8",
+    "1/8"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "ऋणात्मक घात पर व्युत्क्रम लीजिए।",
+   "hint_en": "Negative power means reciprocal.",
+   "solution_hi": "2^-3 = 1/2^3 = 1/8।",
+   "solution_en": "2^-3 = 1/2^3 = 1/8.",
+   "gen_params": {
+    "tpl": "neg_exp_int",
+    "b": 2,
+    "e": 3
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "5^-2 = ?",
+   "text_en": "5^-2 = ?",
+   "options": [
+    "1/25",
+    "-1/25",
+    "25",
+    "1/5"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "ऋणात्मक घात पर व्युत्क्रम लीजिए।",
+   "hint_en": "Negative power means reciprocal.",
+   "solution_hi": "5^-2 = 1/5^2 = 1/25।",
+   "solution_en": "5^-2 = 1/5^2 = 1/25.",
+   "gen_params": {
+    "tpl": "neg_exp_int",
+    "b": 5,
+    "e": 2
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "(3/2)^-3 = ?",
+   "text_en": "(3/2)^-3 = ?",
+   "options": [
+    "27/8",
+    "8/27",
+    "16/81",
+    "8/270"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "व्युत्क्रम लें, फिर घात लगाएँ।",
+   "hint_en": "Take reciprocal, then raise to the power.",
+   "solution_hi": "(3/2)^-3 = (2/3)^3 = 8/27।",
+   "solution_en": "(2/3)^3 = 8/27.",
+   "gen_params": {
+    "tpl": "neg_exp_frac",
+    "num": 3,
+    "den": 2,
+    "e": 3
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "5^-3 = ?",
+   "text_en": "5^-3 = ?",
+   "options": [
+    "1/5",
+    "-1/125",
+    "125",
+    "1/125"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "ऋणात्मक घात पर व्युत्क्रम लीजिए।",
+   "hint_en": "Negative power means reciprocal.",
+   "solution_hi": "5^-3 = 1/5^3 = 1/125।",
+   "solution_en": "5^-3 = 1/5^3 = 1/125.",
+   "gen_params": {
+    "tpl": "neg_exp_int",
+    "b": 5,
+    "e": 3
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "(3/5)^-2 = ?",
+   "text_en": "(3/5)^-2 = ?",
+   "options": [
+    "125/27",
+    "25/90",
+    "25/9",
+    "9/25"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "व्युत्क्रम लें, फिर घात लगाएँ।",
+   "hint_en": "Take reciprocal, then raise to the power.",
+   "solution_hi": "(3/5)^-2 = (5/3)^2 = 25/9।",
+   "solution_en": "(5/3)^2 = 25/9.",
+   "gen_params": {
+    "tpl": "neg_exp_frac",
+    "num": 3,
+    "den": 5,
+    "e": 2
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "(5/5)^-2 = ?",
+   "text_en": "(5/5)^-2 = ?",
+   "options": [
+    "1000",
+    "100",
+    "10",
+    "1"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "व्युत्क्रम लें, फिर घात लगाएँ।",
+   "hint_en": "Take reciprocal, then raise to the power.",
+   "solution_hi": "(5/5)^-2 = (5/5)^2 = 1।",
+   "solution_en": "(5/5)^2 = 1.",
+   "gen_params": {
+    "tpl": "neg_exp_frac",
+    "num": 5,
+    "den": 5,
+    "e": 2
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "(5/4)^-2 = ?",
+   "text_en": "(5/4)^-2 = ?",
+   "options": [
+    "25/16",
+    "16/25",
+    "64/125",
+    "16/250"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "व्युत्क्रम लें, फिर घात लगाएँ।",
+   "hint_en": "Take reciprocal, then raise to the power.",
+   "solution_hi": "(5/4)^-2 = (4/5)^2 = 16/25।",
+   "solution_en": "(4/5)^2 = 16/25.",
+   "gen_params": {
+    "tpl": "neg_exp_frac",
+    "num": 5,
+    "den": 4,
+    "e": 2
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "(2/3)^-3 = ?",
+   "text_en": "(2/3)^-3 = ?",
+   "options": [
+    "27/8",
+    "27/80",
+    "81/16",
+    "8/27"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "व्युत्क्रम लें, फिर घात लगाएँ।",
+   "hint_en": "Take reciprocal, then raise to the power.",
+   "solution_hi": "(2/3)^-3 = (3/2)^3 = 27/8।",
+   "solution_en": "(3/2)^3 = 27/8.",
+   "gen_params": {
+    "tpl": "neg_exp_frac",
+    "num": 2,
+    "den": 3,
+    "e": 3
+   }
+  },
+  {
+   "skill_id": "m9c1s4",
+   "difficulty": 2,
+   "text_hi": "(4/5)^-3 = ?",
+   "text_en": "(4/5)^-3 = ?",
+   "options": [
+    "64/125",
+    "625/256",
+    "125/64",
+    "125/640"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "व्युत्क्रम लें, फिर घात लगाएँ।",
+   "hint_en": "Take reciprocal, then raise to the power.",
+   "solution_hi": "(4/5)^-3 = (5/4)^3 = 125/64।",
+   "solution_en": "(5/4)^3 = 125/64.",
+   "gen_params": {
+    "tpl": "neg_exp_frac",
+    "num": 4,
+    "den": 5,
+    "e": 3
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² - 3x + 5, तो p(-2) = ?",
+   "text_en": "If p(x) = x² - 3x + 5, find p(-2).",
+   "options": [
+    "5",
+    "15",
+    "13",
+    "0"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(-2) = 4 + 6 + 5 = 15।",
+   "solution_en": "p(-2) = 4 + 6 + 5 = 15.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": -3,
+    "b": 5,
+    "pt": -2
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² - 2x - 3, तो p(1) = ?",
+   "text_en": "If p(x) = x² - 2x - 3, find p(1).",
+   "options": [
+    "2",
+    "-4",
+    "-40",
+    "-3"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(1) = 1 - 2 - 3 = -4।",
+   "solution_en": "p(1) = 1 - 2 - 3 = -4.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": -2,
+    "b": -3,
+    "pt": 1
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² + 0x + 6, तो p(0) = ?",
+   "text_en": "If p(x) = x² + 0x + 6, find p(0).",
+   "options": [
+    "600",
+    "6",
+    "-6",
+    "60"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(0) = 0 + 0 + 6 = 6।",
+   "solution_en": "p(0) = 0 + 0 + 6 = 6.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": 0,
+    "b": 6,
+    "pt": 0
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² - 2x + 5, तो p(4) = ?",
+   "text_en": "If p(x) = x² - 2x + 5, find p(4).",
+   "options": [
+    "13",
+    "17",
+    "3",
+    "7"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(4) = 16 - 8 + 5 = 13।",
+   "solution_en": "p(4) = 16 - 8 + 5 = 13.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": -2,
+    "b": 5,
+    "pt": 4
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² - 2x - 2, तो p(-2) = ?",
+   "text_en": "If p(x) = x² - 2x - 2, find p(-2).",
+   "options": [
+    "6",
+    "4",
+    "10",
+    "-6"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(-2) = 4 + 4 - 2 = 6।",
+   "solution_en": "p(-2) = 4 + 4 - 2 = 6.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": -2,
+    "b": -2,
+    "pt": -2
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² - 2x - 5, तो p(1) = ?",
+   "text_en": "If p(x) = x² - 2x - 5, find p(1).",
+   "options": [
+    "4",
+    "-5",
+    "-60",
+    "-6"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(1) = 1 - 2 - 5 = -6।",
+   "solution_en": "p(1) = 1 - 2 - 5 = -6.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": -2,
+    "b": -5,
+    "pt": 1
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² + 5x + 0, तो p(4) = ?",
+   "text_en": "If p(x) = x² + 5x + 0, find p(4).",
+   "options": [
+    "360",
+    "9",
+    "36",
+    "40"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(4) = 16 + 20 + 0 = 36।",
+   "solution_en": "p(4) = 16 + 20 + 0 = 36.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": 5,
+    "b": 0,
+    "pt": 4
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² - 1x - 4, तो p(0) = ?",
+   "text_en": "If p(x) = x² - 1x - 4, find p(0).",
+   "options": [
+    "-4",
+    "-40",
+    "-5",
+    "4"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(0) = 0 + 0 - 4 = -4।",
+   "solution_en": "p(0) = 0 + 0 - 4 = -4.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": -1,
+    "b": -4,
+    "pt": 0
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² + 0x + 2, तो p(1) = ?",
+   "text_en": "If p(x) = x² + 0x + 2, find p(1).",
+   "options": [
+    "4",
+    "3",
+    "30",
+    "-1"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(1) = 1 + 0 + 2 = 3।",
+   "solution_en": "p(1) = 1 + 0 + 2 = 3.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": 0,
+    "b": 2,
+    "pt": 1
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² - 1x + 4, तो p(-1) = ?",
+   "text_en": "If p(x) = x² - 1x + 4, find p(-1).",
+   "options": [
+    "2",
+    "6",
+    "-2",
+    "5"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(-1) = 1 + 1 + 4 = 6।",
+   "solution_en": "p(-1) = 1 + 1 + 4 = 6.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": -1,
+    "b": 4,
+    "pt": -1
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² + 4x + 3, तो p(4) = ?",
+   "text_en": "If p(x) = x² + 4x + 3, find p(4).",
+   "options": [
+    "11",
+    "39",
+    "29",
+    "35"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(4) = 16 + 16 + 3 = 35।",
+   "solution_en": "p(4) = 16 + 16 + 3 = 35.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": 4,
+    "b": 3,
+    "pt": 4
+   }
+  },
+  {
+   "skill_id": "m9c2s2",
+   "difficulty": 2,
+   "text_hi": "यदि p(x) = x² - 4x - 1, तो p(2) = ?",
+   "text_en": "If p(x) = x² - 4x - 1, find p(2).",
+   "options": [
+    "-5",
+    "-3",
+    "-500",
+    "-50"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "x की जगह मान रखकर हल कीजिए।",
+   "hint_en": "Substitute the value in place of x and simplify.",
+   "solution_hi": "p(2) = 4 - 8 - 1 = -5।",
+   "solution_en": "p(2) = 4 - 8 - 1 = -5.",
+   "gen_params": {
+    "tpl": "poly_value",
+    "a": -4,
+    "b": -1,
+    "pt": 2
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = 8 और x - y = 0 हो, तो x = ?",
+   "text_en": "If x + y = 8 and x - y = 0, find x.",
+   "options": [
+    "8",
+    "0",
+    "4",
+    "40"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = 8; x = 4 = 4।",
+   "solution_en": "Adding: 2x = 8; x = 4 = 4.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": 4,
+    "y": 4
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = 13 और x - y = 1 हो, तो x = ?",
+   "text_en": "If x + y = 13 and x - y = 1, find x.",
+   "options": [
+    "13",
+    "6",
+    "1",
+    "7"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = 14; x = 7 = 7।",
+   "solution_en": "Adding: 2x = 14; x = 7 = 7.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": 7,
+    "y": 6
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = 0 और x - y = 6 हो, तो x = ?",
+   "text_en": "If x + y = 0 and x - y = 6, find x.",
+   "options": [
+    "-3",
+    "0",
+    "6",
+    "3"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = 6; x = 3 = 3।",
+   "solution_en": "Adding: 2x = 6; x = 3 = 3.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": 3,
+    "y": -3
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = -4 और x - y = 0 हो, तो x = ?",
+   "text_en": "If x + y = -4 and x - y = 0, find x.",
+   "options": [
+    "-4",
+    "-20",
+    "-2",
+    "0"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = -4; x = -2 = -2।",
+   "solution_en": "Adding: 2x = -4; x = -2 = -2.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": -2,
+    "y": -2
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = 1 और x - y = 11 हो, तो x = ?",
+   "text_en": "If x + y = 1 and x - y = 11, find x.",
+   "options": [
+    "1",
+    "6",
+    "-5",
+    "11"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = 12; x = 6 = 6।",
+   "solution_en": "Adding: 2x = 12; x = 6 = 6.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": 6,
+    "y": -5
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = 12 और x - y = 4 हो, तो x = ?",
+   "text_en": "If x + y = 12 and x - y = 4, find x.",
+   "options": [
+    "4",
+    "80",
+    "12",
+    "8"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = 16; x = 8 = 8।",
+   "solution_en": "Adding: 2x = 16; x = 8 = 8.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": 8,
+    "y": 4
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = 7 और x - y = -3 हो, तो x = ?",
+   "text_en": "If x + y = 7 and x - y = -3, find x.",
+   "options": [
+    "2",
+    "5",
+    "7",
+    "-3"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = 4; x = 2 = 2।",
+   "solution_en": "Adding: 2x = 4; x = 2 = 2.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": 2,
+    "y": 5
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = -4 और x - y = 6 हो, तो x = ?",
+   "text_en": "If x + y = -4 and x - y = 6, find x.",
+   "options": [
+    "-4",
+    "1",
+    "6",
+    "-5"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = 2; x = 1 = 1।",
+   "solution_en": "Adding: 2x = 2; x = 1 = 1.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": 1,
+    "y": -5
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = 7 और x - y = 1 हो, तो x = ?",
+   "text_en": "If x + y = 7 and x - y = 1, find x.",
+   "options": [
+    "4",
+    "3",
+    "1",
+    "7"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = 8; x = 4 = 4।",
+   "solution_en": "Adding: 2x = 8; x = 4 = 4.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": 4,
+    "y": 3
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = -3 और x - y = 3 हो, तो x = ?",
+   "text_en": "If x + y = -3 and x - y = 3, find x.",
+   "options": [
+    "-3",
+    "3",
+    "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "0"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = 0; x = 0 = 0।",
+   "solution_en": "Adding: 2x = 0; x = 0 = 0.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": 0,
+    "y": -3
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = -3 और x - y = -5 हो, तो x = ?",
+   "text_en": "If x + y = -3 and x - y = -5, find x.",
+   "options": [
+    "1",
+    "-4",
+    "-5",
+    "-3"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = -8; x = -4 = -4।",
+   "solution_en": "Adding: 2x = -8; x = -4 = -4.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": -4,
+    "y": 1
+   }
+  },
+  {
+   "skill_id": "m9c3s1",
+   "difficulty": 2,
+   "text_hi": "x + y = -3 और x - y = -7 हो, तो x = ?",
+   "text_en": "If x + y = -3 and x - y = -7, find x.",
+   "options": [
+    "2",
+    "-5",
+    "-7",
+    "-3"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "दोनों समीकरण जोड़िए।",
+   "hint_en": "Add the two equations.",
+   "solution_hi": "जोड़ने पर 2x = -10; x = -5 = -5।",
+   "solution_en": "Adding: 2x = -10; x = -5 = -5.",
+   "gen_params": {
+    "tpl": "lin_pair",
+    "x": -5,
+    "y": 2
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (8, 8) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (8, 8) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=धनात्मक, y=धनात्मक → चतुर्थांश I",
+   "solution_en": "x is positive, y is positive -> Quadrant I",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": 8,
+    "y": 8
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (-6, -7) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (-6, -7) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=ऋणात्मक, y=ऋणात्मक → चतुर्थांश III",
+   "solution_en": "x is negative, y is negative -> Quadrant III",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": -6,
+    "y": -7
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (1, 9) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (1, 9) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=धनात्मक, y=धनात्मक → चतुर्थांश I",
+   "solution_en": "x is positive, y is positive -> Quadrant I",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": 1,
+    "y": 9
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (-8, -7) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (-8, -7) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=ऋणात्मक, y=ऋणात्मक → चतुर्थांश III",
+   "solution_en": "x is negative, y is negative -> Quadrant III",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": -8,
+    "y": -7
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (-6, -5) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (-6, -5) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=ऋणात्मक, y=ऋणात्मक → चतुर्थांश III",
+   "solution_en": "x is negative, y is negative -> Quadrant III",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": -6,
+    "y": -5
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (-8, -3) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (-8, -3) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=ऋणात्मक, y=ऋणात्मक → चतुर्थांश III",
+   "solution_en": "x is negative, y is negative -> Quadrant III",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": -8,
+    "y": -3
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (-2, 5) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (-2, 5) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=ऋणात्मक, y=धनात्मक → चतुर्थांश II",
+   "solution_en": "x is negative, y is positive -> Quadrant II",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": -2,
+    "y": 5
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (-8, -1) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (-8, -1) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=ऋणात्मक, y=ऋणात्मक → चतुर्थांश III",
+   "solution_en": "x is negative, y is negative -> Quadrant III",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": -8,
+    "y": -1
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (2, -8) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (2, -8) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=धनात्मक, y=ऋणात्मक → चतुर्थांश IV",
+   "solution_en": "x is positive, y is negative -> Quadrant IV",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": 2,
+    "y": -8
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (-7, 6) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (-7, 6) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=ऋणात्मक, y=धनात्मक → चतुर्थांश II",
+   "solution_en": "x is negative, y is positive -> Quadrant II",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": -7,
+    "y": 6
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (-8, -5) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (-8, -5) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=ऋणात्मक, y=ऋणात्मक → चतुर्थांश III",
+   "solution_en": "x is negative, y is negative -> Quadrant III",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": -8,
+    "y": -5
+   }
+  },
+  {
+   "skill_id": "m9c4s1",
+   "difficulty": 1,
+   "text_hi": "बिंदु (-6, 8) किस चतुर्थांश में है?",
+   "text_en": "Which quadrant does the point (-6, 8) lie in?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "(+,+) I | (−,+) II | (−,−) III | (+,−) IV",
+   "hint_en": "(+,+) QI | (-,+) QII | (-,-) QIII | (+,-) QIV",
+   "solution_hi": "x=ऋणात्मक, y=धनात्मक → चतुर्थांश II",
+   "solution_en": "x is negative, y is positive -> Quadrant II",
+   "gen_params": {
+    "tpl": "quadrant",
+    "x": -6,
+    "y": 8
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 60° और 79° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 60° and 79°. The third angle = ?",
+   "options": [
+    "90°",
+    "41°",
+    "139°",
+    "43°"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (60°+79°) = 41°।",
+   "solution_en": "Third angle = 180° - (60°+79°) = 41°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 60,
+    "b": 79
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 71° और 53° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 71° and 53°. The third angle = ?",
+   "options": [
+    "56°",
+    "58°",
+    "90°",
+    "124°"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (71°+53°) = 56°।",
+   "solution_en": "Third angle = 180° - (71°+53°) = 56°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 71,
+    "b": 53
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 79° और 31° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 79° and 31°. The third angle = ?",
+   "options": [
+    "72°",
+    "110°",
+    "90°",
+    "70°"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (79°+31°) = 70°।",
+   "solution_en": "Third angle = 180° - (79°+31°) = 70°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 79,
+    "b": 31
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 73° और 29° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 73° and 29°. The third angle = ?",
+   "options": [
+    "90°",
+    "78°",
+    "102°",
+    "80°"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (73°+29°) = 78°।",
+   "solution_en": "Third angle = 180° - (73°+29°) = 78°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 73,
+    "b": 29
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 36° और 117° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 36° and 117°. The third angle = ?",
+   "options": [
+    "29°",
+    "90°",
+    "153°",
+    "27°"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (36°+117°) = 27°।",
+   "solution_en": "Third angle = 180° - (36°+117°) = 27°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 36,
+    "b": 117
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 78° और 31° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 78° and 31°. The third angle = ?",
+   "options": [
+    "71°",
+    "90°",
+    "109°",
+    "73°"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (78°+31°) = 71°।",
+   "solution_en": "Third angle = 180° - (78°+31°) = 71°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 78,
+    "b": 31
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 58° और 91° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 58° and 91°. The third angle = ?",
+   "options": [
+    "31°",
+    "90°",
+    "149°",
+    "33°"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (58°+91°) = 31°।",
+   "solution_en": "Third angle = 180° - (58°+91°) = 31°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 58,
+    "b": 91
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 54° और 61° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 54° and 61°. The third angle = ?",
+   "options": [
+    "67°",
+    "115°",
+    "90°",
+    "65°"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (54°+61°) = 65°।",
+   "solution_en": "Third angle = 180° - (54°+61°) = 65°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 54,
+    "b": 61
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 66° और 77° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 66° and 77°. The third angle = ?",
+   "options": [
+    "39°",
+    "37°",
+    "143°",
+    "90°"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (66°+77°) = 37°।",
+   "solution_en": "Third angle = 180° - (66°+77°) = 37°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 66,
+    "b": 77
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 60° और 72° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 60° and 72°. The third angle = ?",
+   "options": [
+    "50°",
+    "90°",
+    "48°",
+    "132°"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (60°+72°) = 48°।",
+   "solution_en": "Third angle = 180° - (60°+72°) = 48°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 60,
+    "b": 72
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 51° और 38° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 51° and 38°. The third angle = ?",
+   "options": [
+    "90°",
+    "89°",
+    "91°",
+    "93°"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (51°+38°) = 91°।",
+   "solution_en": "Third angle = 180° - (51°+38°) = 91°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 51,
+    "b": 38
+   }
+  },
+  {
+   "skill_id": "m9c5s1",
+   "difficulty": 1,
+   "text_hi": "एक त्रिभुज के दो कोण 36° और 73° हैं। तीसरा कोण = ?",
+   "text_en": "Two angles of a triangle are 36° and 73°. The third angle = ?",
+   "options": [
+    "71°",
+    "73°",
+    "109°",
+    "90°"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "त्रिभुज के कोणों का योग 180° होता है।",
+   "hint_en": "Angles of a triangle sum to 180°.",
+   "solution_hi": "तीसरा कोण = 180° − (36°+73°) = 71°।",
+   "solution_en": "Third angle = 180° - (36°+73°) = 71°.",
+   "gen_params": {
+    "tpl": "triangle_angle",
+    "a": 36,
+    "b": 73
+   }
+  },
+  {
+   "skill_id": "m9c6s1",
+   "difficulty": 2,
+   "text_hi": "उन भुजाओं वाले त्रिभुज का क्षेत्रफल ज्ञात कीजिए: 6, 8, 10 (इकाई)।",
+   "text_en": "Find the area of a triangle with sides 6, 8, 10 units.",
+   "options": [
+    "24",
+    "48",
+    "240",
+    "12"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हीरोन सूत्र: A = √(s(s−a)(s−b)(s−c)), s = अर्धपरिमाप।",
+   "hint_en": "Heron: A = sqrt(s(s-a)(s-b)(s-c)), s = semi-perimeter.",
+   "solution_hi": "s = 24/2 = 12; A = √(12×6×4×2) = 24।",
+   "solution_en": "s = 24/2 = 12; A = sqrt(12x6x4x2) = 24.",
+   "gen_params": {
+    "tpl": "heron",
+    "a": 6,
+    "b": 8,
+    "c": 10
+   }
+  },
+  {
+   "skill_id": "m9c6s1",
+   "difficulty": 2,
+   "text_hi": "उन भुजाओं वाले त्रिभुज का क्षेत्रफल ज्ञात कीजिए: 9, 12, 15 (इकाई)।",
+   "text_en": "Find the area of a triangle with sides 9, 12, 15 units.",
+   "options": [
+    "540",
+    "18",
+    "54",
+    "108"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "हीरोन सूत्र: A = √(s(s−a)(s−b)(s−c)), s = अर्धपरिमाप।",
+   "hint_en": "Heron: A = sqrt(s(s-a)(s-b)(s-c)), s = semi-perimeter.",
+   "solution_hi": "s = 36/2 = 18; A = √(18×9×6×3) = 54।",
+   "solution_en": "s = 36/2 = 18; A = sqrt(18x9x6x3) = 54.",
+   "gen_params": {
+    "tpl": "heron",
+    "a": 9,
+    "b": 12,
+    "c": 15
+   }
+  },
+  {
+   "skill_id": "m9c6s1",
+   "difficulty": 2,
+   "text_hi": "उन भुजाओं वाले त्रिभुज का क्षेत्रफल ज्ञात कीजिए: 5, 12, 13 (इकाई)।",
+   "text_en": "Find the area of a triangle with sides 5, 12, 13 units.",
+   "options": [
+    "300",
+    "30",
+    "15",
+    "60"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "हीरोन सूत्र: A = √(s(s−a)(s−b)(s−c)), s = अर्धपरिमाप।",
+   "hint_en": "Heron: A = sqrt(s(s-a)(s-b)(s-c)), s = semi-perimeter.",
+   "solution_hi": "s = 30/2 = 15; A = √(15×10×3×2) = 30।",
+   "solution_en": "s = 30/2 = 15; A = sqrt(15x10x3x2) = 30.",
+   "gen_params": {
+    "tpl": "heron",
+    "a": 5,
+    "b": 12,
+    "c": 13
+   }
+  },
+  {
+   "skill_id": "m9c6s1",
+   "difficulty": 2,
+   "text_hi": "उन भुजाओं वाले त्रिभुज का क्षेत्रफल ज्ञात कीजिए: 3, 4, 5 (इकाई)।",
+   "text_en": "Find the area of a triangle with sides 3, 4, 5 units.",
+   "options": [
+    "6",
+    "12",
+    "600",
+    "60"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हीरोन सूत्र: A = √(s(s−a)(s−b)(s−c)), s = अर्धपरिमाप।",
+   "hint_en": "Heron: A = sqrt(s(s-a)(s-b)(s-c)), s = semi-perimeter.",
+   "solution_hi": "s = 12/2 = 6; A = √(6×3×2×1) = 6।",
+   "solution_en": "s = 12/2 = 6; A = sqrt(6x3x2x1) = 6.",
+   "gen_params": {
+    "tpl": "heron",
+    "a": 3,
+    "b": 4,
+    "c": 5
+   }
+  },
+  {
+   "skill_id": "m9c6s1",
+   "difficulty": 2,
+   "text_hi": "उन भुजाओं वाले त्रिभुज का क्षेत्रफल ज्ञात कीजिए: 7, 24, 25 (इकाई)।",
+   "text_en": "Find the area of a triangle with sides 7, 24, 25 units.",
+   "options": [
+    "84",
+    "168",
+    "28",
+    "840"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "हीरोन सूत्र: A = √(s(s−a)(s−b)(s−c)), s = अर्धपरिमाप।",
+   "hint_en": "Heron: A = sqrt(s(s-a)(s-b)(s-c)), s = semi-perimeter.",
+   "solution_hi": "s = 56/2 = 28; A = √(28×21×4×3) = 84।",
+   "solution_en": "s = 56/2 = 28; A = sqrt(28x21x4x3) = 84.",
+   "gen_params": {
+    "tpl": "heron",
+    "a": 7,
+    "b": 24,
+    "c": 25
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 21 से.मी., h = 14 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 21 cm and h = 14 cm.",
+   "options": [
+    "9702",
+    "294",
+    "19404",
+    "38808"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×21×21×14 = 19404 घन से.मी.।",
+   "solution_en": "V = (22/7)x21x21x14 = 19404 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 21,
+    "h": 14
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 21 से.मी., h = 12 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 21 cm and h = 12 cm.",
+   "options": [
+    "252",
+    "8316",
+    "16632",
+    "33264"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×21×21×12 = 16632 घन से.मी.।",
+   "solution_en": "V = (22/7)x21x21x12 = 16632 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 21,
+    "h": 12
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 14 से.मी., h = 6 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 14 cm and h = 6 cm.",
+   "options": [
+    "7392",
+    "1848",
+    "3696",
+    "84"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×14×14×6 = 3696 घन से.मी.।",
+   "solution_en": "V = (22/7)x14x14x6 = 3696 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 14,
+    "h": 6
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 7 से.मी., h = 6 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 7 cm and h = 6 cm.",
+   "options": [
+    "924",
+    "42",
+    "462",
+    "1848"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×7×7×6 = 924 घन से.मी.।",
+   "solution_en": "V = (22/7)x7x7x6 = 924 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 7,
+    "h": 6
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 21 से.मी., h = 7 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 21 cm and h = 7 cm.",
+   "options": [
+    "19404",
+    "147",
+    "9702",
+    "4851"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×21×21×7 = 9702 घन से.मी.।",
+   "solution_en": "V = (22/7)x21x21x7 = 9702 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 21,
+    "h": 7
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 21 से.मी., h = 15 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 21 cm and h = 15 cm.",
+   "options": [
+    "10395",
+    "20790",
+    "41580",
+    "315"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×21×21×15 = 20790 घन से.मी.।",
+   "solution_en": "V = (22/7)x21x21x15 = 20790 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 21,
+    "h": 15
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 7 से.मी., h = 13 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 7 cm and h = 13 cm.",
+   "options": [
+    "1001",
+    "4004",
+    "91",
+    "2002"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×7×7×13 = 2002 घन से.मी.।",
+   "solution_en": "V = (22/7)x7x7x13 = 2002 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 7,
+    "h": 13
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 7 से.मी., h = 11 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 7 cm and h = 11 cm.",
+   "options": [
+    "847",
+    "1694",
+    "3388",
+    "77"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×7×7×11 = 1694 घन से.मी.।",
+   "solution_en": "V = (22/7)x7x7x11 = 1694 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 7,
+    "h": 11
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 7 से.मी., h = 15 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 7 cm and h = 15 cm.",
+   "options": [
+    "2310",
+    "4620",
+    "1155",
+    "105"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×7×7×15 = 2310 घन से.मी.।",
+   "solution_en": "V = (22/7)x7x7x15 = 2310 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 7,
+    "h": 15
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 7 से.मी., h = 8 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 7 cm and h = 8 cm.",
+   "options": [
+    "56",
+    "616",
+    "1232",
+    "2464"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×7×7×8 = 1232 घन से.मी.।",
+   "solution_en": "V = (22/7)x7x7x8 = 1232 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 7,
+    "h": 8
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 14 से.मी., h = 15 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 14 cm and h = 15 cm.",
+   "options": [
+    "9240",
+    "4620",
+    "210",
+    "18480"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×14×14×15 = 9240 घन से.मी.।",
+   "solution_en": "V = (22/7)x14x14x15 = 9240 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 14,
+    "h": 15
+   }
+  },
+  {
+   "skill_id": "m9c7s3",
+   "difficulty": 2,
+   "text_hi": "π = 22/7 लेते हुए, r = 7 से.मी., h = 5 से.मी. वाले बेलन का आयतन = ?",
+   "text_en": "Taking π = 22/7, find the volume of a cylinder with r = 7 cm and h = 5 cm.",
+   "options": [
+    "35",
+    "385",
+    "770",
+    "1540"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "V = πr²h।",
+   "hint_en": "V = pi*r^2*h.",
+   "solution_hi": "V = (22/7)×7×7×5 = 770 घन से.मी.।",
+   "solution_en": "V = (22/7)x7x7x5 = 770 cubic cm.",
+   "gen_params": {
+    "tpl": "cyl_vol",
+    "r": 7,
+    "h": 5
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "3, 28, 27, 7, 10 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 3, 28, 27, 7, 10",
+   "options": [
+    "14",
+    "16",
+    "75",
+    "15"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 75; माध्य = 75/5 = 15।",
+   "solution_en": "Sum = 75; mean = 75/5 = 15.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     3,
+     28,
+     27,
+     7,
+     10
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "10, 2, 3, 28, 7 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 10, 2, 3, 28, 7",
+   "options": [
+    "10",
+    "50",
+    "11",
+    "9"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 50; माध्य = 50/5 = 10।",
+   "solution_en": "Sum = 50; mean = 50/5 = 10.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     10,
+     2,
+     3,
+     28,
+     7
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "6, 6, 7, 11, 10 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 6, 6, 7, 11, 10",
+   "options": [
+    "8",
+    "40",
+    "9",
+    "7"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 40; माध्य = 40/5 = 8।",
+   "solution_en": "Sum = 40; mean = 40/5 = 8.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     6,
+     6,
+     7,
+     11,
+     10
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "25, 24, 20, 17, 29 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 25, 24, 20, 17, 29",
+   "options": [
+    "23",
+    "22",
+    "115",
+    "24"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 115; माध्य = 115/5 = 23।",
+   "solution_en": "Sum = 115; mean = 115/5 = 23.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     25,
+     24,
+     20,
+     17,
+     29
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "6, 27, 2, 9, 11 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 6, 27, 2, 9, 11",
+   "options": [
+    "11",
+    "10",
+    "55",
+    "12"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 55; माध्य = 55/5 = 11।",
+   "solution_en": "Sum = 55; mean = 55/5 = 11.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     6,
+     27,
+     2,
+     9,
+     11
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "3, 19, 9, 30, 9 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 3, 19, 9, 30, 9",
+   "options": [
+    "14",
+    "13",
+    "70",
+    "15"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 70; माध्य = 70/5 = 14।",
+   "solution_en": "Sum = 70; mean = 70/5 = 14.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     3,
+     19,
+     9,
+     30,
+     9
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "22, 30, 24, 28, 6 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 22, 30, 24, 28, 6",
+   "options": [
+    "22",
+    "23",
+    "21",
+    "110"
+   ],
+   "correct_idx": 0,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 110; माध्य = 110/5 = 22।",
+   "solution_en": "Sum = 110; mean = 110/5 = 22.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     22,
+     30,
+     24,
+     28,
+     6
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "16, 13, 19, 7, 30 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 16, 13, 19, 7, 30",
+   "options": [
+    "85",
+    "18",
+    "16",
+    "17"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 85; माध्य = 85/5 = 17।",
+   "solution_en": "Sum = 85; mean = 85/5 = 17.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     16,
+     13,
+     19,
+     7,
+     30
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "12, 7, 24, 30, 12 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 12, 7, 24, 30, 12",
+   "options": [
+    "18",
+    "17",
+    "85",
+    "16"
+   ],
+   "correct_idx": 1,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 85; माध्य = 85/5 = 17।",
+   "solution_en": "Sum = 85; mean = 85/5 = 17.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     12,
+     7,
+     24,
+     30,
+     12
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "28, 5, 21, 13, 28 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 28, 5, 21, 13, 28",
+   "options": [
+    "20",
+    "18",
+    "19",
+    "95"
+   ],
+   "correct_idx": 2,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 95; माध्य = 95/5 = 19।",
+   "solution_en": "Sum = 95; mean = 95/5 = 19.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     28,
+     5,
+     21,
+     13,
+     28
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "19, 6, 22, 9, 14 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 19, 6, 22, 9, 14",
+   "options": [
+    "15",
+    "13",
+    "70",
+    "14"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 70; माध्य = 70/5 = 14।",
+   "solution_en": "Sum = 70; mean = 70/5 = 14.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     19,
+     6,
+     22,
+     9,
+     14
+    ]
+   }
+  },
+  {
+   "skill_id": "m9c8s1",
+   "difficulty": 1,
+   "text_hi": "18, 9, 16, 27, 15 का माध्य (औसत) = ?",
+   "text_en": "Find the mean of: 18, 9, 16, 27, 15",
+   "options": [
+    "16",
+    "18",
+    "85",
+    "17"
+   ],
+   "correct_idx": 3,
+   "hint_hi": "माध्य = सभी मानों का योग ÷ संख्या।",
+   "hint_en": "Mean = sum of values divided by count.",
+   "solution_hi": "योग = 85; माध्य = 85/5 = 17।",
+   "solution_en": "Sum = 85; mean = 85/5 = 17.",
+   "gen_params": {
+    "tpl": "mean_raw",
+    "xs": [
+     18,
+     9,
+     16,
+     27,
+     15
+    ]
+   }
+  }
+ ]
+}
