@@ -104,5 +104,11 @@ a.repo{color:#fff;font-size:.75rem;text-decoration:none;background:#ffffff22;pad
 <script src="data.js"></script>
 <script src="app.js"></script>
 </body></html>"""
+# ---------- SINGLE-FILE build: everything inline so Pages can never race ----------
+data_js = open("docs/data.js", encoding="utf-8").read()
+rag_js = open("docs/rag.js", encoding="utf-8").read()
+app_js = open("docs/app.js", encoding="utf-8").read()
+INDEX = INDEX.replace('<script src="rag.js"></script>\n<script src="data.js"></script>\n<script src="app.js"></script>',
+                      "<script>\n" + rag_js + "\n</script>\n<script>\n" + data_js + "\n</script>\n<script>\n" + app_js + "\n</script>")
 open("docs/index.html", "w", encoding="utf-8").write(INDEX)
-print("docs/index.html written")
+print("docs/index.html written:", os.path.getsize("docs/index.html") // 1024, "KB total")
