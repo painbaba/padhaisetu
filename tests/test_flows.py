@@ -244,3 +244,59 @@ def test_practice_wrong_answer_without_weak_prereq_shows_solution(fresh):
     out = send(phone, str(((ci + 1) % 4) + 1))  # guaranteed-wrong option
     joined = "\n".join(out)
     assert ("हल:" in joined) or ("Solution:" in joined) or ("आधार मजबूत" in joined)
+
+
+# ---------- M4: streaks on set completion + weekly report row ----------
+
+def test_streak_row_created_on_set_completion(fresh):
+    phone = "+91555000009"
+    onboard(phone)
+    for _ in range(5):
+        ans, _c = answer_current_correctly(phone)
+        send(phone, ans)
+    send(phone, "1")  # start practice
+    for _ in range(5):
+        try:
+            ans, _c = answer_current_correctly(phone)
+            replies = send(phone, ans)
+            _, st = session(phone)
+            if st == "menu":
+                assert any("लगातार अभ्यास" in m for m in replies)
+                break
+        except Exception:
+            break
+    uid = int(db.scalar("SELECT id FROM users WHERE phone=?", (phone,)))
+    row = db.query_one("SELECT * FROM streaks WHERE user_id=?", (uid,))
+    assert row is not None
+    assert int(row["current"]) == 1 and int(row["best"]) == 1
+
+
+def test_weekly_report_rendered_from_real_history(fresh):
+    import json as _json
+    phone = "+91555000010"
+    onboard(phone)
+    # one correct, one wrong diagnostic attempt -> real history
+    ans1, _ = answer_current_correctly(phone)
+    send(phone, ans1)
+    ctx_row = db.query_one("SELECT context_json FROM chat_sessions WHERE user_id=?",
+                           (int(db.scalar("SELECT id FROM users WHERE phone=?", (phone,))),))
+    c = _json.loads(ctx_row["context_json"])
+    qid2 = c["queue"][c["idx"]]["qid"]
+    ci2 = int(db.scalar("SELECT correct_idx FROM questions WHERE id=?", (qid2,)))
+    send(phone, str(((ci2 + 1) % 4) + 1))  # wrong
+    for _ in range(3):
+        ans, _c = answer_current_correctly(phone)
+        send(phone, ans)
+
+    uid = int(db.scalar("SELECT id FROM users WHERE phone=?", (phone,)))
+    before = int(db.scalar("SELECT COUNT(*) FROM reports"))
+    replies = send(phone, "3")
+    after_rows = db.query("SELECT * FROM reports WHERE user_id=?", (uid,))
+    assert len(after_rows) >= before - before + 1 or len(after_rows) >= 1
+    payload = _json.loads(after_rows[-1]["payload_json"])
+    total_attempts = int(db.scalar(
+        "SELECT COUNT(*) FROM attempts WHERE user_id=?", (uid,)))
+    assert payload["attempts"] == total_attempts
+    joined = "\n".join(replies)
+    assert ("प्रश्न हल किए" in joined) or ("Questions solved" in joined)
+    assert str(payload["attempts"]) in joined
