@@ -16,7 +16,7 @@ Built via opencode TUI (ox-alpha free lane), Aug 24 2026. Brief: `../BRIEF.md`.
 | M8 | Board-pattern serving: grade-10 practice = full 23-question mix (objective first, ascending marks), diagnostic = board mini-mix (1×2+2×2+3), marks shown beside question number ("प्रश्न 7/23 (2 अंक)"), OR-pair dedupe within session, skill interleaving; 8 new tests | 0dff794 |
 
 ## Verification
-- pytest: **53/53 passed** (9.3s)
+- pytest: **53/53 passed** (9.3s) at M8; re-verified after engine hardening: **54/54 outside the in-flight RAG spec** (see reconciliation below)
 - Fresh boot: `bash run.sh` → :8831 /health {"ok":true}
 - Live Hindi journey verified externally: हैलो → हिंदी → कक्षा 10 → गणित → 5 diagnostic questions answered → बोर्ड-पैटर्न practice set of 23 served with (N अंक) labels; attempts+mastery rows written
 - Question banks: **698 items** (323 parametric maths classes 8-10 incl. 87 board-pattern class-10 items, 288 curated science), every item asserted for unique options, correct_idx bounds, bilingual text/hint/solution fields
@@ -37,3 +37,23 @@ Built via opencode TUI (ox-alpha free lane), Aug 24 2026. Brief: `../BRIEF.md`.
 
 ## Known gaps (pre-approved cut order from brief)
 - Science banks at 4/skill floor; heat-grid shows top skills; GPT hint dormant until keyed
+
+## Final-gate reconciliation (second builder session, Aug 24 ~09:05 IST, commits edf4d29 + 449eb9c)
+- **Engine hardening:** `record_attempt` now marks diagnostic results due immediately — SR was
+  hiding freshly-diagnosed weak topics until the next day, blunting demo step 3. Practice-mode
+  updates keep normal {1,3,7}-day spacing (regression test added).
+- **Generator reproducibility:** gen_math previously seeded rng with `id(template)` which changes
+  per process; now seeded by stable template index. Two runs of
+  `python data/gen_math.py --seed 42` produce byte-identical banks (md5-verified). Banks regenerated.
+- **Final gate re-run on a fresh DB:** boot via `bash run.sh` → /health ok; scripted §10 journey
+  over /demo/send (onboard → 5-Q diagnostic w/ weakest-topic summary → practice set targeting the
+  diagnosed gap first → deliberate wrong answer → hint/solution path → set complete + streak line →
+  weekly report rendered from real rows) finished with **zero error replies**; dashboard counters
+  matched SQL exactly (4 students, 44 attempts, 693 active questions after natural-key dedup).
+- **Hygiene:** .gitignore added; tracked `__pycache__/`, `.pyc`, and live SQLite file removed from
+  the index.
+- **Concurrent RAG track (in flight, not committed here):** a parallel session is adding a grounded
+  explain path (stdlib BM25 over 2,816 NCERT/MPBSE chunks, EXPLAIN intent, `/api/explain`,
+  dashboard chunk counter). At reconciliation time its spec had 64 passing / 2 failing
+  (`tests/test_rag.py::test_explain_*` — citation-order flakiness); left untouched and uncommitted
+  so its author can land it deliberately. Everything outside that spec is green.
