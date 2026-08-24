@@ -189,7 +189,7 @@ window.PS_DATA={"strings":{"hi":{"greet_first":"नमस्ते! मैं �
   function mockScorecard() {
     const sec = (from, to) => S.answers.slice(from, to);
     const sum = (a) => a.reduce((x, r) => x + r.got, 0);
-    const total = sum(S.answers), pct = Math.round(total / 75 * 100);
+    const total = sum(S.answers); const maxTotal = S.answers.reduce((x,r)=>x+r.q.marks,0) || 1; const pct = Math.round(total / maxTotal * 100);
     const weak = {};
     S.answers.filter((r) => r.got === 0).forEach((r) => weak[r.q.skill_id] = (weak[r.q.skill_id] || 0) + r.q.marks);
     const weakTop = Object.entries(weak).sort((a, b) => b[1] - a[1]).slice(0, 3);
