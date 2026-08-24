@@ -10,6 +10,10 @@ and rebuilds fundamentals before climbing back. Parents get a weekly Hindi progr
 
 **No LLM in the critical path** — the adaptive engine is deterministic and fully unit-tested.
 An optional GPT hint-explainer sits behind `OPENAI_API_KEY` and falls back gracefully.
+Free-text **"why/how" questions get grounded answers**: a stdlib BM25 retriever fetches the
+top-matching passages from a **2,816-chunk corpus grounded in 135 NCERT chapters + official
+MPBSE 2026 sample papers**, replies with an excerpt + bilingual citation ("स्रोत: NCERT विज्ञान
+कक्षा 10, अध्याय 9"), and only polishes the wording via GPT when a key is present.
 
 ---
 
@@ -40,7 +44,7 @@ python data/seed.py
 ## Tests
 
 ```bash
-python -m pytest tests/ -q     # 54 tests: engine math, walker, flows, channels, dashboard
+python -m pytest tests/ -q     # 66 tests: engine math, walker, flows, channels, dashboard, board pattern, RAG explain
 ```
 
 ## Regenerate / extend the question banks
@@ -81,6 +85,7 @@ MCQs (`science_{8,9,10}.json`). Every question carries a hint and a 2-line solut
 | `POST /demo/send` | `{phone, text}` -> bot replies |
 | `GET /demo/poll?phone&after` | incremental message poll |
 | `POST /explain` | optional GPT hint w/ stored fallback |
+| `POST /api/explain` | grounded explain: `{phone_or_session, query}` -> `{answer_text, source, chunks[]}` (BM25 top-2, class+subject filtered, bilingual citation) |
 | `GET /dashboard` | judge dashboard (truthful counters, heat-grid, at-risk, QR placeholder) |
 | `GET/POST /whatsapp/webhook` | Meta Cloud API verify + receive |
 

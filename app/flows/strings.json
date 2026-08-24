@@ -41,7 +41,10 @@
     "report_attempts_line": "प्रश्न हल किए: {attempts}, सही: {correct} ({acc}%)",
     "report_weak_line": "अगले सप्ताह का फोकस: {names}",
     "report_streak_line": "लगातार अभ्यास: {cur} दिन",
-    "report_footer": "- पढ़ाईसेतु | हर रविवार यह रिपोर्ट अभिभावकों को जाती है।"
+    "report_footer": "- पढ़ाईसेतु | हर रविवार यह रिपोर्ट अभिभावकों को जाती है।",
+    "explain_gpt_head": "आसान शब्दों में:",
+    "explain_cite": "स्रोत: {src}",
+    "explain_none": "इस सवाल पर मेरे पास किताब का कोई पैसेज नहीं मिला। दूसरे शब्दों में पूछिए, या अभ्यास जारी रखिए!"
   },
   "en": {
     "greet_first": "Namaste! I am PadhaiSetu - your MP Board class 8-10 practice companion.",
@@ -84,6 +87,9 @@
     "report_attempts_line": "Questions solved: {attempts}, correct: {correct} ({acc}%)",
     "report_weak_line": "Next week's focus: {names}",
     "report_streak_line": "Practice streak: {cur} day(s)",
-    "report_footer": "- PadhaiSetu | This report goes to parents every Sunday."
+    "report_footer": "- PadhaiSetu | This report goes to parents every Sunday.",
+    "explain_gpt_head": "In simple words:",
+    "explain_cite": "Source: {src}",
+    "explain_none": "I could not find a matching passage in the textbook corpus. Try different words - or continue practising!"
   }
 }

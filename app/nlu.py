@@ -6,6 +6,7 @@ HELP = "help"
 RESET = "reset"
 SET_ENGLISH = "set_english"
 SET_HINDI = "set_hindi"
+EXPLAIN = "explain"
 NONE = "none"
 
 _GREET_RE = re.compile(
@@ -13,6 +14,11 @@ _GREET_RE = re.compile(
 )
 _HELP_RE = re.compile(r"\b(help|madad|sahayata|मदद|सहायता)\b", re.I)
 _RESET_RE = re.compile(r"\b(reset|restart|रीसेट|रीस्टार्ट|फिर\s*से|नया)\b", re.I)
+_EXPLAIN_RE = re.compile(
+    r"\b(explain|why|how|kyun|kyu|kion|kaise|kese|samjhao|samjhaye?|batao|bataiye)\b"
+    r"|समझाइए|समझाओ|समझा|क्यों|क्यो |कैसे|बताओ|बताइए",
+    re.I,
+)
 _ENGLISH_RE = re.compile(r"\b(english|en)\b|अंग्रेज़ी|अंग्रेजी|अँग्रेज़ी", re.I)
 _HINDI_RE = re.compile(r"\bhindi\b|हिंदी", re.I)
 
@@ -33,6 +39,8 @@ def classify(text: str) -> str:
         return RESET
     if _HELP_RE.search(t):
         return HELP
+    if _EXPLAIN_RE.search(t):
+        return EXPLAIN
     if _GREET_RE.match(t):
         return GREET
     return NONE

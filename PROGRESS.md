@@ -14,11 +14,13 @@ Built via opencode TUI (ox-alpha free lane), Aug 24 2026. Brief: `../BRIEF.md`.
 | — | README: run steps, pitch table, 90-sec demo script verbatim | cd0d1d1 |
 | M7 | Board-pattern generator + schema: marks/qtype columns (defaults keep legacy data intact), MPBSE 2026-shaped class-10 sets (5 objective MCQ/fill/TF + 12×2m + 3×3m + 3×4m, each 3/4-mark with OR sibling), banks regenerated (maths_10 → 186 items) | 5d10e7a |
 | M8 | Board-pattern serving: grade-10 practice = full 23-question mix (objective first, ascending marks), diagnostic = board mini-mix (1×2+2×2+3), marks shown beside question number ("प्रश्न 7/23 (2 अंक)"), OR-pair dedupe within session, skill interleaving; 8 new tests | 0dff794 |
+| M9 | RAG retrieval wired into explain flow: stdlib BM25 singleton over 2,816 NCERT+MPBSE chunks, new "समझाइए/explain/क्यों/how-why" chat intent in menu+practice states (top-2 chunks filtered by class+subject, ~400-char excerpt, bilingual स्रोत citation line), POST /api/explain {phone_or_session,query}->{answer_text,source,chunks}, optional GPT 2-sentence polish behind OPENAI_API_KEY with raw-excerpt fallback, dashboard "RAG corpus chunks" stat; 13 new tests | *this commit* |
 
 ## Verification
-- pytest: **53/53 passed** (9.3s) at M8; re-verified after engine hardening: **54/54 outside the in-flight RAG spec** (see reconciliation below)
-- Fresh boot: `bash run.sh` → :8831 /health {"ok":true}
+- pytest: **66/66 passed** (13.4s)
+- Fresh boot: `bash run.sh` → :8831 /health {"ok":true}; retriever singleton preloaded in lifespan (~3s, once)
 - Live Hindi journey verified externally: हैलो → हिंदी → कक्षा 10 → गणित → 5 diagnostic questions answered → बोर्ड-पैटर्न practice set of 23 served with (N अंक) labels; attempts+mastery rows written
+- M9 live check: `POST /api/explain {"query":"how does photosynthesis work"}` → Hindi NCERT excerpt + "स्रोत: NCERT विज्ञान कक्षा 10…" citation; dashboard shows **2,816** RAG corpus chunks
 - Question banks: **698 items** (323 parametric maths classes 8-10 incl. 87 board-pattern class-10 items, 288 curated science), every item asserted for unique options, correct_idx bounds, bilingual text/hint/solution fields
 
 ## Board-pattern alignment (M7/M8)
@@ -29,14 +31,16 @@ Built via opencode TUI (ox-alpha free lane), Aug 24 2026. Brief: `../BRIEF.md`.
 ## Data corpus (real board material)
 - `data/pyqs/mpbse_papers_2026.zip` — 9 official MPBSE 2026 sample papers (class 10 Maths std/basic, Science, Social Science; class 12 Physics/Chem/Bio/Maths) + `_index.json` extraction summary
 - `data/ncert/*.txt` — 135 NCERT chapters, classes 8–10, Maths+Science, English+Hindi (~4.3M chars); PDFs deleted after text extraction
+- `rag.py` + `data/rag_chunks.jsonl` (2,816 chunks) + `data/rag_manifest.json` — stdlib BM25 index over the above; consumed read-only by `app/rag.py` bridge (M9)
 - Class-10 maths/science question phrasing aligned to MPBSE sample-paper section pattern
 
 ## Demo-time TODO (not blocking)
-- Set OPENAI_API_KEY env to activate /explain GPT hint endpoint (graceful fallback already wired)
+- Set OPENAI_API_KEY env to activate /explain GPT hints + grounded-answer polish (graceful fallback already wired both ways)
 - Record 3-min video, Devpost submit before Fri Aug 28 2026 8PM IST (no grace)
 
 ## Known gaps (pre-approved cut order from brief)
 - Science banks at 4/skill floor; heat-grid shows top skills; GPT hint dormant until keyed
+- Class-8 corpus chunks all carry lang=en metadata (Hindi translations included) — explain flow falls back to unfiltered search when the preferred language has no coverage
 
 ## Final-gate reconciliation (second builder session, Aug 24 ~09:05 IST, commits edf4d29 + 449eb9c)
 - **Engine hardening:** `record_attempt` now marks diagnostic results due immediately — SR was

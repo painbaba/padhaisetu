@@ -7,7 +7,7 @@ from pathlib import Path
 from fastapi import APIRouter
 from fastapi.responses import HTMLResponse
 
-from . import db, engine, graph, qbank
+from . import db, engine, graph, qbank, rag
 
 router = APIRouter()
 
@@ -45,6 +45,7 @@ def _counters() -> dict:
         "ACCURACY": f"{accuracy}%",
         "ACTIVE": active,
         "REPORTS": reports,
+        "RAG_CHUNKS": rag.total_chunks(),
     }
 
 

@@ -1,0 +1,26 @@
+{
+ "total": 2816,
+ "stats": {
+  "('10', 'maths', 'en')": 218,
+  "('8', 'maths', 'en')": 342,
+  "('9', 'maths', 'en')": 254,
+  "('9', 'maths', 'hi')": 237,
+  "('10', 'science', 'en')": 231,
+  "('10', 'science', 'hi')": 319,
+  "('8', 'science', 'en')": 362,
+  "('9', 'science', 'en')": 358,
+  "('9', 'science', 'hi')": 346,
+  "('10', 'maths', 'hi')": 35,
+  "('10', 'other', 'hi')": 20,
+  "('12', 'other', 'hi')": 20,
+  "('12', 'other', 'en')": 58,
+  "('12', 'maths', 'en')": 16
+ },
+ "excluded": {
+  "math10_hi": "legacy Krutidev font encoding - unusable"
+ },
+ "built_from": {
+  "ncert_chapters": 148,
+  "mpbse_papers": 9
+ }
+}

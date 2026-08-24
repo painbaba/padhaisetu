@@ -144,6 +144,10 @@ def handle_message(phone: str, text: str) -> list[str]:
         if intent == nlu.HELP:
             return [t(lang, "help")] + _prompt_for_state(user_row, state, ctx, lang)
 
+        if intent == nlu.EXPLAIN and state in ("menu", "practice"):
+            # Grounded free-chat answer; session state/ctx deliberately untouched.
+            return ragflow.explain_reply(user_row, state, dict(ctx), text)
+
         if state in ("onb_lang", "onb_grade", "onb_subject"):
             replies, newstate, newctx = onboarding.handle(user_row, state, dict(ctx), intent, text)
         elif state == "diag":
@@ -180,4 +184,4 @@ def elapsed_ms(ctx: dict) -> int:
 
 
 # Submodule imports at the bottom so shared helpers above are already defined
-from . import onboarding, diagnostic, practice  # noqa: E402
+from . import onboarding, diagnostic, practice, ragflow  # noqa: E402

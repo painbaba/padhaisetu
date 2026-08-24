@@ -4,15 +4,21 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from pydantic import BaseModel
 
-from . import db, qbank, config
+from . import db, qbank, rag, config
 from .channels import simulator, whatsapp
 from .dashboard import router as dashboard_router
+from .flows import get_or_create_user, load_session, ragflow
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     db.init_db()
     qbank.ensure_loaded()
+    try:
+        rag.get_retriever()  # BM25 over 2816 NCERT/MPBSE chunks; loaded once (~3s)
+    except Exception:
+        import traceback
+        traceback.print_exc()  # app still boots; explain degrades to no-hits
     yield
 
 
@@ -72,6 +78,34 @@ async def explain(req: ExplainRequest) -> ExplainResponse:
             return ExplainResponse(hint=hint or stored or "", source="gpt" if hint else "stored")
     except Exception:
         return ExplainResponse(hint=stored or "", source="stored")
+
+
+class RagExplainRequest(BaseModel):
+    phone_or_session: str
+    query: str
+    lang: str | None = None  # optional override; defaults to the user's saved lang
+
+
+class RagExplainResponse(BaseModel):
+    answer_text: str
+    source: str
+    chunks: list[dict]
+
+
+@app.post("/api/explain", response_model=RagExplainResponse)
+def api_explain(req: RagExplainRequest) -> RagExplainResponse:
+    """Grounded explain: BM25 top-2 chunks filtered by the student's class+subject,
+    best excerpt + bilingual citation; GPT polish only when OPENAI_API_KEY is set.
+    Sync def on purpose -> runs in FastAPI's threadpool."""
+    user = get_or_create_user(req.phone_or_session.strip())
+    lang = req.lang or user["lang"]
+    _, ctx = load_session(user["id"])
+    res = rag.explain(
+        req.query, cls=user["grade"] or None,
+        subj=ctx.get("subject") or None, lang=lang)
+    answer_text, source = ragflow.compose(res, lang)
+    return RagExplainResponse(answer_text=answer_text, source=source,
+                              chunks=res["chunks"])
 
 
 app.include_router(simulator.router)
